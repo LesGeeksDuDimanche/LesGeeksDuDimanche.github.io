@@ -1,13 +1,15 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
-modified: 2014-08-08T19:44:38.564948-04:00
+title: A propos des geeks du dimanche
+excerpt: "Les geeks du dimanche, c'est comme à la maison"
+modified: 2015-06-08T19:44:38.564948-04:00
 image:
   feature: so-simple-sample-image-4.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
+## Les geeks du dimanche philosophie
+brioches + café + geeks
 
 Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
 
