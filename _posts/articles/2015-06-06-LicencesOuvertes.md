@@ -3,7 +3,7 @@ layout: post
 title: "Les Licences Ouvertes"
 excerpt: "Quelques licences ouvertes, pour s'ouvrir l'esprit"
 categories: articles
-tags: [sample-post, video]
+tags: [Droit, Ouver, Libre]
 comments: true
 share: true
 ---

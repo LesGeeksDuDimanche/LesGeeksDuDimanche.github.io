@@ -3,7 +3,7 @@ layout: post
 title: "Startups et musique"
 excerpt: "ça fait du bruit"
 categories: articles
-tags: [sample-post, video]
+tags: [Startup, Musique]
 comments: true
 share: true
 ---
