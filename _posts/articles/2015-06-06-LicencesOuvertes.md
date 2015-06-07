@@ -32,4 +32,4 @@ Elle accorde par avance à l'utilisateur les droits de :
 *diffuser la version modifiée.
 
 ##Les licences BSD, MIT, ...
-<a href="http://fr.wikipedia.org/wiki/Licence_libre">Va voir là et nous embète pas</a>
+<a href="http://fr.wikipedia.org/wiki/Licence_libre">Va voir là et nous embete pas</a>
