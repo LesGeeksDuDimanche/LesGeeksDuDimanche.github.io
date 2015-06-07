@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blog
-excerpt: "An archive of blog posts sorted by date."
+excerpt: "Historique de nos (d)ébats"
 search_omit: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sample Articles
-excerpt: "An archive of articles sorted by date."
+title:  Articles
+excerpt: "Ce que l'on raconte"
 search_omit: true
 ---
 
