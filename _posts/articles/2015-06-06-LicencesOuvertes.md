@@ -8,16 +8,30 @@ comments: true
 share: true
 ---
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/pdSp4Y4GOQs" frameborder="0"> </iframe>
+#Principales Licences Ouvertes
 
-Video embeds are responsive and scale with the width of the main content block with the help of [FitVids](http://fitvidsjs.com/).
+##Licences Creative Commons
+Elles s'appliquent aux créations autres que les logiciels ("contenus").
+Il existe six licence Creative Commons (CC) combinant une ou plusieurs de ces 4 clauses :
+*attribution (clause toujours présente)
+*pas de modifications (clause facultative)
+*pas d'utilisation commerciale (clause facultative)
+*partage dans les mêmes conditions (clause facultative).
 
-Not sure if this only effects Kramdown or if it's an issue with Markdown in general. But adding YouTube video embeds causes errors when building your Jekyll site. To fix add a space between the `<iframe>` tags and remove `allowfullscreen`. Example below:
+Ces licences permettent à tout utilisateur (dont étudiants, enseignants, chercheurs) de reproduire et représenter en toutes circonstances, et en particulier dans le cadre de leur étude, enseignements et recherches, les oeuvres visées par ces licences. Certaines des licences autorisent également les modifications, ou les usages commerciaux.
+Pour plus d'informations, consulter la Foire aux questions de Creative Commons France.
+Les licences CC sont les plus importantes aujourd'hui et les plus utilisées par les auteurs, notamment sur Wikimedia Commons qui constitue une des plus conséquentes base de données d'oeuvres sous licences libres actuellement.
 
-{% highlight html %}
-<iframe width="560" height="315" src="http://www.youtube.com/embed/PWf4WUoMXwg" frameborder="0"> </iframe>
-{% endhighlight %}
+##Licences de la Free Software Foundation (FSF) (Fondation pour le Logiciel Libre)
+La Free Software Foundation (FSF) fondation de droit américain créé par Richard Stallman (informaticien du MIT à l'origine du concept de logiciel libre) a défini plusieurs licences applicables selon la nature de l'oeuvre.
+La principale licence est la GNU General public license (GPL) qui s'applique aux logiciels. 
+Elle accorde par avance à l'utilisateur les droits de :
+*copier le logiciel ou contenu
+*le rediffuser
+*le modifier
+*diffuser la version modifiée.
 
-And here's a Vimeo embed for testing purposes.
+##Les licences BSD, MIT, ...
+Variantes des licences de la Free Software Foundation, elles permettent la diffusion et modification du code avec la possibilité de le privatiser.[A developper]
 
-<iframe src="//player.vimeo.com/video/98146708?title=0&amp;byline=0" width="500" height="281" frameborder="0"> </iframe>
+<a href="http://fr.wikipedia.org/wiki/Licence_libre"></a>
