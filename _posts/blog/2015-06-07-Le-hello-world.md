@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello World"
+title: "Le Hello World"
 modified:
 categories: blog
 excerpt:
@@ -10,7 +10,7 @@ image:
 date: 2014-06-07T15:39:55-04:00
 ---
 
-Voici le premier post de blog pour feter l'ouverture du site. Un traditionnel Hello World
+Voici le premier post de blog pour feter l'ouverture du site, d'un traditionnel "Hello World".
 
 Voici quelques infos: 
 
