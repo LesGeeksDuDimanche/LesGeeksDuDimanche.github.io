@@ -9,6 +9,7 @@ share: true
 ---
 
 # Echecs de startups autour de la musique
+
 ##Général
 
 <a href=" http://digitalmedia.strategyeye.com/article/YjSU8smHwqo/2015/05/01/insight_lessons_from_5_failed_music_startups/">Quelques échecs</a>
