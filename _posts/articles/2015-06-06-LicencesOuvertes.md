@@ -3,7 +3,7 @@ layout: post
 title: "Les Licences Ouvertes"
 excerpt: "Quelques licences ouvertes, pour s'ouvrir l'esprit"
 categories: articles
-tags: [Droit, Ouver, Libre]
+tags: [Droit, Ouvert, Libre]
 comments: true
 share: true
 ---
@@ -32,6 +32,4 @@ Elle accorde par avance à l'utilisateur les droits de :
 *diffuser la version modifiée.
 
 ##Les licences BSD, MIT, ...
-Variantes des licences de la Free Software Foundation, elles permettent la diffusion et modification du code avec la possibilité de le privatiser.[A developper]
-
-<a href="http://fr.wikipedia.org/wiki/Licence_libre"></a>
+<a href="http://fr.wikipedia.org/wiki/Licence_libre">Va voir là et nous embète pas</a>
