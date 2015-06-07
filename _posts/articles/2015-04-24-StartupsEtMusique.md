@@ -10,6 +10,7 @@ share: true
 
 # Echecs de startups autour de la musique
 ##Général
+
 <a href=" http://digitalmedia.strategyeye.com/article/YjSU8smHwqo/2015/05/01/insight_lessons_from_5_failed_music_startups/">Quelques échecs</a>
 
  
@@ -25,7 +26,8 @@ et sur les exigences des majors  :
  
 
 ## Pour se détendre, un extrait des nuits sonores 2015
-Briller comme un diamnant:
+Briller comme un diamant:
+
 <iframe src="https://player.vimeo.com/video/128000573" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
 
