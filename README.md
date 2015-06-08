@@ -11,7 +11,7 @@ La façon la plus simple est de visiter [Prose.io](http://prose.io), vous connec
 # Technologie
 
 La page utilise Jekyll + octopress avec le thème So Simple du designer & graphiste [Michael Rose](http://mademistakes.com).
-[Configuration](http://mmistakes.github.io/so-simple-theme/theme-setup/) for more information.
+Pour plus d'informations: [Configuration](http://mmistakes.github.io/so-simple-theme/theme-setup/)
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/mmistakes/so-simple-theme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
