@@ -1,9 +1,9 @@
 # Les geeks du dimanche
 
 
-Les geeks du dimanche est un groupe informel de geeks qui se réunit le dimanche pour développer ensemble et débattre des enjeux technologiques.
+Les geeks du dimanche est un groupe informel de geeks qui se réunit le dimanche pour développer ensemble et débattre des enjeux technologiques. \#ClashEnBash
 
-Cette page retranscrit les débats. Vous êtes les bienvenus pour y contribuer.
+Cette page retranscrit les débats. Vous êtes les bienvenus pour y contribuer. 
 
 La façon la plus simple est de visiter [Prose.io](http://prose.io), vous connecter avec github et editer les fichiers de la section _posts.
 
