@@ -12,51 +12,49 @@ author: xavier
 ---
 # Que faire après avoir installé ubuntu
 
-## Installation System
+## Installation système
 
 ###  Se mettre à jour
 
-sudo apt-get update && sudo apt-get upgrade
+    sudo apt-get update && sudo apt-get upgrade
 
 ### Des packets utiles
 
-sudo apt-get install ubuntu-restricted-extras
+Principalement lecture de medias:
+    sudo apt-get install ubuntu-restricted-extras synaptic chromium chrome virtualbox vlc skype dropbox`
 
-sudo apt-get install synaptic Chromium Chrome
+### Des petits bonus pour les geeks
 
-sudo apt-get install virtualbox vlc skype dropbox
+    sudo apt-get install guake gimp  imagemagick
 
-### Des petits bonus
+### Troubleshooting
 
-sudo apt-get install guake gimp sublime imagemagick
+Resoudre Pb flash
 
-### Resoudre Pb flash
-
-sudo mkdir /etc/adobe
-
-echo "OverrideGPUValidation = 1" | sudo tee -a /etc/adobe/mms.cfg 
+    sudo mkdir /etc/adobe
+    echo "OverrideGPUValidation = 1" | sudo tee -a /etc/adobe/mms.cfg
 
 
 ## Config Personnelle
 
-Configurer dropbox
+* Configurer dropbox
+* Config guake: quick open
+* alt+enter pour redefinir app par defaut
+* Installer sublime text+ config:	    "save_on_focus_lost": true,
 
-Connecter comptes chrome & chromium
+### Ubuntu Gnome flasback
 
-firefox: Toujours en navigation privée > pour banque, impots, youporn...
-
-Config guake: quick open
-
-alt+enter pour redefinir app par defaut
-
-Sublime text:	    "save_on_focus_lost": true,
-
-## Ubuntu Gnome flasback
 Petite préférence perso, surtout pour les vieux ordinateurs, revenir au look gnome 2 tout en gardant le bénéfice des librairies gnome 3
 
-sudo apt-get install gnome-flashback libappindicator1 
+	sudo apt-get install gnome-flashback libappindicator1
 
 Pour dropbox: ajouter notification area
+
+### Config Git
+    git config --global user.email "you@example.com"
+    git config --global user.name "Your Name"
+    git config --global push.default simple
+
 
 
 
