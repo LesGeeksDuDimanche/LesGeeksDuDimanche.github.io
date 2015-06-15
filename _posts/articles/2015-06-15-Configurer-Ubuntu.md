@@ -21,6 +21,7 @@ author: xavier
 ### Des packets utiles
 
 Principalement lecture de medias:
+
     sudo apt-get install ubuntu-restricted-extras synaptic chromium chrome virtualbox vlc skype dropbox
 
 ### Des petits bonus pour les geeks
@@ -54,6 +55,10 @@ Pour dropbox: ajouter notification area
     git config --global user.email "you@example.com"
     git config --global user.name "Your Name"
     git config --global push.default simple
+
+ajout au .bashrc
+
+    alias gitaj='git add . && git commit -m "blabla" && git push'
 
 
 
