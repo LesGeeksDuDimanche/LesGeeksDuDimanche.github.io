@@ -1,13 +1,4 @@
 # Authors
-Xavier:
-  name: Xavier Lavayssiere
-  web: http://xalava.github.io
-  email: xavier.lavayssiere@gmail.com
-  bio: "Basically my wife was immature. I'd be at home in the bath and she'd come in and sink my boats".
-  avatar: xavier2.JPG
-  twitter: ratioabsurdum
-  google:
-    plus: 
 
 billy_rick:
   name: Billy Rick
@@ -27,3 +18,13 @@ cornelius_fiddlebone:
   twitter: rhymeswithsackit
   google:
     plus: CorneliusFiddlebone
+
+xavier:
+  name: Xavier Lavayssiere
+  web: http://xalava.github.io
+  email: xavier.lavayssiere@gmail.com
+  bio: "Longtemps, je me suis couché de bonne heure. Et puis j'ai installé Debian...tw"
+  avatar: Xavier2.JPG
+  twitter: ratioabsurdum
+  google:
+    plus: 
