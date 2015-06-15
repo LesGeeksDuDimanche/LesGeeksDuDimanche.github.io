@@ -21,7 +21,7 @@ author: xavier
 ### Des packets utiles
 
 Principalement lecture de medias:
-    sudo apt-get install ubuntu-restricted-extras synaptic chromium chrome virtualbox vlc skype dropbox`
+    sudo apt-get install ubuntu-restricted-extras synaptic chromium chrome virtualbox vlc skype dropbox
 
 ### Des petits bonus pour les geeks
 
