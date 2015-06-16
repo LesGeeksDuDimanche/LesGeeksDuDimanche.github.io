@@ -8,6 +8,9 @@ comments: true
 share: true
 ---
 
+Au coeur de l'*Open Source*, une idée très simple: partager la recette de fabrication d'un logiciel et permettre à d'autres développeurs de l'améliorer ou l'adapter.
+Née avec le mouvement du logiciel libre ("free software"), l'*Open Source* s'est élargit tant dans le concept que dans les champs d'application.
+
 #Principales Licences Ouvertes
 
 ##Licences Creative Commons

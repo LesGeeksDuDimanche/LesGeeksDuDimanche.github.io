@@ -52,8 +52,9 @@ Reduire l'utilisation du swap ( en particulier pour les disques SSD)
 * Configurer dropbox
 * Config guake: quick open pour ouvrir les lien
 * alt+enter sur un fichier pour redefinir l'application par defaut
-* Installer sublime text et ajouter au ficher de config config: `"save_on_focus_lost": true,`
+* Installer sublime text et ajouter au ficher de config: `"save_on_focus_lost": true,`
 * Firefox: Adblock
+* Nautilus: Ctrl+B pour modifier les signets
 
 ### Ubuntu Gnome flasback
 
