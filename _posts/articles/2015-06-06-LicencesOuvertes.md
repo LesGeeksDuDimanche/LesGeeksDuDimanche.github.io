@@ -6,33 +6,52 @@ categories: articles
 tags: [Droit, Ouvert, Libre]
 comments: true
 share: true
+author: xavier
 ---
 
-Au coeur de l'*Open Source*, une idée très simple: partager la recette de fabrication d'un logiciel et permettre à d'autres développeurs de l'améliorer ou l'adapter.
-Née avec le mouvement du logiciel libre ("free software"), l'*Open Source* s'est élargit tant dans le concept que dans les champs d'application.
+Au cœur de l'*Open Source*, une idée très simple: partager la recette de fabrication d'un logiciel et permettre à d'autres développeurs de l'améliorer ou l'adapter.
+Né avec le mouvement du logiciel libre ("free software"), l'*Open Source* s'est élargit tant dans le concept que dans les champs d'application.
+
+C'est bien une invention juridique qui est à l'origine de ce mouvement. Imaginer que l'on puisse "protéger" son œuvre pour s'assurer qu'elle reste accessible à tous.
 
 #Principales Licences Ouvertes
 
-##Licences Creative Commons
-Elles s'appliquent aux créations autres que les logiciels ("contenus").
-Il existe six licence Creative Commons (CC) combinant une ou plusieurs de ces 4 clauses :
-*attribution (clause toujours présente)
-*pas de modifications (clause facultative)
-*pas d'utilisation commerciale (clause facultative)
-*partage dans les mêmes conditions (clause facultative).
+###Licences Creative Commons
+Les licences Creative Commons (CC) sont un ensemble de licences régissant les conditions de diffusion et de modification de créations.
 
-Ces licences permettent à tout utilisateur (dont étudiants, enseignants, chercheurs) de reproduire et représenter en toutes circonstances, et en particulier dans le cadre de leur étude, enseignements et recherches, les oeuvres visées par ces licences. Certaines des licences autorisent également les modifications, ou les usages commerciaux.
-Pour plus d'informations, consulter la Foire aux questions de Creative Commons France.
-Les licences CC sont les plus importantes aujourd'hui et les plus utilisées par les auteurs, notamment sur Wikimedia Commons qui constitue une des plus conséquentes base de données d'oeuvres sous licences libres actuellement.
+Ces licences permettent à tout utilisateur de reproduire et représenter en toutes circonstances, les œuvres visées par ces licences. Certaines des licences autorisent également les modifications, ou les usages commerciaux.
 
-##Licences de la Free Software Foundation (FSF) (Fondation pour le Logiciel Libre)
-La Free Software Foundation (FSF) fondation de droit américain créé par Richard Stallman (informaticien du MIT à l'origine du concept de logiciel libre) a défini plusieurs licences applicables selon la nature de l'oeuvre.
-La principale licence est la GNU General public license (GPL) qui s'applique aux logiciels. 
-Elle accorde par avance à l'utilisateur les droits de :
-*copier le logiciel ou contenu
-*le rediffuser
-*le modifier
-*diffuser la version modifiée.
+Les licences CC sont notamment utilisées sur Wikimedia Commons qui constitue une des plus conséquentes base de données d’œuvres sous licences libres actuellement.
 
-##Les licences BSD, MIT, ...
-<a href="http://fr.wikipedia.org/wiki/Licence_libre">Va voir là et nous embete pas</a>
+###Licences de la *Free Software Foundation* 
+La Free Software Foundation (FSF) est une fondation de droit américain créé par Richard Stallman (informaticien du MIT à l'origine du concept de logiciel libre).
+
+La principale licence est la GNU General public license (GPL) qui s'applique aux logiciels. Elle accorde par avance à l'utilisateur les droits de :
+
+* copier le logiciel ou contenu
+* le rediffuser
+* le modifier
+* diffuser la version modifiée.
+
+Laissons le personnage expliquer lui même:
+<video src="http://audio-video.gnu.org/video/TEDxGE2014_Stallman05_LQ.webm" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen controls></video> 
+
+
+
+###Les licences BSD, MIT, ...
+
+Il existe une pléthore de licences. Elles se distinguent par le degré de liberté qu'elles offrent à celui qui veut utiliser une œuvre protégée. En particulier, certaines permettent de s'approprier l’œuvre ( qui du coup n'est plus libre dans sa nouvelle forme mais n'est ce pas la liberté ultime?). <a href="http://fr.wikipedia.org/wiki/Licence_libre">Pour plus d'informations</a>
+
+## Cas pratique
+L'essentiel du contenu de cette page est le de nos doigts & neurones et donc protégé par le [code de la propriété intellectuelle](http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000025003518&cidTexte=LEGITEXT000006069414) dès sa publication. Quelques lignes sont sous licence GNU Free Documentation License 1.2 (GFDL), puisque provenant du très attirant [site de l'université Paris Sud](http://hebergement.u-psud.fr/wikitic/index.php/Licence_libre_et_ouverte)
+
+Comme on est sympa et dans l'idée que les idées c'est fait pour être partagé, on souhaite placer notre contenu en licence creative commons, sous le doux nom [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/). Ce qui veut dire que vous avez le droit de copier et l'adapter à condition de nous citer et de conserver tout ça sous la même licence. 
+
+Sauf! Le *droit moral* qu'un auteur en droit français conserve toujours et les lignes sous GFDL...
+
+
+*Pour faire joli:*
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />
+
+<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Les licences ouvertes</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="lesgeeksdudimanche.github.io" property="cc:attributionName" rel="cc:attributionURL">lesgeeksdudimanche</a> est mis à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">licence Creative Commons Attribution -  Partage dans les Mêmes Conditions 4.0 International</a>.

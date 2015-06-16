@@ -17,11 +17,11 @@ author: xavier
 published: true
 ---
 
-# Que faire après avoir installé ubuntu
+# Que faire après avoir installé Ubuntu
 
 Ubuntu est un système d'exploitation qui convient particulièrement:
 
-* Aux geeks: outils developpeurs, système le plus utilisé par les serveurs web, personnalisation infinie...
+* Aux geeks: outils développeurs, système le plus utilisé par les serveurs web, personnalisation infinie...
 * Aux moins geeks: système fiable, stable & sans virus. Il faut néanmoins un peu de bonne volonté pour l'installer. Des [associations de geeks locaux](https://aful.org/gul) (comme les geeks du dimanche) peuvent vous aider.
 
 ## Installation système
@@ -57,9 +57,17 @@ Reduire l'utilisation du swap ( en particulier pour les disques SSD) :
 * Configurer Dropbox
 * Config guake: quick open pour ouvrir les liens
 * alt+enter sur un fichier pour redéfinir l'application par defaut
-* Installer SublimeText et ajouter au ficher de config: `"save_on_focus_lost": true,`
+
 * Firefox: Adblock
 * Nautilus: Ctrl+B pour modifier les signets
+* Sublime Text 
+  * Installer
+  * Ajouter au fichier de config `"save_on_focus_lost": true,`
+  * Installer package control : (https://packagecontrol.io/installation)
+  * Ctrl + Shift + P, "Install Package", “Language - French - Français”
+  * “View” > “Dictionary” > “Language - French - Français” > “fr_FR”
+  * F6
+ 
 
 ### Ubuntu Gnome flasback
 
