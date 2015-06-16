@@ -1,17 +1,22 @@
 ---
 layout: post
 title: Configurer Ubuntu
-modified:
+modified: null
 categories: articles
-excerpt:
-tags: [Ubuntu,OpenSource,installation,]
+excerpt: null
+tags: 
+  - Ubuntu
+  - OpenSource
+  - installation
 image: 
   feature: ubuntu.jpg
 comments: true
 share: true
-date: 2015-06-13T08:31:11+02:00
+date: {}
 author: xavier
+published: true
 ---
+
 # Que faire après avoir installé ubuntu
 
 Ubuntu est un système d'exploitation qui convient particulièrement:
@@ -21,48 +26,48 @@ Ubuntu est un système d'exploitation qui convient particulièrement:
 
 ## Installation système
 
-###  Completer l'installation
+###  Compléter l'installation
 
-Dans un premier temps, mettre à jour en tapant dans un terminal:
+Dans un premier temps, mettre à jour en tapant dans un terminal :
 
     sudo apt-get update && sudo apt-get upgrade
 
-Quelques paquets utiles, en particulier pour lire des medias:
+Quelques paquets utiles, en particulier pour lire des médias :
 
     sudo apt-get install ubuntu-restricted-extras synaptic chromium chrome vlc skype dropbox
 
-Des petit outils bonus pour les geeks:
+Des petit outils bonus pour les geeks :
 
     sudo apt-get install guake gimp imagemagick gksu virtualbox
 
 ### Troubleshooting
 
-Resoudre un problème flash
+Resoudre un problème Flash :
 
     sudo mkdir /etc/adobe
     echo "OverrideGPUValidation = 1" | sudo tee -a /etc/adobe/mms.cfg
 
-Reduire l'utilisation du swap ( en particulier pour les disques SSD)
+Reduire l'utilisation du swap ( en particulier pour les disques SSD) :
 
 	echo vm.swappiness=20 | sudo tee -a /etc/sysctl.conf
 	sudo apt-get install  zram-config 
 
 ## Configuration personnelle
 
-* Configurer dropbox
-* Config guake: quick open pour ouvrir les lien
-* alt+enter sur un fichier pour redefinir l'application par defaut
-* Installer sublime text et ajouter au ficher de config: `"save_on_focus_lost": true,`
+* Configurer Dropbox
+* Config guake: quick open pour ouvrir les liens
+* alt+enter sur un fichier pour redéfinir l'application par defaut
+* Installer SublimeText et ajouter au ficher de config: `"save_on_focus_lost": true,`
 * Firefox: Adblock
 * Nautilus: Ctrl+B pour modifier les signets
 
 ### Ubuntu Gnome flasback
 
-Petite préférence perso, surtout pour les vieux ordinateurs, revenir à l'apparence gnome 2 tout en gardant le bénéfice des librairies GTK 3
+Petite préférence perso, surtout pour les vieux ordinateurs, revenir à l'apparence Gnome2 tout en gardant le bénéfice des librairies GTK 3
 
 	sudo apt-get install gnome-flashback libappindicator1
 
-Pour dropbox, il faut ajouter l'aire de notification à un des tableaux de bord
+Pour Dropbox, il faut ajouter l'aire de notification à un des tableaux de bord
 
 [Plus d'infos](http://www.binarytides.com/install-gnome-flashback-ubuntu/)
 
@@ -71,11 +76,6 @@ Pour dropbox, il faut ajouter l'aire de notification à un des tableaux de bord
     git config --global user.name "Your Name"
     git config --global push.default simple
 
-ajout au .bashrc
+Ajout au .bashrc
 
     alias gitaj='git add . && git commit -m "blabla" && git push'
-
-
-
-
-
