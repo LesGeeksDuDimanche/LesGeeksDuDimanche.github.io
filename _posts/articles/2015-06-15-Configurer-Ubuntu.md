@@ -13,8 +13,8 @@ author: xavier
 # Que faire après avoir installé ubuntu
 
 Ubuntu est un système d'exploitation qui convient particulièrement:
-- Aux geeks: outils developpeurs, système le plus utilisé par les serveurs web, personnalisation infinie...
-- Aux pas geeks: système fiable, stable & sans virus. Il faut néanmoins un peu de bonne volonté pour l'installer. Des [associations de geeks locaux](https://aful.org/gul) peuvent vous aider.
+* Aux geeks: outils developpeurs, système le plus utilisé par les serveurs web, personnalisation infinie...
+* Aux pas geeks: système fiable, stable & sans virus. Il faut néanmoins un peu de bonne volonté pour l'installer. Des [associations de geeks locaux](https://aful.org/gul) peuvent vous aider.
 
 ## Installation système
 
