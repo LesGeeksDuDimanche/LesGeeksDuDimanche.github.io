@@ -17,7 +17,7 @@ author: xavier
 Ubuntu est un système d'exploitation qui convient particulièrement:
 
 * Aux geeks: outils developpeurs, système le plus utilisé par les serveurs web, personnalisation infinie...
-* Aux pas geeks: système fiable, stable & sans virus. Il faut néanmoins un peu de bonne volonté pour l'installer. Des [associations de geeks locaux](https://aful.org/gul) (comme les geeks du dimanche) peuvent vous aider.
+* Aux moins geeks: système fiable, stable & sans virus. Il faut néanmoins un peu de bonne volonté pour l'installer. Des [associations de geeks locaux](https://aful.org/gul) (comme les geeks du dimanche) peuvent vous aider.
 
 ## Installation système
 
@@ -27,7 +27,7 @@ Dans un premier temps, mettre à jour en tapant dans un terminal:
 
     sudo apt-get update && sudo apt-get upgrade
 
-Quelques paquets utiles, en particulier pour lire des médias:
+Quelques paquets utiles, en particulier pour lire des medias:
 
     sudo apt-get install ubuntu-restricted-extras synaptic chromium chrome vlc skype dropbox
 
