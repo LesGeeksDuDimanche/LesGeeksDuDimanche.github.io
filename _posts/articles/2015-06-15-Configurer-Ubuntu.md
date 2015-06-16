@@ -1,17 +1,22 @@
 ---
 layout: post
 title: Configurer Ubuntu
-modified:
+modified: null
 categories: articles
-excerpt:
-tags: [Ubuntu,OpenSource,installation,]
+excerpt: null
+tags: 
+  - Ubuntu
+  - OpenSource
+  - installation
 image: 
   feature: ubuntu.jpg
 comments: true
 share: true
-date: 2015-06-13T08:31:11+02:00
+date: {}
 author: xavier
+published: true
 ---
+
 # Que faire après avoir installé ubuntu
 
 Ubuntu est un système d'exploitation qui convient particulièrement:
@@ -52,7 +57,7 @@ Reduire l'utilisation du swap ( en particulier pour les disques SSD) :
 * Configurer Dropbox
 * Config guake: quick open pour ouvrir les liens
 * alt+enter sur un fichier pour redéfinir l'application par defaut
-* Installer SublimeText et ajouter au ficher de config config: `"save_on_focus_lost": true,`
+* Installer SublimeText et ajouter au ficher de config: `"save_on_focus_lost": true,`
 * Firefox: Adblock
 
 ### Ubuntu Gnome flasback
