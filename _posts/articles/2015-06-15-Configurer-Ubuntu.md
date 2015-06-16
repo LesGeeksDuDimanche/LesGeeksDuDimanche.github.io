@@ -5,8 +5,10 @@ modified:
 categories: articles
 excerpt:
 tags: [Ubuntu,OpenSource,installation,]
-image:
-  feature:
+image: 
+  feature: ubuntu.jpg
+comments: true
+share: true
 date: 2015-06-13T08:31:11+02:00
 author: xavier
 ---
