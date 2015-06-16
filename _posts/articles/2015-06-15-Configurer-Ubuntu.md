@@ -12,7 +12,7 @@ image:
   feature: ubuntu.jpg
 comments: true
 share: true
-date: {}
+date: 2015-06-13T14:57:12+02:00
 author: xavier
 published: true
 ---
