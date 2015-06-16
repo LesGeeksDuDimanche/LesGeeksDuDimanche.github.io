@@ -4,7 +4,7 @@ title: Documentation juridique pour startup
 modified:
 categories: articles
 excerpt:
-tags: [opensource,juridique,startup]
+tags: [opensource,droit,startup]
 image:
   feature: avocat.jpeg
 date: 2015-06-16T14:57:12+02:00
@@ -17,7 +17,7 @@ Petit tremblement de terre dans l'écosystème startup français, un cabinet d'a
 
 Pour accéder directement au dépot github avec le contenu :
 
-[jurismatic sur github](https://github.com/jurismatic/jurismatic)
+[Jurismatic sur Github](https://github.com/jurismatic/jurismatic)
 
 Vous pouvez retrouver le site et les documents :
 
