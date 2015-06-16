@@ -6,7 +6,9 @@ $code-font: 'source-code-pro', monospace;
 $alt-font: 'volkhov', serif;
 
 $doc-font-size: 16;
-$doc-line-height: 24;
+// from 24 to 18
+$doc-line-height: 18;
+
 
 $border-radius: 3px;
 
@@ -23,11 +25,11 @@ $body-color         : #fff;
 $text-color         : #222;
 $base-color         : #343434;    
 $comp-color         : spin($base-color, 180); 
-$border-color       : #ddd;
+$border-color       : #999;
 $white              : #fff;
 $black              : #000;
-$accent-color       : $black;
-$link-color         : #222;
+$accent-color       : #9A1010;
+$link-color         : #8A0808;
 
 $table-border-color           : $border-color;
 $table-border                 : 1px solid $table-border-color;

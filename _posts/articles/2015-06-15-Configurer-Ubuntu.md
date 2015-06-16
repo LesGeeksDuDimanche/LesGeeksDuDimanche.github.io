@@ -42,11 +42,10 @@ Resoudre un problème flash
     sudo mkdir /etc/adobe
     echo "OverrideGPUValidation = 1" | sudo tee -a /etc/adobe/mms.cfg
 
-Reduire l'utilisation du swap
+Reduire l'utilisation du swap ( en particulier pour les disques SSD)
 
-	gksu subl /etc/sysctl.conf
-		vm.swappiness=10
-
+	echo vm.swappiness=20 | sudo tee -a /etc/sysctl.conf
+	sudo apt-get install  zram-config 
 
 ## Configuration personnelle
 

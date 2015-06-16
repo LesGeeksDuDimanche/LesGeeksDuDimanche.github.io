@@ -51,6 +51,8 @@ If `jekyll build` and `jekyll serve` throw errors you may have to run Jekyll wit
 bundle exec jekyll build
 
 bundle exec jekyll serve
+bundle exec jekyll serve -wV -c configDEV.yml
+
 {% endhighlight %}
 
 ---
