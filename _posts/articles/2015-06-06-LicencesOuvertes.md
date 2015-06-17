@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Les Licences Ouvertes"
-excerpt: "Quelques licences ouvertes, pour s'ouvrir l'esprit"
+excerpt: "Pour s'ouvrir l'esprit"
 categories: articles
-tags: [Droit, Ouvert, Libre]
+tags: [Droit, OpenSource, Libre]
 comments: true
 share: true
 author: xavier
@@ -43,15 +43,12 @@ Laissons le personnage expliquer lui même:
 Il existe une pléthore de licences. Elles se distinguent par le degré de liberté qu'elles offrent à celui qui veut utiliser une œuvre protégée. En particulier, certaines permettent de s'approprier l’œuvre ( qui du coup n'est plus libre dans sa nouvelle forme mais n'est ce pas la liberté ultime?). <a href="http://fr.wikipedia.org/wiki/Licence_libre">Pour plus d'informations</a>
 
 ## Cas pratique
-L'essentiel du contenu de cette page est le de nos doigts & neurones et donc protégé par le [code de la propriété intellectuelle](http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000025003518&cidTexte=LEGITEXT000006069414) dès sa publication. Quelques lignes sont sous licence GNU Free Documentation License 1.2 (GFDL), puisque provenant du très attirant [site de l'université Paris Sud](http://hebergement.u-psud.fr/wikitic/index.php/Licence_libre_et_ouverte)
+L'essentiel du contenu de cette page est le fruit de nos doigts & neurones et donc protégé par le [code de la propriété intellectuelle](http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000025003518&cidTexte=LEGITEXT000006069414) dès sa publication. Quelques lignes sont sous licence GNU Free Documentation License 1.2 (GFDL), puisque provenant du séduisant [site de l'université Paris Sud](http://hebergement.u-psud.fr/wikitic/index.php/Licence_libre_et_ouverte)
 
-Comme on est sympa et dans l'idée que les idées c'est fait pour être partagé, on souhaite placer notre contenu en licence creative commons, sous le doux nom [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/). Ce qui veut dire que vous avez le droit de copier et l'adapter à condition de nous citer et de conserver tout ça sous la même licence. 
+Comme on est sympa et dans l'idée que les idées c'est fait pour être partagé, on souhaite placer notre contenu en licence creative commons, sous le doux nom [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/). Ce qui veut dire que vous avez le droit de copier et l'adapter à condition de citer la source et de conserver la même licence. 
 
 Sauf! Le *droit moral* qu'un auteur en droit français conserve toujours et les lignes sous GFDL...
 
 
-*Pour faire joli:*
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />
-
-<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Les licences ouvertes</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="lesgeeksdudimanche.github.io" property="cc:attributionName" rel="cc:attributionURL">lesgeeksdudimanche</a> est mis à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">licence Creative Commons Attribution -  Partage dans les Mêmes Conditions 4.0 International</a>.

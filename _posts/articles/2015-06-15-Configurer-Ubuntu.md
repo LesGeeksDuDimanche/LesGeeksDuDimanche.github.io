@@ -3,10 +3,10 @@ layout: post
 title: Configurer Ubuntu
 modified: null
 categories: articles
-excerpt: null
+excerpt: Quand tu croyais avoir fini
 tags: 
   - Ubuntu
-  - OpenSource
+  - OpenSource 
   - installation
 image: 
   feature: ubuntu.jpg
@@ -28,9 +28,10 @@ Ubuntu est un système d'exploitation qui convient particulièrement:
 
 ###  Compléter l'installation
 
-Dans un premier temps, mettre à jour en tapant dans un terminal :
+Dans un premier temps, mettre à jour en tapant dans un terminal (ctrl+shift+t):
 
     sudo apt-get update && sudo apt-get upgrade
+*&& permet d'enchaine deux commandes sur la même ligne*
 
 Quelques paquets utiles, en particulier pour lire des médias :
 

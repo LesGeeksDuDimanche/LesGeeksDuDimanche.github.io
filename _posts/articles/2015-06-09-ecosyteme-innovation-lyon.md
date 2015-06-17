@@ -3,7 +3,7 @@ layout: post
 title: Une semaine dans l'écosytème d'innovation de Lyon
 modified:
 categories: articles
-excerpt:
+excerpt: Un petit code du Rhône?
 tags: [innovation,Lyon,ecosystem, startup]
 image:
   feature:

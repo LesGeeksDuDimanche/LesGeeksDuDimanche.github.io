@@ -3,7 +3,7 @@ layout: post
 title: "Le Hello World"
 modified:
 categories: blog
-excerpt:
+excerpt: Aussi inutile que son nom l'indique
 tags: []
 image:
   feature:
