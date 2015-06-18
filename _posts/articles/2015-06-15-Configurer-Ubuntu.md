@@ -24,6 +24,8 @@ Ubuntu est un système d'exploitation qui convient particulièrement:
 * Aux geeks: outils développeurs, système le plus utilisé par les serveurs web, personnalisation infinie...
 * Aux moins geeks: système fiable, stable & sans virus. Il faut néanmoins un peu de bonne volonté pour l'installer. Des [associations de geeks locaux](https://aful.org/gul) (comme les geeks du dimanche) peuvent vous aider.
 
+Voici quelques notes qui me servent installer rapidement les outils utiles.
+
 ## Installation système
 
 ###  Compléter l'installation
@@ -80,11 +82,5 @@ Pour Dropbox, il faut ajouter l'aire de notification à un des tableaux de bord
 
 [Plus d'infos](http://www.binarytides.com/install-gnome-flashback-ubuntu/)
 
-### Configuration Git
-    git config --global user.email "you@example.com"
-    git config --global user.name "Your Name"
-    git config --global push.default simple
+Pour aller plus loin, [utiliser git](/articles/utiliser-git)
 
-Ajout au .bashrc
-
-    alias gitaj='git add . && git commit -m "blabla" && git push'

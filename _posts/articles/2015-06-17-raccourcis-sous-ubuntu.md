@@ -2,7 +2,7 @@
 layout: post
 title: Raccourcis Sous Ubuntu
 modified:
-categories: 
+categories: articles
 excerpt: Ca peut toujours servir
 tags: [Ubuntu, OpenSource, Configuration]
 image:
@@ -19,8 +19,6 @@ _Rq : les commandes utilisées par linux sont les mêmes que celles d'Unix. Cell
 Ctrl+H : fait apparaitre les fichiers et dossiers cachés
 
 **Commandes de la console**
-
-_PS : un truc cool avec la console est que l'on peut se connecter à distance sur un autre ordi s'il est connecté à internet. Cette fonctionnalité est très utilisée pour administrer un serveur web sur lequel linux est installé (càd la majorité des serveurs)._
 
 *   Ctrl+Alt+F1 : Accès à la vraie console (Ctrl+Alt+F7 pour en sortir)
 *   Ctrl+Alt+T : Accès à la console gnome-terminal
@@ -72,6 +70,8 @@ _PS : un truc cool avec la console est que l'on peut se connecter à distance su
     *   set autoindent
     *   Le fichier nanorc global (non caché) est situé dans /etc/nanorc. Il est valable pour tous les utilisateurs.
 
+_PS : un truc cool avec la console est que l'on peut se connecter à distance sur un autre ordi s'il est connecté à internet. Cette fonctionnalité est très utilisée pour administrer un serveur web sur lequel linux est installé (càd la majorité des serveurs)._
+
 **Alias**
 
-*   ~ : /home/user
+*   ~ = /home/user
