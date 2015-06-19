@@ -30,10 +30,11 @@ Voici quelques notes qui me servent installer rapidement les outils utiles.
 
 ###  Compléter l'installation
 
-Dans un premier temps, mettre à jour en tapant dans un terminal (ctrl+shift+t):
+Ubuntu repose sur un système de paquets. Tout les logiciels et le système peuvent être installés à partir de ceux ci. Dans un premier temps, il faut mettre à jour la liste (update) et installer ces mises à jours (upgrade)
 
     sudo apt-get update && sudo apt-get upgrade
-*&& permet d'enchaine deux commandes sur la même ligne*
+
+NB: Les commandes peuvent etre copié/collé ou tapées dans un terminal (ctrl+shift+T). '&&'' permet d'enchainer deux commandes sur la même ligne
 
 Quelques paquets utiles, en particulier pour lire des médias :
 
