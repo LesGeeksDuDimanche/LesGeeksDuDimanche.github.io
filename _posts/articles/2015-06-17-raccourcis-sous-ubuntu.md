@@ -8,6 +8,8 @@ tags: [Ubuntu, OpenSource, Configuration]
 image:
   feature:
 date: 2015-06-17T18:06:01+02:00
+comments: true
+share: true
 ---
 
 # RACCOURCIS ET COMMANDES

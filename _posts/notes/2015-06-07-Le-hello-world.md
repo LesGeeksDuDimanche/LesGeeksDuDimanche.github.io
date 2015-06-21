@@ -2,12 +2,14 @@
 layout: post
 title: "Le Hello World"
 modified:
-categories: blog
+categories: notes
 excerpt: Aussi inutile que son nom l'indique
 tags: []
 image:
   feature:
 date: 2014-06-07T15:39:55-04:00
+comments: true
+share: true
 ---
 
 Voici le premier post de blog pour feter l'ouverture du site, d'un traditionnel "Hello World".

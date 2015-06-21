@@ -9,6 +9,8 @@ image:
   feature:
 date: 2015-06-18T23:42:40+02:00
 author: xavier
+comments: true
+share: true
 ---
 Apprendre à utiliser git, c'est un peu comme apprendre à faire ses lacets. On peut faire sans, mais la vie devient plus simple et moins dangereuse avec.
 
