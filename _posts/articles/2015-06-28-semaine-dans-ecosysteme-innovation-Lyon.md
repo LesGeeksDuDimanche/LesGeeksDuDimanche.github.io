@@ -42,4 +42,4 @@ Oui monsieur, sur un parking, en travaux, devant un centre commercial, avec des 
 <iframe src="https://www.flickr.com/photos/133811245@N04/18595558265/in/album-72157653819287490/player/" width="640" height="427" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 
-_To be continued on the other side ... _
+_ To be continued on the other side... _
