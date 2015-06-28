@@ -27,6 +27,7 @@ _"J'ai deux passion, les startups et les brunchs..."_
 Après deux jours d'intenses de remue méninge pour établir des modèles d'affaires autour de la nourriture, sans oublier d'en déguster, émergeait une pléthore de projets originaux. De L'Apothicare Culinaire à "Viens prendre l'apéro", il y avait de quoi prendre soin de sa santé ou de la ruiner. 
 
 Mention #CoeurCoeur pour "cultures chef", qui fournit des produits locaux et de qualité aux chefs avec sa tagline: "l'approvisionnement local sans se prendre le chou". Et à notre Coach, qui a su prendre des risques: 
+
 <blockquote class="twitter-video" lang="en"><p lang="en" dir="ltr">Popped my &quot;eat a cricket&quot; cherry at <a href="https://twitter.com/swlyon">@swlyon</a> food edition.. <a href="https://twitter.com/hashtag/SWLyonFood?src=hash">#SWLyonFood</a> <a href="https://twitter.com/StartupWeekend">@StartupWeekend</a> <a href="http://t.co/HkB2IzqIIu">pic.twitter.com/HkB2IzqIIu</a></p>&mdash; Greg Monterrosa (@gregmetro) <a href="https://twitter.com/gregmetro/status/605040949086040065">May 31, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
