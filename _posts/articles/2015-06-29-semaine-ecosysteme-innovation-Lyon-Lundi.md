@@ -22,7 +22,7 @@ Quand on parle de startups, on imagine des gens qui passent leurs journées deva
 
 A cette occasion, maitre Rémi, sur un arbre perché, tenait en son bec un stylo. Chevelu faute de plumage, il tint à peu près ce langage:
 
-<iframe src="{{ site.url }}/images/Impropitch.mp4" width="500" height="281" frameborder="0"> </iframe>
+<iframe src="{{ site.url }}/images/Impropitch.mp4" frameborder="0"> </iframe>
 
 ## Inauguration de YouFactory
 
