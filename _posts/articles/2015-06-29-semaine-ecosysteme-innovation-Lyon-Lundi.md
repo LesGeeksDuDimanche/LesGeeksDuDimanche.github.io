@@ -21,6 +21,7 @@ Après un [dimanche](/articles/semaine-dans-ecosysteme-innovation-Lyon/) pas de 
 Quand on parle de startups, on imagine des gens qui passent leurs journées devant un ordinateur en revant de changer le monde tout en faisant fortune. Mais à Lyon, il y a impropitch. Une bande d'amis qui aime se pincer, jongler ou porter des vêtements trop serrés pour la gloire d'être déclaré le présentation brève de projet de la soirée. 
 
 A cette occasion, maitre Rémi, sur un arbre perché, tenait en son bec un stylo. Chevelu faute de plumage, il tint à peu près ce langage:
+
 <iframe src="{{ site.url }}/images/Impropitch.mp4" width="500" height="281" frameborder="0"> </iframe>
 
 ## Inauguration de YouFactory
