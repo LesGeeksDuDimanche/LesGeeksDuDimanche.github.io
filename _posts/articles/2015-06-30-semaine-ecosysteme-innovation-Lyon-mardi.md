@@ -13,7 +13,7 @@ author: xavier
 share: true
 ---
 
-_Une semaine dans l'écosystème d'innovation de Lyon est un mini reportage sur la première semaine de juin à Lyon dans l'écosystème d'innovation. Vous pouvez rattraper les premiers épisodes : [dimanche](/articles/semaine-dans-ecosysteme-innovation-Lyon/) et [lundi](/articles/semaine-ecosysteme-innovation-Lyon-lundi/)_ 
+_Une semaine dans l'écosystème d'innovation de Lyon est un mini reportage sur la première semaine de juin à Lyon dans l'écosystème d'innovation. Vous pouvez rattraper les premiers épisodes : [dimanche](/articles/semaine-dans-ecosysteme-innovation-Lyon/) et [lundi](/articles/semaine-dans-ecosysteme-innovation-Lyon-lundi/)_ 
 
 
 
