@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Une semaine dans l'ecosystème d'innovation de Lyon - Mardi
+title: Mardi, c'est spaghetti 
 modified:
 categories: articles
-excerpt: Mardi, c'est spaghetti 
+excerpt: Une semaine dans l'ecosystème d'innovation de Lyon - Mardi
 tags: [ecosysteme, Innovation]
 image:
   feature:

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Une semaine dans l'ecosystème d'innovation de Lyon - Mercredi
+title: Mercredi, jour des enfants terribles
 modified:
 categories: articles
-excerpt: Mercredi, le jour des enfants terribles 
+excerpt: Une semaine dans l’écosystème d'innovation de Lyon - Mercredi
 tags: [ecosysteme, Innovation]
 image:
   feature:
@@ -15,13 +15,13 @@ share: true
 
 _Vous êtes en plein milieu d'un mini reportage sur la première semaine de juin à Lyon dans l'écosystème d'innovation. Vous pouvez rattraper les premiers épisodes : [dimanche](/articles/semaine-dans-ecosysteme-innovation-Lyon/), [lundi](/articles/semaine-ecosysteme-innovation-Lyon-Lundi/) et [mardi](/articles/semaine-ecosysteme-innovation-Lyon-mardi/)_ 
 
-**Les trublions du web**
+## Les trublions du web 
 
-On retourne au salon des entrepreneurs pour parler slip et croissance avec un beau panel de réussites de ces dernières années: LDCL, Faguo, Videdressing, Matemonsac, birchbox... Pour donner le ton, à la question "Comment avoir une idée d'entreprise?", Permigo, répond "c'est simple, en mettant 6 ans à passer le permis"
+On retourne au salon des entrepreneurs pour parler slip et croissance avec un beau panel de réussites de ces dernières années: LDCL, Faguo, Videdressing, Matemonsac, birchbox... Pour donner le ton, à la question "Comment avoir une idée d'entreprise?", Permigo répond "c'est simple, en mettant 6 ans à passer le permis"
 
-Ldlc, à l'aise au milieu de ces marques montantes, fait part de son retour d'expérience pour gérer une hyper croissance. Par exemple coté service client, l'entreprise lyonnaise se concentre sur les échecs pour constamment apprendre. Tout les entrepreneurs se rejoignaient sur l'importance d'être enthousiaste au sujet de son métier. Coté animation le slip français dominait le _game_ de belles _punchlines_: "On me dit vous ne faites que du slip! Mais si j'en vends un a chacun, il y a du boulot", "Construire une entreprise, c'est comme Mario kart, il faut prendre autant de booster que possibles", ou encore <a href="https://twitter.com/RatioAbsurdum/status/606108285712920577">"Notre métier, c&#39;est avant tout de vendre du slip... mais aussi créer du contenu"</a>.
+LDLC, à l'aise au milieu de ces marques montantes, fait part de son retour d'expérience pour gérer une hyper croissance. Par exemple coté service client, l'entreprise lyonnaise se concentre sur les échecs pour constamment apprendre. Tout les entrepreneurs se rejoignaient sur l'importance d'être enthousiaste au sujet de son métier. Coté animation le slip français dominait le _game_ de belles _punchlines_: "On me dit vous ne faites que du slip! Mais si j'en vends un a chacun, il y a du boulot", "Construire une entreprise, c'est comme Mario kart, il faut prendre autant de booster que possibles", ou encore <a href="https://twitter.com/RatioAbsurdum/status/606108285712920577">"Notre métier, c&#39;est avant tout de vendre du slip... mais aussi créer du contenu"</a>.
 
-**Présentation du projet pour la halle Martinière**
+**Présentation du projet pour la halle de la Martinière**
 
 La halle de la Martinière, c'est un bâtiment au charme rétro au milieu d'un joli quartier. Marché local avant de péricliter, les habitants du quartier cherchent depuis plusieurs années à le réhabiliter avec un projet associant épicerie, producteurs locaux et café. A l'occasion du petit marché qui se réunit sur la place d'en face, les porteurs de projets tenaient une conférence de presse de rue, entre deux dégustations. 
 

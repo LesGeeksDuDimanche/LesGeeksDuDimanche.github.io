@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Une semaine dans l'ecosystème d'innovation de Lyon - Lundi
+title: Fini la rigolade, vive la marmelade
 modified:
 categories: articles
-excerpt: Fini la rigolade, vive la marmelade
+excerpt: Une semaine dans l'ecosystème d'innovation de Lyon - Lundi
 tags: [ecosysteme, Innovation]
 image:
   feature:
