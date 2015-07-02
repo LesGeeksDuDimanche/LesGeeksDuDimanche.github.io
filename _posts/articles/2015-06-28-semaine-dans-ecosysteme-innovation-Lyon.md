@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Une semaine dans l'ecosystème d'innovation de Lyon
+title: J'ai deux passions, les startups et les brunchs.
 modified:
 categories: articles
-excerpt: J'ai deux passions, les startups et les brunchs...
+excerpt: Une semaine dans l'ecosystème d'innovation de Lyon
 tags: [ecosysteme, Innovation]
 image:
   feature:
