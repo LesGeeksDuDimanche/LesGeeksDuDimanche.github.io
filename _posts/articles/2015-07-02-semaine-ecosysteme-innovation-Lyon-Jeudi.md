@@ -24,7 +24,7 @@ Ce jeudi, la startup optimiz.me présentait un outil complet d'optimisation SEO.
 
 ## La Waoup Innovation Night
 
-Au rendez-vous hebdomadaire succédait le rendez vous exceptionnel. Avec les bouteilles de vin sur la table le ton était donné dès l'arrivée ce-n'est-pas-parce-que-l'on-fait-de-l'innovation-que-l'on-doit-manger-des-conserves. Toutes les générations, profils et acteurs de l'écosystème lyonnais étaient présents. 
+Au rendez-vous hebdomadaire succédait le rendez vous exceptionnel. Avec les bouteilles de vin sur la table le ton était donné dès l'arrivée: ce-n'est-pas-parce-que-l'on-fait-de-l'innovation-que-l'on-doit-manger-des-conserves. Toutes les générations, profils et acteurs de l'écosystème lyonnais étaient présents, survoltés à renfort de décibels et de médias sociaux.
 
 <blockquote class="twitter-tweet" lang="en"><p lang="fr" dir="ltr">On doit vraiment animer tous ces gens??? Oh my god i&#39;m a <a href="https://twitter.com/hashtag/booster?src=hash">#booster</a> <a href="https://twitter.com/hashtag/WINLYON?src=hash">#WINLYON</a> <a href="https://twitter.com/Waoup">@Waoup</a> <a href="https://twitter.com/SPRING_LAB">@SPRING_LAB</a> <a href="http://t.co/ianF8B4lE4">pic.twitter.com/ianF8B4lE4</a></p>&mdash; Laura Sautereau (@laurasautereau) <a href="https://twitter.com/laurasautereau/status/606512822869225474">June 4, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
