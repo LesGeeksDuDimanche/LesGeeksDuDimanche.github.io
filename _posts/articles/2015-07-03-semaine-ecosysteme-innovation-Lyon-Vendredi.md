@@ -13,7 +13,7 @@ author: xavier
 share: true
 ---
 
-_Vous approchez de la fin d'un reportage sur la première semaine de juin à Lyon dans l'écosystème d'innovation. Vous pouvez rattraper les premiers épisodes : [dimanche](/articles/semaine-dans-ecosysteme-innovation-Lyon/), [lundi](/articles/semaine-ecosysteme-innovation-Lyon-Lundi/), [mardi](/articles/semaine-ecosysteme-innovation-Lyon-mardi/), [mercredi](/articles/semaine-ecosysteme-innovation-Lyon-Mercredi/) et [jeudi](/articles/semaine-ecosysteme-innovation-Lyon-Jeudi/)_ 
+_Vous approchez de la fin d'un reportage sur la première semaine de juin à Lyon dans l'écosystème d'innovation, et ça se ressent. Vous pouvez rattraper les premiers épisodes : [dimanche](/articles/semaine-dans-ecosysteme-innovation-Lyon/), [lundi](/articles/semaine-ecosysteme-innovation-Lyon-Lundi/), [mardi](/articles/semaine-ecosysteme-innovation-Lyon-mardi/), [mercredi](/articles/semaine-ecosysteme-innovation-Lyon-Mercredi/) et [jeudi](/articles/semaine-ecosysteme-innovation-Lyon-Jeudi/)_ 
 
 ## EthnoTek au festival 6eme continent
 
