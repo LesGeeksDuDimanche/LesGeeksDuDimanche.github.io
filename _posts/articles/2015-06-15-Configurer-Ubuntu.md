@@ -56,6 +56,15 @@ Reduire l'utilisation du swap ( en particulier pour les disques SSD) :
 	echo vm.swappiness=20 | sudo tee -a /etc/sysctl.conf
 	sudo apt-get install  zram-config 
 
+Pour des options plus fines, éditer le fichier sysctl.conf:
+  gksudo subl /etc/sysctl.conf
+
+Avec par exemple:
+  # Decrease swap usage to a reasonable level
+  vm.swappiness=10
+  # Improve cache management
+  vm.vfs_cache_pressure=50
+
 ## Configuration personnelle
 
 * Configurer Dropbox
