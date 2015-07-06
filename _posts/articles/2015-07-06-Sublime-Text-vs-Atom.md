@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sublime text vs Atom
+title: Sublime Text vs Atom
 modified: null
 categories: articles
 excerpt: Vim vs Emacs pour les humains (han)
