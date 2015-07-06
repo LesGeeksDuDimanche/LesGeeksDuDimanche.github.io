@@ -32,7 +32,7 @@ Dans tout les cas et quelque soit la plateforme, il suffit de télecharger l'ins
 
 ## Utilisation
 
-Si vous connaissez déjà Sublime Text, vous ne serez pas surpris. Atom propose des fonctionnalitées similaires. Les fonctionnalités de shell de Atom s'avèrent très utiles. Il est possible depuis l'arborescence des fichiers à gauche de dupliquer un fichier, en créer... quand sublime permet essentiellement de lancer un explorateur de fichiers.
+Si vous connaissez déjà Sublime Text, vous ne serez pas surpris. Atom propose des fonctionnalités similaires. Les fonctionnalités de shell de Atom s'avèrent très utiles. Il est possible depuis l'arborescence des fichiers à gauche de dupliquer un fichier, en créer... quand Sublime permet essentiellement de lancer un explorateur de fichiers.
 
 Pour le distrait que je suis, il manque un correcteur orthographique valable sur Atom.
 
@@ -40,13 +40,13 @@ Pour le distrait que je suis, il manque un correcteur orthographique valable sur
 
 Atom fait de la personnalisation un de ses points forts. Développé en javascript et en opensource, il est facile à adapter. Coté utilisateur, le gestionnaire de paquets intégré permet d'étendre les fonctionnalités en deux clics.
 
-Coup de coeur pour color picker et pigment qui permettent respectivement de choisir une couleur et de la visualiser sans crampe à l'oeil.
+Coup de coeur pour _color picker_ et _pigment_ qui permettent respectivement de choisir une couleur et de la visualiser sans crampe à l'oeil.
 ![pigment]({{ site.url }}/images/pigment.png)
 
 
 ## Performance
 
-En terme de performance, le bas blesse coté Atom. Le lancement est lent, pas idéal pour éditer rapidement un fichier et l'utilisation de mémoire dispendieuse invite à l'écarter pour les petites configurations.
+En terme de performances, le bât blesse coté Atom. Le lancement est lent, pas idéal pour éditer rapidement un fichier et l'utilisation de mémoire dispendieuse invite à l'écarter pour les petites configurations.
 
 ![mémoire]({{ site.url }}/images/atom.png)
 _les deux programmes lancés, le rapport d'empreinte mémoire est de 1 à 10_
@@ -60,4 +60,5 @@ Si Sublime Text est téléchargeable gratuitement, un petit pop up rappelle qu'i
 Avec une interface et des raccourcis clavier similaires, le passage de l'un à l'autre est pratiquement indifférent. Si aujourd'hui Sublime Text est un projet plus mature, le [dynamisme](https://github.com/atom/atom) d' Atom et son équipe devrait rapidement propulser cet éditeur.
 
 
-N'hésitez pas à compléter cet article de vos avis
+
+N'hésitez pas à compléter cet article de vos avis.
