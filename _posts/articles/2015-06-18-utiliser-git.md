@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Utiliser Git
-modified: 
+modified:
 categories: articles
 excerpt: gouvernement du code par Linus pour Linux
 tags: [Opensource, git]
@@ -18,7 +18,7 @@ Dans un répertoire donné git vous permet d'enregistrer les modifications de vo
 
 Voici une brève introduction.
 
-## Configuration 
+## Configuration
 
 Sur ubuntu vous pouvez installer git en tapant simplement `sudo apt-get install git`. Voilà.
 
@@ -38,7 +38,7 @@ un dossier .git est créé dans votre repertoire pour garder l'historique des mo
 
 	git clone https://github.com/LesGeeksDuDimanche/LesGeeksDuDimanche.github.io.git
 
-Un nouveau repertoire est créé, clonant à l'identique le dépot en ligne. 
+Un nouveau repertoire est créé, clonant à l'identique le dépot en ligne.
 
 ### Sauvegarder vos modifications
 
@@ -66,7 +66,7 @@ En une ligne, vous pouvez ajouter, effectuer un commit puis un push de votre cod
 Pour une version plus élaborée qui permet de placer son propre commentaire, ajoutez à ~/.bashrc ( `gedit ~/.bashrc` )
 {% highlight bash %}
 gitaj () {
-   if [ -z "$1" ];  then           
+   if [ -z "$1" ];  then
         # Commentaire par défaut blabla
         COMM="blabla"
        else
