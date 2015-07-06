@@ -7,7 +7,7 @@ excerpt:
 tags: [data, donnees personnelles]
 image:
   feature:
-date: 2015-06-28T23:06:54+02:00
+date: 2015-07-05T23:06:54+02:00
 comments: true
 share: true
 published: true
