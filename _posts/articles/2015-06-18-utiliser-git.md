@@ -50,6 +50,10 @@ vous permet d'ajouter l'ensemble du contenu du répertoire au prochain *commit*.
 
 Permet de créer un enregistrement de l'état de votre travail avec un intitulé.
 
+  git commit --amend --no-edit
+
+Permet de réenregister le précedent commit en ajoutant des modifications. Eviter si vous avec déjà publié.
+
 	git push
 
 Vous permet d'envoyer sur le dépôt distant les modifications. Si vous avez utilisé `git clone` celui ci est déjà configuré.
