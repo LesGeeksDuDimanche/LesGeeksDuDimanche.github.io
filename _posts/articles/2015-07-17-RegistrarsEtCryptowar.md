@@ -29,7 +29,7 @@ Depuis le projet [opensource](/articles/LicencesOuvertes/) fait l'objet de nombr
 
 > "Il n'y a pas beaucoup des opportunités dans la vie de faire partie d'une révolution et nous avons compris cette opportunité. Un des principaux buts de notre entreprise est de rétablir l'anonymat sur internet."
 
-## L'enregistrement des noms de domaines
+## L'enregistrement des noms de domaine
 
 Le site time4popcorn avait alors été déplacé vers une adresse suedoise ( popcorn-time.se ). En effet chaque terminaison d'adresse internet (TLD) est contrôlé par une autorité: les .com et .org par les Etats-Unis, les .fr par la France... Les politiques regardant le contrôle des activités des sites enregistrés varient d'un pays à l'autre.
 
