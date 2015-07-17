@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Les pirates s'installent à la Réunion
+title: Les pirates s'installent à La Réunion
 modified: null
 categories: articles
 excerpt: Registrars & Cryptowars
