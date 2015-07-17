@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notes BDD - 23 juillet
+title: Notes BDD - 12 juillet
 modified:
 categories: notes
 excerpt:
