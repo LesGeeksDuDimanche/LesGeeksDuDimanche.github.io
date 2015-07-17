@@ -80,7 +80,12 @@ Avec par exemple:
   * Ctrl + Shift + P, "Install Package", “Language - French - Français”
   * “View” > “Dictionary” > “Language - French - Français” > “fr_FR”
   * F6
- 
+
+* Ligne de commande en couleur:
+décommenter la ligne dans .bashrc  ( subl ~/.basrc)
+  force_color_prompt=yes
+
+
 
 ### Ubuntu Gnome flasback
 
