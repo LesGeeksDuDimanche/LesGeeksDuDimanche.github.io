@@ -3,7 +3,7 @@
 title: Les Geeks du Dimanche
 locale: fr_FR
 description: Parce que l'informatique c'est serieux \#Brioche \#ClashEnBash
-logo: CatGlasses.png
+logo: lesbricodeurs.png
 url: //127.0.0.1:4000
 
 # Jekyll configuration
@@ -35,8 +35,8 @@ owner:
   avatar: brioche.jpg
   email: xavier+lavayssiere+LesGeeksDuDimanche@gmail.com
   disqus-shortname: LesGeeksDuDimanche
-  twitter: StartupInStyle
-  facebook: 
+  twitter: Lesbricodeurs
+  facebook: groups/1779441092280415/
   github: LesGeeksDuDimanche
   stackexchange:
   linkedin:
