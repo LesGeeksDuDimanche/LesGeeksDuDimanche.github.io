@@ -22,7 +22,7 @@ _Le commissaire à la protection des données et la liberté d’information d�
 
 Johannes Caspar, avocat de formation, est responsable pour le territoire d’Hambourg de la protection des données des citoyens sous le doux titre de Landesdatenschutzbeauftragter. En 2013 il avait déjà infligé une amende de 190 000 dollars à Google pour collecter les informations personnelles au travers des wifi non encryptés. Au delà de l’amende la révélation avait incité d’autorités à enquêter de plus près les [collectes des véhicules Google Street View](http://www.nytimes.com/2013/04/23/technology/germany-fines-google-over-data-collection.html).
 
-Cette fois ci l’affaire est ancienne. Facebook, dont le siège européen est en Ireland, avait gagné une première bataille en 2013 face au régulateur du Lander Schleswig-Holstei. En effet, la justice allemande avait tranché le [droit irlandais de protection des données](http://www.bloomberg.com/news/articles/2013-02-15/facebook-scores-win-in-legal-regime-dispute-with-germany) devait s’appliquer.
+Cette fois ci l’affaire est ancienne. Facebook, dont le siège européen est en Irelande, avait gagné une première bataille en 2013 face au régulateur du Lander Schleswig-Holstei. En effet, la justice allemande avait tranché le [droit irlandais de protection des données](http://www.bloomberg.com/news/articles/2013-02-15/facebook-scores-win-in-legal-regime-dispute-with-germany) devait s’appliquer.
 
 Patatras, l’année dernière la cour de Justice de l’Union Européenne a déclaré au sujet du droit à l’oubli du moteur de recherche Google que les activités de Google Espagne étaient [soumises au droit espagnol](http://www.cnil.fr/linstitution/actualite/article/article/decision-de-la-cour-de-justice-de-lunion-europeenne-les-moteurs-de-recherche-doivent-respect).
 
@@ -33,4 +33,7 @@ Donc le droit allemand de protection des données personnelles s’applique bien
 Dès lors, le commissaire Johannes Caspar estime que la firme américaine ne respecte pas le droit allemand et l’enjoin à changer ses pratiques. En particulier dans l’affaire qui l’a amené à ce prononcer, le fait de stocker la copie numérisée d’une carte d’identité et d’obliger de porter son nom réel ne respecte pas la loi « Telemedia » et la loi passeport et identité. Si ce pseudonymat semble protecteur de la vie privée, il pose les problèmes de cyberintimidation et ne garanti pas un anonymat complet. En effet, en croisant plusieurs informations comme les lieux et appareils de connexion, il reste possible de remonter au détenteur du compte.
 
 [Source: Der Hamburgische Datenschutzbeauftragte](https://www.datenschutz-hamburg.de/news/detail/article/der-hamburgische-datenschutzbeauftragte-profilnamen-bei-facebook-frei-waehlbar.html)
+
+En audio:
+<iframe  width="600" height="30" src="/images/audio/facebookpseudos.ogg" frameborder="0"> </iframe>
 
