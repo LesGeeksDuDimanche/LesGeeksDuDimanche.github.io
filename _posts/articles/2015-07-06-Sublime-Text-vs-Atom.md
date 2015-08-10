@@ -21,24 +21,24 @@ Je me souviens encore de ce moment où un ami me partageait son enthousiasme pou
 
 ![primaire]({{ site.url }}/images/primaire.gif)
 
-Avec l'arrivée récente d'Atom, un éditeur basé sur chromium et développé par les équipes de github, il est temps de réévaluer ses habitudes.
+Avec l'arrivée récente d'Atom, un éditeur basé sur chromium et développé par les équipes de Github, il est temps de réévaluer ses habitudes.
 
 ## Installation
 
-Dans tous les cas et quel que soit la plateforme, il suffit de télecharger l'installateur. Déconcertant de simplicité.
+Dans tous les cas, et quel que soit la plateforme, il suffit de télecharger l'installateur. Déconcertant de simplicité.
 
 * [Sublime Text](http://www.sublimetext.com/3)
 * [Atom](http://atom.io)
 
 ## Utilisation
 
-Si vous connaissez déjà Sublime Text, vous ne serez pas surpris. Atom propose des fonctionnalités similaires. Les fonctionnalités de shell de Atom s'avèrent très utiles. Il est possible depuis l'arborescence des fichiers à gauche de dupliquer un fichier, en créer... quand Sublime permet essentiellement de lancer un explorateur de fichiers.
+Si vous connaissez déjà Sublime Text, vous ne serez pas surpris. Atom propose des fonctionnalités similaires. Les fonctionnalités étendues de shell d'Atom s'avèrent très utiles. Il est possible depuis l'arborescence des fichiers à gauche de dupliquer un fichier, en créer... quand Sublime permet essentiellement de lancer un explorateur de fichiers.
 
-Pour le distrait que je suis, il manque un correcteur orthographique valable sur Atom.
+Pour le distrait que je suis, il manque néanmoins un correcteur orthographique valable sur Atom.
 
 ## Personnalisation
 
-Atom fait de la personnalisation un de ses points forts. Développé en javascript et en opensource, il est facile à adapter. Côté utilisateur, le gestionnaire de paquets intégré permet d'étendre les fonctionnalités en deux clics.
+Atom fait de la personnalisation un de ses points forts. Développé en javascript et opensource, il est facile à adapter. Côté utilisateur, le gestionnaire de paquets intégré permet d'étendre les fonctionnalités en deux clics.
 
 Coup de coeur pour _color picker_ et _pigment_ qui permettent respectivement de choisir une couleur et de la visualiser sans crampe à l'oeil.
 ![pigment]({{ site.url }}/images/pigment.png)
@@ -62,4 +62,4 @@ Avec une interface et des raccourcis clavier similaires, le passage de l'un à l
 
 
 
-N'hésitez pas à compléter cet article de vos avis.
+N'hésitez pas à compléter cet article de vos avis:
