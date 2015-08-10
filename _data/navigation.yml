@@ -6,14 +6,11 @@
 - title: Articles
   url: /articles/
 
-- title: Notes
+- title: Blog-Notes
   url: /notes/
 
 - title: Geeks
   url: /LesGeeks/  
-
-- title: Config
-  url: /theme-setup/
 
 - title: Search
   url: /search/

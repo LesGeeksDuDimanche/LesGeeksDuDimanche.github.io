@@ -15,3 +15,6 @@ Pour plus d'informations: [Configuration](http://mmistakes.github.io/so-simple-t
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/mmistakes/so-simple-theme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
+# Lancer le serveur en local avec une configuration appropriée
+
+bundle exec jekyll serve -wV -c configDEV.yml
