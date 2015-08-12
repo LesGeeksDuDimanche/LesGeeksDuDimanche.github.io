@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Derniers posts
-excerpt: "Si vous y trouvez votre bonheur, t'es chelou"
+excerpt: "Des pensées sur le numérique, et pas l'inverse"
 search_omit: true
 ---
 
 <ul class="post-list">
-{% for post in site.posts limit:10 %} 
+{% for post in site.categories.articles limit:10%} 
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li>
 {% endfor %}
 </ul>
