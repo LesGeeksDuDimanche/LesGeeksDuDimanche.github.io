@@ -35,5 +35,6 @@ Dès lors, le commissaire Johannes Caspar estime que la firme américaine ne res
 [Source: Der Hamburgische Datenschutzbeauftragte](https://www.datenschutz-hamburg.de/news/detail/article/der-hamburgische-datenschutzbeauftragte-profilnamen-bei-facebook-frei-waehlbar.html)
 
 En audio:
+
 <iframe  width="600" height="30" src="/images/audio/facebookpseudos.ogg" frameborder="0"> </iframe>
 
