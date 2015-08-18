@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Obama rend permanent les Presidential Innovation Fellows
+title: Obama et les Presidential Innovation Fellows
 modified:
 categories: articles
-excerpt: Obama + Innovation = <3
+excerpt: Quand les clés du pouvoir sont des clés publiques
 tags: [ecosysteme, Innovation, secteur public]
 image:
   feature:
@@ -13,9 +13,9 @@ author: xavier
 share: true
 ---
 
-Depuis lundi, Barack Obama a rendu permanent le _Presidential Innovation Fellows Program_ (PIF) par [décret](https://www.whitehouse.gov/the-press-office/2015/08/17/executive-order-presidential-innovation-fellows-program). L'expérimentation visant à rapprocher le meilleur de l'innovation du gouvernement fédéral a su transformer l'essai.
+Depuis lundi, Barack Obama a entériné le _Presidential Innovation Fellows Program_ (PIF) par [décret](https://www.whitehouse.gov/the-press-office/2015/08/17/executive-order-presidential-innovation-fellows-program). L'expérimentation visant à rapprocher le meilleur de l'innovation du gouvernement fédéral a su transformer l'essai.
 
-<iframe width="560" height="315" src="//www.youtube.com/watch?v=3P5UFV8d364" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="http://www.youtube.com/watch?v=3P5UFV8d364" frameborder="0"> </iframe>
 
 ## Ecouter l'innovation technologique et méthodologique
 
@@ -27,7 +27,9 @@ Le programme rassemble les acteurs de la société civile et du gouvernement. L'
 
 ![Presidential Innovation Fellows Logo]({{ site.url }}/images/pif.png){: .pull-right}
 
-La beauté du programme est d'avoir dépassé l’aspect communication pour devenir un levier de changement. Par exemple le _Blue Button Initiative_ a pour objet de standardiser les informations médicales. Le standard _Blue Button Plus_ permet l'accès des patients à leurs informations et un échange plus efficace au cours du parcours de soins. De même une équipe a réalisé en six mois un prototype de plateforme facilitant l'accès des startups à la commande publique [RFP-EZ](https://18f.gsa.gov/rfpez/).
+La beauté du programme est d'avoir dépassé l’aspect communication pour devenir un levier de changement. Par exemple le _Blue Button Initiative_ a pour objet de standardiser les informations médicales. Le standard _Blue Button Plus_ permet l'accès des patients à leurs informations et un échange plus efficace au cours du parcours de soins. 
+
+De même une équipe a réalisé en six mois un prototype de plateforme facilitant l'accès des startups à la commande publique [RFP-EZ](https://18f.gsa.gov/rfpez/). 
 
 *A quand un équivalent en France?*
 
