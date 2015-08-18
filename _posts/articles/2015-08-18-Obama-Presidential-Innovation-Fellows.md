@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Obama et les Presidential Innovation Fellows
+title: Obama & les Presidential Innovation Fellows
 modified:
 categories: articles
 excerpt: Quand les clés du pouvoir sont des clés publiques
@@ -15,11 +15,11 @@ share: true
 
 Depuis lundi, Barack Obama a entériné le _Presidential Innovation Fellows Program_ (PIF) par [décret](https://www.whitehouse.gov/the-press-office/2015/08/17/executive-order-presidential-innovation-fellows-program). L'expérimentation visant à rapprocher le meilleur de l'innovation du gouvernement fédéral a su transformer l'essai.
 
-<iframe width="560" height="315" src="http://www.youtube.com/watch?v=3P5UFV8d364" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/3P5UFV8d364" frameborder="0"> </iframe>
 
 ## Ecouter l'innovation technologique et méthodologique
 
-Obama s'était déjà distingué dès 2008 par l'utilisation des technologies par son équipe de campagne: levées de fonds en ligne, analyses statistiques (big data) et outils avancés de communication sur les réseaux sociaux. Dans la continuité, le PIF est fondé en 2012 par Todd Park, directeur général technologique et le conseiller John Paul Farmer.
+Obama s'était distingué dès 2008 par l'utilisation des technologies par son équipe de campagne: levées de fonds en ligne, analyses statistiques (big data) et outils avancés de communication sur les réseaux sociaux. Dans la continuité, le PIF est fondé en 2012 par Todd Park, directeur général technologique et le conseiller John Paul Farmer.
 
 Le programme rassemble les acteurs de la société civile et du gouvernement. L'objectif est d'obtenir rapidement des résultats en constituant de petites équipes pluridisciplinaires et en appliquant les méthodologies de l'univers Startup (Lean Startup, Agile, Design Thinking...).
 
