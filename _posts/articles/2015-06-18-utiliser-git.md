@@ -52,7 +52,7 @@ Permet de créer un enregistrement de l'état de votre travail avec un intitulé
 
   git commit --amend --no-edit
 
-Permet de réenregister le précedent commit en ajoutant des modifications. Eviter si vous avec déjà publié.
+Permet de réenregistrer le précedent commit en ajoutant des modifications. Eviter si vous avec déjà publié.
 
 	git push
 

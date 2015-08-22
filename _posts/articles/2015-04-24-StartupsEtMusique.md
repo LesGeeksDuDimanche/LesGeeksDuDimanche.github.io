@@ -23,7 +23,7 @@ Cas entièrement en droit français:
 Il y est précisé que :
 *"Les critères détaillés pour déterminer la rémunération des artistes sont des informations confidentielles et contractuelles."*...
 et sur les exigences des majors  :
- *"Les minimums garantis que demandent les maisons de disques pour l'année 2009, 400 000 € à Sony Music,250 000 € à EMI, 180 000 € à Universal Music et 70 000 € à Warner Music28. Soit un total de 900 000 €. En 2009, les revenus publicitaires sont de 300 000 €"*
+ *"Les minimums garantis que demandent les maisons de disques pour l'année 2009, 400 000 € à Sony Music, 250 000 € à EMI, 180 000 € à Universal Music et 70 000 € à Warner Music28. Soit un total de 900 000 €. En 2009, les revenus publicitaires sont de 300 000 €"*
  
 
 ## Pour se détendre, un extrait des nuits sonores 2015
