@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Hackpad est dans la place
-modified: Pad in ton
+modified: 
 categories: articles
-excerpt: 
+excerpt: Pad in ton
 tags: [Opensource, Hackpad, code]
 image: 
   feature: 
