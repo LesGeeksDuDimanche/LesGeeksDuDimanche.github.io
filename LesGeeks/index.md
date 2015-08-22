@@ -12,9 +12,11 @@ image:
 
 
 {% for member in site.data.members %} 
-###{{ member.name }}
-<img src="{{ site.url }}/images/{{ member.avatar }}" class="bio-photo center" alt="{{ member.name }} bio photo">
-_{{ member.bio }}_
+
+###    {{member.name}}
+![{{ member.name }}]({{ site.url }}/images/{{ member.avatar }}){: .bio-photo}
+_{{member.bio}}_ 
+
 
 {% endfor %}
 
