@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hackpad est dans la place
+title: Libre comme un Hackpad
 modified: 
 categories: articles
 excerpt: Pad in ton
