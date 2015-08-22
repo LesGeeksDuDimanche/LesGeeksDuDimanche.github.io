@@ -3,7 +3,7 @@ layout: post
 title: Libre comme un Hackpad
 modified: 
 categories: articles
-excerpt: Pad in ton
+excerpt: Enfin!
 tags: [Opensource, Hackpad, code]
 image: 
   feature: 
