@@ -52,3 +52,8 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
