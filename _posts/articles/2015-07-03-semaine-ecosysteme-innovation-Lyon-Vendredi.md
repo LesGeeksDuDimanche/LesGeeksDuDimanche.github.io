@@ -17,9 +17,9 @@ _Vous approchez de la fin d'un reportage sur la première semaine de juin à Lyo
 
 ## EthnoTek au festival 6eme continent
 
-Certains affirment que la guillotière serait les nouvelles pentes de la Croix-Rousse. Ce qui est certain, c'est que le mélange culturel et social produit un cocktail dynamique. Au milieu de la multiplication des lieux et initiatives mêlant vocation solidaire et efficacité, le 6eme continent avec son festival fait figure de pilier.
+Certains affirment que la Guillotière serait les nouvelles pentes de la Croix-Rousse. Ce qui est certain, c'est que le mélange culturel et social produit un cocktail dynamique. Au milieu de la multiplication des lieux et initiatives mêlant vocation solidaire et efficacité, le 6ème continent avec son festival fait figure de pilier.
 
-Ce vendredi, un choix de programmation, mêler culture électronique et musiques ethniques. Ça se savoure sur la pelouse du parc de Gerland, dans un nuage d’effluves herbacées.
+Ce vendredi, un choix de programmation, mêlant culture électronique et musiques ethniques. Ça se savoure sur la pelouse du parc de Gerland, dans un nuage d’effluves herbacées.
 
 <iframe src="{{ site.url }}/images/ethnotek.mp4" frameborder="0" width="300"> </iframe>
 

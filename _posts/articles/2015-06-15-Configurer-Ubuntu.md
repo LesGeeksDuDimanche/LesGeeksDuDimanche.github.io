@@ -34,7 +34,7 @@ Ubuntu repose sur un système de paquets. Tout les logiciels et le système peuv
 
     sudo apt-get update && sudo apt-get upgrade
 
-NB: Les commandes peuvent etre copié/collé ou tapées dans un terminal (ctrl+shift+T). '&&'' permet d'enchainer deux commandes sur la même ligne
+NB: Les commandes peuvent etre copiées/collées ou tapées dans un terminal (ctrl+shift+T). '&&'' permet d'enchainer deux commandes sur la même ligne
 
 Quelques paquets utiles, en particulier pour lire des médias :
 
