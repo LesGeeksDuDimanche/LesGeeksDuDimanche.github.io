@@ -22,4 +22,4 @@ Il faut croire que le modèle a inspiré. En avril, la petite startup Hackpad é
 
 Voilà qui est résolu, puisque [l'ensemble du code de Hackpad](https://github.com/dropbox/hackpad/)  été publié sur Github. L'outil séduit tant les bricodeurs de la planète qu'il est fort à parier qu'il naîtra de nouveaux usages de cette publication sous licence Apache 2.
 
-Promis, on est déjà dans le code...
+Promis, on est déjà dans le code : [bricopad](http://bricopad.com/) (encore en beta, faites signe si vous voulez participer)
