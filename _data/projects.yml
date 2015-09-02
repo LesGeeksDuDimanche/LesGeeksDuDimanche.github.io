@@ -1,0 +1,9 @@
+- name: Bricopad
+  avatar: bricopad.jpg
+  description: "Hackpad stylé"
+  url: http://bricopad.com
+
+- name: Huby
+  avatar: huby.jpg
+  description: "Le concierge numérique des tiers lieux et espaces de coworking"
+  url: 
