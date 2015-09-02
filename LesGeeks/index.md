@@ -20,4 +20,3 @@ _{{member.bio}}_
 
 {% endfor %}
 
-

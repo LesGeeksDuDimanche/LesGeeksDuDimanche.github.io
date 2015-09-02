@@ -10,7 +10,10 @@
   url: /notes/
 
 - title: Geeks
-  url: /LesGeeks/  
+  url: /LesGeeks/ 
+
+- title: Projets
+  url: /LesProjets/   
 
 - title: Search
   url: /search/
