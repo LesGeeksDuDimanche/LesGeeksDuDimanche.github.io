@@ -15,6 +15,7 @@ image:
 
 ###    [{{project.name}}]({{ project.url }})
 ![{{ project.name }}]({{ site.url }}/images/{{ project.avatar }})
+
 _{{project.description}}_ 
 
 
