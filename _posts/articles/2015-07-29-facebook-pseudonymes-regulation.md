@@ -33,8 +33,3 @@ Donc le droit allemand de protection des données personnelles s’applique bien
 Dès lors, le commissaire Johannes Caspar estime que la firme américaine ne respecte pas le droit allemand et l’enjoint à changer ses pratiques. En particulier dans l’affaire qui l’a amené à se prononcer, le fait de stocker la copie numérisée d’une carte d’identité et d’obliger de porter son nom réel ne respecte pas la loi « Telemedia » et la loi passeport et identité. Si ce pseudonymat semble protecteur de la vie privée, il pose les problèmes de cyberintimidation et ne garantit pas un anonymat complet. En effet, en croisant plusieurs informations comme les lieux et appareils de connexion, il reste possible de remonter au détenteur du compte.
 
 [Source: Der Hamburgische Datenschutzbeauftragte](https://www.datenschutz-hamburg.de/news/detail/article/der-hamburgische-datenschutzbeauftragte-profilnamen-bei-facebook-frei-waehlbar.html)
-
-En audio:
-
-<iframe  width="600" height="30" src="/images/audio/facebookpseudos.ogg" frameborder="0"> </iframe>
-

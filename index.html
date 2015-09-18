@@ -5,6 +5,15 @@ excerpt: "Quelques pensées sur le numérique"
 search_omit: true
 ---
 
+Pour être au courant, n'hésitez pas à nous suivre quelque part:
+ {% if site.owner.facebook %}<a href="http://facebook.com/{{ site.owner.facebook }}" title="{{ site.owner.name}} on Facebook" target="_blank"><i class="fa fa-facebook-square fa-2x"></i></a>{% endif %}
+
+
+{% if site.owner.meetup %}<a href="http://meetup.com/{{ site.owner.meetup }}" title="{{ site.owner.name}} on meetup" target="_blank"><i class="fa fa-calendar fa-2x"></i></a>{% endif %}
+	. L 
+{% if site.owner.twitter %}<a href="http://twitter.com/{{ site.owner.twitter }}" title="{{ site.owner.name}} on Twitter" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a>{% endif %}
+	
+
 <ul class="post-list">
 {% for post in site.categories.articles limit:10%} 
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li>
