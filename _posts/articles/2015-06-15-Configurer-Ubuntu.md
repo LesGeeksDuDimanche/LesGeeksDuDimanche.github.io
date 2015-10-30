@@ -22,7 +22,7 @@ published: true
 Ubuntu est un système d'exploitation qui convient particulièrement:
 
 * Aux geeks: outils développeurs, système le plus utilisé par les serveurs web, personnalisation infinie...
-* Aux moins geeks: système fiable, stable & sans virus. Il faut néanmoins un peu de bonne volonté pour l'installer. Des [associations de geeks locaux](https://aful.org/gul) (comme les geeks du dimanche) peuvent vous aider.
+* Aux moins geeks: système fiable, stable & sans virus. Il faut néanmoins un peu de bonne volonté pour l'installer. Des [associations de geeks locaux](https://aful.org/gul) (comme Les Bricodeurs) peuvent vous aider.
 
 Voici quelques notes qui me servent installer rapidement les outils utiles.
 

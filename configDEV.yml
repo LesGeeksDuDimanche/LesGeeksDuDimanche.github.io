@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Les Geeks du Dimanche
+title: Les Bricodeurs
 locale: fr_FR
 description: Parce que l'informatique c'est serieux \#Brioche \#ClashEnBash
 logo: lesbricodeurs.png
@@ -31,7 +31,7 @@ comments: true
 
 # Site owner
 owner:
-  name: Les Geeks du Dimanche
+  name: Les Bricodeurs
   avatar: brioche.jpg
   email: xavier+lavayssiere+LesGeeksDuDimanche@gmail.com
   disqus-shortname: LesGeeksDuDimanche

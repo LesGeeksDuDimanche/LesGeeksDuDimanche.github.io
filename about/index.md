@@ -1,7 +1,7 @@
 ---
 layout: page
 title: A propos
-excerpt: "Les geeks du dimanche, c'est comme à la maison"
+excerpt: "Les Bricodeurs, c'est comme à la maison"
 modified: 2015-06-08T19:44:38.564948-04:00
 image:
   feature:
@@ -9,7 +9,7 @@ image:
   creditlink:
 ---
 
-Les geeks du dimanche, c'est une bande d'amis qui se réunit le dimanche pour échanger et s'entraider sur des sujets technologiques autour de brioches, de café et de pâtes.
+Les Bricodeurs, c'est une bande d'amis qui se réunit le dimanche pour échanger et s'entraider sur des sujets technologiques autour de brioches, de café et de pâtes.
 
 Notre objectif est de mettre ces connaissances à profit pour aider des projets citoyens et contribuer à la diffusion de la culture numérique.
 
