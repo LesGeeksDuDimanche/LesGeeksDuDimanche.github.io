@@ -1,7 +1,7 @@
-# Les geeks du dimanche
+# Les Bricodeurs
 
 
-Les geeks du dimanche est un groupe informel de geeks qui se réunit le dimanche pour développer ensemble et débattre des enjeux technologiques. \#ClashEnBash
+Les Bricodeurs est un groupe informel de geeks qui se réunit le dimanche pour développer ensemble et débattre des enjeux technologiques. \#ClashEnBash
 
 Cette page retranscrit les débats. Vous êtes les bienvenus pour y contribuer. 
 

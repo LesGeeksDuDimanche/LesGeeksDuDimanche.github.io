@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Les Geeks
-excerpt: "Les geeks du dimanche, c'est comme à la maison"
+excerpt: "Les Bricodeurs, c'est comme à la maison"
 modified: 2015-07-24T19:44:38.564948-04:00
 image:
   feature:
