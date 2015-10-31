@@ -36,4 +36,4 @@ Si vous pensez que dans souper il y soupe, il y a du vrai. Par contre, oubliez c
 
 _&copy; youfactory_
 
-_Ce n'est pas fini! La série sur l'écosystème d'innovation de Lyon continue [ici](http://lesgeeksdudimanche.github.io/articles/semaine-ecosysteme-innovation-Lyon-mardi/)_
+_Ce n'est pas fini! La série sur l'écosystème d'innovation de Lyon continue [ici](http://lesbricodeurs.fr/articles/semaine-ecosysteme-innovation-Lyon-mardi/)_
