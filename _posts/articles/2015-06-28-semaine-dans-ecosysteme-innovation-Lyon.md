@@ -42,4 +42,4 @@ Oui monsieur, sur un parking, en travaux, devant un centre commercial, avec des 
 <iframe src="https://www.flickr.com/photos/133811245@N04/18595558265/in/album-72157653819287490/player/" width="640" height="427" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 
-_Ce n'est pas fini! La série sur l'écosystème d'innovation de Lyon continue [ici](http://lesgeeksdudimanche.github.io/articles/semaine-ecosysteme-innovation-Lyon-Lundi/)_
+_Ce n'est pas fini! La série sur l'écosystème d'innovation de Lyon continue [ici](http://lesbricodeurs.fr/articles/semaine-ecosysteme-innovation-Lyon-Lundi/)_

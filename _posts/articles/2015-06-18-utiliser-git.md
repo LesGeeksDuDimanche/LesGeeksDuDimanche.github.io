@@ -36,7 +36,7 @@ Deux options s'offrent à vous:
 
 un dossier .git est créé dans votre repertoire pour garder l'historique des modifications.
 
-	git clone https://github.com/LesGeeksDuDimanche/LesGeeksDuDimanche.github.io.git
+	git clone https://github.com/LesGeeksDuDimanche/lesbricodeurs.fr.git
 
 Un nouveau repertoire est créé, clonant à l'identique le dépot en ligne.
 
