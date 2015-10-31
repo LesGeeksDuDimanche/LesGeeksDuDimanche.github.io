@@ -5,7 +5,8 @@ Les Bricodeurs est un groupe informel de geeks qui se réunit le dimanche pour d
 
 Cette page retranscrit les débats. Vous êtes les bienvenus pour y contribuer. 
 
-La façon la plus simple est de visiter [Prose.io](http://prose.io), vous connecter avec github et editer les fichiers de la section _posts.
+La façon la plus simple est de visiter [Prose.io](http://prose.io) ou [classeur](http://classeur.io/), vous connecter avec github et editer les fichiers de la section _posts.
+
 
 
 # Technologie
