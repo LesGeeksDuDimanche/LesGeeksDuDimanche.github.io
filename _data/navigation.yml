@@ -6,14 +6,17 @@
 - title: Articles
   url: /articles/
 
-- title: Blog-Notes
+- title: Notes
   url: /notes/
 
 - title: Geeks
   url: /LesGeeks/ 
 
 - title: Projets
-  url: /LesProjets/   
+  url: /LesProjets/  
 
-- title: Search
+- title: Rejoindre
+  url: /NousRejoindre/
+
+- title: Recherche
   url: /search/
