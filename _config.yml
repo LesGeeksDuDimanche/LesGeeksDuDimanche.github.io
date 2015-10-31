@@ -4,7 +4,7 @@ title: Les Bricodeurs
 locale: fr_FR
 description: Parce que l'informatique c'est serieux \#Brioche \#ClashEnBash
 logo: lesbricodeurs.png
-url: https://lesbricodeurs.fr
+url: http://lesbricodeurs.fr/
 
 # Jekyll configuration
 
@@ -34,9 +34,9 @@ owner:
   name: Les Bricodeurs
   avatar: brioche.jpg
   email: lesbricodeurs@gmail.com
-  disqus-shortname: LesGeeksDuDimanche
+  disqus-shortname: LesBricodeurs
   twitter: LesBricodeurs
-  facebook: pages/Les-Bricodeurs/130913190581576
+  facebook: lesbricodeurs
   github: LesGeeksDuDimanche
   stackexchange:
   linkedin:
