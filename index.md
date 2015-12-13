@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A propos
+title:
 excerpt: "Les Bricodeurs, c'est comme à la maison"
 modified: 2015-06-08T19:44:38.564948-04:00
 image:
