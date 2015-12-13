@@ -1,8 +1,5 @@
 # Site navigation links
 
-- title: A propos
-  url: /about/
-
 - title: Articles
   url: /articles/
 
@@ -18,5 +15,5 @@
 - title: Rejoindre
   url: /NousRejoindre/
 
-- title: Recherche
-  url: /search/
+- title: Calendrier
+  url: /calendrier/
