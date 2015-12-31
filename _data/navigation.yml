@@ -1,19 +1,19 @@
 # Site navigation links
 
 - title: Articles
-  url: /articles/
+  url: Articles/
 
 - title: Notes
-  url: /notes/
+  url: Notes/
 
-- title: Geeks
-  url: /LesGeeks/ 
+- title: Bricodeurs
+  url: Trombines/ 
 
 - title: Projets
-  url: /LesProjets/  
+  url: Projets/  
 
 - title: Rejoindre
-  url: /NousRejoindre/
+  url: NousRejoindre/
 
 - title: Calendrier
-  url: /calendrier/
+  url: Calendrier/
