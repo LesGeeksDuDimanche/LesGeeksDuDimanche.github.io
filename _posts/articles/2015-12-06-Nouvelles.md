@@ -7,7 +7,7 @@ excerpt:
 tags: [Association, Organisation, goûters]
 image:
   feature:
-date: 2015-08-09T20:06:54+02:00
+date: 2015-12-09T20:06:54+02:00
 comments: true
 share: true
 published: true
