@@ -4,7 +4,7 @@ title: Les Bricodeurs
 locale: fr_FR
 description: Parce que l'informatique c'est serieux \#Brioche \#ClashEnBash
 logo: lesbricodeurs.png
-url: //127.0.0.1:4000
+url: //localhost:4000
 
 # Jekyll configuration
 
