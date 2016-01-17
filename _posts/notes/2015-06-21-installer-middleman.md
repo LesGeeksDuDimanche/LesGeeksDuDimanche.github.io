@@ -3,7 +3,7 @@ layout: post
 title: Installer Middleman
 modified:
 categories: notes
-excerpt: 
+excerpt: Bienvenue chez Ruby Frontend
 tags: [Installation, ruby]
 image:
   feature:

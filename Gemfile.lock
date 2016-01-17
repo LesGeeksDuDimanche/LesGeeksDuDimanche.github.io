@@ -75,7 +75,7 @@ GEM
     redcarpet (3.3.4)
     rouge (1.10.1)
     safe_yaml (1.0.4)
-    sass (3.4.20)
+    sass (3.4.21)
     sawyer (0.6.0)
       addressable (~> 2.3.5)
       faraday (~> 0.8, < 0.10)
