@@ -23,3 +23,4 @@ Rejoignez nous sur  {% if site.owner.facebook %}<a href="http://facebook.com/{{ 
 	
 ![geeks a lunettes]({{ site.url }}/images/baby.jpg)
 {: .rond}
+
