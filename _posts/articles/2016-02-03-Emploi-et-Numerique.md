@@ -3,7 +3,7 @@ layout: post
 title: Emploi et numérique
 modified:
 categories: articles
-excerpt:
+excerpt: Quand les grands groupes parlent d'indépendance
 tags: [Emploi, génération XYZ, Société]
 image:
   feature:
@@ -11,7 +11,8 @@ date: 2016-02-03T11:06:54+02:00
 comments: true
 share: true
 published: true
-author: Xavier Lavayssiere
+author: xavier
+
 ---
 
 ## L'emploi numérique: vers l'indépendance?
