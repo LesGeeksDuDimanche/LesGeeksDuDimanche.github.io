@@ -11,7 +11,6 @@ date: 2016-02-03T11:06:54+02:00
 comments: true
 share: true
 published: true
-author: xavier
 
 ---
 
@@ -36,7 +35,7 @@ Une conversation qui laissait largement la place au technique sur scène aussi, 
 <blockquote class="twitter-tweet" data-lang="fr"><p lang="fr" dir="ltr">L&#39;intelligence artificielle me fait moins peur que la stupidité naturelle <a href="https://twitter.com/derosnayjoel">@derosnayjoel</a> <a href="https://twitter.com/hashtag/DSFemploi?src=hash">#DSFemploi</a></p>&mdash; Astrid Cousin (@Astrid_Cousin) <a href="https://twitter.com/Astrid_Cousin/status/694812905624244224">3 Février 2016</a></blockquote>
 
 
-Enfin Frederic Mazella a réintroduit la question de la [pause numérique](https://twitter.com/LesBricodeurs/status/694815484680740864). Déconnecter du travail, mais aussi de toutes les activités. Notre génération ne vis pas avec internet mais dans le numérique.
+Enfin Frederic Mazella a réintroduit la question de la [pause numérique](https://twitter.com/LesBricodeurs/status/694815484680740864). Déconnecter du travail, mais aussi de toutes les activités. Notre génération ne vis pas avec internet mais dans le numérique rappelle Joel de Rosnay.
 
 
 
