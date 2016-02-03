@@ -1,7 +1,7 @@
 ---
 layout: page
 title:
-excerpt: "Les Bricodeurs, c'est comme à la maison"
+excerpt: Quelques pensées sur le numérique"
 modified: 2015-06-08T19:44:38.564948-04:00
 image:
   feature:
@@ -9,9 +9,16 @@ image:
   creditlink:
 ---
 
-Les Bricodeurs, c'est une bande d'amis qui se réunit le dimanche pour échanger et s'entraider sur des sujets technologiques autour de brioches, de café et de pâtes.
+Les Bricodeurs regroupe les jeunes professionnels indépendants du numérique avec pour objectif de diffuser la culture numérique et soutenir les projets numériques citoyens. 
 
-Notre objectif est de mettre ces connaissances à profit pour aider des projets citoyens et contribuer à la diffusion de la culture numérique.
+En pratique, on aime se réunir autour d'une brioche pour des:
+
+* _ateliers_ d'apprentissage collaboratif du web: apprendre à faire un site ou une application avec nodejs, meteor, php, html
+* _gouters_ d’initiation pour enfants au code et à la robotique
+* _permanences_ pour orienter et rediriger les entreprises, associations et indépendants vers les bonnes ressources pour leurs projets numériques
+* _bricode du dimanche_ pour échanger et s'entraider sur des sujets technologiques
+
+Basés principalement à Lyon, nous préparons des branches dans plusieurs villes. Si vous êtes intéressés, contactez nous: salut@lesbricodeurs.fr
 
 Rejoignez nous sur  {% if site.owner.facebook %}<a href="http://facebook.com/{{ site.owner.facebook }}" title="{{ site.owner.name}} on Facebook" target="_blank"><i class="fa fa-facebook-square fa-2x"></i></a>{% endif %}
 	ou 
