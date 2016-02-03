@@ -2,7 +2,7 @@
 layout: post
 title: Nouvelles et calendrier
 modified:
-categories: articles
+categories: notes
 excerpt:
 tags: [Association, Organisation, goûters]
 image:
@@ -11,6 +11,7 @@ date: 2015-12-09T20:06:54+02:00
 comments: true
 share: true
 published: true
+
 ---
 
 ## Ces dernières semaines
