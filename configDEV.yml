@@ -10,7 +10,7 @@ url: //localhost:4000
 
 permalink:   /:categories/:title/
 markdown:    kramdown
-highlighter: kramdown
+highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed

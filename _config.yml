@@ -10,7 +10,7 @@ url: http://lesbricodeurs.fr/
 
 permalink:   /:categories/:title/
 markdown:    kramdown
-highlighter: kramdown
+highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
@@ -33,7 +33,7 @@ comments: true
 owner:
   name: Les Bricodeurs
   avatar: brioche.jpg
-  email: lesbricodeurs@gmail.com
+  email: salut@lesbricodeurs.fr
   disqus-shortname: LesBricodeurs
   twitter: LesBricodeurs
   facebook: lesbricodeurs
