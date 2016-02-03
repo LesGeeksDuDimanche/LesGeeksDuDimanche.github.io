@@ -11,7 +11,7 @@ date: 2016-02-03T11:06:54+02:00
 comments: true
 share: true
 published: true
-
+author: xavier
 ---
 
 ## L'emploi numérique: vers l'indépendance?
@@ -36,6 +36,8 @@ Une conversation qui laissait largement la place au technique sur scène aussi, 
 
 
 Enfin Frederic Mazella a réintroduit la question de la [pause numérique](https://twitter.com/LesBricodeurs/status/694815484680740864). Déconnecter du travail, mais aussi de toutes les activités. Notre génération ne vis pas avec internet mais dans le numérique rappelle Joel de Rosnay.
+
+
 
 
 
