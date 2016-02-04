@@ -18,7 +18,7 @@ published: true
 
 Dans le cas où quelqu'un lirait ces pages, ces derniers mois ont été un peu fous.
 
-L'association s'est enrichie d'une mascotte, bobby. Les goûters ont quitté la quiétude des salons et des dimanches pour se jeter dans le grand bain public et samuel tient exceptionnellement bien la barque des séances de Colearning.
+L'association s'est enrichie d'une mascotte, bobby. Les goûters ont quitté la quiétude des salons et des dimanches pour se jeter dans le grand bain public et Samuel tient exceptionnellement bien la barque des séances de Colearning.
 
 De façon anecdotique, voici le calendrier: 
  
@@ -26,7 +26,7 @@ De façon anecdotique, voici le calendrier:
 
 Quelques actions en préparation: 
 
-* plus de goûter ( notamment le 30 janvier à l'EPN des Rancy)
+* plus de goûters ( notamment le 30 janvier à l'EPN des Rancy)
 * un grand événement numérique, design et son
 * des partenariats avec des homologues lyonnais
 

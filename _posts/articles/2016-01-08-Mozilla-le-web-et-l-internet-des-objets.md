@@ -15,14 +15,11 @@ published: true
 
 ## Du Mozilla dans ton objet connecté
 
-Nommé d'après un tissus japonais servant à faire les Kimono traditionnels, Mozilla lance sa plateforme open hardware. 
+Nommé d'après un tissu japonais servant à faire les Kimono traditionnels, Mozilla lance sa plateforme open hardware. 
 
-Equipé du Firefox OS, il s'agit d'un petit ordinateur, avec 1G de ram, 1G de mémoire flash, un port micro USB, un port USB, HDMI... Le prix derait être en dessous de [50$](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS/Board_guide/CHIRIMEN).
+Equipé du Firefox OS, il s'agit d'un petit ordinateur, avec 1G de ram, 1G de mémoire flash, un port micro USB, un port USB, HDMI... Le prix devrait être en dessous de [50$](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS/Board_guide/CHIRIMEN).
 
 <img src="{{ site.url }}/images/chirimen_2.gif" alt="Chirimen" style="width: 50%;"/>
-
-
-
 
 ##L'IOT pour les développeurs Web
 

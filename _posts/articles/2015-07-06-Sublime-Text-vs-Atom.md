@@ -17,11 +17,11 @@ author: xavier
 published: true
 ---
 
-Je me souviens encore de ce moment où un ami me partageait son enthousiasme pour Sublime Text. Il devait remporter mon adhésion instantanément avec l'édition multiligne:
+Je me souviens encore de ce moment où un ami me partageait son enthousiasme pour Sublime Text. Il devait remporter mon adhésion instantanément avec l'édition multiligne :
 
 ![primaire]({{ site.url }}/images/primaire.gif)
 
-Avec l'arrivée récente d'Atom, un éditeur basé sur chromium et développé par les équipes de Github, il est temps de réévaluer ses habitudes.
+Avec l'arrivée récente d'Atom, un éditeur basé sur Chromium et développé par les équipes de Github, il est temps de réévaluer ses habitudes.
 
 ## Installation
 
@@ -58,8 +58,6 @@ Si Sublime Text est téléchargeable gratuitement, un petit pop up rappelle qu'i
 
 ## En résumé
 
-Avec une interface et des raccourcis clavier similaires, le passage de l'un à l'autre est pratiquement indifférent. Si aujourd'hui Sublime Text est un projet plus mature, le [dynamisme](https://github.com/atom/atom) d' Atom et son équipe devrait rapidement propulser cet éditeur.
+Avec une interface et des raccourcis clavier similaires, le passage de l'un à l'autre est pratiquement indifférent. Si aujourd'hui Sublime Text est un projet plus mature, le [dynamisme](https://github.com/atom/atom) d'Atom et son équipe devrait rapidement propulser cet éditeur.
 
-
-
-N'hésitez pas à compléter cet article de vos avis:
+N'hésitez pas à compléter cet article de vos avis.

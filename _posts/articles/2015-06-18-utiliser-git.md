@@ -12,15 +12,15 @@ author: xavier
 comments: true
 share: true
 ---
-Apprendre à utiliser git, c'est un peu comme apprendre à faire ses lacets. On peut faire sans, mais la vie devient plus simple et moins dangereuse avec.
+Apprendre à utiliser *git*, c'est un peu comme apprendre à faire ses lacets. On peut faire sans, mais la vie devient plus simple et moins dangereuse avec.
 
-Dans un répertoire donné git vous permet d'enregistrer les modifications de votre travail. Chaque enregistrement est appelé *commit*. L’intérêt est multiple: avoir un historique des modifications et pouvoir revenir en arrière, pouvoir partager ces modifications à plusieurs, gérer les conflits de versions, gagner le respect d'autres développeurs ...
+Dans un répertoire donné *git* vous permet d'enregistrer les modifications de votre travail. Chaque enregistrement est appelé *commit*. L’intérêt est multiple : avoir un historique des modifications et pouvoir revenir en arrière, pouvoir partager ces modifications à plusieurs, gérer les conflits de versions, gagner le respect d'autres développeurs ...
 
 Voici une brève introduction.
 
 ## Configuration
 
-Sur ubuntu vous pouvez installer git en tapant simplement `sudo apt-get install git`. Voilà.
+Sur ubuntu, vous pouvez installer *git* en tapant simplement `sudo apt-get install git`. Voilà.
 
     git config --global user.email "you@example.com"
     git config --global user.name "Your Name"
@@ -34,7 +34,7 @@ Deux options s'offrent à vous:
 
 	git init
 
-un dossier .git est créé dans votre repertoire pour garder l'historique des modifications.
+Un dossier .git est créé dans votre repertoire pour garder l'historique des modifications.
 
 	git clone https://github.com/LesGeeksDuDimanche/lesbricodeurs.fr.git
 
@@ -52,11 +52,11 @@ Permet de créer un enregistrement de l'état de votre travail avec un intitulé
 
   git commit --amend --no-edit
 
-Permet de réenregistrer le précedent commit en ajoutant des modifications. Eviter si vous avec déjà publié.
+Permet de réenregistrer le précedent commit en ajoutant des modifications. Eviter si vous avez déjà publié.
 
 	git push
 
-Vous permet d'envoyer sur le dépôt distant les modifications. Si vous avez utilisé `git clone` celui ci est déjà configuré.
+Vous permet d'envoyer sur le dépôt distant les modifications. Si vous avez utilisé `git clone`, celui ci est déjà configuré.
 
 Pour compléter voici d'excellents [tutoriels](https://www.atlassian.com/git/tutorials/) sur git.
 
