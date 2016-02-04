@@ -1,7 +1,7 @@
-- name: Bricopad
-  avatar: bricopad.jpg
-  description: "Hackpad stylé"
-  url: http://bricopad.com
+- name: BricoLinux
+  avatar: bricolinux.png
+  description: "Distribution linux légère spécialement conçue pour l'éducation au numérique"
+  url: 
 
 - name: Huby
   avatar: huby.jpg
@@ -17,3 +17,8 @@
   avatar: fauteuil.jpg
   description: "Sharp Tag localization"
   url: http://lesbricodeurs.fr/diesearobaset/
+
+- name: Bricopad
+  avatar: bricopad.jpg
+  description: "Hackpad stylé"
+  url: http://bricopad.com
