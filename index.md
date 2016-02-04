@@ -11,9 +11,9 @@ image:
 
 Les Bricodeurs regroupe les jeunes professionnels indépendants du numérique avec pour objectif de diffuser la culture numérique et soutenir les projets numériques citoyens. 
 
-En pratique, on aime se réunir autour d'une brioche pour des:
+En pratique, on aime à se réunir autour d'une brioche pour des:
 
-* _ateliers_ d'apprentissage collaboratif du web: apprendre à faire un site ou une application avec nodejs, meteor, php, html
+* _ateliers_ d'apprentissage collaboratif du web: apprendre à faire un site ou une application avec nodejs, meteor, php, html, data science ...
 * _gouters_ d’initiation pour enfants au code et à la robotique
 * _permanences_ pour orienter et rediriger les entreprises, associations et indépendants vers les bonnes ressources pour leurs projets numériques
 * _bricode du dimanche_ pour échanger et s'entraider sur des sujets technologiques
