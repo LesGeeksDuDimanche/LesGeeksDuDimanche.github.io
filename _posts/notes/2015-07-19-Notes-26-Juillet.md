@@ -17,7 +17,7 @@ published: true
 * [Kivy](http://kivy.org/) framework python
 * [React.js](http://react.js/) vs Cordova
 * La mort du natif?
-* Développement de Python: des labos au développement web
+* Développement de Python : des labos au développement web
 * Framework pour développer un petit site [bottle](http://bottlepy.org/docs/dev/index.html)
 
 ## Media Innovation & Arts Numériques
@@ -46,4 +46,4 @@ poésie et mots de l'innovation, xpl: les designer
 * Cas de l'Entreprise [Poult](http://www.groupe-poult.com/une-entreprise-liberee-ouverte-sur-son-ecosysteme/)
 * Turing : intérêts individuels VS guerre
 * [Outils de communication](/Les-outils-de-communication-travail-collaboratif-iTxaoGiBZHU)
-* [Limiter le temps](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji) sur Facebook et autres réseaux sociaux pour faire des tunnels de concentration :
+* [Limiter le temps](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji) sur Facebook et autres réseaux sociaux pour faire des tunnels de concentration

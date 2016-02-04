@@ -11,14 +11,14 @@ image:
 
 Les Bricodeurs regroupe les jeunes professionnels indépendants du numérique avec pour objectif de diffuser la culture numérique et soutenir les projets numériques citoyens. 
 
-En pratique, on aime à se réunir autour d'une brioche pour des:
+En pratique, on aime à se réunir autour d'une brioche pour des :
 
-* _ateliers_ d'apprentissage collaboratif du web: apprendre à faire un site ou une application avec nodejs, meteor, php, html, data science ...
-* _gouters_ d’initiation pour enfants au code et à la robotique
+* _ateliers_ d'apprentissage collaboratif du web : apprendre à faire un site ou une application avec nodejs, meteor, php, html, data science ...
+* _goûters_ d’initiation pour enfants au code et à la robotique
 * _permanences_ pour orienter et rediriger les entreprises, associations et indépendants vers les bonnes ressources pour leurs projets numériques
 * _bricode du dimanche_ pour échanger et s'entraider sur des sujets technologiques
 
-Basés principalement à Lyon, nous préparons des branches dans plusieurs villes. Si vous êtes intéressés, contactez nous: salut@lesbricodeurs.fr
+Basés principalement à Lyon, nous préparons des branches dans plusieurs villes. Si vous êtes intéressés, contactez nous: <salut@lesbricodeurs.fr>
 
 Rejoignez nous sur  {% if site.owner.facebook %}<a href="http://facebook.com/{{ site.owner.facebook }}" title="{{ site.owner.name}} on Facebook" target="_blank"><i class="fa fa-facebook-square fa-2x"></i></a>{% endif %}
 	ou 

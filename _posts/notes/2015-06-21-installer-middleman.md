@@ -13,8 +13,8 @@ comments: true
 share: true
 ---
 
-Middleman est un utilitaire Ruby qui permet de faciliter la réalisation sites statiques.
-Nous vous proposons d'apprendre à l'installer, ainsi que le template middleman-bss qui vous fournit une base pour un joli site utilisant bootstrap. Attention, ces notes très succintes sont destinées à être un aide mémoire.
+Middleman est un utilitaire Ruby qui permet de faciliter la réalisation de sites statiques.
+Nous vous proposons d'apprendre à l'installer, ainsi que le template middleman-bss qui vous fournit une base pour un joli site utilisant bootstrap. Attention, ces notes très succintes sont destinées à être un aide-mémoire.
 
 ## Installation sous Ubuntu de middleman
 
