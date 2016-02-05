@@ -1,7 +1,7 @@
 # Authors
 
 
-- name: Robert Riemann
+- name: Robert 
   web: 
   email: 
   bio: "humanist, moralist, physicist, and cosmopolitan from Berlin, PhD student in election infrastructure sciences"
@@ -10,7 +10,7 @@
   google:
     plus:
 
-- name: Samy Rabih
+- name: Samy 
   web: 
   email: 
   bio: "Du mauvais caractère au petit déj, du e-commerce au déjeuner, des apéros en fin de journée (et dév PHP au quotidien)"
@@ -19,52 +19,7 @@
   google:
     plus:
 
-- name: Xavier Lavayssiere
-  web: http://xalava.github.io
-  email: xavier@bricodeur.com
-  bio: "Longtemps, je me suis couché de bonne heure. Et puis j'ai installé Debian..."
-  avatar: Xa.jpg
-  twitter: XavierLava
-  google:
-    plus: 
-
-- name: Samuel Eyre
-  web: 
-  email: 
-  bio: "Rêveur, entrepreneur, ingénieur, artiste."
-  avatar: lesbricodeurs.png
-  twitter: 
-  google:
-    plus: 
-
-- name: Cyril Rouillon
-  web: 
-  email: 
-  bio: ""
-  avatar: lesbricodeurs.png
-  twitter: 
-  google:
-    plus: 
-
-- name: Zoé Thivet
-  web: 
-  email: 
-  bio: ""
-  avatar: lesbricodeurs.png
-  twitter: 
-  google:
-    plus: 
-
-- name: Flavien Chervet
-  web: 
-  email: 
-  bio: "De l'art à la techno pimenté par une touche de philosophie et de commerce, profil polyvalent qui veut changer le monde :D"
-  avatar: lesbricodeurs.png
-  twitter: 
-  google:
-    plus: 
-
-- name: Xavier Duvert
+- name: Xavier 
   web: 
   email: 
   bio: "Avant j’achetais des objets, maintenant je les bricode!"
@@ -73,7 +28,16 @@
   google:
     plus:     
 
-- name: Edouard Touraille
+- name: Samuel 
+  web: 
+  email: 
+  bio: "Rêveur, entrepreneur, ingénieur, artiste."
+  avatar: lesbricodeurs.png
+  twitter: 
+  google:
+    plus: 
+
+- name: Cyril 
   web: 
   email: 
   bio: ""
@@ -82,7 +46,35 @@
   google:
     plus: 
 
-- name: Stanislas Blaineau
+- name: Zoé 
+  web: 
+  email: 
+  bio: ""
+  avatar: lesbricodeurs.png
+  twitter: 
+  google:
+    plus: 
+
+- name: Flavien 
+  web: 
+  email: 
+  bio: "De l'art à la techno pimenté par une touche de philosophie et de commerce, profil polyvalent qui veut changer le monde :D"
+  avatar: lesbricodeurs.png
+  twitter: 
+  google:
+    plus: 
+
+
+- name: Edouard 
+  web: 
+  email: 
+  bio: ""
+  avatar: lesbricodeurs.png
+  twitter: 
+  google:
+    plus: 
+
+- name: Stanislas 
   web: 
   email: 
   bio: "Doux comme une brioche !"
@@ -91,11 +83,20 @@
   google:
     plus: 
 
-- name: Claire Zuliani
+- name: Claire 
   web: 
   email: 
   bio: ""
   avatar: lesbricodeurs.png
   twitter: 
+  google:
+    plus: 
+
+- name: Xavier 
+  web: http://xalava.github.io
+  email: xavier@bricodeur.com
+  bio: "Longtemps, je me suis couché de bonne heure. Et puis j'ai installé Debian..."
+  avatar: Xa.jpg
+  twitter: XavierLava
   google:
     plus: 
