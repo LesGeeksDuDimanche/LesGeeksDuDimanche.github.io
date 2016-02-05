@@ -64,6 +64,15 @@
   google:
     plus: 
 
+- name: Xavier Duvert
+  web: 
+  email: 
+  bio: "Avant j’achetais des objets, maintenant je les bricode!"
+  avatar: xavierD.jpg
+  twitter: 
+  google:
+    plus:     
+
 - name: Edouard Touraille
   web: 
   email: 
@@ -72,12 +81,3 @@
   twitter: 
   google:
     plus: 
-
-- name: Xavier Duvert
-  web: 
-  email: 
-  bio: ""
-  avatar: lesbricodeurs.png
-  twitter: 
-  google:
-    plus:     
