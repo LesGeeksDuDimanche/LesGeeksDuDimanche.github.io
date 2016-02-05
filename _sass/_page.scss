@@ -293,3 +293,14 @@ span + .entry-title {
 		vertical-align: middle;
 	}
 }
+
+// .lesbios{
+// 	@include outer-container;
+
+// }
+
+.bio {
+	@include span-columns(4);
+	@include omega(3n);
+	margin-bottom: 2rem;
+}
