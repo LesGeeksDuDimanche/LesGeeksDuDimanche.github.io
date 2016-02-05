@@ -10,13 +10,12 @@ image:
 ---
 
 
-
-{% for member in site.data.members %} 
-
-###    {{member.name}}
-![{{ member.name }}]({{ site.url }}/images/{{ member.avatar }}){: .bio-photo}
-_{{member.bio}}_ 
-
-
+{% for member in site.data.authors %} 
+<div class="bio">
+		<img alt="{{ member.name }}" src="{{ site.url }}/images/{{ member.avatar }}" class="bio-photo">
+	<h4>    {{member.name}}</h4>
+	<i>{{member.bio}}</i>
+</div>
 {% endfor %}
+
 

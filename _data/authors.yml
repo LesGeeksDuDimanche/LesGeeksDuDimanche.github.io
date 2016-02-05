@@ -1,21 +1,83 @@
 # Authors
 
-xavier:
-  name: Xavier Lavayssiere
+
+- name: Robert Riemann
+  web: 
+  email: 
+  bio: "humanist, moralist, physicist, and cosmopolitan from Berlin, PhD student in election infrastructure sciences"
+  avatar: robert.jpg
+  twitter: rriemann_eu
+  google:
+    plus:
+
+- name: Samy Rabih
+  web: 
+  email: 
+  bio: "Du mauvais caractère au petit déj, du e-commerce au déjeuner, des apéros en fin de journée (et dév PHP au quotidien)"
+  avatar: samy.png
+  twitter: SamyRabih
+  google:
+    plus:
+
+- name: Xavier Lavayssiere
   web: http://xalava.github.io
-  email: xavier.lavayssiere@gmail.com
+  email: xavier@bricodeur.com
   bio: "Longtemps, je me suis couché de bonne heure. Et puis j'ai installé Debian..."
   avatar: Xa.jpg
   twitter: XavierLava
   google:
     plus: 
 
-robert:
-  name: Robert Riemann
+- name: Samuel eyre
   web: 
   email: 
-  bio: "Berlin  Europe"
-  avatar: bio-photo.jpg
-  twitter: rriemann_eu
+  bio: ""
+  avatar: lesbricodeurs.png
+  twitter: 
   google:
-    plus:
+    plus: 
+
+- name: Cyril Rouillon
+  web: 
+  email: 
+  bio: ""
+  avatar: lesbricodeurs.png
+  twitter: 
+  google:
+    plus: 
+
+- name: Zoé Thivet
+  web: 
+  email: 
+  bio: ""
+  avatar: lesbricodeurs.png
+  twitter: 
+  google:
+    plus: 
+
+- name: Flavien Chervet
+  web: 
+  email: 
+  bio: ""
+  avatar: lesbricodeurs.png
+  twitter: 
+  google:
+    plus: 
+
+- name: Edouard Touraille
+  web: 
+  email: 
+  bio: ""
+  avatar: lesbricodeurs.png
+  twitter: 
+  google:
+    plus: 
+
+- name: Xavier Duvert
+  web: 
+  email: 
+  bio: ""
+  avatar: lesbricodeurs.png
+  twitter: 
+  google:
+    plus:     
