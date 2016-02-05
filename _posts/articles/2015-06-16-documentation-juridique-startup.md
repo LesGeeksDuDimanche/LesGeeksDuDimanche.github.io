@@ -13,7 +13,7 @@ share: true
 author: xavier
 ---
 
-Petit tremblement de terre dans l'écosystème startup français, un cabinet d'avocat et l'incubateur parisien "The Family" viennent de publier en [open source](/articles/LicencesOuvertes/) toute la documentation juridique nécessaire au développement d'une startup. 
+Petit tremblement de terre dans l'écosystème startup français, un cabinet d'avocats et l'incubateur parisien "The Family" viennent de publier en [open source](/articles/LicencesOuvertes/) toute la documentation juridique nécessaire au développement d'une startup. 
 
 Pour accéder directement au dépôt Github avec le contenu :
 
@@ -22,6 +22,5 @@ Pour accéder directement au dépôt Github avec le contenu :
 Vous pouvez retrouver le site et les documents :
 
 [http://www.jurismatic.com/](http://www.jurismatic.com/)
-
 
 Mes amis avocats rappellent que ce n'est qu'une base, et que je leur dois encore un resto.

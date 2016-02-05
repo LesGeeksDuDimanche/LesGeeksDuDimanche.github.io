@@ -12,7 +12,7 @@ comments: true
 share: true
 ---
 
-Voici le premier post de blog pour feter l'ouverture du site, d'un traditionnel "Hello World".
+Voici le premier post de blog pour fêter l'ouverture du site, d'un traditionnel "Hello World".
 
 Voici quelques infos: 
 

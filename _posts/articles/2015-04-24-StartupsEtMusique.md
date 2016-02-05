@@ -13,7 +13,6 @@ share: true
 ##Général
 
 Article autour de <a href=" http://digitalmedia.strategyeye.com/article/YjSU8smHwqo/2015/05/01/insight_lessons_from_5_failed_music_startups/">quelques échecs.</a>
-
  
 ##JIWA 
 Cas entièrement en droit français:
@@ -27,7 +26,7 @@ et sur les exigences des majors  :
  
 
 ## Pour se détendre, un extrait des nuits sonores 2015
-Briller comme un diamant:
+Briller comme un diamant :
 
 <iframe src="https://player.vimeo.com/video/128000573" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 

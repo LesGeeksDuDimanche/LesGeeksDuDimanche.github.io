@@ -24,4 +24,3 @@ Ce vendredi, un choix de programmation, mêlant culture électronique et musique
 <iframe src="{{ site.url }}/images/ethnotek.mp4" frameborder="0" width="300"> </iframe>
 
 _&copy; Guillaume Delavinceneil‎_
-

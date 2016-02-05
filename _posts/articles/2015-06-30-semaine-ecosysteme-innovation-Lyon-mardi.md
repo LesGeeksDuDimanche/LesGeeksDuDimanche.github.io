@@ -15,21 +15,13 @@ share: true
 
 _Une semaine dans l'écosystème d'innovation de Lyon est un mini reportage sur la première semaine de juin à Lyon dans l'écosystème d'innovation. Vous pouvez rattraper les premiers épisodes : [dimanche](/articles/semaine-dans-ecosysteme-innovation-Lyon/) et [lundi](/articles/semaine-ecosysteme-innovation-Lyon-Lundi/)_ 
 
-
-
-
 **Salon des Entrepreneurs** 
 
 ![Le Salon Des Entrepreneurs]({{ site.url }}/images/SIajel.jpg){: .pull-right}
 
+Le salon des entrepreneurs est un haut lieu de l'innovation où l'on peut retrouver des banques, des assurances et des collectivités publiques. C'est très dynamique, il y a des photos de jeunes qui sautent sur les murs. Si vous aimiez les risques, vous pouviez même avoir une poignée de mains énergique avec le président de l'association des jeunes entrepreneurs lyonnais.
 
-Le salon des entrepreneurs est un haut lieu de l'innovation où l'on peut retrouver des banques, des assurances et des collectivités publiques. C'est très dynamique, il y a des photos de jeunes qui sautent sur les murs. Si vous aimiez les risques vous pouviez même avoir une poignée de mains énergique avec le président de l'association des jeunes entrepreneurs lyonnais.
-
-
-Côté conférences, on retrouvait les stars locales, dont Lucas Mesquita, récemment couronné d'un joli tour de table. L'associé d'Axeleo relevait que la France produit peu de "_licornes_", ces startups dont le chiffre d'affaires explosent en quelques années. Un peu provocateur, pour lui un incubateur avec un taux de succès élevé failli à sa mission, de même "[une startup n'est pas là pour faire de l'argent, mais croître un chiffre d'affaire"](https://twitter.com/RatioAbsurdum/status/605715609708544000). Dans l'ambiance survolté de la cité internationale, on y apprenait l'importance des émotions pour l'entrepreneuriat.
-
-<br/>
-<br/>
+Côté conférences, on retrouvait les stars locales, dont Lucas Mesquita, récemment couronné d'un joli tour de table. L'associé d'Axeleo relevait que la France produit peu de "_licornes_", ces startups dont le chiffre d'affaires explosent en quelques années. Un peu provocateur, pour lui un incubateur avec un taux de succès élevé faillit à sa mission, de même "[une startup n'est pas là pour faire de l'argent, mais croître un chiffre d'affaire"](https://twitter.com/RatioAbsurdum/status/605715609708544000). Dans l'ambiance survoltée de la cité internationale, on y apprenait l'importance des émotions pour l'entrepreneuriat.
 
 **Apero Only Lyon Design**
 
