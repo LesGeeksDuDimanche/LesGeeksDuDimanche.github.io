@@ -31,7 +31,7 @@
 - name: Samuel Eyre
   web: 
   email: 
-  bio: ""
+  bio: "Rêveur, entrepreneur, ingénieur, artiste."
   avatar: lesbricodeurs.png
   twitter: 
   google:
@@ -58,7 +58,7 @@
 - name: Flavien Chervet
   web: 
   email: 
-  bio: ""
+  bio: "De l'art à la techno pimenté par une touche de philosophie et de commerce, profil polyvalent qui veut changer le monde :D"
   avatar: lesbricodeurs.png
   twitter: 
   google:
@@ -74,6 +74,24 @@
     plus:     
 
 - name: Edouard Touraille
+  web: 
+  email: 
+  bio: ""
+  avatar: lesbricodeurs.png
+  twitter: 
+  google:
+    plus: 
+
+- name: Stanislas Blaineau
+  web: 
+  email: 
+  bio: "Doux comme une brioche !"
+  avatar: lesbricodeurs.png
+  twitter: 
+  google:
+    plus: 
+
+- name: Claire Zuliani
   web: 
   email: 
   bio: ""
