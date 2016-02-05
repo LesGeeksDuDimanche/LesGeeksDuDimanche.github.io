@@ -21,8 +21,8 @@ published: true
 
 Ubuntu est un système d'exploitation qui convient particulièrement:
 
-* Aux geeks: outils développeurs, système le plus utilisé par les serveurs web, personnalisation infinie...
-* Aux moins geeks: système fiable, stable & sans virus. Il faut néanmoins un peu de bonne volonté pour l'installer. Des [associations de geeks locaux](https://aful.org/gul) (comme Les Bricodeurs) peuvent vous aider.
+* Aux geeks : outils développeurs, système le plus utilisé par les serveurs web, personnalisation infinie...
+* Aux moins geeks : système fiable, stable & sans virus. Il faut néanmoins un peu de bonne volonté pour l'installer. Des [associations de geeks locaux](https://aful.org/gul) (comme Les Bricodeurs) peuvent vous aider.
 
 Voici quelques notes qui me servent installer rapidement les outils utiles.
 
@@ -68,11 +68,11 @@ Avec par exemple:
 ## Configuration personnelle
 
 * Configurer Dropbox
-* Config guake: quick open pour ouvrir les liens
+* Config guake : quick open pour ouvrir les liens
 * alt+enter sur un fichier pour redéfinir l'application par defaut
 
-* Firefox: Adblock
-* Nautilus: Ctrl+B pour modifier les signets
+* Firefox : Adblock
+* Nautilus : Ctrl+B pour modifier les signets
 * Sublime Text 
   * Installer
   * Ajouter au fichier de config `"save_on_focus_lost": true,`
@@ -84,8 +84,6 @@ Avec par exemple:
 * Ligne de commande en couleur:
 décommenter la ligne dans .bashrc  ( subl ~/.basrc)
   force_color_prompt=yes
-
-
 
 ### Ubuntu Gnome flasback
 

@@ -12,7 +12,7 @@ comments: true
 share: true
 published: true
 ---
-Quelques neurones, des litres de menthes à l'eau et un gateau au pavot plus tard:
+Quelques neurones, des litres de menthe à l'eau et un gateau au pavot plus tard:
 
 ## Se mettre au développement web
 
@@ -30,7 +30,7 @@ Quelques neurones, des litres de menthes à l'eau et un gateau au pavot plus tar
 
 * Opendata 69
 * [Aldil](http://www.aldil.org/)
-* [Illyse](http://www.illyse.net/): FAI associatif à Lyon
+* [Illyse](http://www.illyse.net/) : FAI associatif à Lyon
 * Tetalab à Toulouse: FAI, travaille en zone blanche, mission de sensibiliser le public
 * Démosphère, belle réussite à Toulouse
 * Framasoft , quelques employés:
@@ -42,7 +42,7 @@ Quelques neurones, des litres de menthes à l'eau et un gateau au pavot plus tar
 
 * [microformats](http://microformats.org/)
 * [schema.org](http://schema.org)
-* google indexe en particulier: adresses, cartes de visite,rating
+* google indexe en particulier : adresses, cartes de visite,rating
 * kimono
 
 **Intelligence artificielle**
@@ -55,10 +55,10 @@ Quelques neurones, des litres de menthes à l'eau et un gateau au pavot plus tar
 
 **Les langages du Big Data**
 
-Les langages les plus utilisés: R & Python
+Les langages les plus utilisés : R & Python
 
 ## Random
 
-festival Hallucination collectives, ressort des films qui ont pas eu le succès mérité
+festival Hallucination collectives, ressort des films qui n'ont pas eu le succès mérité
 
-Starbuck a du fermer 300 café en France, le modèle n'est pas tout à fait adapté
+Starbuck a du fermer 300 cafés en France, le modèle n'est pas tout à fait adapté

@@ -38,9 +38,4 @@ Une conversation qui laissait largement la place au technique sur scène aussi, 
 Enfin Frederic Mazella a réintroduit la question de la [pause numérique](https://twitter.com/LesBricodeurs/status/694815484680740864). Déconnecter du travail, mais aussi de toutes les activités. Notre génération en effet ne vit pas avec internet mais dans le numérique comme le rappelle Joel de Rosnay.
 
 
-
-
-
-
-
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
