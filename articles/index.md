@@ -18,7 +18,7 @@ search_omit: true
 
 <ul class="post-list">
 {% for post in site.categories.articles %} 
-  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ page.date | date: "%-d" }} {% assign m = page.date | date: "%-m" %}
+  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%-d" }} {% assign m = post.date | date: "%-m" %}
 {% case m %}
   {% when '1' %}Janvier
   {% when '2' %}Février
@@ -32,7 +32,7 @@ search_omit: true
   {% when '10' %}Octobre
   {% when '11' %}Novembre
   {% when '12' %}Décembre
-{% endcase %} {{ page.date | date: "%-d" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li>
+{% endcase %} {{ post.date | date: "%-d" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li>
 {% endfor %}
 </ul>
 
