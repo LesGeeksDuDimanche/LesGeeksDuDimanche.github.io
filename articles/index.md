@@ -32,7 +32,7 @@ search_omit: true
   {% when '10' %}Octobre
   {% when '11' %}Novembre
   {% when '12' %}Décembre
-{% endcase %} {{ post.date | date: "%-d" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li>
+{% endcase %} {{ post.date | date: "%Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li>
 {% endfor %}
 </ul>
 
