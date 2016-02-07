@@ -1,5 +1,4 @@
----
-layout: page
+Les LLlayout: page
 title:
 excerpt: Quelques pensées sur le numérique"
 modified: 2015-06-08T19:44:38.564948-04:00
