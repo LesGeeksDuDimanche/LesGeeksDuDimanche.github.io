@@ -10,7 +10,7 @@ image:
 ---
 
 
-{% for member in site.data.authors %} 
+{% for member in site.data.members %} 
 <div class="bio">
 		<img alt="{{ member.name }}" src="{{ site.url }}/images/{{ member.avatar }}" class="bio-photo">
 	<h4>    {{member.name}}</h4>
