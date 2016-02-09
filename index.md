@@ -9,7 +9,7 @@ image:
   creditlink:
 ---
 
-Les Bricodeurs regroupe les jeunes professionnels indépendants du numérique avec pour objectif de diffuser la culture numérique et soutenir les projets numériques citoyens. 
+Les Bricodeurs regroupe les jeunes professionnels indépendants du numérique avec pour objectifs de diffuser la culture numérique et soutenir les projets numériques citoyens. 
 
 En pratique, on aime à se réunir autour d'une brioche pour des :
 
