@@ -58,3 +58,5 @@ Ensuite, la nouvelle œuvre ainsi crée rétribue son parent. Ainsi, l'artiste e
 _Suivez la suite de la conférence sur twitter avec [#lift16](https://twitter.com/hashtag/Lift16?src=hash)_
 
 >
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
