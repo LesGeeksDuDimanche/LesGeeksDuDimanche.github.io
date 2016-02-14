@@ -4,13 +4,13 @@
   url: /
 
 - title: Articles
-  url: articles/
+  url: /articles/
 
 - title: Profils
-  url: Trombines/ 
+  url: /trombines/ 
 
 - title: Projets
-  url: Projets/  
+  url: /projets/  
 
 - title: Rejoindre
-  url: NousRejoindre/
+  url: /nousrejoindre/
