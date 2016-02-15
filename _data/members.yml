@@ -31,7 +31,7 @@
 - name: Samuel 
   web: 
   email: 
-  bio: "Rêveur, entrepreneur, ingénieur, artiste."
+  bio: "Pas besoin de payer pour apprendre quand on en a vraiment envie."
   avatar: lesbricodeurs.png
   twitter: 
   google:
@@ -99,4 +99,4 @@
   avatar: Xa.jpg
   twitter: XavierLava
   google:
-    plus: 
+    plus:
