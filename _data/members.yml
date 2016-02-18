@@ -1,98 +1,98 @@
 # Authors
 
 
-- name: Robert 
-  web: 
-  email: 
+- name: Robert
+  web:
+  email:
   bio: "humanist, moralist, physicist, and cosmopolitan from Berlin, PhD student in election infrastructure sciences"
   avatar: robert.jpg
   twitter: rriemann_eu
   google:
     plus:
 
-- name: Samy 
-  web: 
-  email: 
+- name: Samy
+  web:
+  email:
   bio: "Du mauvais caractère au petit déj, du e-commerce au déjeuner, des apéros en fin de journée (et dév PHP au quotidien)"
   avatar: samy.png
   twitter: SamyRabih
   google:
     plus:
 
-- name: Xavier 
-  web: 
-  email: 
+- name: Xavier
+  web:
+  email:
   bio: "Avant j’achetais des objets, maintenant je les bricode!"
   avatar: xavierD.jpg
-  twitter: 
+  twitter:
   google:
-    plus:     
+    plus:
 
-- name: Samuel 
-  web: 
-  email: 
-  bio: "Pas besoin de payer pour apprendre quand on en a vraiment envie."
-  avatar: lesbricodeurs.png
-  twitter: 
+- name: Samuel
+  web:
+  email:
+  bio: "Apprendre, c'est gratuit."
+  avatar: samuelE.jpg
+  twitter:
   google:
-    plus: 
+    plus:
 
-- name: Cyril 
-  web: 
-  email: 
+- name: Cyril
+  web:
+  email:
   bio: ""
   avatar: lesbricodeurs.png
-  twitter: 
+  twitter:
   google:
-    plus: 
+    plus:
 
-- name: Zoé 
-  web: 
-  email: 
+- name: Zoé
+  web:
+  email:
   bio: ""
   avatar: lesbricodeurs.png
-  twitter: 
+  twitter:
   google:
-    plus: 
+    plus:
 
-- name: Flavien 
-  web: 
-  email: 
+- name: Flavien
+  web:
+  email:
   bio: "De l'art à la techno pimenté par une touche de philosophie et de commerce, profil polyvalent qui veut changer le monde :D"
   avatar: lesbricodeurs.png
-  twitter: 
+  twitter:
   google:
-    plus: 
+    plus:
 
 
-- name: Edouard 
-  web: 
-  email: 
+- name: Edouard
+  web:
+  email:
   bio: ""
   avatar: lesbricodeurs.png
-  twitter: 
+  twitter:
   google:
-    plus: 
+    plus:
 
-- name: Stanislas 
-  web: 
-  email: 
+- name: Stanislas
+  web:
+  email:
   bio: "Doux comme une brioche !"
   avatar: lesbricodeurs.png
-  twitter: 
+  twitter:
   google:
-    plus: 
+    plus:
 
-- name: Claire 
-  web: 
-  email: 
+- name: Claire
+  web:
+  email:
   bio: ""
   avatar: lesbricodeurs.png
-  twitter: 
+  twitter:
   google:
-    plus: 
+    plus:
 
-- name: Xavier 
+- name: Xavier
   web: http://xalava.github.io
   email: xavier@bricodeur.com
   bio: "Longtemps, je me suis couché de bonne heure. Et puis j'ai installé Debian..."
