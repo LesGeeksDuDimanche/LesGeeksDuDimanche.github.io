@@ -1,0 +1,33 @@
+# Events
+
+
+ - day: lundi
+   date: 22 fev. 2016
+   events:
+
+    - time: 19h30
+      title: "Colearning Php"
+      img: PhpMonday.jpg
+      link: http://www.meetup.com/fr-FR/Design-et-technologie-pour-projets-citoyens/events/228804556/
+      location: Au flâneur ghesthouse
+
+
+ - day: mardi
+   date: 23 fev. 2016
+   events:
+
+    - time: 18h30
+      title: "Colearning Nodeschool"
+      img: Nodeschool.png
+      link: http://www.meetup.com/fr-FR/Design-et-technologie-pour-projets-citoyens/events/228448574/
+      location: A la M[Y]NE
+
+ - day: mercredi
+   date: 24 fev. 2016
+   events:
+
+    - time: 19h30
+      title: "Ruby Wednesday"
+      img: rubyWedsneday.png
+      link: http://www.meetup.com/fr-FR/Ruby-Wednesdays-Vieux-Lyon/events/228854769/
+      location: A l'Artigone

@@ -123,6 +123,8 @@ span + .entry-title {
 }
 
 
+
+
 /* feature image credit */
 
 .image-credit {
@@ -299,12 +301,113 @@ span + .entry-title {
 
 // }
 
+
+.bio h3{
+	text-align: center;
+}
+
 .bio {
 	@include span-columns(4);
 	@include omega(3n);
 	margin-bottom: 2rem;
 }
 
-.bio h3{
-	text-align: center;
+/*
+   calendarPage
+   ========================================================================== */
+
+.calendarContainer{
+	display: flex;
+	align-content: space-around;
+	justify-content: flex-start;
+	flex-wrap: wrap;
+	width: 95vw;
+	@include media($medium) {
+	width: 80vw;
+	}
+	@include media($large) {
+		margin-left: -8em;
+		width: 65em;	}
+}
+
+
+.eventDay{
+	font-size: 2rem;
+	border-bottom:black solid 0.1rem;
+	@include media($medium) {
+		font-size: 3rem;
+	}
+}
+
+.eventDate{
+	font-size: 1rem;
+	font-style: normal;
+	font-weight: lighter;
+	float: right;
+	line-height: 3.25;
+	@include media($medium) {
+		font-size: 2rem;
+		padding-left: 1rem;
+	line-height: 2.25;
+	}
+
+}
+
+.eventCalendarFilter{
+	height: 100px;
+	position: relative;
+	width: 200px;
+	background-color: rgba(0,0,0,0.2);
+	border-radius: 10px;
+	@include media($medium) {
+		background-color:rgba(255,255,255,0.5);
+		height: 200px;
+	}
+}
+
+.eventCalendar{
+	@media screen and (max-width: 47.99em) {
+	width: 200px;
+	height: 100px;
+	margin: 20px;
+	background-image: none !important;
+	}
+	@include media($medium) {
+		// margin: 0;
+		margin: 20px;
+		height: 200px;
+		background-size: contain;
+		border-radius: 10px;
+	}
+}
+
+.eventTitle{
+	font-size: 1.1rem;
+	@include media($medium) {
+		margin-bottom: 1rem;
+		line-height:1.2;
+		font-size: 1.8rem;
+	}
+}
+
+.eventContainer{
+	display: block;
+	position: absolute;
+	vertical-align: bottom;
+	width: 100%;
+	left: 0px;
+	bottom: 0px;
+	padding-left: 10px;
+	@include media($medium) {
+	padding-left: 21px;
+	}
+}
+
+.eventTime{
+	margin-top: 0;
+}
+
+.eventPlace{
+	margin-top: 0rem;
+	margin-bottom: 0.8rem;
 }
