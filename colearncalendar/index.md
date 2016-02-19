@@ -25,12 +25,12 @@ image:
         <p class="eventTime"> {{event.time}} </p>
         <div class="eventCalendar" style="background-image: url('/images/{{ event.img }}');">
           <div class="eventCalendarFilter" >
-            <a href="{{event.link}}">
-              <div class="eventContainer">
-                <h2 class="eventTitle"> {{event.title}} </h2>
-                <p class="eventPlace"> {{event.location}} </p>
-              </div>
-            </a>
+                <a class="eventLink" href="{{event.link}}">
+                  <div class="eventContainer">
+                        <h2 class="eventTitle"> {{event.title}} </h2>
+                        <p class="eventPlace"> {{event.location}} </p>
+                  </div>
+                </a>
           </div>
         </div>
       </div>
