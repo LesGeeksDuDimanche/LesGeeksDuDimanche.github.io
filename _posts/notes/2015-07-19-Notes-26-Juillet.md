@@ -45,5 +45,5 @@ poésie et mots de l'innovation, xpl: les designer
 * [Reportage Arte entreprise libérée](https://vimeo.com/122827688)
 * Cas de l'Entreprise [Poult](http://www.groupe-poult.com/une-entreprise-liberee-ouverte-sur-son-ecosysteme/)
 * Turing : intérêts individuels VS guerre
-* [Outils de communication](/Les-outils-de-communication-travail-collaboratif-iTxaoGiBZHU)
+* [Outils de communication](https://lesgeeksdudimanche.hackpad.com/Les-outils-de-communication-travail-collaboratif-iTxaoGiBZHU)
 * [Limiter le temps](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji) sur Facebook et autres réseaux sociaux pour faire des tunnels de concentration
