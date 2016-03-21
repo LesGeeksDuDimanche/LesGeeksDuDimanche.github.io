@@ -13,10 +13,10 @@ Les Bricodeurs regroupe les jeunes professionnels indépendants du numérique av
 
 En pratique, on aime à se réunir autour d'une brioche pour des :
 
-* _ateliers_ d'apprentissage collaboratif du web : apprendre à faire un site ou une application avec nodejs, meteor, php, html, data science ...
-* _goûters_ d’initiation pour enfants au code et à la robotique
-* _permanences_ pour orienter et rediriger les entreprises, associations et indépendants vers les bonnes ressources pour leurs projets numériques
-* _bricode du dimanche_ pour échanger et s'entraider sur des sujets technologiques
+* [Ateliers d'apprentissage collaboratif]({site.url}/evenements/apprentissage) du web : apprendre à faire un site ou une application avec nodejs, meteor, php, html, data science ...
+* [Ateliers d'Ada]({site.url}/AteliersdAda/) pour initier les enfants au code et à la robotique
+* [permanences numériques](({site.url}/evenements/permanence)) pour orienter et rediriger les entreprises, associations et indépendants vers les bonnes ressources pour leurs projets numériques
+* [La Civic Tech du dimanche](https://www.facebook.com/events/469923249869192/) pour échanger sur des sujets de technologie et société
 
 
 Basés principalement à Lyon, nous préparons des groupes dans plusieurs villes. Si vous êtes intéressés, contactez nous: <salut@lesbricodeurs.fr>

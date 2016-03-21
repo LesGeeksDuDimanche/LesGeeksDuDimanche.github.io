@@ -13,7 +13,7 @@ La permanence est ouverte à tous et gratuite. Tenue par des professionnels du n
 
 Nous cherchons principalement à faciliter le développement du numérique dans les structures culturelles et sociales et faire le lien avec les jeunes indépendants. Tout les projets web, applications, système de gestion, évènementiel... sont bienvenus.
 
-La première édition se tient au Sofffa, café coworking 17 Rue Sainte-Catherine, 69001 Lyon, le 11 mars 2016. Merci de prévoir de quoi payer le café (5€).
+La première édition se tient au Sofffa, café coworking 17 Rue Sainte-Catherine, 69001 Lyon, le 11 mars 2016
 
 Pour vous inscrire: 
 
