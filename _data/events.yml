@@ -2,32 +2,54 @@
 
 
  - day: lundi
-   date: 22 fev. 2016
+   date: 14 mars. 2016
    events:
 
     - time: 19h30
       title: "Colearning Php"
       img: PhpMonday.jpg
-      link: http://www.meetup.com/fr-FR/Design-et-technologie-pour-projets-citoyens/events/228804556/
+      link: http://www.meetup.com/fr-FR/Design-et-technologie-pour-projets-citoyens/events/jnpdmlyvfbsb/
       location: Au flâneur guesthouse
 
 
  - day: mardi
-   date: 23 fev. 2016
+   date: 15 mars 2016
    events:
 
     - time: 18h30
       title: "Colearning Nodeschool"
       img: nodeschool.png
-      link: http://www.meetup.com/fr-FR/Design-et-technologie-pour-projets-citoyens/events/228448574/
+      link: http://www.meetup.com/fr-FR/Design-et-technologie-pour-projets-citoyens/events/229064638/
       location: A la M[Y]NE
-
- - day: mercredi
-   date: 24 fev. 2016
+      
+      
+ - day: lundi
+   date: 21 mars. 2016
    events:
 
     - time: 19h30
-      title: "Ruby Wednesday"
-      img: rubyWedsneday.png
-      link: http://www.meetup.com/fr-FR/Ruby-Wednesdays-Vieux-Lyon/events/228854769/
-      location: A l'Artigone
+      title: "Colearning Php"
+      img: PhpMonday.jpg
+      link: http://www.meetup.com/fr-FR/Design-et-technologie-pour-projets-citoyens/events/jnpdmlyvfbcc/
+      location: Au flâneur guesthouse
+
+
+ - day: mardi
+   date: 22 mars 2016
+   events:
+
+    - time: 18h30
+      title: "Colearning Nodeschool"
+      img: nodeschool.png
+      link: http://www.meetup.com/fr-FR/Design-et-technologie-pour-projets-citoyens/events/229459540/
+      location: A la M[Y]NE
+
+ #- day: mercredi
+  # date: 24 fev. 2016
+   #events:
+
+    #- time: 19h30
+     # title: "Ruby Wednesday"
+      #img: rubyWedsneday.png
+      #link: http://www.meetup.com/fr-FR/Ruby-Wednesdays-Vieux-Lyon/events/228854769/
+      #location: A l'Artigone
