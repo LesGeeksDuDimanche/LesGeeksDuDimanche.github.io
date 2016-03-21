@@ -14,7 +14,7 @@ Les ateliers d'Ada permettent aux enfants de découvrir la robotique et la progr
 
 # Les activités
 
-Au cours des différentes semaines vous pourrez découvrir la robotique avec les LEGO Mindstorm, la programmation de jeux videos avec des interfaces accessibles comme Scratch, et pour les plus avancés plonger dans Arduino et Processing.
+Au cours des différentes semaines vous pourrez concevoir votre robot avec les LEGO Mindstorm, programmer des jeux simples avec des interfaces comme Scratch et pour les plus avancés plonger dans la création avec Arduino et Processing. _[En savoir plus]({{site.url}}/AteliersdAda/outils/)_
 
 # Informations pratiques
 Les ateliers ont lieu tous les samedis, hors vacances scolaires, à l'espace Altnet, 7 place Louis Chazette dans le 1er arrondissement de Lyon.
@@ -42,8 +42,8 @@ Les ateliers ont lieu tous les samedis, hors vacances scolaires, à l'espace Alt
 ## Tarifs
 
 
-* 14€ une scéance, 
-* 50€ les 4 scéances
+* 14€ une séance 
+* 50€ les 4 séances
 
 
 <!-- Begin MailChimp Signup Form -->
@@ -119,7 +119,8 @@ Ada Lovelace, est une pionnière de la science informatique. Elle est principale
 
 Elle a également entrevu et décrit certaines possibilités offertes par les calculateurs universels, allant bien au-delà du calcul numérique et de ce qu'imaginaient Babbage et ses contemporains. _Wikipedia_
 
-[Facebook](https://www.facebook.com/Les-Ateliers-dAda-1010068332420661/) - [ada@lesbricodeurs.fr](mailto:ada@lesbricodeurs.fr) - 06 43 71 84 33
 
 
-Une remarque? [N'hésitez pas->]({{site.url}}/AteliersdAda/idees/)
+[Page Facebook](https://www.facebook.com/Les-Ateliers-dAda-1010068332420661/) - [ada@lesbricodeurs.fr](mailto:ada@lesbricodeurs.fr) - Marie : 06 43 71 84 33
+
+Une remarque? [N'hésitez pas >]({{site.url}}/AteliersdAda/idees/)

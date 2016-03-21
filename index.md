@@ -13,9 +13,9 @@ Les Bricodeurs regroupe les jeunes professionnels indépendants du numérique av
 
 En pratique, on aime à se réunir autour d'une brioche pour des :
 
-* [Ateliers d'apprentissage collaboratif]({site.url}/evenements/apprentissage) du web : apprendre à faire un site ou une application avec nodejs, meteor, php, html, data science ...
-* [Ateliers d'Ada]({site.url}/AteliersdAda/) pour initier les enfants au code et à la robotique
-* [permanences numériques](({site.url}/evenements/permanence)) pour orienter et rediriger les entreprises, associations et indépendants vers les bonnes ressources pour leurs projets numériques
+* [Ateliers d'apprentissage collaboratif]({{site.url}}/evenements/apprentissage) du web : apprendre à faire un site ou une application avec nodejs, meteor, php, html, data science ...
+* [Ateliers d'Ada]({{site.url}}/AteliersdAda/) pour initier enfants et adolescents au code et à la robotique
+* [permanences numériques](({{site.url}}/evenements/permanence)) pour orienter et rediriger les entreprises, associations et indépendants vers les bonnes ressources pour leurs projets numériques
 * [La Civic Tech du dimanche](https://www.facebook.com/events/469923249869192/) pour échanger sur des sujets de technologie et société
 
 
