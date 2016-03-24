@@ -21,7 +21,7 @@ Scratch est un outil de programmation visuel. Disponible gratuitement en ligne, 
 
 ## Arduino
 
-[Arduino](https://fr.wikipedia.org/wiki/Arduino) est un ensemble de kits de microcontroleurs opensource. Ils permettent de réaliser des petits montages et prototyper des objets connectés.
+[Arduino](https://fr.wikipedia.org/wiki/Arduino) est un ensemble de kits de microcontroleurs opensource. Ils permettent de réaliser des petits montages et de prototyper des objets connectés.
 
 ## Processing
 
