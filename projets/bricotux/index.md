@@ -21,16 +21,16 @@ Distribution linux légère fournissant un environnement prêt à l'emploi pour 
 
 ## Caractéristiques
 
-Ce système d'exploitation est utilisable depuis une clé usb sans configuration ni installation. Il est adapté à des ordinateurs relativement anciens. Il comporte notamment: 
+Ce système d'exploitation est utilisable depuis une clé usb sans configuration ni installation. Il est adapté à des ordinateurs relativement anciens. Il comporte des logiciels d'apprentissage et du contenu pédagogique. Notamment: 
 
-* Scratch (444.4)
+* Scratch 
 * Processing
 * Arduino
-* gimp
-* openshot (2)
+* Gimp
+* Openshot
 
 ## Technique  et Etat
 
 Le système est basé sur les versions stables (LTS) d'Ubuntu, dans sa déclinaison XFCE et est entièrement compatible avec celle-ci. Le système est actuellement disponible en version beta. La version stable sortira avec la prochaine version stable d'Ubuntu fin avril 2016.
 
-![Bricotux]({{site.url}}/images/bricotux.png)
+![Bricotux]({{site.url}}/images/bricotuxTuto.jpg)
