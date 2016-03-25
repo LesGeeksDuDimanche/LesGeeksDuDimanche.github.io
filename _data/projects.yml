@@ -1,7 +1,7 @@
-- name: BricoLinux
-  avatar: bricolinux.png
-  description: "Distribution linux légère spécialement conçue pour l'éducation au numérique"
-  url: 
+- name: Bricotux
+  avatar: bricotux.png
+  description: "Distribution linux légère conçue pour l'éducation au numérique"
+  url: http://lesbricodeurs.fr/projets/bricotux/
 
 - name: Huby
   avatar: huby.jpg
