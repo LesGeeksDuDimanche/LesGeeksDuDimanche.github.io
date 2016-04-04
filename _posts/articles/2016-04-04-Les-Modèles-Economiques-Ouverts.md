@@ -33,7 +33,7 @@ A la tête du réseau Open Food France, Myriam Bouré témoigne pour sa part d'u
 
 Enfin, Maxime Lathuilière a poursuivi sur ces belles perspectives en présentant sa plateforme de prêts de livres entre particuliers, inventaire.io. Son ambition étant de relier ce réseau collaboratif aux bibliothèques et aux libraires locaux, il souhaite ainsi court-circuiter, au sens géographique du terme, les géants du e-commerce. Son modèle économique est quant à lui des plus simples, mais aussi des plus précaires : il développe bénévolement son application à des fins d'expérimentation, financé sans opulence par un simple RSA. A quand un revenu universel de base permettant de poursuivre ce type d'initiative à long terme ? 
 
-La rencontre se termine alors sur cette belle idée : Et si nous assistions à l'émergence de services publics d'initiative privée ?
+La rencontre se termine alors sur cette idée : Et si nous assistions à l'émergence de services publics d'initiative privée ?
 
 
 
