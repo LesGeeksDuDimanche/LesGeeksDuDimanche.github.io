@@ -29,11 +29,12 @@ La source de financement la plus évidente est celle de l'accompagnement du clie
 
 Le mélange de technologies propriétaires et open source induit une complexité stratégique et légale. Une multitude de procès est liée à l'utilisation de logiciels sous licence libre dans des solutions ne respectant pas les termes de cette licence. On comprend d'autant mieux l'importance de bien choisir sa licence avant de diffuser son logiciel libre. En ce sens, la nature open source d'un logiciel est bien souvent perçue comme un frein par les entreprises. Seule une minorité d'entre elles sont assez mûres pour procéder à ce métissage, souligne Pierre Aumont, président de la Fabrique d'Objets Libres (FOL) qui travaille à des modèles associant innovation communautaire, redistribution et développement commercial.
 
-A la tête du réseau Open Food France, Myriam Bouré témoigne pour sa part d'un produit avec la particularité d'avoir plusieurs strates communautaires: le logiciel, développé à l'échelle mondiale, le réseau national et les communautés locales. Le modèle économique est en constante évolution. Elle se réjouit de pouvoir vivre de plusieurs activités complémentaires : support, accompagnement ou encore réplication du projet dans d'autres régions ou pays. Les sources de financement aussi sont diverse : prélèvement d'un pourcentage sur les transactions effectuées par les utilisateurs, dons volontaires de particuliers...
+
+A la tête du réseau Open Food France, Myriam Bouré témoigne pour sa part d’un produit qui a la particularité d’avoir plusieurs strates communautaires, à savoir le logiciel, développé à l’échelle mondiale, le réseau national et les communautés locales. Le modèle économique est en constante évolution. Elle se réjouit de pouvoir vivre de plusieurs activités complémentaires : support, accompagnement ou encore réplication du projet dans d’autres régions ou pays. Les sources de financement aussi sont diverses : prélèvement d’un pourcentage sur les transactions effectuées par les utilisateurs, dons volontaires de particuliers…
 
 Enfin, Maxime Lathuilière a poursuivi sur ces belles perspectives en présentant sa plateforme de prêts de livres entre particuliers, inventaire.io. Son ambition étant de relier ce réseau collaboratif aux bibliothèques et aux libraires locaux, il souhaite ainsi court-circuiter, au sens géographique du terme, les géants du e-commerce. Son modèle économique est quant à lui des plus simples, mais aussi des plus précaires : il développe bénévolement son application à des fins d'expérimentation, financé sans opulence par un simple RSA. A quand un revenu universel de base permettant de poursuivre ce type d'initiative à long terme ? 
 
-La rencontre se termine alors sur cette idée : Et si nous assistions à l'émergence de services publics d'initiative privée ?
+La rencontre se termine alors sur cette idée : et si nous assistions à l'émergence de services publics d'initiative privée ?
 
 
 
