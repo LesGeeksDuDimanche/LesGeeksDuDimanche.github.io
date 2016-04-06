@@ -16,7 +16,7 @@ author: zoe
 
 
 
-_Développer un projet open source peut être un choix éthique ou pragmatique. Mais l'accessibilité du code impose de trouver modèles économiques innovant. En ces 17e Journées du Logicel Libre, les Bricodeurs ont réuni quatre acteurs de l'économie ouverte pour échanger sur ces multiples modèles._
+_Développer un projet open source peut être un choix éthique ou pragmatique. Mais l'accessibilité du code impose de trouver des modèles économiques innovants. En ces 17èmes Journées du Logiciel Libre, les Bricodeurs ont réuni quatre acteurs de l'économie ouverte pour échanger sur ces multiples modèles._
 
 ![MEO]({{ site.url }}/images/MEO/MEO2.png)
 
@@ -35,8 +35,5 @@ A la tête du réseau Open Food France, Myriam Bouré témoigne pour sa part d�
 Enfin, Maxime Lathuilière a poursuivi sur ces belles perspectives en présentant sa plateforme de prêts de livres entre particuliers, [inventaire.io](http://inventaire.io). Son ambition étant de relier ce réseau collaboratif aux bibliothèques et aux libraires locaux, il souhaite ainsi court-circuiter, au sens géographique du terme, les géants du e-commerce. Son modèle économique est quant à lui des plus simples, mais aussi des plus précaires : il développe bénévolement son application à des fins d'expérimentation. A quand un revenu universel de base permettant de poursuivre ce type d'initiative à long terme ? 
 
 La rencontre se termine alors sur cette idée : et si nous assistions à l'émergence de services publics d'initiative privée ?
-
-
-
 
 ![MEO]({{ site.url }}/images/MEO/MEO7.png)
