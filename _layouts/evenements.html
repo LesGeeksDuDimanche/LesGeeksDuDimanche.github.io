@@ -42,7 +42,7 @@ layout: compress
       </header>
       <div class="entry-content">
         {{ content }}
-        
+
        
       </div><!-- /.entry-content -->
     </div><!-- /.entry-wrapper -->
@@ -59,7 +59,7 @@ layout: compress
 <script src='{{ site.url }}/assets/js/vendor/moment.min.js'></script>
 <script src='{{ site.url }}/assets/js/vendor/fullcalendar.min.js'></script>
 <script type='text/javascript' src='{{ site.url }}/assets/js/vendor/gcal.js'></script>
-
+<script src='fullcalendar/lang-all.js'></script>
 
 
 <script type="text/javascript">
@@ -67,6 +67,8 @@ layout: compress
 
     $(document).ready(function() {
         $('#calendar').fullCalendar({
+            lang: 'fr',
+
             googleCalendarApiKey: 'AIzaSyAPe0kSJHXnIufk4LPO6_ZJbxQiIDnT16M',
             eventSources: [
                 {
