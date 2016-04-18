@@ -37,7 +37,20 @@ Pour nous rejoindre, venez à un évènement! Vous prouvez en être tenu au cour
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
 
-Pour devenir Bricodeur, le formulaire sympa : 
-<div class="typeform-widget" data-url="https://xalava.typeform.com/to/Zmnj0p" data-text="Nouveau Membre" style="width:100%;height:700px;"></div>
-<script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'widget.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}})()</script>
+
+### Pour adhérer 
+
+<iframe id="haWidget" src="//www.helloasso.com/widgets/adhesion.aspx?beneficiaire=les-bricodeurs&campagne=adhesions-bricodeurs-2016&color=%237092da" style="width:780px;height:600px;border:none;" onload="scroll(0,0);"></iframe>
+
+
+
+
+
+
+
+
+
+
+
+
 
