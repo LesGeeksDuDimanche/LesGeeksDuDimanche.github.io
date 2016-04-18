@@ -16,7 +16,8 @@ author: lucile
 ---
 
 ![Accueil]({{ site.url }}/images/robotique/robot2.jpg)
-_Robot range chambre de David Faveris, Photo Xavier Duvert_
+_Robot rangeur de chambre de David Faveris, Photo Xavier Duvert_{: style="color:gray; font-size: 80%; text-align: right;"}
+
 
 ![Accueil]({{ site.url }}/images/robotique/entree.jpg){: .pull-right}
 La robotique est un domaine naissant qui fascine et effraye en même temps. Pourtant la robotique n’est rien que nous ne connaissions déjà : de l’électronique, de la mécanique et de l’informatique. Surtout, ce sont des idées, de l’imagination et de l’envie. Les Bricodeurs ont donc choisi de proposer différentes activités afin de découvrir cet univers.
@@ -44,3 +45,5 @@ Les Ateliers d’Ada sont des ateliers tous les samedis pour découvrir le numé
 Les jeunes ont pu créer leur propre robot, monter les pièces ensemble, puis leur donner vie grâce au logiciel dédié. Selon les gouts, certain ont travaillé à des défis comme les faire descendre une marche ou s'affronter. C’était une après-midi pleine de surprises et d’actions avec des enfants (et des parents) super motivés !
 
 _Il est possible de retrouver toutes les informations ici : [AperobotLyon](https://www.facebook.com/AperobotLyon/) &  [Ateliers d'Ada](http://lesbricodeurs.fr/AteliersdAda/)_
+
+_._
