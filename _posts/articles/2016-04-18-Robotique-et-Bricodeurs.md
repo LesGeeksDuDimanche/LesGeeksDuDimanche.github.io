@@ -22,7 +22,7 @@ _Robot range chambre de David Faveris, Photo Xavier Duvert_
 La robotique est un domaine naissant qui fascine et effraye en même temps. Pourtant la robotique n’est rien que nous ne connaissions déjà : de l’électronique, de la mécanique et de l’informatique. Surtout, ce sont des idées, de l’imagination et de l’envie. Les Bricodeurs ont donc choisi de proposer différentes activités afin de découvrir cet univers.
 
 
-#Les Apérobots
+# Les Apérobots
 
 Les Apérobots sont des rassemblements entre curieux, passionnés, amoureux ou professionnels de la robotique pour discuter autour d’un verre sans tabou ni complexe. Créés par Caliban, une association facilitant la découverte de la robotique ils ont lieu tous les 2èmes mercredis de chaque mois partout en France. 
 
@@ -35,7 +35,7 @@ Pour la quatrième édition lyonnnaise, nous nous sommes retrouvés à l’ateli
 Nous avons pu présenter les [évènements](http://lesbricodeurs.fr/evenements/) des prochains mois comme la Mini Maker Faire de Lyon ou Innorobo, le plus grand salon Européen dédié à la robotique, d'origine Lyonnaise.  C'était aussi l'occasion découvrir un peu plus ce domaine au travers d'un [quizz](https://docs.google.com/forms/d/1onOdhf8GN76e62PskJrL6NxCGSF6PCIN4mPhawVFIU8/viewform#start=invite). Saviez vous que le mot robot vient d’une pièce de théatre Tchécoslovaque ?
 
 
-#Les Ateliers d'Ada
+# Les Ateliers d'Ada
 
 ![adaBazar]({{ site.url }}/images/robotique/adaBazar.jpg){: .pull-right}
 
