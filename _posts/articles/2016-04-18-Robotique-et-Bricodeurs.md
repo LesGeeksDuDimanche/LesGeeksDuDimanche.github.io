@@ -15,7 +15,7 @@ published: true
 author: lucile
 ---
 
-![Accueil]({{ site.url }}/images/robotique/robot.jpg)
+![Accueil]({{ site.url }}/images/robotique/robot2.jpg)
 _Robot range chambre de David Faveris, Photo Xavier Duvert_
 
 ![Accueil]({{ site.url }}/images/robotique/entree.jpg){: .pull-right}
