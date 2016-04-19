@@ -29,7 +29,7 @@ Les Apérobots sont des rassemblements entre curieux, passionnés, amoureux ou p
 
 ![aperobos]({{ site.url }}/images/robotique/aperobo.jpg)
 
-Pour la quatrième édition lyonnnaise, nous nous sommes retrouvés à l’atelier Attom d’Adrien Lemardeley mercredi 13 avril pour découvrir ce nouvel espace de la robotique lyonnaise. Nous avons pu échanger à propos de robotique et présenter des projets de nos Apéroboteurs : les robots en carton de Carton Builder, l’armée de Mindstorm de Xavier Duvert, ou encore le robot pour ranger la chambre de vos enfants de David Faveris. 
+Pour la quatrième édition lyonnnaise, nous nous sommes retrouvés à l’atelier Attom d’Adrien Lemardeley mercredi 13 avril pour découvrir ce nouvel espace de la robotique lyonnaise. Nous avons pu échanger à propos de robotique et présenter des projets de nos Apéroboteurs : les robots en carton de IziMakers, l’armée de Mindstorm de Xavier Duvert, ou encore le robot pour ranger la chambre de vos enfants de David Faveris. 
 
 ![attom]({{ site.url }}/images/robotique/attom.jpg)
 
