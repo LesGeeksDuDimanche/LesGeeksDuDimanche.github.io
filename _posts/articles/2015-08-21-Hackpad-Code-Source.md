@@ -4,7 +4,7 @@ title: Libre comme un Hackpad
 modified: 
 categories: articles
 excerpt: Enfin!
-tags: [Opensource, Hackpad, code]
+tags: [OpenSource, Hackpad, code]
 image: 
   feature: 
 date: 2015-08-22T02:22:20+02:00

@@ -1,7 +1,6 @@
 {% if site.owner.google.ad-client and site.owner.google.ad-slot %}{% include ad-footer.html %}{% endif %}
-<span> <a href="http://lesbricodeurs.fr/nousrejoindre/">Le numérique citoyen vous intéresse? Rejoignez nous ! </a></span>
+<div><span> <a href="http://lesbricodeurs.fr/nousrejoindre/">Le numérique citoyen vous intéresse? Rejoignez nous ! </a></span></div>
 
-<span>&copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}. Aucun chat n'a été blessé sauf <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> et <a href="http://mademistakes.com/so-simple/" rel="nofollow">So Simple</a>.</span>
 
 <div class="social-icons">
 	{% if site.owner.twitter %}<a href="http://twitter.com/{{ site.owner.twitter }}" title="{{ site.owner.name}} on Twitter" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a>{% endif %}
@@ -18,3 +17,6 @@
 	{% if site.owner.meetup %}<a href="https://www.meetup.com/{{ site.owner.meetup }}/" title="{{ site.owner.name}} on meetup" target="_blank"><i class="fa fa-calendar fa-2x"></i></a>{% endif %}
   <a href="{{ site.url }}/feed.xml" title="Atom/RSS feed"><i class="fa fa-rss-square fa-2x"></i></a>
 </div><!-- /.social-icons -->
+<span>Aucun chat n'a été blessé sauf <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> et <a href="http://mademistakes.com/so-simple/" rel="nofollow">So Simple</a>.</span>
+<br/>
+<span>&copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}. </span>

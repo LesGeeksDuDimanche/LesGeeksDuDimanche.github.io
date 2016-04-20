@@ -5,7 +5,7 @@ excerpt: "Historique de nos (d)ébats"
 search_omit: true
 ---
 
-Vous trouverez ici pêle-mêle des notes tirées de nos goûters. Si vous ne pi
+Vous trouverez ici pêle-mêle des notes tirées de nos goûters. 
 
   <div id="fb-root"></div>
   <script>(function(d, s, id) {

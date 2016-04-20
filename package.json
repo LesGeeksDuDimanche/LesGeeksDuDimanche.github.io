@@ -4,10 +4,10 @@
   "homepage": "http://lesbricodeurs.fr/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mmistakes/so-simple-theme.git"
+    "url": "git://github.com/LesGeeksDuDimanche/LesGeeksDuDimanche.github.io.git"
   },
   "bugs": {
-    "url": "https://github.com/mmistakes/so-simple-theme/issues"
+    "url": "https://github.com/LesGeeksDuDimanche/LesGeeksDuDimanche.github.io/issues"
   },
   "engines": {
     "node": ">= 0.10.0"

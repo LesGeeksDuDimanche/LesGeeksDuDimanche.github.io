@@ -4,7 +4,7 @@ title: Utiliser Git
 modified:
 categories: articles
 excerpt: gouvernement du code par Linus pour Linux
-tags: [Opensource, git]
+tags: [OpenSource, git]
 image:
   feature:
 date: 2015-06-18T23:42:40+02:00
