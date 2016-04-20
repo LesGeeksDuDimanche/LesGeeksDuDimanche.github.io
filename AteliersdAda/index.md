@@ -7,6 +7,7 @@ image:
   feature: Bandeau.jpg
   credit:
   creditlink:
+thumbnail : images/ada.png
 ---
 
 

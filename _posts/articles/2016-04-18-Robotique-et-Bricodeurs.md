@@ -13,6 +13,7 @@ comments: true
 share: true
 published: true
 author: lucile
+thumbnail: images/robotique/robot2.jpg
 ---
 
 ![Accueil]({{ site.url }}/images/robotique/robot2.jpg)
