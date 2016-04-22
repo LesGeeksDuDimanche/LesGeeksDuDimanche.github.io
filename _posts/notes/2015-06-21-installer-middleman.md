@@ -44,9 +44,13 @@ Pour lancer le site, accessible à [http://localhost:4567/](http://localhost:456
 
 	middleman server
 
+Selon votre configuration, vous pouvez avoir besoin d'envoyer d'ajouter 'bundle exec'
+
+	bundle exec middleman server
+
 Enfin pour lancer la construction du site:
 
-	middleman build
+	bundle exec middleman build
 
 
 ## Outils complémentaires
