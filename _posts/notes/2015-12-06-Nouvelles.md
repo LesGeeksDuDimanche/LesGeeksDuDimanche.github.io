@@ -3,7 +3,7 @@ layout: post
 title: Nouvelles et calendrier
 modified:
 categories: notes
-excerpt:
+excerpt: Bobby
 tags: [Association, Organisation, goûters]
 image:
   feature:

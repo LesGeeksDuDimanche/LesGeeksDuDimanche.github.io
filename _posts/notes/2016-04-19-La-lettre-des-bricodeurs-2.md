@@ -2,7 +2,7 @@
 layout: post
 title: La lettre des Bricodeurs 2
 modified:
-categories: articles
+categories: notes
 excerpt: la deuxième
 tags: [education, numérique, innovation]
 image: 

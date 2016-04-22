@@ -3,7 +3,7 @@ layout: post
 title: Notes GDD - 5 juillet
 modified:
 categories: notes
-excerpt:
+excerpt: .
 tags: [data, donnees personnelles]
 image:
   feature:
