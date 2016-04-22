@@ -5,7 +5,7 @@ robert:
   web: 
   email: 
   bio: "humanist, moralist, physicist, and cosmopolitan from Berlin, PhD student in election infrastructure sciences"
-  avatar: robert.jpg
+  avatar: bio/robert.jpg
   twitter: rriemann_eu
   google:
     plus:
@@ -15,7 +15,7 @@ samy:
   web: 
   email: 
   bio: "Du mauvais caractère au petit déj, du e-commerce au déjeuner, des apéros en fin de journée (et dév PHP au quotidien)"
-  avatar: samy.png
+  avatar: bio/samy.png
   twitter: SamyRabih
   google:
     plus:
@@ -25,7 +25,7 @@ xavier:
   web: http://xalava.github.io
   email: xavier@bricodeur.com
   bio: "Longtemps, je me suis couché de bonne heure. Et puis j'ai installé Debian..."
-  avatar: Xa.jpg
+  avatar: bio/Xa.jpg
   twitter: XavierLava
   google:
     plus: 
@@ -35,7 +35,7 @@ zoe:
   web: 
   email: 
   bio: ""
-  avatar: zoe.jpg
+  avatar: bio/zoe.jpg
   twitter: Zoe_Thivet
   google:
     plus: 
@@ -45,7 +45,17 @@ lucile:
   web: 
   email: 
   bio: ""
-  avatar: lucile.jpg
+  avatar: bio/lucile.jpg
   twitter: PeuchLucile
+  google:
+    plus: 
+
+cyril:
+  name: Cyril 
+  web: 
+  email: 
+  bio: ""
+  avatar: bio/cyril.jpg
+  twitter: misterpatate
   google:
     plus: 

@@ -3,7 +3,7 @@ layout: post
 title: Notes BDD - 12 juillet
 modified:
 categories: notes
-excerpt:
+excerpt: .
 tags: [formations, distribution, linux, web]
 image:
   feature:

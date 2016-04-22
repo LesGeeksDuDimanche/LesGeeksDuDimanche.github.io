@@ -3,7 +3,7 @@ layout: post
 title: Notes BDD - 26 juillet
 modified:
 categories: notes
-excerpt:
+excerpt: .
 tags: [Arts Numeriques, qualité de vie, python]
 image:
   feature:
