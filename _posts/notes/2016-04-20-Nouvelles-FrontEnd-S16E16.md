@@ -14,7 +14,7 @@ image:
 date: {}
 comments: true
 share: true
-published: false
+published: true
 author: cyril
 thumbnail: "images/Computer-Cat.jpg"
 ---
