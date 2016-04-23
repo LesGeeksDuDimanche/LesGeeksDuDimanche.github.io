@@ -41,12 +41,6 @@ Peut-être le meilleur gestionnaire de fenêtre in-app que j’ai vu depuis long
 Pour Jouer à la NSA.
 Propose plusieurs options tel que la reconnaissance d’une personne, l'estimation d’un âge et du genre à partir d’une photo. On imagine toujours que notre monde sera plus libre grâce à l’open source mais je crains que ça ne se termine par une application Facebook du style “A quel dictateur ressemble tu le plus”.
 
-## Évènements
-
-### Compte rendu de la 3ème édition de la conférence Blockchain Vision
-[LIEN](http://blog.octo.com/blockchain-vision-compte-rendu-de-la-conference-du-12-avril/)
-La blockchain c’est un peu comme le nucléaire dans les années 50, ça va être la révolution, même le frigo sera dans la blockchain, mais peut être que ça va aussi créer des fourmis géantes qui vont nous dévorer.
-
 ## Maker et robotique
 
 ### Compilations de vidéos d’impression 3D
