@@ -41,7 +41,7 @@ Peut-être le meilleur gestionnaire de fenêtre in-app que j’ai vu depuis long
 Pour Jouer à la NSA.
 Propose plusieurs options tel que la reconnaissance d’une personne, l'estimation d’un âge et du genre à partir d’une photo. On imagine toujours que notre monde sera plus libre grâce à l’open source mais je crains que ça ne se termine par une application Facebook du style “A quel dictateur ressemble tu le plus”.
 
-## Dev et web
+## Évènements
 
 ### Compte rendu de la 3ème édition de la conférence Blockchain Vision
 [LIEN](http://blog.octo.com/blockchain-vision-compte-rendu-de-la-conference-du-12-avril/)
@@ -64,6 +64,20 @@ Pour à peine 1000$ vous avez un robot qui peux potentiellement vous battre aux 
 ### Gobot le Framework Go pour la robotique et l’internet des trucs
 [LIEN](https://gobot.io/)
 Déjà beaucoup de plateformes et périphériques supportés. Ça m’a d'ailleurs permis de découvrir l’existence de Sphero, une balle connectée qui semble bourrée de potentiel… La vidéo montre un homme qui fait un footing aux cotés de sa balle, pathétique.
+
+## Linux / Systeme
+
+### Le noyau Linux 4.5 est sortie
+[LIEN](http://linuxfr.org/news/sortie-du-noyau-linux-4-5)
+Pas une grande version mais des ajouts sympathiques.
+
+### Ubuntu 16.04 LTS
+[LIEN](http://releases.ubuntu.com/xenial/)
+La dernière version de la distribution Linux Ubuntu est sortie en version Long-Term Support, les gains de performance web sont à prévoir avec le passage à PHP 7 et Nginx 1.9 et le support de HTTP2. Le nom de version est imprononçable: Xenial Xerus.
+
+### Gérer ses logs Docker avec la stack ELK
+[LIEN](https://www.linux.com/learn/how-manage-logs-docker-environment-compose-and-elk)
+Une approche intéressante pour surveiller ses conteneurs Docker.
 
 ## Outils
 
@@ -94,17 +108,3 @@ Si vos amis ne vous prennent pas encore assez pour un geek, ce jeux devrait fair
 [LIEN](https://github.com/Netflix/hal-9001)
 Le descendant de l’intelligence artificiel de 2001 l’odyssée de l’espace est un cancre, si la version 9000 pilotait des navettes spatiales la version 9001 n’est qu’un bot de chatroom.
 "I'm afraid. I'm afraid, Dave. Dave, my mind is going. I can feel it." HAL-9000
-
-## Linux / Systeme
-
-### Le noyau Linux 4.5 est sortie
-[LIEN](http://linuxfr.org/news/sortie-du-noyau-linux-4-5)
-Pas une grande version mais des ajouts sympathiques.
-
-### Ubuntu 16.04 LTS
-[LIEN](http://releases.ubuntu.com/xenial/)
-La dernière version de la distribution Linux Ubuntu est sortie en version Long-Term Support, les gains de performance web sont à prévoir avec le passage à PHP 7 et Nginx 1.9 et le support de HTTP2. Le nom de version est imprononçable: Xenial Xerus.
-
-### Gérer ses logs Docker avec la stack ELK
-[LIEN](https://www.linux.com/learn/how-manage-logs-docker-environment-compose-and-elk)
-Une approche intéressante pour surveiller ses conteneurs Docker.
