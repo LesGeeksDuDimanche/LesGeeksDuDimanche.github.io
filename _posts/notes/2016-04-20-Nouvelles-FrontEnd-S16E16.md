@@ -93,8 +93,18 @@ Si vos amis ne vous prennent pas encore assez pour un geek, ce jeux devrait fair
 ### Netflix à publié le code de HAL-9001 sur github
 [LIEN](https://github.com/Netflix/hal-9001)
 Le descendant de l’intelligence artificiel de 2001 l’odyssée de l’espace est un cancre, si la version 9000 pilotait des navettes spatiales la version 9001 n’est qu’un bot de chatroom.
-> I'm afraid. I'm afraid, Dave. Dave, my mind is going. I can feel it. HAL-9000
+"I'm afraid. I'm afraid, Dave. Dave, my mind is going. I can feel it." HAL-9000
 
+## Linux / Systeme
 
+### Le noyau Linux 4.5 est sortie
+[LIEN](http://linuxfr.org/news/sortie-du-noyau-linux-4-5)
+Pas une grande version mais des ajouts sympathiques.
 
+### Ubuntu 16.04 LTS
+[LIEN](http://releases.ubuntu.com/xenial/)
+La dernière version de la distribution Linux Ubuntu est sortie en version Long-Term Support, les gains de performance web sont à prévoir avec le passage à PHP 7 et Nginx 1.9 et le support de HTTP2. Le nom de version est imprononçable: Xenial Xerus.
 
+### Gérer ses logs Docker avec la stack ELK
+[LIEN](https://www.linux.com/learn/how-manage-logs-docker-environment-compose-and-elk)
+Une approche intéressante pour surveiller ses conteneurs Docker.
