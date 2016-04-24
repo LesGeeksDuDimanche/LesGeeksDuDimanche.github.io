@@ -73,6 +73,10 @@ Peut-être le meilleur gestionnaire de fenêtre in-app que j’ai vu depuis long
 Pour Jouer à la NSA.
 Propose plusieurs options tel que la reconnaissance d’une personne, l'estimation d’un âge et du genre à partir d’une photo. On imagine toujours que notre monde sera plus libre grâce à l’open source mais je crains que ça ne se termine par une application Facebook du style “A quel dictateur ressemble tu le plus”
 
+### Interaction entre un middleware PHP PSR-7 et React
+[Lien](https://mwop.net/blog/2016-04-17-react2psr7.html)
+C’est pas propre-propre mais ça a l’air d’être assez performant
+
 ## Outils
 
 ### Killduplicate, outil de détection de contenu dupliqué
@@ -87,7 +91,7 @@ Outils pas bête pour partager ses folles sessions en ligne de commande. Dommage
 [Lien](https://github.com/square/shift)
 Permet d’industrialiser la migration de schémas SQL. Ne dispense pas d’utiliser son cerveau au risque de provoquer l'apocalypse sur vos serveurs en un claquement de doigt.
 
-## Linux / Systeme
+## Linux et Systeme
 
 ### Ubuntu 16.04 LTS
 [Lien](http://releases.ubuntu.com/xenial/)
@@ -96,3 +100,7 @@ La dernière version de la distribution Linux Ubuntu est sortie en version Long-
 ### Gérer ses logs Docker avec la stack ELK
 [Lien](https://www.linux.com/learn/how-manage-logs-docker-environment-compose-and-elk)
 Une approche intéressante pour surveiller ses conteneurs Docker.
+
+### Le noyau Linux 4.5 est sortie
+[Lien](http://linuxfr.org/news/sortie-du-noyau-linux-4-5)
+Pas une grande version mais des ajouts sympathiques.
