@@ -47,7 +47,7 @@ Si la photographie volait l'âme des indiens, l’image de synthèse à volé ce
 ### TIS-100, le jeux le plus geek
 [Lien](http://www.zachtronics.com/tis-100/)
 Le jeu consiste à résoudre des puzzles avec le langage Assembleur. Hardcore, le manuel est à lire obligatoirement, pas de didacticiel et à partir du 2ème niveau c’est horriblement dur. 
-Si vos amis ne vous prennent pas encore assez pour un geek, ce jeux devrait faire l’affaire.
+Si vos amis ne vous prennent pas encore assez pour un geek, ce jeug devrait faire l’affaire.
 
 ### Netflix à publié le code de HAL-9001 sur github
 [Lien](https://github.com/Netflix/hal-9001)
@@ -81,7 +81,7 @@ C’est pas propre-propre mais ça a l’air d’être assez performant
 
 ### Killduplicate, outil de détection de contenu dupliqué
 [Lien](http://blog.axe-net.fr/killduplicate-outil-duplicate-content/)
-Outils très performant de détection de contenu dupliqué sur google. L’article ne donne pas de stratégie quand à la position à adopter face aux plagieurs (kidnappez leurs enfants à la sortie de l’école).
+Outils très performant de détection de contenu dupliqué sur Google. L’article ne donne pas de stratégie quand à la position à adopter face aux plagieurs (kidnappez leurs enfants à la sortie de l’école).
 
 ### ASCIINEMA, enregistrez et partagez vos sessions terminal
 [Lien](https://asciinema.org/)
