@@ -26,7 +26,7 @@ Permet de monter jusqu'à 30 FPS à presque 4K et jusqu’à 240 FPS avec la ré
 ### Polymaker sort une solution de lissage des impressions 3D
 [www.kickstarter.com](https://www.kickstarter.com/projects/polymaker/polysmooth-and-polysher-3d-prints-without-layers)
 
-Si comme mois vous ne supportez pas l’effet rugueux/cheap des impressions 3D, Polymaker à créé un système pour mettre un coup de polish à vos objets.
+Si comme moi vous ne supportez pas l’effet rugueux/cheap des impressions 3D, Polymaker à créé un système pour mettre un coup de polish à vos objets.
 
 ### Programmer visuellement des objets connecté avec node-red
 [www.toptal.com](https://www.toptal.com/nodejs/programming-visually-with-node-red)
@@ -38,7 +38,7 @@ Le tutoriel vous explique comment programmer des objets du futur (le fameux inte
 ### Le test/troll ultime pour photographe
 [www.slrlounge.com](https://www.slrlounge.com/lightroom-mac-vs-pc-speed-test-4k-imac-vs-4k-custom-pc-performance-test/)
 
-Un studio photo à comparé les performances de Lightroom entre deux configurations PC et Mac à 4000$ dans le cadre de son activité. Spoiler : Le PC gagne et comme je ne suis pas du genre à jeter de l’huile sur le feu je n’utiliserais que le terme d’humiliation.
+Un studio photo à comparé les performances de Lightroom entre deux configurations PC et Mac à 4000$ dans le cadre de son activité. Spoiler : Le PC gagne et comme je ne suis pas du genre à jeter de l’huile sur le feu, je n’utiliserais que le terme d’humiliation.
 
 ### Second Life n’est pas mort
 [www.lemonde.fr](http://www.lemonde.fr/pixels/article/2016/04/28/absurde-creatif-et-debauche-dix-ans-apres-second-life-est-toujours-bien-vivant_4909910_4408996.html)
