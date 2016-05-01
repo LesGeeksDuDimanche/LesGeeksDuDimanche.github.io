@@ -19,24 +19,24 @@ thumbnail: "images/Computer-Cat.jpg"
 ## Maker et robotique
 
 ### Le module caméra officiel du Raspberry pi passe à 8Mpix
-[www.raspberrypi.org](https://www.raspberrypi.org/blog/new-8-megapixel-camera-board-sale-25/)
+[raspberrypi.org](https://www.raspberrypi.org/blog/new-8-megapixel-camera-board-sale-25/)
 
 Permet de monter jusqu'à 30 FPS à presque 4K et jusqu’à 240 FPS avec la résolution d’un portable de 1997.
 
 ### Polymaker sort une solution de lissage des impressions 3D
-[www.kickstarter.com](https://www.kickstarter.com/projects/polymaker/polysmooth-and-polysher-3d-prints-without-layers)
+[kickstarter.com](https://www.kickstarter.com/projects/polymaker/polysmooth-and-polysher-3d-prints-without-layers)
 
 Si comme moi vous ne supportez pas l’effet rugueux/cheap des impressions 3D, Polymaker à créé un système pour mettre un coup de polish à vos objets.
 
 ### Programmer visuellement des objets connecté avec node-red
-[www.toptal.com](https://www.toptal.com/nodejs/programming-visually-with-node-red)
+[toptal.com](https://www.toptal.com/nodejs/programming-visually-with-node-red)
 
 Le tutoriel vous explique comment programmer des objets du futur (le fameux internet des trucs) même si, comme tout le monde, vous n’avez pas accès à des objets connectés.
 
 ## Art et loisirs
 
 ### Le test/troll ultime pour photographe
-[www.slrlounge.com](https://www.slrlounge.com/lightroom-mac-vs-pc-speed-test-4k-imac-vs-4k-custom-pc-performance-test/)
+[slrlounge.com](https://www.slrlounge.com/lightroom-mac-vs-pc-speed-test-4k-imac-vs-4k-custom-pc-performance-test/)
 
 Un studio photo à comparé les performances de Lightroom entre deux configurations PC et Mac à 4000$ dans le cadre de son activité. Spoiler : Le PC gagne et comme je ne suis pas du genre à jeter de l’huile sur le feu, je n’utiliserais que le terme d’humiliation.
 
@@ -71,7 +71,7 @@ Petit clash entre startup de stockage sur fond de nom de produit. Des avocats de
 Des chercheurs ont fait des essais concluant de transmission de données au travers d’un nouveau support, la viande de porc et de boeuf, à priori ça marche aussi avec la viande vivante et les débits sont pas mal, 30Mbit/s, encore un truc à se mettre les végans à dos.
 
 ### Fabriquer son labo d’analyse de malaware
-[www.alienvault.com](https://www.alienvault.com/blogs/security-essentials/building-a-home-lab-to-become-a-malware-hunter-a-beginners-guide)
+[alienvault.com](https://www.alienvault.com/blogs/security-essentials/building-a-home-lab-to-become-a-malware-hunter-a-beginners-guide)
 
 Explique comment monter son propre laboratoire P4 informatique.
 Comme d’habitude lorsqu’il s’agit de jouer avec le virus de la Variole, ne laissez pas les enfants tout seul.
