@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Veille de la semaine 2016.16
+title: Veille de la semaine 2016 16
 modified: null
 categories: notes
 excerpt: Semaine 16
