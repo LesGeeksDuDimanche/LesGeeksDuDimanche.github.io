@@ -22,7 +22,7 @@ thumbnail: "images/Computer-Cat.jpg"
 ### Test du piTop le portable à base de Raspberry Pi
 [www.framboise314.fr](http://www.framboise314.fr/pi-top-un-ordinateur-portable-a-base-de-raspberry-pi-3-ou-2/)
 
-A priori permet de bricoler son Raspberry Pi un peu partout. Dans la pratique c’est une coquille vide à 300€ qui embarque écran, clavier et souris avec un emplacement pour attacher tout ça à un Raspberry Pi qui n’est pas fournit. Pour les fans donc.
+A priori, permet de bricoler son Raspberry Pi un peu partout. Dans la pratique c’est une coquille vide à 300€ qui embarque écran, clavier et souris avec un emplacement pour attacher tout ça à un Raspberry Pi qui n’est pas fournit. Pour les fans donc.
 
 ### L’imprimant OLO est financée
 [www.kickstarter.com](https://www.kickstarter.com/projects/olo3d/olo-the-first-ever-smartphone-3d-printer/description)
