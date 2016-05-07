@@ -24,6 +24,11 @@ thumbnail: "images/Computer-Cat.jpg"
 
 A priori permet de bricoler son Raspberry Pi un peu partout. Dans la pratique c’est une coquille vide à 300€ qui embarque écran, clavier et souris avec un emplacement pour attacher tout ça à un Raspberry Pi qui n’est pas fournit. Pour les fans donc.
 
+### L’imprimant OLO est financée
+[www.kickstarter.com](https://www.kickstarter.com/projects/olo3d/olo-the-first-ever-smartphone-3d-printer/description)
+
+L’imprimante utilise la lumière de l’écran de votre smartphone pour imprimer, derrière cette technologie fort intéressante (surtout à 100$) il faudra vous faire à cette idée terrifiante :  vous devrez vous passer de votre smartphone pendant les 4h que dure l’impression. Ce qui est trop pour n’importe qui de sensé sur cette terre.
+
 ## Blockchain
 
 ### Wester Union investie dans la blockchain et les crypto monnaie
@@ -46,7 +51,7 @@ Le directeur des effets spéciaux du très énervé (et gastriquement éprouvant
 ### Sortie de G’MIC 1.7.1
 [linuxfr.org](http://linuxfr.org/news/g-mic-1-7-1-quand-les-fleurs-bourgeonnent-les-filtres-d-images-foisonnent)
 
-Le framework de manipulation d’image ultra polyvalent sort une nouvelle version stable avec encore plus d’effets et de filtres qu’instagram et snapchat réuni 
+Le framework de manipulation d’image ultra polyvalent sort une nouvelle version stable avec encore plus d’effets et de filtres qu’instagram et snapchat réuni. 
 
 ## Dev et web
 
@@ -60,7 +65,7 @@ Avec en plus une section spéciale React. En gros tout ce qu’il faut pour mett
 
 L’ami Bruno Bichet nous propose une collection de moult outils pour tester et améliorer l'accessibilité de nos sites web. C’est un peu comme le test du W3C je n'ose même pas les utiliser sur mes sites perso.
 
-### La brosse à dent conectée pour expliquer le business des IoT
+### La brosse à dent connectée pour expliquer le business des IoT
 [techcrunch.com](http://techcrunch.com/2016/04/12/what-can-a-toothbrush-teach-us-about-iot-business-models/)
 
 L’internet des trucs est un monde fascinant, ici cet article utilise la brosse à dent connectée comme exemple de vecteur d’acquisition de prospect par les objets connecté. Ou comment la dépendance au smartphone à remplacée la peur de la roulette du dentiste. Et j’ai beau me creuser le crane je ne vois que 2 alternatives dans l’utilisation du SDK Oral-B, 1- reprogrammer autrement l’appli Oral-B existante (passionnant) et 2 - créer un objet sexuel déviant. 
