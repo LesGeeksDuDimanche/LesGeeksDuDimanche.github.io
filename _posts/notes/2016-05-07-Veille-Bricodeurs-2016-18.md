@@ -49,3 +49,26 @@ Le directeur des effets spéciaux du très énervé (et gastriquement éprouvant
 Le framework de manipulation d’image ultra polyvalent sort une nouvelle version stable avec encore plus d’effets et de filtres qu’instagram et snapchat réuni 
 
 ## Dev et web
+
+### Comparatif des outils d'animation web
+[css-tricks.com](https://css-tricks.com/comparison-animation-technologies/)
+
+Avec en plus une section spéciale React. En gros tout ce qu’il faut pour mettre à jour votre effet chute de flocon de neige avant l’hiver prochain (j’ai revu cette effet cette année, il y avait aussi un gif animé avec un ouvrier du bâtiment dans un panneau triangulaire jaune sur les pages en cours de rédaction).
+
+### Test d'accessibilité
+[4design.xyz](http://4design.xyz/outils-en-ligne-pour-verifier-accessibilite-de-votre-site-web)
+
+L’ami Bruno Bichet nous propose une collection de moult outils pour tester et améliorer l'accessibilité de nos sites web. C’est un peu comme le test du W3C je n'ose même pas les utiliser sur mes sites perso.
+
+## Linux / Système
+
+### IBM vous permet d’utiliser leur ordinateur quantique
+[www.research.ibm.com](http://www.research.ibm.com/quantum/)
+
+Je ne vous fait pas l'insulte de vulgariser le principe de fonctionnement d'une tel machine, c'est trivial.
+Je retourne tenter de tuer virtuellement le chat de Schrödinger, ou pas, ou les deux.
+
+### Traduction de la LFS 7.9 avec Systemd
+[www.fr.linuxfromscratch.org](http://www.fr.linuxfromscratch.org/LFS/)
+
+La traduction de la fameuse distribution Linux au format papier est sortie avec sa version Systemd à la place de SysV. Le meilleur moyen d’apprendre Linux en perdant toute vie social.
