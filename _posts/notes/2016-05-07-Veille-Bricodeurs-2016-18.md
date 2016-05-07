@@ -60,6 +60,11 @@ Avec en plus une section spéciale React. En gros tout ce qu’il faut pour mett
 
 L’ami Bruno Bichet nous propose une collection de moult outils pour tester et améliorer l'accessibilité de nos sites web. C’est un peu comme le test du W3C je n'ose même pas les utiliser sur mes sites perso.
 
+### La brosse à dent conectée pour expliquer le business des IoT
+[techcrunch.com](http://techcrunch.com/2016/04/12/what-can-a-toothbrush-teach-us-about-iot-business-models/)
+
+L’internet des trucs est un monde fascinant, ici cet article utilise la brosse à dent connectée comme exemple de vecteur d’acquisition de prospect par les objets connecté. Ou comment la dépendance au smartphone à remplacée la peur de la roulette du dentiste. Et j’ai beau me creuser le crane je ne vois que 2 alternatives dans l’utilisation du SDK Oral-B, 1- reprogrammer autrement l’appli Oral-B existante (passionnant) et 2 - créer un objet sexuel déviant. 
+
 ## Linux / Système
 
 ### IBM vous permet d’utiliser leur ordinateur quantique
