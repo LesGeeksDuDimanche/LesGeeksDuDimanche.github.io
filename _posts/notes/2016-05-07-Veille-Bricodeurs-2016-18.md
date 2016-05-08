@@ -5,8 +5,7 @@ categories: notes
 excerpt: Semaine 18
 tags: 
   - web
-  - development
-  - innovation
+  - Raspberry
   - blockchain
 image: 
   feature: null
