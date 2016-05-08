@@ -23,7 +23,7 @@ thumbnail: "images/Computer-Cat.jpg"
 
 A priori, permet de bricoler son Raspberry Pi un peu partout. Dans la pratique c’est une coquille vide à 300€ qui embarque écran, clavier et souris avec un emplacement pour attacher tout ça à un Raspberry Pi qui n’est pas fournit. Pour les fans donc.
 
-### L’imprimant OLO est financée
+### L’imprimante OLO est financée
 [www.kickstarter.com](https://www.kickstarter.com/projects/olo3d/olo-the-first-ever-smartphone-3d-printer/description)
 
 L’imprimante utilise la lumière de l’écran de votre smartphone pour imprimer, derrière cette technologie fort intéressante (surtout à 100$) il faudra vous faire à cette idée terrifiante :  vous devrez vous passer de votre smartphone pendant les 4h que dure l’impression. Ce qui est trop pour n’importe qui de sensé sur cette terre.
