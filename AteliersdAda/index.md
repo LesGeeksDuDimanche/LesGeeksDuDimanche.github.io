@@ -31,7 +31,7 @@ Les ateliers ont lieu tous les samedis, hors vacances scolaires, à l'espace Alt
  26 mars | Découverte | [14h (Initiation)](https://yurplan.com/event/Atelier-d-Ada-Initiation/8426) - [16h (Avancé)](https://yurplan.com/event/Atelier-d-Ada-Avance/8427)
  30 avril | Musique | [14h (Initiation)](https://yurplan.com/event/Atelier-d-Ada-Initiation/8497) - [16h (Avancé)](https://yurplan.com/event/Ateliers-d-Ada-Avance/8499)   
  7 mai | Robotique | [14h (Initiation)](https://yurplan.com/event/Ateliers-d-Ada-Initiation/8500) - [16h (Avancé)](https://yurplan.com/event/Ateliers-d-Ada-avance/8501)         
- 14 mai | Musique 2       
+ 14 mai | Musique 2 | [14h (Initiation)](https://yurplan.com/event/Atelier-d-Ada-Initiation-Musique-2/9221) - [16h (Avancé)](https://yurplan.com/event/Atelier-d-Ada-Avance-Musique-2/9223) 
  21 mai | Robotique 2      
  28 mai | Scratch        
  4 juin | Robotique 3     

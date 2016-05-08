@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Configurer Ubuntu
+title: Que faire après avoir installé Ubuntu ? 
 modified: null
 categories: articles
 excerpt: Quand tu croyais avoir fini
@@ -17,34 +17,39 @@ author: xavier
 published: true
 ---
 
-# Que faire après avoir installé Ubuntu
-
 Ubuntu est un système d'exploitation qui convient particulièrement:
 
-* Aux geeks : outils développeurs, système le plus utilisé par les serveurs web, personnalisation infinie...
-* Aux moins geeks : système fiable, stable & sans virus. Il faut néanmoins un peu de bonne volonté pour l'installer. Des [associations de geeks locaux](https://aful.org/gul) (comme Les Bricodeurs) peuvent vous aider.
+* Pour les moins geeks : système fiable, stable & sans virus. C'est idéal pour un ordinateur public, en MJC ou celui de vos parents. Il faut néanmoins parfois un peu de bonne volonté pour l'installer. Des [associations de geeks locaux](https://aful.org/gul) comme Les Bricodeurs peuvent vous aider.
+* Pour les plus geeks : outils de développement, système le plus utilisé par les serveurs web, de nombreux logiciels, une grande communauté, personnalisation infinie
 
 Voici quelques notes qui me servent installer rapidement les outils utiles.
 
-## Installation système
+##  Compléter l'installation
 
-###  Compléter l'installation
-
-Ubuntu repose sur un système de paquets. Tout les logiciels et le système peuvent être installés à partir de ceux ci. Dans un premier temps, il faut mettre à jour la liste (update) et installer ces mises à jours (upgrade)
+Ubuntu repose sur un système de paquets. Tout les logiciels et le système peuvent être installés à partir de ceux ci. Dans un premier temps, il faut mettre à jour la liste (update) et installer ces mises à jours (upgrade).
 
     sudo apt-get update && sudo apt-get upgrade
 
 NB: Les commandes peuvent etre copiées/collées ou tapées dans un terminal (ctrl+shift+T). '&&'' permet d'enchainer deux commandes sur la même ligne
 
-Quelques paquets utiles, en particulier pour lire des médias :
+Quelques paquets utiles pour lire des médias :
 
-    sudo apt-get install ubuntu-restricted-extras synaptic chromium chrome vlc skype dropbox
+    sudo apt-get install ubuntu-restricted-extras vlc
+
+Des logiciels courants utiles 
+    
+    sudo apt-get install synaptic chromium chrome skype dropbox
 
 Des petit outils bonus pour les geeks :
 
-    sudo apt-get install guake gimp imagemagick gksu virtualbox
+    sudo apt-get install guake gksu virtualbox
 
-### Troubleshooting
+Pour de la retouche d'images
+
+    sudo apt-get install gimp imagemagick 
+
+
+## Optimisation
 
 Resoudre un problème Flash :
 
@@ -87,7 +92,7 @@ décommenter la ligne dans .bashrc  ( subl ~/.basrc)
 
 ### Ubuntu Gnome flasback
 
-Petite préférence perso, surtout pour les vieux ordinateurs, revenir à l'apparence Gnome2 tout en gardant le bénéfice des librairies GTK 3
+Petite préférence perso, surtout pour les vieux ordinateurs, revenir à l'apparence Gnome2 tout en gardant le bénéfice des librairies GTK 3. Vous pouvez aussi utiliser Ubuntu Mate pour sensiblement le même résultat.
 
 	sudo apt-get install gnome-flashback libappindicator1
 
@@ -95,5 +100,5 @@ Pour Dropbox, il faut ajouter l'aire de notification à un des tableaux de bord
 
 [Plus d'infos](http://www.binarytides.com/install-gnome-flashback-ubuntu/)
 
-Pour aller plus loin, [utiliser git](/articles/utiliser-git)
+Pour aller plus loin, [Les raccourcis sous Ubuntu](/articles/raccourcis-sous-ubuntu)
 
