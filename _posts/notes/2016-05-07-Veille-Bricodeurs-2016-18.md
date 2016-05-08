@@ -30,7 +30,7 @@ L’imprimante utilise la lumière de l’écran de votre smartphone pour imprim
 
 ## Blockchain
 
-### Wester Union investit dans la blockchain et les crypto-monnaies
+### Western Union investit dans la blockchain et les crypto-monnaies
 [news.bitcoin.com](https://news.bitcoin.com/western-union-invests-dcg/)
 
 Pour ne pas passer à côté de tout le marché des arnaques nigérianes, Western Union investit dans les startup de la fintech.
@@ -58,6 +58,8 @@ Le framework de manipulation d’image ultra polyvalent sort une nouvelle versio
 [css-tricks.com](https://css-tricks.com/comparison-animation-technologies/)
 
 Avec en plus une section spéciale React. En gros tout ce qu’il faut pour mettre à jour votre effet chute de flocon de neige avant l’hiver prochain (j’ai revu cette effet cette année, il y avait aussi un gif animé avec un ouvrier du bâtiment dans un panneau triangulaire jaune sur les pages en cours de rédaction).
+
+<iframe src="{{ site.url }}/images/animationsVeille18.webm" frameborder="0"> </iframe>
 
 ### Test d'accessibilité
 [4design.xyz](http://4design.xyz/outils-en-ligne-pour-verifier-accessibilite-de-votre-site-web)
