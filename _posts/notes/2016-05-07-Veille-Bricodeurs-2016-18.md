@@ -59,7 +59,11 @@ Le framework de manipulation d’image ultra polyvalent sort une nouvelle versio
 
 Avec en plus une section spéciale React. En gros tout ce qu’il faut pour mettre à jour votre effet chute de flocon de neige avant l’hiver prochain (j’ai revu cette effet cette année, il y avait aussi un gif animé avec un ouvrier du bâtiment dans un panneau triangulaire jaune sur les pages en cours de rédaction).
 
-<iframe src="{{ site.url }}/images/animationsVeille18.webm" frameborder="0"> </iframe>
+<br/>
+<video width="320" height="220" controls>
+  <source src="{{ site.url }}/images/animationsVeille18.webm" type="video/webm">
+Your browser does not support the video tag.
+</video>
 
 ### Test d'accessibilité
 [4design.xyz](http://4design.xyz/outils-en-ligne-pour-verifier-accessibilite-de-votre-site-web)
