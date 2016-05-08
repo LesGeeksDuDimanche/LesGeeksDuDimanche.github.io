@@ -11,7 +11,7 @@ tags:
 image: 
   feature: null
   credit: null
-date: {}
+date:  2016-05-7T09:06:54.000Z
 comments: true
 share: true
 author: cyril
@@ -31,10 +31,10 @@ L’imprimante utilise la lumière de l’écran de votre smartphone pour imprim
 
 ## Blockchain
 
-### Wester Union investie dans la blockchain et les crypto monnaie
+### Wester Union investit dans la blockchain et les crypto-monnaies
 [news.bitcoin.com](https://news.bitcoin.com/western-union-invests-dcg/)
 
-Pour ne pas passer à côté de tout le marché des arnaques nigérianes, Wester Union investi dans les startup de la fintech.
+Pour ne pas passer à côté de tout le marché des arnaques nigérianes, Western Union investit dans les startup de la fintech.
 
 ### La Blockchain pour stocker les garanties
 [www.cryptocoinsnews.com](https://www.cryptocoinsnews.com/deloitte-facebook-bitcoin-blockchain-warranties/)
@@ -51,7 +51,7 @@ Le directeur des effets spéciaux du très énervé (et gastriquement éprouvant
 ### Sortie de G’MIC 1.7.1
 [linuxfr.org](http://linuxfr.org/news/g-mic-1-7-1-quand-les-fleurs-bourgeonnent-les-filtres-d-images-foisonnent)
 
-Le framework de manipulation d’image ultra polyvalent sort une nouvelle version stable avec encore plus d’effets et de filtres qu’instagram et snapchat réuni. 
+Le framework de manipulation d’image ultra polyvalent sort une nouvelle version stable avec encore plus d’effets et de filtres qu’Instagram et Snapchat réuni. 
 
 ## Dev et web
 
