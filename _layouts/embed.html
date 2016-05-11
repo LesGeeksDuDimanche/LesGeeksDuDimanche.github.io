@@ -27,7 +27,7 @@ layout: compress
 {% include head.html %}
 <style>
   body {
-    background-color: black;
+    {% if page.couleur %} background-color:{{ page.couleur }};{% endif %}
   }
 </style>
 </head>
