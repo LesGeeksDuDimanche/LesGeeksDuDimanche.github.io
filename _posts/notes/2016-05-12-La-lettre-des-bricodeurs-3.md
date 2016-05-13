@@ -3,7 +3,7 @@ layout: post
 title: La lettre des Bricodeurs 3
 modified:
 categories: notes
-excerpt: troiz
+excerpt: troiz'
 tags: [événements, numérique, éducation]
 image: 
   feature: 
@@ -40,11 +40,11 @@ Le problème de la vie privée aussi avec l'excellente présentation de travaux 
 * Et bien sur, nous continuons de nous retrouver les lundi et mardi pour les ateliers de Colearning [AngularJS & NodeJS](http://www.meetup.com/fr-FR/Design-et-technologie-pour-projets-citoyens/)
 
 # Le BlockFest 1.0
-Nous participons à l'organisation BlockFest. C'est l’événement communautaire des technologies blockchain en France du 6 au 12 juin à l'école 42. Il y aura des conférences pendant la semaine, et un hackathon qui poutre le week-end, . Les billets ont ouvert aujourd'hui. Jetez vous dessus, l'espace est très limité.
+Nous participons à l'organisation BlockFest. C'est l’événement communautaire des technologies blockchain en France du 6 au 12 juin à l'école 42. Il y aura des conférences pendant la semaine, et un hackathon qui poutre le week-end. Les billets ont ouvert aujourd'hui. Jetez vous dessus, l'espace est très limité.
 
-* Pour les conférences voici la [Billetterie](https://www.eventbrite.fr/e/billets-le-blockfest-10-24632664964)
-* Il y a la possiblité de [devenir bénévoles]({{site.url}}/BlockFest/Contribuer/) et de tarifs réduits pour étudiant, demandeurs d'emploi et membres des bricodeurs
-* Le BlockSprint du weekend est sur sélection. [Postulez rapidement](http://lesbricodeurs.fr/BlockSprint/) !
+* Pour les conférences voici la [billetterie](https://www.eventbrite.fr/e/billets-le-blockfest-10-24632664964)
+* Il y a la possibilité de [devenir bénévoles]({{site.url}}/BlockFest/Contribuer/) et de tarifs réduits pour étudiant, demandeurs d'emploi et membres des bricodeurs
+* Le BlockSprint du week-end est sur sélection. [Postulez rapidement](http://lesbricodeurs.fr/BlockSprint/) !
 * Contact : [contact@blockfest.fr](mailto:contact@blockfest.Fr)
 * [Événement Facebook](https://www.facebook.com/events/1139612932757643/)
 
