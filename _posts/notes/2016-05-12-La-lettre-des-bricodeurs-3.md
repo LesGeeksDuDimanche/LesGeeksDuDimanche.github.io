@@ -35,7 +35,7 @@ Comme à chaque lettre, l'association a encore fait quelques bonds. Les ateliers
 * Et bien sur, nous continuons de nous retrouver les lundi et mardi pour les ateliers de Colearning [AngularJS & NodeJS](http://www.meetup.com/fr-FR/Design-et-technologie-pour-projets-citoyens/)
 
 # Le BlockFest 1.0
-Nous participons à l'organisation BlockFest. C'est l’événement communautaire des technologies blockchain en France du 6 au 12 juin à l'école 42. Il y aura des conférences pendant la semaine, et un hackathon qui poutre le week-end, le tout à l'école 42. Les billets ouvrent aujourd'hui. Si le sujet vous intéresse, jetez vous dessus, l'espace est très limité.
+Nous participons à l'organisation BlockFest. C'est l’événement communautaire des technologies blockchain en France du 6 au 12 juin à l'école 42. Il y aura des conférences pendant la semaine, et un hackathon qui poutre le week-end, le tout à l'école 42. Les billets ont ouvert aujourd'hui. Jetez vous dessus, l'espace est très limité.
 
 * Pour les conférences voici la [Billetterie](https://www.eventbrite.fr/e/billets-le-blockfest-10-24632664964)
 * La plus simple façon d'avoir un tarif réduit est de [devenir bénévoles]({{site.url}}/BlockFest/Contribuer/)
