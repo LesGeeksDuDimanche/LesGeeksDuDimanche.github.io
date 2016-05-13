@@ -18,7 +18,7 @@ thumbnail: images/robotique/robot2.jpg
 
 Amis bricodeurs,
 
-Comme à chaque lettre, l'association a encore fait quelques bonds. Les ateliers d'Ada se développent, nous sommes toujours preneurs de bénévoles, animateurs et programme pour l'année à venir. L'association croit et il s'agit aussi de pérenniser les budgets et activités. Merci de penser à votre [adhésion](http://lesbricodeurs.fr/nousrejoindre/) et n'hésitez pas à nous contacter, plusieurs fonctions sont ouvertes.
+Comme à chaque lettre, l'association a encore fait quelques bonds. Les ateliers d'Ada se développent, nous sommes toujours preneurs de bénévoles, animateurs et programme pour l'année à venir. L'association croît et il s'agit aussi de pérenniser les budgets et activités. Merci de penser à votre [adhésion](http://lesbricodeurs.fr/nousrejoindre/) et n'hésitez pas à nous contacter, plusieurs fonctions sont ouvertes.
 
 # Les événements à venir 
 
