@@ -18,9 +18,9 @@ thumbnail: images/robotique/robot2.jpg
 
 Amis bricodeurs,
 
-Ces dernières semaines nous avons eu le plaisir de rencontrer Taeyoon Choi artiste et cofondateur de la School for Poetic Computation au Sofffa après l'European Lab. Son projet, très inspirant, ne manquera pas de faire des émules à Lyon. 
+Ces dernières semaines nous avons eu le plaisir de rencontrer Taeyoon Choi artiste et cofondateur de la School for Poetic Computation au Sofffa après l'European Lab. Son projet de cours de code destinés aux artistes, très inspirant, ne manquera pas de faire des émules à Lyon. On me souffle que quelque chose se prépare.
 
-L'european lab a été l'occasion de discuter citoyenneté et numérique. En premier lieu, le retour d'expérience du pouvoir de Siriza, ou la confrontation d'une culture de l'horizontalité avec les structures du pouvoir.
+L'European Lab a été l'occasion de discuter citoyenneté et numérique. En premier lieu, le retour d'expérience du pouvoir de Syriza, ou la confrontation d'une culture de l'horizontalité avec les structures du pouvoir.
 <blockquote class="twitter-tweet" data-lang="fr"><p lang="en" dir="ltr">Last summer, we experienced the failure of the traditionnal political system to carry new ideas - Andreas Karitzis <a href="https://twitter.com/hashtag/Syriza?src=hash">#Syriza</a> <a href="https://twitter.com/hashtag/EuroLab2016?src=hash">#EuroLab2016</a></p>&mdash; @XavierLava <a href="https://twitter.com/XavierLava/status/727886035800166402">4 mai 2016</a></blockquote>
 
 Le problème de la vie privée aussi avec l'excellente présentation de travaux communs INSA de Lyon et de la CNIL. "On assiste à une ruée vers l'or des identifiants, les applications récupèrent tout ce qu'elles peuvent". Les wifi aussi sont une source d'identification : A chaque fois que votre portable recherche un wifi particulier, il indique son nom et donc vous identifie si le nom est unique ou rare. 
