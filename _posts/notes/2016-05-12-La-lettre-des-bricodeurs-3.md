@@ -4,7 +4,7 @@ title: La lettre des Bricodeurs 3
 modified:
 categories: notes
 excerpt: troiz
-tags: [education, numérique, innovation]
+tags: [événements, numérique, éducation]
 image: 
   feature: 
   credit: 
@@ -41,6 +41,6 @@ Nous participons à l'organisation BlockFest. C'est l’événement communautair
 * Il y a la possibilité de tarifs réduits, étudiant, demandeurs d'emploi, si vous êtes membre des bricodeurs ou de [devenir bénévoles]({{site.url}}/BlockFest/Contribuer/)
 * Contact : [contact@blockfest.fr](mailto:contact@blockfest.Fr)
 * Le hackathon qui poutre est sur sélection. N'hésitez pas à [postuler rapidement](http://lesbricodeurs.fr/BlockSprint/)
-* [Evenement Facebook](https://www.facebook.com/events/1139612932757643/)
+* [Événement Facebook](https://www.facebook.com/events/1139612932757643/)
 
 ![blockfest]({{ site.url }}/images/blockfest.jpg)
