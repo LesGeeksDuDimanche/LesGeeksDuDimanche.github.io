@@ -22,12 +22,12 @@ thumbnail: "images/Computer-Cat.jpg"
 ### Le top 50 des gadgets les plus influents du Time
 [time.com](http://time.com/4309573/most-influential-gadgets/)
 
-Le 49ème est l’imprimante 3D MakerBot Replicator. Si je ne suis pas encore convaincu de l’influence de l’imprimante 3D dans la vie quotidienne des gens, en revanche,  je suis convaincu qu’il n’y a aucun intérêt à faire figurer 5 portables différents si c’est pour oublier le Minitel.
+Le 49ème est l’imprimante 3D MakerBot Replicator. Si je ne suis pas encore convaincu de l’influence de l’imprimante 3D dans la vie quotidienne des gens, en revanche, je suis convaincu qu’il n’y a aucun intérêt à faire figurer 5 portables différents si c’est pour oublier le Minitel.
 
 ### Nest ouvre Thread son protocole de communication
 [venturebeat.com](http://venturebeat.com/2016/05/11/nest-open-sources-its-home-automation-network-protocol-thread/)
 
-Bien avant la fatigue Javascript il y avait la fatigue Domotique, Nest et une poignée de constructeurs nous offrent un nouveau protocole de communication pour objet connecté juste quand le marché commençait à se stabiliser. A titre de comparaison avec l’industrie vidéo, la box domotique idéale serait un lecteur combo VHS-Betamax-DVD-Laserdisc-BluRay-HDDVD.
+Bien avant la fatigue Javascript il y avait la fatigue Domotique, Nest et une poignée de constructeurs nous offrent un nouveau protocole de communication pour objets connectés juste quand le marché commençait à se stabiliser. A titre de comparaison avec l’industrie vidéo, la box domotique idéale serait un lecteur combo VHS-Betamax-DVD-Laserdisc-BluRay-HDDVD.
 
 
 ## Blockchain
@@ -40,21 +40,21 @@ Avalara souhaite développer un logiciel un tantinet rabat-joie pour taxer les t
 ### The DAO, un fond d’investissement basé sur la Blockchain
 [/blockchainfrance.net](https://blockchainfrance.net/2016/05/12/qu-est-ce-qu-une-dao/)
 
-Si vous avez toujours rêvé de monter votre propre fond d'investissement, c’est bientot possible. Sur le site il est écrit que c’est éthique et blablabla, mais dans la pratique rien ne vous empêche de financer un projet de développement de mines antipersonnel assemblés par des enfants au Bangladesh.
+Si vous avez toujours rêvé de monter votre propre fond d'investissement, c’est bientôt possible. Sur le site il est écrit que c’est éthique et blablabla, mais dans la pratique rien ne vous empêche de financer un projet de développement de mines antipersonnel assemblés par des enfants au Bangladesh.
 
 ## Art et loisirs
 
 ### Les voitures autonomes bientôt autorisés en France
 [www.nextinpact.com](http://www.nextinpact.com/news/99783-tests-voitures-autonomes-sur-routes-francaises-ordonnance-avant-mi-aout.htm)
 
-Donc en pleine vacances d’été on devrais voir débarquer sur nos autoroutes des voitures sans chauffeur. Il était coutume de refuser le permis aux jeunes conducteur avant les vacances de peur qu’ils se crachent avant d’arriver en Espagne mais apparemment ça ne gène personne qu’on retrouve des voitures sans pilotes contre des platanes en plein mois d'août.
+Donc en pleine vacances d’été nous devrions voir débarquer sur nos autoroutes des voitures sans chauffeur. Il était coutume de refuser le permis aux jeunes conducteur avant les vacances de peur qu’ils se crachent avant d’arriver en Espagne, mais apparemment ça ne gène personne qu’on donne le permis à des ordinateurs qui n'ont même pas de bras en plein chassé croisé des vacances d'été.
 
 ### VODD met à jour son site
 [vodd.co](https://vodd.co/)
 
-Parce que chez les Bricodeurs on est chauvin on vous parle de la mise à jour de l’interface du Netflix Lyonnais : Vodd, et puis comme on est à fond chauvin je rajouterais qu’il y a une section spéciale dédiée aux films du festival Hallucinations Collectives.
+Parce que chez les Bricodeurs on est chauvin on vous parle de la mise à jour de l’interface du Netflix Lyonnais : Vodd.Et puis comme on est à fond chauvin je rajouterais qu’il y a une section spéciale dédiée aux films du festival [Hallucinations Collectives](http://www.hallucinations-collectives.com/).
 Et comme dit le dev de chez Vodd :
-"Trop de Jquery tue le Jquery, même s'il ne faut pas réinventer la roue, la performance n'est pas forcément dans la bonne utilisation des librairies utilisées. C'est comme ça qu'on fini par devenir puriste en Javascript."
+> "Trop de Jquery tue le Jquery, même s'il ne faut pas réinventer la roue, la performance n'est pas forcément dans la bonne utilisation des librairies utilisées. C'est comme ça qu'on fini par devenir puriste en Javascript."
 
 ### Bibliothèque Javascript pour générer des Fichiers MIDI
 [github.com](https://github.com/grimmdude/MidiWriterJS)
@@ -71,7 +71,7 @@ Permet de “compiler” ses programmes NodeJS pour cacher son code dégueulasse
 ### État des lieux des framework NodeJS
 [www.toptal.com](https://www.toptal.com/nodejs/nodejs-frameworks-comparison)
 
-Histoire de remettre une couche de fatigue javascript cet état des lieux sur les framework Node vous permettra de faire le bon choix dans vos futur projets. Mais je vous connaît, vous êtes ambitieux et prévoyez de grossir comme Twitter, dans ce cas faites comme d’hab, prenez le plus lourd.
+Histoire de remettre une couche de fatigue javascript, cet état des lieux sur les frameworks Node vous permettra de faire le bon choix dans vos futurs projets. Mais je vous connaît, vous êtes ambitieux et prévoyez de grossir comme Twitter, dans ce cas faites comme d’hab, prenez le plus lourd.
 
 ## Linux / Système
 
