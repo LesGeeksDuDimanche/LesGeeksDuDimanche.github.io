@@ -11,7 +11,7 @@ tags:
 image: 
   feature: null
   credit: null
-date: {}
+date: 
 comments: true
 share: true
 author: cyril
