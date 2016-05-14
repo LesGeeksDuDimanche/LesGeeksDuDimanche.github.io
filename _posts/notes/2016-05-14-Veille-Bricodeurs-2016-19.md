@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: notes
 excerpt: Semaine 19
@@ -84,4 +84,3 @@ La résolution des noms de domaine est 10 fois plus rapide, pas mal. Et non ça 
 [certbot.eff.org](https://certbot.eff.org/)
 
 Let’s Encrypt permet de générer des certificats SSL gratuits et certifiés pour vos serveurs web. Mieux que les certificats auto-signés qui génèrent une méchante page d’erreur sur les navigateurs et infiniment moins chère que les certificats de Symantec et compagnie qui, dans le fond, ne foutent pas grand chose pour 350€ le fichier de 4Ko.
-
