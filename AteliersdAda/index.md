@@ -34,7 +34,7 @@ Les ateliers ont lieu tous les samedis, hors vacances scolaires, à l'espace Alt
  14 mai | Musique 2 | [14h (Initiation)](https://yurplan.com/event/Atelier-d-Ada-Initiation-Musique-2/9221) - [16h (Avancé)](https://yurplan.com/event/Atelier-d-Ada-Avance-Musique-2/9223) 
  21 mai | Robotique 2 | [14h (Initiation)](https://yurplan.com/event/Ateliers-d-Ada-Robotique-Initiation/9412) - [16h (Avancé)](http://yurplan.com/event/Ateliers-d-Ada-Robotique-avance/9415)
  28 mai | MineCraft  | [14h (Initiation)](https://yurplan.com/event/Atelier-d-Ada-Initiation-Mine-Craft/9418) - [16h (Avancé)](https://yurplan.com/event/Atelier-d-Ada-Avance-Mine-Craft/9419)   
- 4 juin | Robotique 3 | [14h (Initiation)](https://yurplan.com/event/Ateliers-d-Ada-Robotique-Initiation/9413) - [16h (Avancé)](https://yurplan.com/event/Ateliers-d-Ada-Robotique-avance/9416) cd      
+ 4 juin | Robotique 3 | [14h (Initiation)](https://yurplan.com/event/Ateliers-d-Ada-Robotique-Initiation/9413) - [16h (Avancé)](https://yurplan.com/event/Ateliers-d-Ada-Robotique-avance/9416)
  18 juin | Robotique 4 | [14h (Initiation)](http://yurplan.com/event/Ateliers-d-Ada-Robotique-Initiation/9414) - [16h (Avancé)](https://yurplan.com/event/Ateliers-d-Ada-Robotique-avance/9417)     
 
 ![jeuxvideo]({{site.url}}/images/AdaJeux.jpg){: .pull-right}
