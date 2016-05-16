@@ -11,7 +11,7 @@ tags:
 image: 
   feature: null
   credit: null
-date: 
+date: 2016-05-15T10:55:54+02:00
 comments: true
 share: true
 author: cyril
