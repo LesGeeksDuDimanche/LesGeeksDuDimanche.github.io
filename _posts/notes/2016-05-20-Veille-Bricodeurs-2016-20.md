@@ -17,19 +17,19 @@ share: true
 author: cyril
 thumbnail: "images/Computer-Cat.jpg"
 ---
-Petite Veille cette semaine, j’ai fait la feignasse car je prépare mes vacances, ça prend du temps.
+Petite Veille cette semaine, j’ai fait la feignasse car je prépare mes vacances.
 
 ## Maker et robotique
 
 ### Une imprimante alimentaire
 [geekandfood.fr](http://geekandfood.fr/imprimantes-3d-preparer-vos-repas/)
 
-Vous remplissez les cartouches avec des aliments et elle compose un repas. Dans les faits elle s’occupe plus du dressage des plats parce que sa m’étonnerait beaucoup qu’elle sachent vraiment cuisiner un repas complet avec ce qui reste dans votre frigo. A titre d’exemple, il reste dans mon frigo : 2 carottes, un bocal de cornichon, un pot de confiture d’orange et suffisamment de bière, maintenant bon courage imprimante pour me faire à manger ce soir.
+Vous remplissez les cartouches avec des aliments et elle compose un repas. Dans les faits elle s'occupe plus du dressage des plats, parce que ça m'étonnerait beaucoup qu'elle sache vraiment cuisiner un repas complet avec ce qui reste dans votre frigo. A titre d’exemple, il reste dans mon frigo : 2 carottes, un bocal de cornichon, un pot de confiture d’orange et suffisamment de bière, maintenant bon courage imprimante pour me faire à manger ce soir.
 
 ### Le tampon connecté
 [www.hackster.io](https://www.hackster.io/team-taboo/my-flow-b24c41)
 
-L’internet des trucs est un univers dont les frontières sont en perpétuelles expension et certains usages échappent parfois à toute réalité tangible, mais là non, j’ai tout de suite entrevu l'intérêt d’une tel invention. Dans un premier temps c’est donc bien de tampon hygiénique dont il est question, connecté donc, qui envoi un push à madame lorsque celui-ci est plein, mais dans un second temps l'intérêt principal, à mon sens, sera surtout de savoir si votre tampon imbibé de vodka est vide. Un petit pas pour la femme, un grand pas pour le binge drinking. 
+L'internet des trucs est un univers dont les frontières sont en perpétuelles expansion et certains usages échappent parfois à toute réalité tangible, mais là non, j'ai tout de suite entrevu l'intérêt d'une telle invention. Dans un premier temps c'est donc bien de tampon hygiénique dont il est question, connecté donc, qui envoie un push à madame lorsque celui-ci est plein, mais dans un second temps l'intérêt principal, à mon sens, sera surtout de savoir si votre tampon imbibé de vodka est vide. Un petit pas pour la femme, un grand pas pour le binge drinking.
 
 ## Art et loisirs
 
@@ -37,7 +37,7 @@ L’internet des trucs est un univers dont les frontières sont en perpétuelles
 [twitter.com](https://twitter.com/chromakode/status/731942777131425792)
 
 Issue d’un Hackathon forcément, mais ouvertement inutile celui-ci, l’application permet de commander un repas sur un site de livraison à domicile et le fait livrer dans un lieu aléatoire, puis vous commande un Huber pour vous y rendre. Du génie pur.
-Bientôt disponible dés que le code sera propre.
+Bientôt disponible dès que le code sera propre.
 
 ## Dev et web
 
