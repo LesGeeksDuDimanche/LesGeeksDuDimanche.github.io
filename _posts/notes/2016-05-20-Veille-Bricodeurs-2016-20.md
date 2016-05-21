@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: notes
 excerpt: Semaine 20
@@ -19,17 +19,6 @@ thumbnail: "images/Computer-Cat.jpg"
 ---
 Petite Veille cette semaine, j’ai fait la feignasse car je prépare mes vacances.
 
-## Maker et robotique
-
-### Une imprimante alimentaire
-[geekandfood.fr](http://geekandfood.fr/imprimantes-3d-preparer-vos-repas/)
-
-Vous remplissez les cartouches avec des aliments et elle compose un repas. Dans les faits elle s'occupe plus du dressage des plats, parce que ça m'étonnerait beaucoup qu'elle sache vraiment cuisiner un repas complet avec ce qui reste dans votre frigo. A titre d’exemple, il reste dans mon frigo : 2 carottes, un bocal de cornichon, un pot de confiture d’orange et suffisamment de bière, maintenant bon courage imprimante pour me faire à manger ce soir.
-
-### Le tampon connecté
-[www.hackster.io](https://www.hackster.io/team-taboo/my-flow-b24c41)
-
-L'internet des trucs est un univers dont les frontières sont en perpétuelle expansion et certains usages échappent parfois à toute réalité tangible, mais là non, j'ai tout de suite entrevu l'intérêt d'une telle invention. Dans un premier temps c'est donc bien de tampon hygiénique dont il est question, connecté donc, qui envoie un push à madame lorsque celui-ci est plein, mais dans un second temps l'intérêt principal, à mon sens, sera surtout de savoir si votre tampon imbibé de vodka est vide. Un petit pas pour la femme, un grand pas pour le binge drinking.
 
 ## Art et loisirs
 
@@ -55,3 +44,15 @@ Parce que oui, il existe une alternative à MD5 pour cacher les mots de passe de
 [github.com](https://github.com/IonicaBizau/node.cobol)
 
 Donc ce module permet d'exécuter du code NodeJS dans un programme en Cobol (1959). Je pense que jamais cette option ne devrait être envisagée, jamais. Peut être dans le cas d’une expérimentation à but artistique, et encore. A noter que l'équivalent existe aussi pour le Fortran (1954).
+
+## Maker et robotique
+
+### Une imprimante alimentaire
+[geekandfood.fr](http://geekandfood.fr/imprimantes-3d-preparer-vos-repas/)
+
+Vous remplissez les cartouches avec des aliments et elle compose un repas. Dans les faits elle s'occupe plus du dressage des plats, parce que ça m'étonnerait beaucoup qu'elle sache vraiment cuisiner un repas complet avec ce qui reste dans votre frigo. A titre d’exemple, il reste dans mon frigo : 2 carottes, un bocal de cornichon, un pot de confiture d’orange et suffisamment de bière, maintenant bon courage imprimante pour me faire à manger ce soir.
+
+### Le tampon connecté
+[www.hackster.io](https://www.hackster.io/team-taboo/my-flow-b24c41)
+
+L'internet des trucs est un univers dont les frontières sont en perpétuelle expansion et certains usages échappent parfois à toute réalité tangible, mais là non, j'ai tout de suite entrevu l'intérêt d'une telle invention. Dans un premier temps c'est donc bien de tampon hygiénique dont il est question, connecté donc, qui envoie un push à madame lorsque celui-ci est plein, mais dans un second temps l'intérêt principal, à mon sens, sera surtout de savoir si votre tampon imbibé de vodka est vide. Un petit pas pour la femme, un grand pas pour le binge drinking.
