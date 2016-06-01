@@ -2,55 +2,11 @@
 
 
  - day: lundi
-   date: 18 avril 2016
+   date: 6 juin 2016
    events:
 
     - time: 19h30
       title: "Angular"
       img: angular.png
-      link: http://www.meetup.com/fr-FR/Design-et-technologie-pour-projets-citoyens/events/230322809/
+      link: http://www.meetup.com/fr-FR/Design-et-technologie-pour-projets-citoyens/events/231488016/
       location: Au flâneur guesthouse
-
-
- - day: mardi
-   date: 19 avril 2016
-   events:
-
-    - time: 18h30
-      title: "NodeSchool"
-      img: nodeschool.png
-      link: http://www.meetup.com/fr-FR/Design-et-technologie-pour-projets-citoyens/events/230349434/
-      location: A la M[Y]NE
-      
-      
- - day: mercredi
-   date: 20 avril 2016
-   events:
-
-    - time: 19h30
-      title: "Ruby Wednesday"
-      img: rubyWedsneday.png
-      link: http://www.meetup.com/fr-FR/Ruby-Wednesdays-Vieux-Lyon/events/230252151/
-      location: A l'Artigone
-      
- - day: lundi
-   date: 25 avril 2016
-   events:
-
-    - time: 19h30
-      title: "Angular"
-      img: angular.png
-      link: http://www.meetup.com/fr-FR/Design-et-technologie-pour-projets-citoyens/events/lkspslyvgbhc/
-      location: Au flâneur guesthouse
-
-
- - day: mardi
-   date: 26 avril 2016
-   events:
-
-    - time: 18h30
-      title: "NodeSchool"
-      img: nodeschool.png
-      link: http://www.meetup.com/fr-FR/Design-et-technologie-pour-projets-citoyens/events/rmpqllyvgbjc/
-      location: A la M[Y]NE
-
