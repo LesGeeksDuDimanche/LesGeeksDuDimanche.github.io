@@ -121,6 +121,6 @@ Elle a également entrevu et décrit certaines possibilités offertes par les ca
 
 
 
-[Page Facebook](https://www.facebook.com/Les-Ateliers-dAda-1010068332420661/) - [ada@lesbricodeurs.fr](mailto:ada@lesbricodeurs.fr) - Marie : 06 43 71 84 33
+[Page Facebook](https://www.facebook.com/Les-Ateliers-dAda-1010068332420661/) - [ada@lesbricodeurs.fr](mailto:ada@lesbricodeurs.fr) - Xavier : 06 67 44 99 79
 
 Une remarque? [N'hésitez pas >]({{site.url}}/AteliersdAda/idees/)
