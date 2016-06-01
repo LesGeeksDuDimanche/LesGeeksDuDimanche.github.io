@@ -40,7 +40,7 @@
 - name: Cyril
   web:
   email:
-  bio: ""
+  bio: "CTO le jour, Mister Patate la nuit"
   avatar: bio/cyril.jpg
   twitter:
   google:
