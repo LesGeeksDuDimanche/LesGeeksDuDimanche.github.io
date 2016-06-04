@@ -1,5 +1,20 @@
 ---
-published: false
+published: true
+layout: post
+categories: notes
+excerpt: Semaine 22
+tags:
+  - web
+  - development
+  - innovation
+image:
+  feature: null
+  credit: null
+date: '2016-06-040T18:06:54.000Z'
+comments: true
+share: true
+author: cyril
+thumbnail: images/Computer-Cat.jpg
 ---
 ## Maker et robotique
 
@@ -41,10 +56,3 @@ Plus propre qu’un EasyPHP et moins lourd qu’un Vagrant c’est peut être la
 [wicg.github.io](https://wicg.github.io/ResizeObserver/)
 
 Cette fonction permet de déclencher un évènement lorsqu’un élément de votre page web est redimensionné. Promesse d’une nouvelle ère dans les interfaces responsive, enfin repris en main par le javascript. Tout du moins quand elle sera supportée par les navigateurs parce que pour le moment c’est surtout sur le papier.
-
-
-
-
-
-
-
