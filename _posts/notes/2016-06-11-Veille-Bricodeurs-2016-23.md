@@ -11,7 +11,7 @@ tags:
 image:
   feature: null
   credit: null
-date: '2016-06-110T12:06:54.000Z'
+date: '2016-06-11T12:06:54.000Z'
 comments: true
 share: true
 author: cyril
