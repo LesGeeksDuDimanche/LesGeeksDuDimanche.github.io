@@ -3,20 +3,27 @@
   description: "Distribution linux légère conçue pour l'éducation au numérique"
   url: http://lesbricodeurs.fr/projets/bricotux/
 
-- name: Huby
-  avatar: huby.jpg
-  description: "Le concierge numérique des tiers lieux et espaces de coworking"
-  url: 
-
 - name: We colearn
   avatar: wecolearn.jpg
   description: "Le mouvement du colearning a une app"
   url: http://wecolearn.meteor.com/
 
+
+- name: Bricoschool
+  avatar: bricoschool.png
+  description: "Referentiel des compétences web"
+  url: http://lesbricodeurs.fr/bricoschool/
+
+- name: Huby
+  avatar: huby.jpg
+  description: "Le concierge numérique des tiers lieux et espaces de coworking"
+  url: 
+
 - name: Tag@T
   avatar: fauteuil.jpg
   description: "Sharp Tag localization"
   url: http://lesbricodeurs.fr/diesearobaset/
+
 
 - name: Bricopad
   avatar: bricopad.jpg
