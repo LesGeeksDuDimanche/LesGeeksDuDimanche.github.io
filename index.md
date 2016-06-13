@@ -11,12 +11,14 @@ image:
 
 Les Bricodeurs regroupe les professionnels du numérique (doctorants, designers, CTO, entrepreneurs, ...) avec pour objectifs de mettre leur expertise au service de la diffusion de la culture numérique et l'accompagnement de projets numériques citoyens. Nous pensons que le numérique est surtout un enjeu culturel et sociétal. 
 
+<div style="margin:auto;"><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Flesbricodeurs%2Fvideos%2F290466934626200%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden;display:block;" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe></div>
+
 # Éducation au numérique
-* [Ateliers d'Ada]({{site.url}}/AteliersdAda/) Ateliers d'initiation pour enfants et adolescents au code et à la robotique. 
-* [Ateliers d'apprentissage collaboratif]({{site.url}}/evenements/apprentissage) Apprendre à faire un site ou une application avec nodejs, meteor, php, html, data science ...
+* [Ateliers d'Ada]({{site.url}}/AteliersdAda/), ateliers d'initiation pour enfants et adolescents au code et à la robotique. 
+* [Ateliers d'apprentissage collaboratif]({{site.url}}/evenements/apprentissage), apprendre à construire un site, une application avec nodejs, meteor, Angularjs ...
 
 # Le numérique citoyen
-* [Accompagnement de projets]({{site.url}}/projets/) Accélération interne et soutien de startups et projets citoyens
+* [Accompagnement de projets]({{site.url}}/projets/), accélération interne et soutien de startups et projets citoyens
 * [Conférences CivicTech](https://www.facebook.com/events/469923249869192/) pour échanger sur des sujets de technologie et société autour d'une brioche : Histoire de la collecte de données, Modèles économiques Open Source ...
 
 # Une communauté active
