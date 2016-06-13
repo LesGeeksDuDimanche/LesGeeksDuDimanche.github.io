@@ -11,7 +11,7 @@ tags:
 image:
   feature: null
   credit: null
-date: '2016-06-110T12:06:54.000Z'
+date: 2016-06-11T12:06:54.000Z
 comments: true
 share: true
 author: cyril
@@ -28,33 +28,33 @@ Je n’ai pas compris l’utilité du canard de bain sur le bras du robot dans l
 ### Fabriquer un robot agriculteur
 [farmbot.io](https://farmbot.io/)
 
-Ce projet d’agriculture automatisé en open source permet de contrôler la plantation et l'arrosage de semis. Avec la surface présenté dans la vidéo je ne vois pas trop l'intérêt mais modifié pour couvrir une plus grande surface j’imagine que c’est le rêve pour certain adeptes du jardinage qui aiment faire pousser des plantes médicinales en intérieur, à la lumière de lampe à sodium, et qui ne veule pas embêter les voisins avec de fréquents va et vient.
+Ce projet d’agriculture automatisé en open source permet de contrôler la plantation et l'arrosage de semis. Avec la surface présenté dans la vidéo je ne vois pas trop l'intérêt mais modifié pour couvrir une plus grande surface j’imagine que c’est le rêve pour certain adeptes du jardinage qui aiment faire pousser des plantes médicinales en intérieur, à la lumière de lampe à sodium, et qui ne veulent pas embêter les voisins avec de fréquents va et vient.
 
 ## Blockchain
 
 ### Les entreprises achètent des bitcoins pour payer des rançons
 [www.cryptocoinsnews.com](https://www.cryptocoinsnews.com/survey-uk-companies-buy-bitcoin-pay-off-ransomware-extortionists/)
 
-Cette article nous apprend que certaines entreprises ont provisionné des bitcoins dans le but de payer des rançons en cas de piratage. Si ça vous arrive et que vous n’avez pas été prévoyant (sauvegarder vos fichiers par exemple) un conseil, temporisez, le bitcoin est un peu chère ces temps ci. (en cas de kidnapping attendez de recevoir la 2ème oreille ça peux pas monter éternellement) 
+Cet article nous apprend que certaines entreprises ont provisionné des bitcoins dans le but de payer des rançons en cas de piratage. Si ça vous arrive et que vous n’avez pas été prévoyants (sauvegarder vos fichiers par exemple) un conseil, temporisez, le bitcoin est un peu cher ces temps ci. (en cas de kidnapping attendez de recevoir la 2ème oreille ça peut pas monter éternellement) 
 
 ## Art et loisirs
 
 ### Un compilateur qui n’utilise qu’une seul commande
 [www.darknet.org.uk](http://www.darknet.org.uk/2016/06/movfuscator-compile-program-mov-instructions/)
 
-Ça peux paraître idiot (ça l’est un peu) mais quelqu’un à développé un compilateur qui remplace toutes les commandes d’un programme par l’unique MOV, et ça marche, aux prix de certaines gesticulations cependant. C’est peu comme si on remplaçait tous les verbes de la langue française par “déplacer”. C’est un compilateur schtroumpf.
+Ça peux paraître idiot (ça l’est un peu) mais quelqu’un a développé un compilateur qui remplace toutes les commandes d’un programme par l’unique MOV, et ça marche, aux prix de certaines gesticulations cependant. C’est peu comme si on remplaçait tous les verbes de la langue française par “déplacer”. C’est un compilateur schtroumpf.
 
 ## Dev et web
 
 ### Les expressions régulières en Javascript
 [www.sitepoint.com](https://www.sitepoint.com/expressions-javascript/)
 
-En informatique il y a 2 sujets avec lesquels il est impossible de rire, les pointeurs en C et les expressions régulières. Cette article parle donc sobrement du 2ème.
+En informatique il y a 2 sujets avec lesquels il est impossible de rire, les pointeurs en C et les expressions régulières. Cet article parle donc sobrement du 2ème.
 
 ### Développer son propre Virtual DOM en JS
 [medium.com](https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060#.fcu3mcgsy)
 
-Démystifiez la magie qui se cache derrière React avec ce tutoriel qui vous apprendra à développer votre propre virtual DOM. Mais je vous préviens, c’est comme les magiciens quand on connais le truc on est déçu.
+Démystifiez la magie qui se cache derrière React avec ce tutoriel qui vous apprendra à développer votre propre virtual DOM. Mais je vous préviens, c’est comme les magiciens quand on connait le truc on est déçu.
 
 ### JS++ le langage des développeur de la COGIP
 [www.onux.com](https://www.onux.com/jspp/)
