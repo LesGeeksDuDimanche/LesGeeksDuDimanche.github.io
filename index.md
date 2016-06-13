@@ -15,7 +15,7 @@ Les Bricodeurs regroupe les professionnels du numérique (doctorants, designers,
 
 # Éducation au numérique
 * [Ateliers d'Ada]({{site.url}}/AteliersdAda/), ateliers d'initiation pour enfants et adolescents au code et à la robotique. 
-* [Ateliers d'apprentissage collaboratif]({{site.url}}/evenements/apprentissage), apprendre à construire un site, une application avec nodejs, meteor, Angularjs ...
+* [Ateliers d'apprentissage collaboratif]({{site.url}}/evenements/apprentissage) pour apprendre à construire un site, une application avec nodejs, meteor, Angularjs ...
 
 # Le numérique citoyen
 * [Accompagnement de projets]({{site.url}}/projets/), accélération interne et soutien de startups et projets citoyens
