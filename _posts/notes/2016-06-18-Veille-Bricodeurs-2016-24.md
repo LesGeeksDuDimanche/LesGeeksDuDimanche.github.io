@@ -1,5 +1,21 @@
 ---
 published: false
+layout: post
+categories: notes
+excerpt: Semaine 24
+tags:
+  - web
+  - development
+  - innovation
+  - cannabis
+image:
+  feature: null
+  credit: null
+date: '2016-06-180T14:06:54.000Z'
+comments: true
+share: true
+author: cyril
+thumbnail: images/Computer-Cat.jpg
 ---
 ## Maker et robotique
 
