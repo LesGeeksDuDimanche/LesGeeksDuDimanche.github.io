@@ -11,7 +11,7 @@ tags:
 image:
   feature: null
   credit: null
-date: '2016-06-180T14:06:54.000Z'
+date: 2016-06-18T14:06:54.000Z
 comments: true
 share: true
 author: cyril
@@ -19,7 +19,7 @@ thumbnail: images/Computer-Cat.jpg
 ---
 ## Maker et robotique
 
-### Une grande maison à été construite avec une imprimante 3D
+### Une grande maison a été construite avec une imprimante 3D
 [www.3dnatives.com](http://www.3dnatives.com/villa-impression-3d-15-06-2016/)
 
 A priori cette personne était très pressée d’habiter dans une maison de 400m2 qui ressemble à une MJC en forme de château. 
@@ -32,10 +32,10 @@ A priori cette personne était très pressée d’habiter dans une maison de 400
 Je vous parlais il y a quelques semaines de la nouvelle plate-forme de crowdfunding qui enflammait les investisseurs. Et bien il semblerait que ça commence à partir en cacahuète.
 Un pirate à pratiquement réussi à carotter 3,6M d’Ether en exploitant une faille de la plate-forme. Ils ont dû demander à la communauté de spammer le réseau pour retarder l'attaque...
 
-## API de monétisassions en bitcoin
+## API de monétisation en bitcoin
 [www.cryptocoinsnews.com](https://www.cryptocoinsnews.com/21-inc-creates-open-source-library-machine-payable-web)
 
-Cette API permet de créer des services payant en bitcoin. Le site propose aussi une marketplace remplie de services gratuits ailleurs ou programmable en 3 jours si on veut bien s’en donner la peine.
+Cette API permet de créer des services payant en bitcoins. Le site propose aussi une marketplace remplie de services gratuits ailleurs ou programmable en 3 jours si on veut bien s’en donner la peine.
 
 ## Art et loisirs
 
@@ -47,12 +47,12 @@ Un article qui vous donnera sûrement envie de vous mettre à Blender si vous n�
 ### Microsoft mise sur le cannabis
 [www.engadget.com](https://www.engadget.com/2016/06/17/microsoft-partners-with-a-legal-weed-startup/)
 
-Microsoft est le Benjamin Button de l’informatique, il est née vieux et acerbe, cherchant à surprotéger ses logiciels très cher et, au fil du temps, il rajeunie et nous propose plein de consoles de jeux ou des logiciels libres. Voila que maintenant il a atteint l'âge de l'adolescence et commence à dire à ses actionnaires de parents “qu’il écoute sa musique au volume qu’il veut et qu’il fume de la weed quand ca le chante”, enfin presque, en tout cas il s’associe à une startup qui fait de la traçabilité de cannabis légale.  
+Microsoft est le Benjamin Button de l’informatique, il est né vieux et acerbe, cherchant à surprotéger ses logiciels très chers et, au fil du temps, il rajeunit et nous propose plein de consoles de jeux ou des logiciels libres. Voila que maintenant il a atteint l'âge de l'adolescence et commence à dire à ses actionnaires de parents “qu’il écoute sa musique au volume qu’il veut et qu’il fume de la weed quand ca le chante”, enfin presque, en tout cas il s’associe à une startup qui fait de la traçabilité de cannabis légale.  
 
 ### La fatigue marketing
 [www.fredcavazza.net](http://www.fredcavazza.net/2016/06/14/de-la-montee-en-puissance-des-martechs)
 
-Le phénomène de fatigue javascript est aussi transposable au marketing, et ça fait assez plaisir à lire, on pensait que l’abus de nouvelles technologies ne touchait que les développeurs ivres de nouveaux frameworks et plugins ultra doublonnés mais cet article nous prouve qu’une forme de techno-burnout existe aussi dans le marketing. (oui j’ai mis un article sur le marketing dans Art et loisirs parce-que j’avais la flemme de créer une rubrique “marketing” mais soyons franc, si votre loisir c’est le marketing vous êtes un sociopathe)
+Le phénomène de fatigue Javascript est aussi transposable au marketing, et ça fait assez plaisir à lire, on pensait que l’abus de nouvelles technologies ne touchait que les développeurs ivres de nouveaux frameworks et plugins ultra doublonnés mais cet article nous prouve qu’une forme de techno-burnout existe aussi dans le marketing. (oui j’ai mis un article sur le marketing dans Art et loisirs parce-que j’avais la flemme de créer une rubrique “marketing” mais soyons franc, si votre loisir c’est le marketing vous êtes un sociopathe)
 
 ## Dev et web
 
@@ -64,7 +64,7 @@ Petit titre putaclic pour vous inciter à lire cette série d’articles très p
 ### Comment éradiquer CSS
 [putaindecode.io](http://putaindecode.io/fr/articles/css/stop-css/)
 
-Cet article fait le point sur les techniques à employer pour éradiquer cette vermine héritée de l'âge de pierre d’internet qu’est le CSS. Souvent glorifié par les graphistes et autres webdesigners ce “langage” qui n’est que bohème et dépravation n’a plus sa place dans le monde structuré qu’est l'internet d'aujourd’hui. Dites le vous !!!
+Cet article fait le point sur les techniques à employer pour éradiquer cette vermine héritée de l'âge de pierre d’internet qu’est le CSS. Souvent glorifié par les graphistes et autres webdesigners ce “langage” qui n’est que bohème et dépravation n’a plus sa place dans le monde structuré qu’est l'internet d'aujourd’hui. Dites-le vous !!!
 
 ### Entraînez vous au entretiens d’embauche technique
 [interviewing.io](http://interviewing.io)
