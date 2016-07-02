@@ -27,7 +27,7 @@ Nous sommes en 2016 et le service R&D de la Caisse d’Epargne nous offre le fut
 ## Blockchain
 
 ### Bernard Debré a acheté de la drogue et veux donc interdire le bitcoin
-[www.cryptocoinsnews.com](https://www.cryptocoinsnews.com/paris-politician-wants-to-ban-bitcoin/)
+<iframe width="854" height="480" src="https://www.youtube.com/embed/YDRpKq6mLIw" frameborder="0" allowfullscreen></iframe>
 
 C'est vrai qu'on avait essayé beaucoup de choses pour luter contre les narcotiques, mais personne n'avait envisagé d'interdire l'argent. Pas bête béber.
 
