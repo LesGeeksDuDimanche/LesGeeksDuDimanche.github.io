@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: notes
 excerpt: Semaine 26
@@ -11,7 +11,7 @@ tags:
 image:
   feature: null
   credit: null
-date: 2016-07-02T09:06:54.000Z
+date: {}
 comments: true
 share: true
 author: cyril
