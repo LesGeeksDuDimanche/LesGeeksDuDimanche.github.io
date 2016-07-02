@@ -26,7 +26,7 @@ Nous sommes en 2016 et le service R&D de la Caisse d’Epargne nous offre le fut
 
 ## Blockchain
 
-### Bernard Debré à acheter de la drogue et veux donc interdire le bitcoin
+### Bernard Debré a acheté de la drogue et veux donc interdire le bitcoin
 [www.cryptocoinsnews.com](https://www.cryptocoinsnews.com/paris-politician-wants-to-ban-bitcoin/)
 
 C'est vrai qu'on avait essayé beaucoup de choses pour luter contre les narcotiques, mais personne n'avait envisagé d'interdire l'argent. Pas bête béber.
@@ -39,11 +39,11 @@ Et ici, on parles de l'Art avec un grand A, la peinture à l'huile de grands ma�
 
 ### Les Lions du Stade de Lyon imprimé en 3D à Lyon
 [www.3dnatives.com](http://www.3dnatives.com/lions-imprimes-3d-olympique-lyonnais-16022016/)
-Puisque c’est l’Euro de foot il faut parler de foot, alors voilà, les 4 grandes statuts de lions disposé au grand stade ont été réalisés par un studio de design lyonnais. Pour aller les voir il faut prendre le T3. Niveau foot je suis au max la.  
+Puisque c’est l’Euro de foot il faut parler de foot, alors voilà, les 4 grandes statues de lions disposées au grand stade ont été réalisés par un studio de design lyonnais. Pour aller les voir il faut prendre le T3. Niveau foot je suis au max là.  
 
 ## Dev et web
 
-### Vous êtres tracé quoi que vois fassiez
+### Vous êtes tracés quoi que vous fassiez
 [geoloc.foremski.pl](http://geoloc.foremski.pl/)
 Bon c’est ni précis ni vraiment innovent, mais ça a le mérite d’être intéressant. Le système vous montre que vous pouvez être vaguement géolocalisé avec des ping émis des 4 coins du monde.
 
