@@ -9,6 +9,8 @@ image:
   creditlink:
 ---
 
+Pour Fleurs jumelles,[c'est ici]({{site.url}}/projets/FleursJumelles)
+
 Les Bricodeurs regroupe les professionnels du numérique (doctorants, designers, CTO, entrepreneurs, ...) avec pour objectifs de mettre leur expertise au service de la diffusion de la culture numérique et l'accompagnement de projets numériques citoyens. Nous pensons que le numérique est surtout un enjeu culturel et sociétal. 
 
 <div style="margin:auto;"><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Flesbricodeurs%2Fvideos%2F290466934626200%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden;display:block;" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe></div>
@@ -24,6 +26,8 @@ Les Bricodeurs regroupe les professionnels du numérique (doctorants, designers,
 # Une communauté active
 * Le cœur des bricodeurs, ce sont des passionnés qui se retrouvent régulièrement sur les thématiques techniques : "Des Nouvelles Du Frontend" en partenariat avec la Tour du web, "Aperobot" en partenariat avec l'association Caliban, "L'art et la Bidouille" ...
 * La coorganisation d’événements majeurs : Le BlockFest, Act In Space, Open Bidouille Camp ...
+
+
 
 Basés à Lyon avec des activité à Toulouse, Grenoble et Paris. Nous recrutons activement des responsables de communautés, contactez nous: <salut@lesbricodeurs.fr>
 
