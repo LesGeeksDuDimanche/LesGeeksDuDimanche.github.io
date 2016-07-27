@@ -7,7 +7,7 @@ excerpt: Pendant que vous cherchez les Pokemon, Pokemon Go vous trouve
 tags: [game, gps]
 image:
   feature:
-date: 2015-07-18T23:42:40+02:00
+date: 2015-07-27T12:42:40+02:00
 author: martin
 comments: true
 share: false
@@ -51,7 +51,7 @@ Vous avez sans doute remarqué quand vous démarrez Google Maps que le cercle de
 
 Point de sorcellerie, une fois votre téléphone connecté ou à portée d'un signal Wi-Fi, l'identifiant de ce Wi-Fi est repéré dans une base de donnée qui liste leurs positions. Encore une fois, en en recoupant plusieurs, on peut atteindre une bonne précision. 
 
-Lorsque vous êtes en intérieur, cela peut être moins précis, à cause du fait que vous ne captez pas les signaux GPS et parfois mal les signaux cellulaires. Essayez: désactivez et réactivez le wifi, il est probable que vous voyez votre personnage se déplacer.
+Lorsque vous êtes en intérieur cela peut être le seul repère, à cause du fait que vous ne captez pas les signaux GPS et parfois mal les signaux cellulaires. Essayez: désactivez et réactivez le wifi, il est probable que vous voyez votre personnage se déplacer.
 
 # La réalité augmentée
 
