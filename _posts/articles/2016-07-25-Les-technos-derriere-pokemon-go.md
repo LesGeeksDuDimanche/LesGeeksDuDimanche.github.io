@@ -7,7 +7,7 @@ excerpt: Pendant que vous cherchez les Pokemon, Pokemon Go vous trouve
 tags: [game, gps]
 image:
   feature:
-date: 2015-07-27T12:42:40+02:00
+date: 2016-07-27T12:42:40+02:00
 author: martin
 comments: true
 share: true
