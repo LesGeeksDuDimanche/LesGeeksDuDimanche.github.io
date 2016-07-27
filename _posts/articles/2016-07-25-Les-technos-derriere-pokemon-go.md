@@ -10,7 +10,7 @@ image:
 date: 2015-07-27T12:42:40+02:00
 author: martin
 comments: true
-share: false
+share: true
 published: true
 thumbnail: images/taupe.jpg
 ---
@@ -61,4 +61,4 @@ Chaque smartphone est équipé d'une boussole et d'un gyroscope. Le gyroscope es
 
 La réalité augmentée combine les deux technologies avec la caméra du smartphone. En effet, l'application peut voir si un Pokemon est dans le champ de vue de la caméra car d'une part elle sait où le smartphone se trouve, mais aussi dans quelle direction elle regarde (boussole) et avec quelle inclinaison (gyroscope). Le Pokemon est affiché en 3D en tenant compte de ces informations, ce qui permettra de l'afficher en face de vous ou dans votre pot à fleurs.
 
-![La taupinette]({{ site.url }}/images/taupe.jpg)
+![La taupinette](/images/taupe.jpg)
