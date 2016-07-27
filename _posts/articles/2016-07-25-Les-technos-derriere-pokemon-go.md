@@ -21,7 +21,7 @@ Derrière Pokemon Go, un cocktail de technologies développées sur plusieurs d�
 
 La première technologie utilisée dans Pokemon Go est la géo-localisation. Tous les utilisateurs de smartphone l’ont déjà utilisée pour trouver une adresse, mais savent-ils tous comment ça marche? En réalité, la géolocalisation utilise trois technologies différentes :
 
-![GPS]({{ site.url }}/images/triangulation.jpg){: .pull-right}
+![GPS](/images/triangulation.jpg){: .pull-right}
 
 - Le GPS (Global Positionning System) 
 - Le positionnement par le réseau cellulaire
