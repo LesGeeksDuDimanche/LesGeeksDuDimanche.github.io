@@ -53,12 +53,12 @@ Point de sorcellerie, une fois votre téléphone connecté ou à portée d'un si
 
 Lorsque vous êtes en intérieur cela peut être le seul repère, à cause du fait que vous ne captez pas les signaux GPS et parfois mal les signaux cellulaires. Essayez: désactivez et réactivez le wifi, il est probable que vous voyez votre personnage se déplacer.
 
-### La boussole et le gyroscope
+# La boussole et le gyroscope
 
 Chaque smartphone est équipé d'une boussole et d'un gyroscope. Le gyroscope est utilisé pour déterminé la position dans laquelle vous tenez votre smartphone (paysage ou portrait), et d'adapter le contenu en conséquence. En réalité c'est bien plus sophistiqué que ça comme le montre l'application *Boussole* de l'iPhone par exemple. Il existe d'ailleurs des applications permettant de remplacer le niveau à bulle par son smartphone pour vous dire à quel point c'est précis!
 
 # La réalité augmentée
 
-La réalité augmentée combine les deux technologies avec la caméra du smartphone. En effet, l'application peut voir si un Pokemon est dans le champ de vue de la caméra car d'une part elle sait où le smartphone se trouve, mais aussi dans quelle direction elle regarde (boussole) et avec quelle inclinaison (gyroscope). Le Pokemon est affiché en 3D en tenant compte de ces informations, ce qui permettra de l'afficher en face de vous ou dans votre pot à fleurs.
+La réalité augmentée combine ces deux dernières technologies avec la caméra du smartphone. En effet, l'application peut voir si un Pokemon est dans le champ de vue de la caméra car d'une part elle sait où le smartphone se trouve, mais aussi dans quelle direction elle regarde (boussole) et avec quelle inclinaison (gyroscope). Le Pokemon est affiché en 3D en tenant compte de ces informations, ce qui permettra de l'afficher en face de vous ou dans votre pot à fleurs.
 
 ![La taupinette](/images/taupe.jpg)
