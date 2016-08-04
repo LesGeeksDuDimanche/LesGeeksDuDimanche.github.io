@@ -27,7 +27,7 @@ La première technologie utilisée dans Pokemon Go est la géo-localisation. Tou
 - Le positionnement par le réseau cellulaire
 - Le Wi-Fi
 
-Ces technologies reposent sur des procédés similaires, repérer votre smartphone par rapport à des points connus, puis calculer par triangulation son emplacement exact. Et oui, le jeu d'origine japonaise sur votre smartphone du troisième millénaire applique des formules de classe de 3ème. 
+Ces technologies reposent sur des procédés similaires, repérer votre smartphone par rapport à des points connus puis calculer son emplacement exact. Les calculs utilisent les propriété des triangles et de trigonométrie pour retrouver la position à partir des angles (triangulation) ou des distances (trilatération). Et oui, le jeu d'origine japonaise sur votre smartphone du troisième millénaire applique des formules de classe de 3ème. 
 
 L'entreprise derrière Pokemon Go, Niantic, a déjà quelques années d'expérience sur le sujet. Fondée par des ingénieurs de Google maps, voilà 8 ans qu'avec le jeu Ingress elle a pu affiner leur utilisation pour compenser les lacunes et repérer les tricheurs.
 
@@ -51,7 +51,7 @@ Vous avez sans doute remarqué quand vous démarrez Google Maps que le cercle de
 
 Point de sorcellerie, une fois votre téléphone connecté ou à portée d'un signal Wi-Fi, l'identifiant de ce Wi-Fi est repéré dans une base de donnée qui liste leurs positions. Encore une fois, en en recoupant plusieurs, on peut atteindre une bonne précision. 
 
-Lorsque vous êtes en intérieur cela peut être le seul repère, à cause du fait que vous ne captez pas les signaux GPS et parfois mal les signaux cellulaires. Essayez: désactivez et réactivez le wifi, il est probable que vous voyez votre personnage se déplacer.
+Lorsque vous êtes en intérieur cela peut être le seul repère, à cause du fait que vous ne captiez pas les signaux GPS et parfois mal les signaux cellulaires. Essayez: désactivez et réactivez le wifi, il est probable que vous voyiez votre personnage se déplacer.
 
 # La boussole et le gyroscope
 
