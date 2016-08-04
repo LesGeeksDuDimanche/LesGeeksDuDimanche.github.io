@@ -55,7 +55,7 @@ Lorsque vous êtes en intérieur cela peut être le seul repère, à cause du fa
 
 # La boussole et le gyroscope
 
-Chaque smartphone est équipé d'une boussole et d'un gyroscope. Le gyroscope est utilisé pour déterminé la position dans laquelle vous tenez votre smartphone (paysage ou portrait), et d'adapter le contenu en conséquence. En réalité c'est bien plus sophistiqué que ça comme le montre l'application *Boussole* de l'iPhone par exemple. Il existe d'ailleurs des applications permettant de remplacer le niveau à bulle par son smartphone pour vous dire à quel point c'est précis!
+Chaque smartphone est équipé d'une boussole, d'un gyroscope et d'un accéléromètre. Le gyroscope, couplé avec l'accéléromètre, est utilisé pour déterminer la position dans laquelle vous tenez votre smartphone (paysage ou portrait), et d'adapter le contenu en conséquence. En réalité c'est bien plus sophistiqué que ça comme le montre l'application *Boussole* de l'iPhone par exemple. Il existe d'ailleurs des applications permettant de remplacer le niveau à bulle par son smartphone pour vous dire à quel point c'est précis!
 
 # La réalité augmentée
 
