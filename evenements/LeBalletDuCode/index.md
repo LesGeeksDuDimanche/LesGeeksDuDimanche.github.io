@@ -10,19 +10,19 @@ image:
 thumbnail : images/ada.png
 ---
 
-La Maison des mathématiques et les bricodeurs vous convient à un atelier unique, l’exploration de la programmation et de la robotique autour du thème du ballet.
+La Maison des mathématiques et les bricodeurs vous convient à un atelier unique, d’exploration de la programmation et de la robotique autour du thème du ballet.
 
 Lors de ce stage, les jeunes auront le loisir d’aborder les rapports entre la musique, le mouvement et le numérique. Grâce à Scratch et à son interface simplifiée, ils créeront leurs interactions et mini animations. Enfin, ils matérialiseront dans le monde physique par un ballet de mini-robots. La seule limite sera alors celle de la créativité.
 
 Gratuit, pour les jeunes de 8 ans à 16 ans sans niveau requis, les ateliers sont organisés par des animateurs amateurs.
 
-#Informations pratiques
+# Informations pratiques
 
 * Du 24 au 28 octobre 2016, de 9h à 12h
 * Gratuit, dans la limite des places disponibles
 * Maison des mathématiques et de l'informatique, Place de l'école, 69007 Lyon
 
-#Inscription
+# Inscription
 
 <div style="width:100%; text-align:left;"><iframe src="//eventbrite.fr/tickets-external?eid=28390156723&ref=etckt" frameborder="0" height="275" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
 
