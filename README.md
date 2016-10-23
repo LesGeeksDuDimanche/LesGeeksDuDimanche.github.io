@@ -11,6 +11,19 @@ Cette page retranscrit les activités et débats [lesbricodeurs](http://lesbrico
 La page utilise [Jekyll](http://jekyllrb.com) + octopress avec le thème So Simple du designer & graphiste [Michael Rose](http://mademistakes.com).
 Pour plus d'informations: [Configuration](http://mmistakes.github.io/so-simple-theme/theme-setup/)
 
+## Installation
+Télécharger le dépot
+
+	git clone git@github.com:LesGeeksDuDimanche/LesGeeksDuDimanche.github.io.git
+
+Installer ruby et outils de base (sur ubuntu)
+
+	sudo apt install ruby ruby-dev make gcc nodejs ruby-bundler 
+
+Installer les "gem" utiles à ce projet, localement
+
+	bundle install
+
 ## Utlisation
 
 Lancer le serveur en local avec une configuration appropriée
