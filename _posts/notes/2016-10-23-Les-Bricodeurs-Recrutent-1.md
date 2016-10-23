@@ -17,7 +17,7 @@ thumbnail:
 
 En pleine évolution, les bricodeurs recrutent des responsables de pôles et bénévoles.
 
-#Les Bricodeurs
+# Les Bricodeurs
 
 Les Bricodeurs, c’est un collectifs de passionnés du numérique et de son impact. Dans une ambiance détendue et ouverte, nous organisons :
 
@@ -27,9 +27,9 @@ Les Bricodeurs, c’est un collectifs de passionnés du numérique et de son imp
 
 Notre philosophie est de combiner une approche communautaire, collaborative et startup, de travailler en partenariat avec les autres acteurs du numérique et de proposer des produits et services utiles et efficaces.
 
-#Les rôles
+# Les rôles
 
-###Responsable de communauté : 
+### Responsable de communauté : 
 
 * Grenoble
 * Toulouse
@@ -42,7 +42,7 @@ La principale fonction du responsable de communauté est de s’assurer de la bo
 * Faire le lien avec les autres acteurs de la ville, dans le numérique, politique, économique et éducation.
 
 
-###Responsable de pole
+### Responsable de pole
 
 	Robotique & internet des objets
 	Design
