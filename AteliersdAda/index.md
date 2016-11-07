@@ -18,24 +18,12 @@ Les ateliers d'Ada permettent aux enfants de découvrir la robotique et la progr
 Au cours des différentes semaines vous pourrez concevoir votre robot avec les LEGO Mindstorm, programmer des jeux simples avec des interfaces comme Scratch et pour les plus avancés plonger dans la création avec Arduino et Processing. _[En savoir plus]({{site.url}}/AteliersdAda/outils/)_
 
 # Informations pratiques
-Les ateliers ont lieu tous les samedis, hors vacances scolaires, à l'espace Altnet, 7 place Louis Chazette dans le 1er arrondissement de Lyon.
+Durant l'année 2015-2016 Les ateliers ont lieu tous les samedis dans le 1er arrondissement de Lyon.
 
 * A 14h, l'atelier d'initiation pour les enfants de 6 à 12 ans
 * A 16h, l'atelier avancé à partir de 10 ans
 
-## Calendrier
-
-
- Date | Theme | Inscription 
-:-----:|:-----:|:-----:
- 26 mars | Découverte | [14h (Initiation)](https://yurplan.com/event/Atelier-d-Ada-Initiation/8426) - [16h (Avancé)](https://yurplan.com/event/Atelier-d-Ada-Avance/8427)
- 30 avril | Musique | [14h (Initiation)](https://yurplan.com/event/Atelier-d-Ada-Initiation/8497) - [16h (Avancé)](https://yurplan.com/event/Ateliers-d-Ada-Avance/8499)   
- 7 mai | Robotique | [14h (Initiation)](https://yurplan.com/event/Ateliers-d-Ada-Initiation/8500) - [16h (Avancé)](https://yurplan.com/event/Ateliers-d-Ada-avance/8501)         
- 14 mai | Musique 2 | [14h (Initiation)](https://yurplan.com/event/Atelier-d-Ada-Initiation-Musique-2/9221) - [16h (Avancé)](https://yurplan.com/event/Atelier-d-Ada-Avance-Musique-2/9223) 
- 21 mai | Robotique 2 | [14h (Initiation)](https://yurplan.com/event/Ateliers-d-Ada-Robotique-Initiation/9412) - [16h (Avancé)](http://yurplan.com/event/Ateliers-d-Ada-Robotique-avance/9415)
- 28 mai | MineCraft  | [14h (Initiation)](https://yurplan.com/event/Atelier-d-Ada-Initiation-Mine-Craft/9418) - [16h (Avancé)](https://yurplan.com/event/Atelier-d-Ada-Avance-Mine-Craft/9419)   
- 4 juin | Robotique 3 | [14h (Initiation)](https://yurplan.com/event/Ateliers-d-Ada-Robotique-Initiation/9413) - [16h (Avancé)](https://yurplan.com/event/Ateliers-d-Ada-Robotique-avance/9416)
- 18 juin | Robotique 4 | [14h (Initiation)](http://yurplan.com/event/Ateliers-d-Ada-Robotique-Initiation/9414) - [16h (Avancé)](https://yurplan.com/event/Ateliers-d-Ada-Robotique-avance/9417)     
+Pour l'année 2016-2017 nous privilégions les partenariats avec des structures éducatives et scientifiques en attendant de pouvoir organiser des ateliers plus fréquemment.
 
 ![jeuxvideo]({{site.url}}/images/AdaJeux.jpg){: .pull-right}
 
