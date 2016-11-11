@@ -1,10 +1,10 @@
 ---
 layout: embed
 title: La Nuit Du Code Citoyen - Organisateur
-excerpt: SoTech
+excerpt: Tech, Design & Fun
 modified: 2016-05-10T19:44:38.564948-04:00
 image:
-  feature:
+  feature: NCCTransp.png
   credit:
   creditlink:
 couleur : 
