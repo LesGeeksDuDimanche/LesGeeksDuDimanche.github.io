@@ -15,7 +15,7 @@ published: true
 thumbnail: 
 ---
 
-Pour faire face à une augmentation importante de notre activité, les bricodeurs recrutent des animatrices et animateurs. Pas besoin d’être une experte du code ou de la robotique, on est des pros pour l'enseigner. Par contre il faut une affinité pour le numérique, de la débrouillardise et le sens des responsabilités.
+Pour faire face à une augmentation de notre activité, les bricodeurs recrutent des animatrices et animateurs. Pas besoin d’être une experte du code ou de la robotique, on est des pros pour l'enseigner. Par contre il faut une affinité pour le numérique, de la débrouillardise et le sens des responsabilités.
 
 # Les Ateliers de Bricodeurs
 
@@ -37,8 +37,8 @@ On est ouvert à tout les profiles. On vise idéalement des indépendants du num
 
 * Le BAFA ou équivalent ( BEES, licence éducation) fortement recommandé
 * De l’expérience d’animation d’activités avec les jeunes
-* De l’affinité pour le numérique
-* Le sens des responsabilités
+* De l’affinité pour le numérique. Pour te faire une idée des [outils utilisés](http://lesbricodeurs.fr/AteliersdAda/outils/)
+ * Le sens des responsabilités
 
 # Rémunération
 
