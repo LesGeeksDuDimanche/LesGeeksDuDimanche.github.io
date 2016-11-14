@@ -21,15 +21,18 @@ Pour faire face à une augmentation de notre activité, les bricodeurs recrutent
 
 Depuis deux ans maintenant, les ateliers des bricodeurs ont rassemblé des centaines d'enfants pour découvrir dans une ambiance ludique et créative le code et la robotique.
 
-Ce sont des grands événements en relation avec des partenaires du tonnerre, comme Super Demain avec plus de 4000 personnes sur l'éducation au numérique, les expériences numérique de la salle des Rancy, des ateliers hebdomadaire [Ateliers d'Ada_](http://lesbricodeurs.fr/AteliersdAda/), et des stages en partenariat avec la Maison des Mathématique et de l'informatique sur le [thème du ballet](http://lesbricodeurs.fr/evenements/LeBalletDuCode/)
+Ce sont des grands événements en relation avec des partenaires du tonnerre, comme Super Demain avec plus de 4000 personnes sur l'éducation au numérique, les expériences numérique de la salle des Rancy, des ateliers hebdomadaire : [Ateliers d'Ada](http://lesbricodeurs.fr/AteliersdAda/), et des stages en partenariat avec la Maison des Mathématique et de l'informatique sur le [thème du ballet](http://lesbricodeurs.fr/evenements/LeBalletDuCode/).
 
-Montrer que s'amuser avec le code est accessible à tous, assurer la mixité, la diversité des approches d'apprentissage, on souhaite avec des ateliers de qualité être les étendards de notre culture numérique et créative
+Montrer que s'amuser avec le code est accessible à tous, assurer la mixité, la diversité des approches d'apprentissage, on souhaite avec des ateliers de qualité être les étendards de notre culture numérique et créative.
 
 # Animatrice / Animateur
 
-Ton rôle, sera de préparer les activités, en piochant dans les ressources déjà créées. D'adapter au public, à l'age, au nombre et au lieux. D'être sur place à l'heure, avec le matériel, de résoudre les inévitables problèmes d'ordinateurs. D'être responsable des enfants, c'est à dire faire attention à tout moment à leur intégrité physique et morale.
+Ton rôle sera 
 
-De s'amuser avec eux. Nos format consistent à alterner un peu de théorie, de la pratique et de la création. Tu es bienvenue pour apporter tes idées.
+* De préparer les activités en piochant dans les ressources déjà créées. 
+* D'adapter au public, à l'age, au nombre et au lieu. D'être sur place en avance avec le matériel et de résoudre les inévitables problèmes d'ordinateurs. 
+* D'être responsable des enfants, c'est à dire faire attention à tout moment à leur intégrité physique et morale.
+* De s'amuser avec eux. Nos format consistent à alterner un peu de théorie, de la pratique et de la création. Tu es bienvenue pour apporter tes idées.
 
 On est ouvert à tout les profiles. On vise idéalement des indépendants du numérique.
 
@@ -42,9 +45,9 @@ On est ouvert à tout les profiles. On vise idéalement des indépendants du num
 
 # Rémunération
 
-* On paye aujourd'hui 20€ de l'heure les animateurs responsables d'atelier, généralement à deux
+* 20€ de l'heure les animateurs responsables d'atelier, généralement à deux
 * Les coups de mains ponctuels bénévoles sont possibles
-* Si vous êtes un professionnel expérimenté, n'hésitez pas à nous contacter #EnsembleOnEstPlusForts
+* Si vous êtes un professionnel expérimenté, n'hésitez pas à nous contacter pour discuter d'un partenariat
 
 Pour nous contacter, c'est très simple [salut@lesbricodeurs.fr](mailto:salut@lesbricodeurs.fr)
 
