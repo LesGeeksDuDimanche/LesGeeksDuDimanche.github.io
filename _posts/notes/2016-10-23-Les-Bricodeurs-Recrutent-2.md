@@ -21,7 +21,7 @@ Pour faire face à une augmentation de notre activité, les bricodeurs recrutent
 
 Depuis deux ans maintenant, les ateliers des bricodeurs ont rassemblé des centaines d'enfants pour découvrir dans une ambiance ludique et créative le code et la robotique.
 
-Ce sont des grands événements en relation avec des partenaires du tonnerre, comme Super Demain avec plus de 4000 personnes sur l'éducation au numérique, les expériences numériques de la salle des Rancy, des ateliers hebdomadaire ( [Ateliers d'Ada](http://lesbricodeurs.fr/AteliersdAda/) ), et des stages en partenariat avec la Maison des Mathématique et de l'informatique sur le [thème du ballet](http://lesbricodeurs.fr/evenements/LeBalletDuCode/), du Petit Prince et du carnaval des animaux.
+Ce sont des grands événements en relation avec des partenaires du tonnerre, comme Super Demain avec plus de 4000 personnes sur l'éducation au numérique, les expériences numériques de la salle des Rancy, des ateliers hebdomadaires ( [Ateliers d'Ada](http://lesbricodeurs.fr/AteliersdAda/) ), et des stages en partenariat avec la Maison des Mathématique et de l'informatique sur le [thème du ballet](http://lesbricodeurs.fr/evenements/LeBalletDuCode/), du Petit Prince et du carnaval des animaux.
 
 Montrer que s'amuser avec le code est accessible à tous, assurer la mixité, la diversité des approches d'apprentissage, on souhaite avec des ateliers de qualité être les étendards de notre culture numérique et créative.
 
@@ -30,7 +30,7 @@ Montrer que s'amuser avec le code est accessible à tous, assurer la mixité, la
 Ton rôle sera 
 
 * De préparer les activités en piochant dans les ressources déjà créées. 
-* D'adapter au public, à l'age, au nombre et au lieu. D'être sur place en avance avec le matériel et de résoudre les inévitables problèmes d'ordinateurs. 
+* D'adapter au public, à l'âge, au nombre et au lieu. D'être sur place en avance avec le matériel et de résoudre les inévitables problèmes d'ordinateurs. 
 * D'être responsable des enfants, c'est à dire faire attention à tout moment à leur intégrité physique et morale.
 * De s'amuser avec eux. Nos formats consistent à alterner un peu de théorie, de la pratique et de la création. Tu es bienvenu pour apporter tes idées.
 
