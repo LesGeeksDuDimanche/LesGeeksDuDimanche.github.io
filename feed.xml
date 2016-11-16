@@ -17,7 +17,7 @@ sitemap: false
 </author>
 {% for post in site.posts limit:20 %}
 {% if post.author %}
-  {% assign author = site.data.authors[post.author] %}
+  {% assign author = site.data.members[post.author] %}
 {% else %}
   {% assign author = site.owner %}
 {% endif %}

@@ -1,34 +1,7 @@
-# Authors
+# Authors & Members
 
-
-- name: Robert
-  web:
-  email:
-  bio: "humanist, moralist, physicist, and cosmopolitan from Berlin, PhD student in election infrastructure sciences"
-  avatar: bio/robert.jpg
-  twitter: rriemann_eu
-  google:
-    plus:
-
-- name: Samy
-  web:
-  email:
-  bio: "Du mauvais caractère au petit déj, du e-commerce au déjeuner, des apéros en fin de journée (et dév PHP au quotidien)"
-  avatar: bio/samy.png
-  twitter: SamyRabih
-  google:
-    plus:
-
-- name: Xavier
-  web:
-  email:
-  bio: "Avant j’achetais des objets, maintenant je les bricode!"
-  avatar: bio/xavierD.jpg
-  twitter:
-  google:
-    plus:
-
-- name: Samuel
+samuel:
+  name: Samuel Eyre
   web:
   email:
   bio: "Apprendre, c'est gratuit."
@@ -36,62 +9,119 @@
   twitter:
   google:
     plus:
-
-- name: Cyril
-  web:
-  email:
-  bio: "CTO le jour, Mister Patate la nuit"
-  avatar: bio/cyril.jpg
-  twitter:
-  google:
-    plus:
-
-- name: Zoé
-  web:
-  email:
-  bio: ""
-  avatar: bio/zoe.jpg
-  twitter:
-  google:
-    plus:
-
-- name: Flavien
-  web:
-  email:
-  bio: "De l'art à la techno pimenté par une touche de philosophie et de commerce, profil polyvalent qui veut changer le monde :D"
-  avatar: lesbricodeurs.png
-  twitter:
-  google:
-    plus:
-
-- name: lucile 
+    
+anneclaire:
+  name: Anne-Claire Sanz
   web: 
   email: 
-  bio: ""
+  bio: "Marketing digital et Arts numériques. Et j'aime Batman aussi."
+  avatar: bio/anneclaire.jpg
+  twitter: annaclaeria
+  google:
+    plus:    
+
+samy:
+  name: Samy Rabih
+  web: 
+  email: 
+  bio: "Du mauvais caractère au petit déj, du e-commerce au déjeuner, des apéros en fin de journée (et dév PHP au quotidien)"
+  avatar: bio/samy.png
+  twitter: SamyRabih
+  google:
+    plus:
+
+lucile:
+  name: Lucile Peuch
+  web: 
+  email: 
+  bio: "Robotique - DG à @HocaroSas"
   avatar: bio/lucile.jpg
   twitter: PeuchLucile
   google:
     plus: 
 
-- name: Edouard
-  web:
-  email:
+cyril:
+  name: Cyril Rouillon
+  web: 
+  email: 
+  bio: "CTO le jour, Mister Patate la nuit"
+  avatar: bio/cyril.jpg
+  twitter: misterpatate
+  google:
+    plus: 
+
+robert:
+  name: Robert Riemann
+  web: 
+  email: 
+  bio: "humanist, moralist, physicist, and cosmopolitan from Berlin, PhD student in election infrastructure sciences"
+  avatar: bio/robert.jpg
+  twitter: rriemann_eu
+  google:
+    plus:
+
+claudia:
+  name: Claudia Rinzivillo
+  web: 
+  email: 
   bio: ""
-  avatar: lesbricodeurs.png
-  twitter:
+  avatar: bio/claudia.jpg
+  twitter: claudia_rzv
+  google:
+    plus: 
+
+
+elsa:
+  name: Elsa Amill
+  web: 
+  email: 
+  bio: ""
+  avatar: bio/elsa.jpg
+  twitter: 
   google:
     plus:
-
-- name: Stanislas
-  web:
-  email:
-  bio: "Doux comme une brioche !"
-  avatar: lesbricodeurs.png
-  twitter:
+xavier:
+  name: Xavier Lavayssière
+  web: http://xalava.github.io
+  email: xavier@bricodeur.com
+  bio: "Longtemps, je me suis couché de bonne heure. Et puis j'ai installé Debian..."
+  avatar: bio/Xa.jpg
+  twitter: XavierLava
   google:
-    plus:
+    plus: 
 
-- name: Claire
+
+
+
+
+
+
+zoe:
+  name: Zoé Thivet
+  web: 
+  email: 
+  bio: ""
+  avatar: bio/zoe.jpg
+  twitter: Zoe_Thivet
+  google:
+    plus: 
+
+
+
+
+
+nico:
+  name: Nico Prat
+  web: 
+  email: 
+  bio: "Dev/designer front-end, toujours avide d'apprentissages et de rencontres !"
+  avatar: bio/nico.jpg
+  twitter: nicooprat
+  google:
+    plus: 
+
+claire:
+  name: Claire Zuliani
   web:
   email:
   bio: ""
@@ -100,30 +130,53 @@
   google:
     plus:
 
-- name: Xavier
-  web: http://xalava.github.io
-  email: xavier@bricodeur.com
-  bio: "Longtemps, je me suis couché de bonne heure. Et puis j'ai installé Debian..."
-  avatar: bio/Xa.jpg
-  twitter: XavierLava
-  google:
-    plus:
-
-- name: Nico Prat
+martin:
+  name: Martin Delille
   web: 
   email: 
-  bio: "Dev/designer front-end, toujours avide d'apprentissage et de rencontres !"
-  avatar: bio/nico.jpg
-  twitter: nicooprat
-  google:
-    plus:
-
-- name: Anne-Claire Sanz
-  web: 
-  email: 
-  bio: "Le vent se lève, il faut tenter de vivre"
+  bio: ""
   avatar: lesbricodeurs.png
-  twitter: annaclaeria
+  twitter: martinodelilo
+  google:
+    plus: 
+
+
+flavien:
+  name: Flavien Chervet
+  web:
+  email:
+  bio: "De l'art à la techno pimenté par une touche de philosophie et de commerce, profil polyvalent qui veut changer le monde :D"
+  avatar: lesbricodeurs.png
+  twitter:
   google:
     plus:
 
+xavierD:
+  name: Xavier Duvert
+  web:
+  email:
+  bio: "Avant j’achetais des objets, maintenant je les bricode!"
+  avatar: bio/xavierD.jpg
+  twitter:
+  google:
+    plus:
+
+edouard:
+  name: Edouard Touraille
+  web:
+  email:
+  bio: ""
+  avatar: lesbricodeurs.png
+  twitter:
+  google:
+    plus:
+
+stanislas:
+  name: Stanislas Blaineau
+  web:
+  email:
+  bio: "Doux comme une brioche !"
+  avatar: lesbricodeurs.png
+  twitter:
+  google:
+    plus:
