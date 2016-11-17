@@ -1,7 +1,7 @@
 ---
-layout: slider
+layout: embed
 title: La Nuit du Code Citoyen
-excerpt: ""
+excerpt: "Partenariats"
 modified: 2016-02-24T19:44:38.564948-04:00
 image:
   feature: 
@@ -9,7 +9,15 @@ image:
   creditlink:
 thumbnail : 
 ---
+<!-- <div style="padding: 0 auto;">
+ -->
+<div id="main" role="main">
+  <article class="entry" style="text-align: center;">
 
+<iframe src="https://docs.google.com/presentation/d/11m9Mr1asCX0W1OKZ-QCTrmab-wbN_soifuEEPvGRltg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="800" height="623" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" ></iframe>
+</article>
+</div>
+<!-- 
 <div id="main" role="main">
     <div id="slides">
       <img src="1.png">
@@ -25,4 +33,4 @@ thumbnail :
       <img src="11.png">
       <img src="12.png">
     </div>
-</div>
+</div> -->
