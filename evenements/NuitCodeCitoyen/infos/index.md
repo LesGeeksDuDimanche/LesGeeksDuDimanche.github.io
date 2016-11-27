@@ -9,7 +9,6 @@ image:
   creditlink:
 couleur : 
 ---
-
 La nuit du code citoyen est un événement la nuit du 4 au 5 mars 2017 associant thématiques citoyennes et technologies avancées en simultané dans plusieurs villes de pays francophones. L'objectif est de faire se rencontrer des communautés, propulser des projets à fort impact et surtout passer un weekend intense.                 
 
 Bâti sur l’expérience de l'organisation de grands événements d'innovation (Startup Weekend, Act In Space, CGPME Camp, BlockFest ...) nous souhaitons organiser un événement de qualité et aller plus loin dans les réalisations, le suivi et l'impact.
@@ -48,4 +47,6 @@ Participant</a>
 
 <!--End mc_embed_signup-->
 
+
+![Logo Nuit du Code Citoyen]({{site.url}}/images/LogoNCC.png){: .wrap}
 
