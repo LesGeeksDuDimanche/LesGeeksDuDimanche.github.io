@@ -31,6 +31,6 @@ Ce système d'exploitation est utilisable depuis une clé usb sans configuration
 
 ## Technique  et Etat
 
-Le système est basé sur les versions stables (LTS) d'Ubuntu, dans sa déclinaison XFCE et est entièrement compatible avec celle-ci. Le système est actuellement disponible en version beta. La version stable sortira avec la prochaine version stable d'Ubuntu fin avril 2016.
+Le système est basé sur les versions stables (LTS) d'Ubuntu, dans sa déclinaison XFCE et est entièrement compatible avec celle-ci. Le système est actuellement disponible en version beta. 
 
 ![Bricotux]({{site.url}}/images/bricotuxTuto.jpg)

@@ -8,26 +8,37 @@ image:
   credit:
   creditlink:
 ---
-
-## LEGO Mindstorm
-
-Les Mindstorm sont des robot édités par LEGO. Compatibles avec les LEGO traditionnels, ils permettent de créer soit même un robot et controler moteurs, capteurs ...
+Voici les outils que nous utilisons dans nos ateliers. 
 
 ## Scratch
 ![Scratch]({{site.url}}/images/scratch.jpg){: .pull-right}
 
-Scratch est un outil de programmation visuel. Disponible gratuitement en ligne, il permet de réaliser de rapidement de petits programmes comme des jeux d'arcade.
-
+Scratch est un outil de programmation visuel. Disponible gratuitement en ligne, il permet de réaliser de rapidement de petites animations et programmes comme des jeux d'arcade. Exemple d'activité, compléter un [jeu de labyrinthe](https://scratch.mit.edu/projects/130599499/)
 
 ## Arduino
 
-[Arduino](https://fr.wikipedia.org/wiki/Arduino) est un ensemble de kits de microcontroleurs opensource. Ils permettent de réaliser des petits montages et de prototyper des objets connectés.
+[Arduino](https://fr.wikipedia.org/wiki/Arduino) est un ensemble de kits de microcontroleurs opensource. Ils permettent de réaliser des petits montages et de prototyper des objets connectés. La version standard demande un peu d’expertise, mais certains kits simplifiés, comme Makey Makey permettent de créer des interfaces physiques amusantes.
+<iframe width="480" height="260" src="http://www.youtube.com/embed/HDc2LXOAoGk" frameborder="0" class="center"> </iframe>
 
 ## Processing
 
-[Processing](https://processing.org/) est un language de programmation, particulièrement adapté aux créations visuelles et sonores avec son environnment de développement simplifié.
+[Processing](https://processing.org/) est un langage de programmation, particulièrement adapté aux créations visuelles et sonores avec son environnement de développement simplifié. Il est téléchargeable gratuitement en ligne avec de bons tutoriels.
+
+## Minetest & Minecraft
+
+[Minecraft](https://minecraft.net/fr/) a réinventé la joie du bac à sable dans un environnement 3D. Le personnage peut construire, creuser et créer à partir de blocks de sable, pierre, bois ... Son équivalent libre [Minetest](http://www.minetest.net/) offre des possibilités étendues notamment de programmation. Et il y a un module créatures pour ajouter des menaces la nuit comme dans Minecraft. Si, c'est TRES important.
+
+## LEGO Mindstorm
+
+Les Mindstorm sont des robot édités par LEGO. Compatibles avec les LEGO traditionnels, ils permettent de créer soit même un robot et controler moteurs, capteurs ... Comparé aux autres robots sur le marché, il ont l'avantage de retrouver le plaisir de construction LEGO et une phase d'appropriation. Pour les plus agés et éléves ingénieurs, ils offrent des possibilité de programmation étendues. Ils ont l'inconvénient d'être peu accessibles financièrement.
+
+## Un éditeur de texte
+
+Et oui, l'ensemble du web repose sur du simple texte et un peu d'astuces. Voici une [introduction complète](https://liris.cnrs.fr/amelie.cordier/wiki/blendteens/documents/build/html/index.html) (en anglais)
 
 
-[Page Facebook](https://www.facebook.com/Les-Ateliers-dAda-1010068332420661/) - [ada@lesbricodeurs.fr](mailto:ada@lesbricodeurs.fr) - Marie : 06 43 71 84 33
 
-Une remarque? [N'hésitez pas >]({{site.url}}/AteliersdAda/idees/)
+
+Nous organisons régulièrement des ateliers et stages pour les jeunes, et nous sommes à disposition des structures éducatives pour organiser des sessions de formation. N'hésitez pas à nous contacter: - [salut@lesbricodeurs.fr](mailto:salut@lesbricodeurs.fr) - Marie : 06 43 71 84 33 
+
+[Page Facebook des ateliers](https://www.facebook.com/Les-Ateliers-dAda-1010068332420661/) - [Les Bricodeurs](https://www.facebook.com/lesbricodeurs/)
