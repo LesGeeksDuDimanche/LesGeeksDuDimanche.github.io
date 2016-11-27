@@ -13,7 +13,7 @@ Voici les outils que nous utilisons dans nos ateliers. Nous privilégions les ou
 ## Scratch
 ![Scratch]({{site.url}}/images/scratch.jpg){: .pull-right}
 
-Scratch est un outil de programmation visuel. Disponible gratuitement en ligne, il permet de réaliser de rapidement de petites animations et programmes comme des jeux d'arcade. Exemple d'activité, compléter un [jeu de labyrinthe](https://scratch.mit.edu/projects/130599499/). Recommandé par l'Education Nationale, il a quelques défauts. Il est notamment difficile à installer hors ligne car il repose sur des technologies lourdes et fermées.
+Scratch est un outil de programmation visuel. Disponible gratuitement en ligne, il permet de réaliser de rapidement de petites animations et programmes comme des jeux d'arcade. Exemple d'activité, compléter un [jeu de labyrinthe](https://scratch.mit.edu/projects/130599499/). Recommandé par l'Education Nationale, il est néanmoins difficile à installer hors ligne car il repose sur des technologies lourdes et fermées.
 
 ## Arduino
 
