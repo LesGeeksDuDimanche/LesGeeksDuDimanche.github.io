@@ -9,21 +9,21 @@ share: true
 author: xavier
 ---
 
-Au cœur de l'*Open Source*, une idée très simple: partager la recette de fabrication d'un logiciel et permettre à d'autres développeurs de l'améliorer ou l'adapter.
+Au cœur des logiciels ouverts (*Open Source*), une idée très simple: partager la recette de fabrication d'un logiciel et permettre à d'autres développeurs de l'améliorer ou l'adapter.
 Né avec le mouvement du logiciel libre ("free software"), l'*Open Source* s'est élargit tant dans le concept que dans les champs d'application.
 
 C'est bien une invention juridique qui est à l'origine de ce mouvement. Imaginer que l'on puisse "protéger" son œuvre pour s'assurer qu'elle reste accessible à tous.
 
-#Principales Licences Ouvertes
+# Principales Licences Ouvertes
 
-###Licences Creative Commons
+### Licences Creative Commons
 Les licences Creative Commons (CC) sont un ensemble de licences régissant les conditions de diffusion et de modification de créations.
 
 Ces licences permettent à tout utilisateur de reproduire et représenter en toutes circonstances, les œuvres visées par ces licences. Certaines des licences autorisent également les modifications, ou les usages commerciaux.
 
 Les licences CC sont notamment utilisées sur Wikimedia Commons qui constitue une des plus conséquentes bases de données d’œuvres sous licences libres actuellement.
 
-###Licences de la *Free Software Foundation* 
+### Licences de la *Free Software Foundation* 
 La Free Software Foundation (FSF) est une fondation de droit américain créé par Richard Stallman (informaticien du MIT à l'origine du concept de logiciel libre).
 
 La principale licence est la GNU General public license (GPL) qui s'applique aux logiciels. Elle accorde par avance à l'utilisateur les droits de :
@@ -36,7 +36,7 @@ La principale licence est la GNU General public license (GPL) qui s'applique aux
 Laissons le personnage expliquer lui même:
 <video src="http://audio-video.gnu.org/video/TEDxGE2014_Stallman05_LQ.webm" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen controls></video> 
 
-###Les licences BSD, MIT, ...
+### Les licences BSD, MIT, ...
 
 Il existe une pléthore de licences. Elles se distinguent par le degré de liberté qu'elles offrent à celui qui veut utiliser une œuvre protégée. En particulier, certaines permettent de s'approprier l’œuvre ( qui du coup n'est plus libre dans sa nouvelle forme mais n'est-ce pas la liberté ultime?). <a href="http://fr.wikipedia.org/wiki/Licence_libre">Pour plus d'informations</a>
 
