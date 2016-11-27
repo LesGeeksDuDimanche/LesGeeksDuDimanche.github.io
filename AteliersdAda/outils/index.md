@@ -8,7 +8,7 @@ image:
   credit:
   creditlink:
 ---
-Voici les outils que nous utilisons dans nos ateliers. Nous privilégions les outils accessibles, avec une documentation abondante et [ouverts](/articles/licencesouvertes/).
+Voici les outils que nous utilisons dans nos ateliers. Nous privilégions les outils accessibles, avec une documentation abondante et [ouverts](/articles/LicencesOuvertes/).
 
 ## Scratch
 ![Scratch]({{site.url}}/images/scratch.jpg){: .pull-right}
