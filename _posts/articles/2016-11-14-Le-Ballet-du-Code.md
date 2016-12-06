@@ -39,7 +39,7 @@ Ensuite, les enfants ont testé les commandes et mouvements du robot avec le log
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-_Les Bricodeurs remercient chaleureusement la Maison des Mathématiques et de l’Informatique, organisme de diffusion du laboratoire d'excellence Inria, CNRS, ENS de Lyon, Central Lyon, l’INSA, l’université Lyon 1 et l’université Jean-Monnet sans qui rien n’aurait été possible et pour leur accueil. Nous remercions aussi faculté des science et l’IUT de Lyon 1 ainsi que la région Auvergne-Rhône-Alpes pour avoir financé et prêté une partie du matériel. Et Fréquence Ecole, pour un robot qui n’a pas servi, mais nous a fait bien rigoler._
+_Les Bricodeurs remercient chaleureusement la Maison des Mathématiques et de l’Informatique, organisme de diffusion du laboratoire d'excellence associant l'Inria, CNRS, ENS de Lyon, Centrale Lyon, l’INSA, l’université Lyon 1 et l’université Jean-Monnet sans qui rien n’aurait été possible et pour leur accueil. Nous remercions aussi la faculté des science et l’IUT de Lyon 1 ainsi que la région Auvergne-Rhône-Alpes pour avoir financé et prêté une partie du matériel. Et Fréquence École, pour un robot qui n’a pas servi, mais nous a fait bien rigoler._
 
 Vous voulez être tenu au courant des prochaines sessions? [inscrivez vous](/AteliersdAda/)
 
