@@ -45,7 +45,7 @@ On est ouvert à tous les profils. On vise idéalement des indépendants du num�
 
 # Rémunération
 
-* 20€ de l'heure, généralement à deux
+* 20€ de l'heure
 * Contrats aidés et services civiques envisageables
 * Les coups de mains bénévoles ponctuels et pour les [fonctions de direction](http://lesbricodeurs.fr/notes/Les-Bricodeurs-Recrutent-1/) sont bienvenus
 * Si vous êtes un professionnel expérimenté, n'hésitez pas à nous contacter pour discuter d'un partenariat
