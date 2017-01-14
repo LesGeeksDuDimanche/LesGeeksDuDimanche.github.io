@@ -1,8 +1,14 @@
 ---
-published: false
+layout: post
+title: Why don't french school appear on HackerRank 2016 ?
+categories: articles
+tags: [Education, CivicTech, OGP]
+date: 2017-01-11T12:42:40+02:00
+author: 
+comments: true
+share: true
+published: true
 ---
-
-# Why don't french school appear on HackerRank 2016 ?
 
 It is astonishing that France is not at all ranked in the hacker rank 2016. Even Epitech and Ecole 42, which are famous schools, known for their accent on practical skills and highly selective intake.
 
