@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Why don't french school appear on HackerRank 2016 ?
+title: Why don't french schools appear on HackerRank 2016 ?
 categories: articles
-tags: [Education, CivicTech, OGP]
+excerpt: France is not at all ranked in the hacker rank 2016
+tags: [Education, Simplon, Colearning]
 date: 2017-01-11T12:42:40+02:00
 author: 
 comments: true
