@@ -5,7 +5,7 @@ categories: articles
 excerpt: Wake up French coders ! 
 tags: [Education, Colearning]
 date: 2017-01-11T12:42:40+02:00
-author: sam
+author:  Samuel Eyre
 comments: true
 share: true
 published: true
