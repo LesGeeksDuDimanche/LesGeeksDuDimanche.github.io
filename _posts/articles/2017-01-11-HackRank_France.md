@@ -5,7 +5,7 @@ categories: articles
 excerpt: Wake up French coders ! 
 tags: [Education, Colearning]
 date: 2017-01-11T12:42:40+02:00
-author:  Samuel Eyre
+author:  Samuel
 comments: true
 share: true
 published: true
@@ -17,14 +17,14 @@ The results can be found here :
 <a href="http://blog.hackerrank.com/which-universities-have-the-best-coders-in-the-word/">http://blog.hackerrank.com/which-universities-have-the-best-coders-in-the-word/</a>
 
 
-## What is HackerRank?
+# What is HackerRank?
 
 HackerRank is a website that compares skills of developers through coding challenges. Therefore only practical skills are measured. In order to be accurate the number of students per school is taken into account.
 
 It is unclear if any French universities or schools subscribed to the tests but apparently over 5,500 students from 126 schools from around the world participated in the event.
 
 
-## Why does it matter? 
+# Why does it matter? 
 
 This Rank comes at an interesting time where there is a sudden emergence of bootcamps\* (Simplon, le Wagon...) and practice oriented learning schools (Ecole42, Epitech) with a pedagogy that contrast sharply with traditional teaching.
 
@@ -35,7 +35,7 @@ Coding is a constantly evolving subject and it is hard to be always up to date w
 The different schools quoted above have created more efficient learning methods with the use of collaborative tools and peer-learning (students become teachers).
 
 
-## But why is this a problem?
+# But why is this a problem?
 
 Web and software developers are some of the most in-demand jobs according to LinkedIn, see here :
 <a href="http://bit.ly/2ht55Ro">http://bit.ly/2ht55Ro</a>.
@@ -46,7 +46,7 @@ More on that subject :
 <a href="http://www.wsj.com/articles/SB10001424053111903480904576512250915629460">“Why Software Is Eating The World”</a> - Marc Andreessen
 
 
-## What should be done ?
+# What should be done ?
 
 According to the article from HackerRank, some of the coders with the best scores started coding at a very young age. One of them started at 11 years old. In some countries, coding is encouraged and rewarded and can help you get into a good school.
 
