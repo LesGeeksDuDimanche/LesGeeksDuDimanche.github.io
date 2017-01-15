@@ -10,18 +10,7 @@ image:
 couleur : 
 ---
 La nuit du code citoyen est un événement la nuit du 4 au 5 mars 2017 associant thématiques citoyennes et technologies avancées en simultané dans plusieurs villes de pays francophones. L'objectif est de faire se rencontrer des communautés, propulser des projets à fort impact et surtout passer un weekend intense.                 
-
-Bâti sur l’expérience de l'organisation de grands événements d'innovation (Museomix, Startup Weekend, Act In Space, BlockFest ...) nous souhaitons organiser un événement de qualité et aller plus loin dans les réalisations, le suivi et l'impact. L'événement sera précédé d'ateliers et suivi d'un accompagnement. Pendant, le focus sera de rendre les projets accessibles aux citoyens.
-
-
-## Valeurs
-
-* Travailler sur des projets pertinents et des défis technologiques
-* Relier passionnés de technologie, designers, acteurs engagés et institutions
-* Un événement global pensé au niveau local
-* Assurer la continuité et le suivi des projets sur le long terme
-* Un événement ludique et pédagogique pour les participants
-* Ouverture et diffusion auprès du public notamment à toutes les générations
+<a title="Informations" class="btn" href="{{ site.url }}/evenements/NuitCodeCitoyen/"> Plus d'informations </a>
 
 ## Intéressé? 
 
@@ -30,7 +19,7 @@ Bâti sur l’expérience de l'organisation de grands événements d'innovation 
 Organisateur
 </a> <a title="projet" class="btn-complement" href="{{ site.url }}/evenements/NuitCodeCitoyen/projet">
 Porteur de projet
-</a> <a title="projet" class="btn" href="{{ site.url }}/evenements/NuitCodeCitoyen/">
+</a> <a title="participant" class="btn" href="{{ site.url }}/evenements/NuitCodeCitoyen/participant">
 Participant</a> 
 
 <!-- Begin MailChimp Signup Form -->
