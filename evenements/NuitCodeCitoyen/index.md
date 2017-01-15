@@ -32,6 +32,26 @@ Porteur de projet
 </a> <a title="participant" class="btn" href="{{ site.url }}/evenements/NuitCodeCitoyen/participant">
 Participant</a> 
 
+
+
+# Programme d’accélération de projets numériques citoyens 
+
+Un marathon d'innovation 
+
+* En simultané dans plusieurs villes du monde
+* Échanges en ligne d'expertises
+* Un jury citoyen de jeunes pour tester les services proposé
+
+Un programme d’accompagnement 
+
+* Une rencontre mensuelle entre développeurs, designers, institutions et entrepreneurs 
+* Production de vidéos “La technologie expliquée à ma grand-mère”
+* Plateforme numérique de suivi et mise en relation
+
+# Équipe et Villes 
+
+![Villes Nuit du Code Citoyen]({{site.url}}/images/NCC/villes.jpg){: .wrap}
+
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -52,24 +72,6 @@ Participant</a>
 </div>
 
 <!--End mc_embed_signup-->
-
-# Programme d’accélération de projets numériques citoyens 
-
-Un marathon d'innovation 
-
-* En simultané dans plusieurs villes du monde
-* Échanges en ligne d'expertises
-* Un jury citoyen de jeunes pour tester les services proposé
-
-Un programme d’accompagnement 
-
-* Une rencontre mensuelle entre développeurs, designers, institutions et entrepreneurs 
-* Production de vidéos “La technologie expliquée à ma grand-mère”
-* Plateforme numérique de suivi et mise en relation
-
-# Équipe et Villes 
-
-![Villes Nuit du Code Citoyen]({{site.url}}/images/NCC/villes.jpg){: .wrap}
 
 ![Logo Nuit du Code Citoyen]({{site.url}}/images/LogoNCC.png){: .wrap}
 
