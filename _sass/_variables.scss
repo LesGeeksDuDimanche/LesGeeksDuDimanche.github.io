@@ -16,21 +16,22 @@ $border-radius: 3px;
 // set-up the body font-size / line-height
 body {
   margin-top: 0px + $doc-line-height;
-  font-size: 0px + $doc-font-size;  
+  font-size: 0px + $doc-font-size;
 }
 
 
 // COLORS =====================================================
 $body-color         : #fff;
 $text-color         : #222;
-$base-color         : #343434;    
-$comp-color         : spin($base-color, 180); 
+$base-color         : #343434;
+$comp-color         : spin($base-color, 180);
 $border-color       : #999;
 $white              : #fff;
 $black              : #000;
 $accent-color       : #9A1010;
 $complement-accent	: #17AA41;
 $link-color         : #870505;
+$twitter-color      : #1DA1F2;
 
 $table-border-color           : $border-color;
 $table-border                 : 1px solid $table-border-color;

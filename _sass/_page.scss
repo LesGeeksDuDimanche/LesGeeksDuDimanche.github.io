@@ -301,6 +301,9 @@ span + .entry-title {
 
 // }
 
+/*
+   bio, profils, trombines
+   ========================================================================== */
 
 .bio h3{
 	text-align: center;
@@ -310,6 +313,19 @@ span + .entry-title {
 	@include span-columns(4);
 	@include omega(3n);
 	margin-bottom: 2rem;
+}
+
+
+a.twitter-link{
+	@include link($twitter-color);
+}
+
+a.email-link{
+	@include link(#aaa);
+}
+
+a.web-link{
+	@include link(#aaa);
 }
 
 /*
