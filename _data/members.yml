@@ -9,21 +9,21 @@ samuel:
   twitter:
   google:
     plus:
-    
+
 anneclaire:
   name: Anne-Claire Sanz
-  web: 
-  email: 
+  web:
+  email:
   bio: "Marketing digital et Arts numériques. Et j'aime Batman aussi."
   avatar: bio/anneclaire.jpg
   twitter: annaclaeria
   google:
-    plus:    
+    plus:
 
 samy:
   name: Samy Rabih
-  web: 
-  email: 
+  web:
+  email:
   bio: "Du mauvais caractère au petit déj, du e-commerce au déjeuner, des apéros en fin de journée (et dév PHP au quotidien)"
   avatar: bio/samy.png
   twitter: SamyRabih
@@ -32,28 +32,28 @@ samy:
 
 lucile:
   name: Lucile Peuch
-  web: 
-  email: 
+  web:
+  email:
   bio: "Robotique - DG à @HocaroSas"
   avatar: bio/lucile.jpg
   twitter: PeuchLucile
   google:
-    plus: 
+    plus:
 
 cyril:
   name: Cyril Rouillon
-  web: 
-  email: 
+  web:
+  email:
   bio: "CTO le jour, Mister Patate la nuit"
   avatar: bio/cyril.jpg
   twitter: misterpatate
   google:
-    plus: 
+    plus:
 
 robert:
   name: Robert Riemann
-  web: 
-  email: 
+  web:
+  email:
   bio: "humanist, moralist, physicist, and cosmopolitan from Berlin, PhD student in election infrastructure sciences"
   avatar: bio/robert.jpg
   twitter: rriemann_eu
@@ -62,22 +62,22 @@ robert:
 
 claudia:
   name: Claudia Rinzivillo
-  web: 
-  email: 
+  web:
+  email:
   bio: ""
   avatar: bio/claudia.jpg
   twitter: claudia_rzv
   google:
-    plus: 
+    plus:
 
 
 elsa:
   name: Elsa Amill
-  web: 
-  email: 
+  web:
+  email:
   bio: ""
   avatar: bio/elsa.jpg
-  twitter: 
+  twitter:
   google:
     plus:
 xavier:
@@ -88,7 +88,7 @@ xavier:
   avatar: bio/Xa.jpg
   twitter: XavierLava
   google:
-    plus: 
+    plus:
 
 
 
@@ -98,13 +98,13 @@ xavier:
 
 zoe:
   name: Zoé Thivet
-  web: 
-  email: 
+  web:
+  email:
   bio: ""
   avatar: bio/zoe.jpg
   twitter: Zoe_Thivet
   google:
-    plus: 
+    plus:
 
 
 
@@ -112,33 +112,34 @@ zoe:
 
 nico:
   name: Nico Prat
-  web: 
-  email: 
+  web:
+  email:
   bio: "Dev/designer front-end, toujours avide d'apprentissages et de rencontres !"
   avatar: bio/nico.jpg
   twitter: nicooprat
   google:
-    plus: 
+    plus:
 
 claire:
   name: Claire Zuliani
-  web:
-  email:
-  bio: ""
+  web: http://www.clairezuliani.com/
+  email: clairezuliani@gmail.com
+  bio: "Bisounours révolutionnaire qui code"
   avatar: bio/claire.jpg
-  twitter:
+  twitter: ZooletteDesBois
   google:
     plus:
+    tags: [web dev, ruby, quatre-quart]
 
 martin:
   name: Martin Delille
-  web: 
-  email: 
+  web:
+  email:
   bio: ""
   avatar: lesbricodeurs.png
   twitter: martinodelilo
   google:
-    plus: 
+    plus:
 
 
 flavien:
