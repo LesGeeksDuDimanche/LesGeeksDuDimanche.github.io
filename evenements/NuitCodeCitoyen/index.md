@@ -52,26 +52,13 @@ Un programme d’accompagnement
 
 ![Villes Nuit du Code Citoyen]({{site.url}}/images/NCC/villes.jpg){: .wrap}
 
-<!-- Begin MailChimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-  #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-  /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-     We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup">
-<form action="//lesbricodeurs.us12.list-manage.com/subscribe/post?u=bbbb42e1640719973809dfb8c&amp;id=020d89bf3c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-  <label for="mce-EMAIL">Être informé de l'avancement de la nuit du code citoyen</label>
-  <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_bbbb42e1640719973809dfb8c_020d89bf3c" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
 
-<!--End mc_embed_signup-->
+<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us12.list-manage.com","uuid":"bbbb42e1640719973809dfb8c","lid":"020d89bf3c"}) })</script>
+
+# Les Partenaires
+
+* Open Democracy Now
+* Ticket For Change
 
 ![Logo Nuit du Code Citoyen]({{site.url}}/images/LogoNCC.png){: .wrap}
 
