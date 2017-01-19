@@ -59,6 +59,8 @@ Un programme d’accompagnement
 
 * Open Democracy Now
 * Ticket For Change
+* Ouagalab
+* Le temps des communs
 
 ![Logo Nuit du Code Citoyen]({{site.url}}/images/LogoNCC.png){: .wrap}
 
