@@ -54,7 +54,7 @@ Un programme d’accompagnement
 
 
 <!-- Begin MailChimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
+<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
   #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
   /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
@@ -63,9 +63,17 @@ Un programme d’accompagnement
 <div id="mc_embed_signup">
 <form action="//lesbricodeurs.us12.list-manage.com/subscribe/post?u=bbbb42e1640719973809dfb8c&amp;id=020d89bf3c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-  <label for="mce-EMAIL">Être tenu informé</label>
-  <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+  <h2>Être tenu informé</h2>
+<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<div class="mc-field-group">
+  <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+</label>
+  <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+</div>
+  <div id="mce-responses" class="clear">
+    <div class="response" id="mce-error-response" style="display:none"></div>
+    <div class="response" id="mce-success-response" style="display:none"></div>
+  </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_bbbb42e1640719973809dfb8c_020d89bf3c" tabindex="-1" value=""></div>
     <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
     </div>
