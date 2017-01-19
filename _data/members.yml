@@ -3,7 +3,7 @@
 samuel:
   name: Samuel Eyre
   web:
-  email:
+  email: samuel@lesbricodeurs.fr
   bio: "Apprendre, c'est gratuit."
   avatar: bio/samuelE.jpg
   twitter:
@@ -13,7 +13,7 @@ samuel:
 anneclaire:
   name: Anne-Claire Sanz
   web:
-  email:
+  email: anneclaire@lesbricodeurs.fr
   bio: "Marketing digital et Arts numériques. Et j'aime Batman aussi."
   avatar: bio/anneclaire.jpg
   twitter: annaclaeria
@@ -23,7 +23,7 @@ anneclaire:
 samy:
   name: Samy Rabih
   web:
-  email:
+  email: samy@lesbricodeurs.fr
   bio: "Du mauvais caractère au petit déj, du e-commerce au déjeuner, des apéros en fin de journée (et dév PHP au quotidien)"
   avatar: bio/samy.png
   twitter: SamyRabih
@@ -43,7 +43,7 @@ lucile:
 cyril:
   name: Cyril Rouillon
   web:
-  email:
+  email: cyril@lesbricodeurs.fr
   bio: "CTO le jour, Mister Patate la nuit"
   avatar: bio/cyril.jpg
   twitter: misterpatate
@@ -52,7 +52,7 @@ cyril:
 
 robert:
   name: Robert Riemann
-  web:
+  web: http://blog.riemann.cc/
   email:
   bio: "humanist, moralist, physicist, and cosmopolitan from Berlin, PhD student in election infrastructure sciences"
   avatar: bio/robert.jpg
@@ -63,7 +63,7 @@ robert:
 claudia:
   name: Claudia Rinzivillo
   web:
-  email:
+  email: claudia@lesbricodeurs.fr
   bio: ""
   avatar: bio/claudia.jpg
   twitter: claudia_rzv
@@ -80,10 +80,11 @@ elsa:
   twitter:
   google:
     plus:
+
 xavier:
   name: Xavier Lavayssière
   web: http://xalava.github.io
-  email: xavier@bricodeur.com
+  email: xavier@lesbricodeurs.fr
   bio: "Longtemps, je me suis couché de bonne heure. Et puis j'ai installé Debian..."
   avatar: bio/Xa.jpg
   twitter: XavierLava
