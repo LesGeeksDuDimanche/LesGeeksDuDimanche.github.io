@@ -52,6 +52,7 @@ Un programme d’accompagnement
 
 ![Villes Nuit du Code Citoyen]({{site.url}}/images/NCC/villes.jpg){: .wrap}
 
+
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -62,7 +63,7 @@ Un programme d’accompagnement
 <div id="mc_embed_signup">
 <form action="//lesbricodeurs.us12.list-manage.com/subscribe/post?u=bbbb42e1640719973809dfb8c&amp;id=020d89bf3c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-  <label for="mce-EMAIL">Être informé de l'avancement de la nuit du code citoyen</label>
+  <label for="mce-EMAIL">Être tenu informé</label>
   <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_bbbb42e1640719973809dfb8c_020d89bf3c" tabindex="-1" value=""></div>
@@ -72,6 +73,11 @@ Un programme d’accompagnement
 </div>
 
 <!--End mc_embed_signup-->
+
+# Les Partenaires
+
+* Open Democracy Now
+* Ticket For Change
 
 ![Logo Nuit du Code Citoyen]({{site.url}}/images/LogoNCC.png){: .wrap}
 
