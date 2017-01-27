@@ -40,13 +40,21 @@ Un marathon d'innovation
 
 * En simultané dans plusieurs villes du monde
 * Échanges en ligne d'expertises
-* Un jury citoyen de jeunes pour tester les services proposé
+* Un objectif clair : la production d'une démo du service qui peut être différente du projet final
+* Un jury citoyen pour tester les services proposé
 
 Un programme d’accompagnement 
 
 * Une rencontre mensuelle entre développeurs, designers, institutions et entrepreneurs 
 * Production de vidéos “La technologie expliquée à ma grand-mère”
 * Plateforme numérique de suivi et mise en relation
+
+# Le type de projets
+
+Pour nous, "Code citoyen" cela regroupe ce que l'on appelle parfois en bon français "Social Tech", "Civic Tech", "Green Tech". Concretement cela veux dire : 
+* Un élément social, environnemental, démocratique ou éducatif dans l'objet. Ca n'exclut pas, bien au contraire, un objet lucratif.
+* Un défi technique pour que ce soit amusant ( n'hésite pas à nous contacter, on peut en identifier un ensemble)
+* Une approche ouverte. Notamment, les contributions pendant l’évènement seront sous [licences ouvertes](https://lesbricodeurs.fr/articles/LicencesOuvertes/). (Là aussi on peut en parler, ça n'est pas incompatible avec un projet entrepreneurial)
 
 # Équipe et Villes 
 
