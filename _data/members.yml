@@ -5,6 +5,7 @@ samuel:
   web:
   email: samuel@lesbricodeurs.fr
   bio: "Apprendre, c'est gratuit."
+  role: Responsable apprentissage collaboratif
   avatar: bio/samuelE.jpg
   twitter:
   google:
@@ -15,6 +16,7 @@ anneclaire:
   web:
   email: anneclaire@lesbricodeurs.fr
   bio: "Marketing digital et Arts numériques. Et j'aime Batman aussi."
+  role: Responsable projets Artistiques
   avatar: bio/anneclaire.jpg
   twitter: annaclaeria
   google:
@@ -25,6 +27,7 @@ samy:
   web:
   email: samy@lesbricodeurs.fr
   bio: "Du mauvais caractère au petit déj, du e-commerce au déjeuner, des apéros en fin de journée (et dév PHP au quotidien)"
+  role: Responsable communauté tech
   avatar: bio/samy.png
   twitter: SamyRabih
   google:
@@ -65,6 +68,7 @@ claudia:
   web:
   email: claudia@lesbricodeurs.fr
   bio: ""
+  role: Responsable partenariats
   avatar: bio/claudia.jpg
   twitter: claudia_rzv
   google:
@@ -76,6 +80,7 @@ elsa:
   web:
   email:
   bio: ""
+  role: Responsable communication
   avatar: bio/elsa.jpg
   twitter:
   google:
@@ -86,6 +91,7 @@ xavier:
   web: http://xalava.github.io
   email: xavier@lesbricodeurs.fr
   bio: "Longtemps, je me suis couché de bonne heure. Et puis j'ai installé Debian..."
+  role: Président
   avatar: bio/Xa.jpg
   twitter: XavierLava
   google:
