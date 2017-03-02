@@ -12,8 +12,21 @@ couleur :
 
 La Nuit du Code Citoyen est un marathon d'innovation les 4 et 5 mars 2017 associant **thématiques citoyennes et technologie** en simultané dans plusieurs villes de pays francophones. L’évènement est suivi d’un programme d’accompagnement sur
 la durée.         
+<br><br>
+
+<h2> Retrouvez les informations sur le nouveau site :</h2>
+
+<div class="text-center" style="padding: auto;"> <a title="codecitoyen" class="btn btn-lg btn-accent" href="https://codecitoyen.github.io/"> La Nuit du Code Citoyen</a> </div>
+<h4> Et pour Lyon : <a title="lyon" class="btn btn-complement" href="https://codecitoyen.github.io/villes/lyon.html">
+Lyon</a> </h4>
+
+<br><br>
 
 Bâti sur l’expérience de l'organisation de grands évènements d'innovation (Museomix, Startup Weekend, Act In Space, BlockFest ...) nous souhaitons organiser un **évènement de qualité** et aller plus loin dans les réalisations, le suivi et l'impact. L’évènement sera précédé d'ateliers et suivi d'un accompagnement. Pendant, le focus sera de **rendre les projets accessibles aux citoyens**.
+
+
+
+
 
 ## Elements clés 
 * Travailler sur des **projets pertinents** et des **défis technologiques**
