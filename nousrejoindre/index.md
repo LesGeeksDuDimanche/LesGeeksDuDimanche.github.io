@@ -1,14 +1,3 @@
----
-layout: page
-title: Nous Rejoindre
-excerpt: "Les Bricodeurs, c'est comme à la maison"
-modified: 2015-07-24T19:44:38.564948-04:00
-image:
-  feature:
-  credit:
-  creditlink:
----
-
 
 
 Pour nous rejoindre, venez à un évènement ! Soyez au courant de nos activités via {% if site.owner.facebook %}<a href="http://facebook.com/{{ site.owner.facebook }}" title="{{ site.owner.name}} on Facebook" target="_blank"><i class="fa fa-facebook-square "></i></a>{% endif %}
