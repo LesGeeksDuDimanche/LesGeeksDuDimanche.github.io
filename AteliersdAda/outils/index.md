@@ -30,7 +30,13 @@ Scratch est un outil de programmation visuel. Disponible gratuitement en ligne, 
 
 ## LEGO Mindstorm
 
-Les Mindstorms sont des robot édités par LEGO. Compatibles avec les LEGO traditionnels, ils permettent de créer soit même un robot et contrôler moteurs, capteurs ... Comparé aux autres robots sur le marché, comme Thymio, il ont l'avantage de retrouver le plaisir de construction LEGO et une phase d'appropriation, comme dans ce [stage de robotique]({{site.url}}/articles/Le-Ballet-du-Code/). Pour les plus âgés et élèves ingénieurs, ils offrent des possibilité de programmation étendues. Ils ont l'inconvénient d'être peu accessibles financièrement et avec un logiciel fermé.
+Les Mindstorms sont des robot édités par LEGO. Compatibles avec les LEGO traditionnels, ils permettent de créer soit même un robot et contrôler moteurs, capteurs ... Comparé aux autres robots sur le marché, il ont l'avantage de retrouver le plaisir de construction LEGO et une phase d'appropriation, comme dans ce [stage de robotique]({{site.url}}/articles/Le-Ballet-du-Code/). Pour les plus âgés et élèves ingénieurs, ils offrent des possibilité de programmation étendues. Ils ont l'inconvénient d'être peu accessibles financièrement et avec un logiciel fermé.
+
+## Thymio
+
+Les Thymio sont des robots développés par l'EPFL à Lausanne, avec l'usage éducatif en tête. Cela se ressent, ils ont pratiques et jolis. De plus, ils fournissent un logiciel utilisable sous linux, windows et mac, plutôt simple une fois que l'on a compris la logique événementielle. 
+
+<a href="https://t.co/D53co0uvXl"><img src="https://pbs.twimg.com/media/C5bMwsNXMAAoSYs.jpg"></a>
 
 ## Un éditeur de texte
 
