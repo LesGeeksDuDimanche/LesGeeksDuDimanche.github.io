@@ -30,11 +30,12 @@ Une de ses principales caractéristique est d'être virale. Si vous utilisez du 
 Linux, le système qui fait fonctionner la majorité des serveurs d'internet et tous les téléphones Android est sous licence GPL.
 
 La Free Software Foundation (FSF) est une fondation de droit américain créée par Richard Stallman, informaticien du MIT à l'origine du concept de logiciel libre. Laissons le personnage expliquer lui même:
+
 <video src="http://audio-video.gnu.org/video/TEDxGE2014_Stallman05_LQ.webm" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen controls></video> 
 
 ### Licences Open Source 
 
-Les licences *Open Source* sont nées d'une volonté de compromis. Le code du logiciel est révélé, mais il est possible pour une entreprise de réutiliser ce code et le modifier sans avoir à partager à nouveau le fruit de leur travail. Beaucoup d'entreprises on recours à ces licences pour partager une partie de leur travail sur lequel elles veulent échanger avec la communauté. Il existe pléthore de licences avec quelques différences à la marge : BSD, MIT, Apache... Il y a un débat pour savoir lequel du libre et de l'Open Source offre le plus de liberté. 
+Les licences *Open Source* sont nées d'une volonté de compromis. Le code du logiciel est révélé, mais il est possible pour une entreprise de réutiliser ce code et le modifier sans avoir à partager à nouveau le fruit de leur travail. Beaucoup d'entreprises on recours à ces licences pour partager une partie de leur travail sur lequel elles veulent échanger avec la communauté. Il existe pléthore de licences avec quelques différences à la marge : BSD, MIT, Apache... 
 
 Le coeur de macOS et iOS est sous licence Open Source (BSD) ainsi que la plupart des librairies web ( React, Angular ... ) .
 
@@ -56,7 +57,7 @@ Sauf! Le *droit moral* qu'un auteur en droit français conserve toujours et les 
 
 # Conclusion
 
-Il y a encore dix ans, les logiciels propriétaires dominaient le marché grand public et professionnel. La tendance s'est aujourd'hui inversée
+Il y a encore dix ans, les logiciels propriétaires dominaient le marché grand public et professionnel. La tendance s'est aujourd'hui inversée, mais les débats comme les standards et la neutralité d'internet en sont le prolongement : S'assurer qu'aucun acteur ne verrouille l'accès au savoir et au marché par des mesures techniques.
 
 
 <a href="http://fr.wikipedia.org/wiki/Licence_libre">Pour plus d'informations</a>
