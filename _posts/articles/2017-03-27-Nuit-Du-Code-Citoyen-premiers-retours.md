@@ -1,6 +1,6 @@
 ---
 layout: post
-title: La nuit du code citoyen à Lyon
+title: Premiers retours de la nuit du code citoyen 
 modified:
 categories: articles
 excerpt: Crêpes et démocratie
@@ -15,7 +15,7 @@ published: true
 thumbnail: images/taupe.jpg
 ---
 
-Le 4 mars dernier, à Lyon et dans plusieurs villes francophones, des inconnus se sont réunis pour partager leurs idées et leur expérience et penser aux opportunités de renouvellement démocratique avec le numérique.
+Le 4 mars dernier dans plusieurs villes francophones des inconnus se sont réunis pour partager leurs idées et leur expérience et penser aux opportunités de renouvellement démocratique avec le numérique.
 
 La Nuit du Code Citoyen est un projet de longue date de notre association qui s’est toujours intéressées aux passerelles existantes et potentielles entre les usages du numérique et les usages citoyen. 
 
@@ -39,7 +39,7 @@ L’objectif de l’événement était aussi de mettre en relation les participa
 
 La Nuit du Code Citoyen, ce fut donc événement collaboratif, citoyen et connecté. Mais surtout, la Nuit du Code Citoyen ne s’arrête pas là ! Dès le départ l'objectif était de s'inscrire dans la durée. Chaque mois, un rendez-vous sera organisé afin de continuer à développer les projets, suivre les avancées et générer des rencontres. 
 
-La semaine dernière se tenait le premier événement à Rennes, ce weekend à Tunis et à Lyon ce sera le [mardi 4 avril à l’espace Altnet](https://www.facebook.com/events/1675097642787150/). Que vous ayez participé à la Nuit du Code Citoyen ou vous vouliez découvrir, nous vous attendons pour continuer d’échanger et construire. 
+La semaine dernière se tenait le premier événement à Rennes et ce weekend à Tunis. A Lyon, ce sera le [mardi 4 avril à l’espace Altnet](https://www.facebook.com/events/1675097642787150/). Que vous ayez participé à la Nuit du Code Citoyen ou vous vouliez découvrir, nous vous attendons pour continuer d’échanger et construire. 
 
 Pour plus d’informations, contactez-nous directement : [salut@lesbricodeurs.fr](mailto:salut@lesbricodeurs.fr)
 
