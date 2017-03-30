@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Premiers retours de la nuit du code citoyen 
+title: La nuit du code citoyen 
 modified:
 categories: articles
 excerpt: Crêpes et démocratie
@@ -15,7 +15,7 @@ published: true
 thumbnail: images/taupe.jpg
 ---
 
-Le 4 mars dernier dans plusieurs villes francophones des inconnus se sont réunis pour partager leurs idées et leur expérience et penser aux opportunités de renouvellement démocratique avec le numérique.
+Le 4 mars dernier, dans plusieurs villes francophones, des inconnus se sont réunis pour partager leurs idées et leur expérience et penser aux opportunités de renouvellement démocratique avec le numérique.
 
 La Nuit du Code Citoyen est un projet de longue date de notre association qui s’est toujours intéressées aux passerelles existantes et potentielles entre les usages du numérique et les usages citoyen. 
 
@@ -36,6 +36,8 @@ Dans les autres villes aussi, de nombreux projets se sont mis en place !
 Un outil de suivi de file à Tunis, un jeu de création et de gestion d'un écovillage à Montpellier, un travail sur la sécurité des données à Narbonne et Lille, une plateforme de financement décentralisée à Auberviller, une librairie de langue des signe à Toulouse, des débats live sur Facebook à Paris, des capteurs maritimes à Rennes ...
 
 L’objectif de l’événement était aussi de mettre en relation les participants de chaque ville. Plusieurs visio-conférences ont été organisées entre le samedi et le dimanche et chaque ville a pu faire appel aux compétences des autres pour faire avancer les projets. 
+
+![image Nuit Code citoyen]({{ site.url }}/images/NCC/NCC-global3.jpg){: .pull-right}
 
 La Nuit du Code Citoyen, ce fut donc événement collaboratif, citoyen et connecté. Mais surtout, la Nuit du Code Citoyen ne s’arrête pas là ! Dès le départ l'objectif était de s'inscrire dans la durée. Chaque mois, un rendez-vous sera organisé afin de continuer à développer les projets, suivre les avancées et générer des rencontres. 
 
