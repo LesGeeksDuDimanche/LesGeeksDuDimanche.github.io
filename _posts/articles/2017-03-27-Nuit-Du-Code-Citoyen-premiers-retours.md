@@ -34,7 +34,9 @@ L’objectif de l’événement était aussi de mettre en relation les participa
 
 ![image Nuit Code citoyen]({{ site.url }}/images/NCC/NCC-global3.jpg){: .pull-right}
 
-La Nuit du Code Citoyen, ce fut donc événement collaboratif, citoyen et connecté. Mais surtout, la Nuit du Code Citoyen ne s’arrête pas là ! Dès le départ l’objectif était de s’inscrire dans la durée. Chaque mois, un rendez-vous sera organisé afin de continuer à développer les projets, suivre les avancées et générer des rencontres. La semaine dernière se tenait le premier événement à Rennes et ce weekend à Tunis. A Lyon, ce sera le [mardi 4 avril à l’espace Altnet](https://www.facebook.com/events/1675097642787150/). Que vous ayez participé à la Nuit du Code Citoyen ou vous vouliez découvrir, nous vous attendons pour continuer d’échanger et construire. 
+La Nuit du Code Citoyen, ce fut donc événement collaboratif, citoyen et connecté. Mais surtout, la Nuit du Code Citoyen ne s’arrête pas là ! Dès le départ l’objectif était de s’inscrire dans la durée. Chaque mois, un rendez-vous sera organisé afin de continuer à développer les projets, suivre les avancées et générer des rencontres. La semaine dernière se tenait le premier événement à Rennes et ce weekend à Tunis. 
+
+A Lyon, ce sera le [mardi 4 avril à l’espace Altnet](https://www.facebook.com/events/1675097642787150/). Que vous ayez participé à la Nuit du Code Citoyen ou vous vouliez découvrir, nous vous attendons pour continuer d’échanger et construire. 
 
 Pour plus d’informations, contactez-nous directement : [salut@lesbricodeurs.fr](mailto:salut@lesbricodeurs.fr)
 
