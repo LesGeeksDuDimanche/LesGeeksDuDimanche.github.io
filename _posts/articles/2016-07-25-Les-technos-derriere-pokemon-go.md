@@ -43,7 +43,7 @@ L'idée est simple :
 
 ### Le positionnement par le réseau cellulaire
 
-Votre smartphone est régulièrement connecté à plusieurs antennes-relais pour éviter les déconnections quand vous quittez la zone de couverture de l'une. Il compare le temps que mettent à lui répondre chacune de ces antennes. En sachant la position de ces antennes, il suffit de tracer un cercle autour de chacune avec la distance de votre smartphone. Vous êtes alors à la rencontre de trois cercles.
+Votre smartphone est régulièrement connecté à plusieurs antennes-relais pour éviter les déconnexions quand vous quittez la zone de couverture de l'une. Il compare le temps que mettent à lui répondre chacune de ces antennes. En sachant la position de ces antennes, il suffit de tracer un cercle autour de chacune avec la distance de votre smartphone. Vous êtes alors à la rencontre de trois cercles.
 
 Vous avez sans doute remarqué quand vous démarrez Google Maps que le cercle de votre position est très large au début. Il vous a connecté sur une antenne dont il connaît la position. Puis une fois le calcul effectué, GPS ou réseau cellulaire, vous êtes géolocalisé avec précision.
 
