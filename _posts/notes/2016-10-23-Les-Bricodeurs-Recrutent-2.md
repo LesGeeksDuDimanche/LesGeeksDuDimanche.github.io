@@ -52,7 +52,7 @@ On est ouvert à tous les profils. On vise idéalement des indépendants du num�
 * Si vous êtes un professionnel expérimenté, n'hésitez pas à nous contacter pour discuter d'un partenariat
 
 Pour nous contacter, c'est très simple [salut@lesbricodeurs.fr](mailto:salut@lesbricodeurs.fr)
-
+	
 <a class="typeform-share button" href="https://xalava.typeform.com/to/ZKiZip?typeform-collect=0" data-mode="popup" style="display:inline-block;text-decoration:none;background-color:#267DDD;color:white;cursor:pointer;font-family:Helvetica,Arial,sans-serif;font-size:20px;line-height:50px;text-align:center;margin:0;height:50px;padding:0px 33px;border-radius:11px;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:bold;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;" target="_blank">Candidature rapide</a><script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id="typef_orm_share",b="https://s3-eu-west-1.amazonaws.com/share.typeform.com/";if(!gi.call(d,id)){js=ce.call(d,"script");js.id=id;js.src=b+"share.js";q=gt.call(d,"script")[0];q.parentNode.insertBefore(js,q)}})()</script>
 
 

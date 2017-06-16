@@ -22,7 +22,7 @@ La [Nuit du Code Citoyen](https://codecitoyen.github.io/) est un programme d'acc
 
 La soirée s'est déroulée au [CentSept](http://www.lecentsept.fr/), association située dans le 7ème arrondissement qui accompagne des projets de l'ESS ( Entrepreunariat Social et Solidaire ) notamment en les mettant en lien avec des grands groupes.
 
-Débutant à 19h, les participants sont arrivés petit à petit pour se rencontrer et discuter entre eux afin de faire connaissance. L’inauguration de la boulangerie [Boulang' et Pâtiss'](https://cuisineitinerante.com/) situé dans  l’enceinte du CentSept a permis d’ouvrir les festivités sur une note conviviale !
+Débutant à 19h, les participants sont arrivés petit à petit pour se rencontrer et discuter entre eux afin de faire connaissance. L’inauguration de la boulangerie [Boulang' et Pâtiss'](https://cuisineitinerante.com/) situé dans l’enceinte d'[Hévéa](http://etic.co/hevea/) a permis d’ouvrir les festivités sur une note conviviale !
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="fr" dir="ltr">Le code au service des projets sociaux : c&#39;est parti pour la mini-nuit du code citoyen ! <a href="https://twitter.com/hashtag/popupsocial?src=hash">#popupsocial</a> <a href="https://t.co/3x7RFT5P8Y">pic.twitter.com/3x7RFT5P8Y</a></p>&mdash; Le Centsept (@lecentseptlyon) <a href="https://twitter.com/lecentseptlyon/status/875048649633431552">June 14, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
