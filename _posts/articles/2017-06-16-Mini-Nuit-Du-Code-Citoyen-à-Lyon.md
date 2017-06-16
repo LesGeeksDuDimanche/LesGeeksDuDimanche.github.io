@@ -49,3 +49,14 @@ Les équipes se sont ainsi formées de manière fluide. Certains participants pa
 
 Résultats?
 Un nouveau design en projet pour démocratie et langoustines, plusieurs pistes sérieuses pour l’outil pour le suivi des projet et surtout beaucoup de connexions entre individus et structures complémentaires.
+
+
+
+_Vous portez un projet? Vous voulez organiser une Nuit du Code Citoyen dans votre ville? vous voulez participer? Dans les prochains mois, organisons ensemble des mini nuits (certains appellent ça des soiréees) pour faire avancer les projets, tout en préparant la grande Nuit du Code Citoyen_
+
+<a title="Organisateur" class="btn-accent" href="https://codecitoyen.github.io/participer/organisateur.html">
+Organisateur
+</a> <a title="projet" class="btn-complement" href="https://codecitoyen.github.io/participer/proposer-un-projet.html">
+Porteur de projet
+</a> <a title="participant" class="btn" href="https://codecitoyen.github.io/participer/participant.html">
+Participant</a> 
