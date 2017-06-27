@@ -5,7 +5,10 @@
 
 - title: Articles
   url: /articles/
-
+  
+- title: Notes
+  url: /notes/
+  
 - title: Ateliers d'Ada
   url: /AteliersdAda/ 
 
