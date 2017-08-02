@@ -52,7 +52,7 @@ Un nouveau design en projet pour démocratie et langoustines, plusieurs pistes s
 
 
 
-_Vous portez un projet? Vous voulez organiser une Nuit du Code Citoyen dans votre ville? vous voulez participer? Dans les prochains mois, organisons ensemble des mini nuits (certains appellent ça des soiréees) pour faire avancer les projets, tout en préparant la grande Nuit du Code Citoyen_
+_Vous portez un projet? Vous voulez organiser une Nuit du Code Citoyen dans votre ville? vous voulez participer? Dans les prochains mois, organisons ensemble des mini nuits (certains appellent ça des soiréee) pour faire avancer les projets, tout en préparant la prochaine grande Nuit du Code Citoyen_
 
 <a title="Organisateur" class="btn-accent" href="https://codecitoyen.github.io/participer/organisateur.html">
 Organisateur
