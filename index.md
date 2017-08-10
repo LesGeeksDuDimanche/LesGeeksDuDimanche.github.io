@@ -15,10 +15,11 @@ Les Bricodeurs regroupe les professionnels du numérique (développeurs, doctora
 
 # Éducation au numérique
 * [Ateliers d'Ada]({{site.url}}/AteliersdAda/), ateliers d'initiation pour enfants et adolescents au code et à la robotique.
-* [Ateliers d'apprentissage collaboratif](https://www.meetup.com/fr-FR/Lyon-Beginners-Apprendre-a-coder-ensemble/) pour apprendre à construire un site, une application avec nodejs, meteor, Angularjs ...
+* [Ateliers d'apprentissage collaboratif](https://www.meetup.com/fr-FR/Lyon-Beginners-Apprendre-a-coder-ensemble/), communauté d'apprenants et de développeurs qui découvrent ou se perféctionnent dans la programmation
+* [La préécole du numérique]({{site.url}}/preecoledunumerique/), cursus pour découvrir la programmation web, les formations et les métiers du numériques
 
 # Le numérique citoyen
-* [Accompagnement de projets]({{site.url}}/projets/), accélération interne et soutien de startups et projets citoyens
+* [Accompagnement de projets](https://codecitoyen.github.io/), accélération interne et soutien de startups et projets citoyens
 * [Conférences CivicTech](https://www.facebook.com/events/469923249869192/) pour échanger sur des sujets de technologie et société autour d'une brioche : Histoire de la collecte de données, Modèles économiques Open Source ...
 
 # Une communauté active

@@ -1,19 +1,22 @@
 # Site navigation links
 
 - title: Présentation
-  url: 
+  url:
 
 - title: Articles
   url: /articles/
 
 - title: Ateliers d'Ada
-  url: /AteliersdAda/ 
+  url: /AteliersdAda/
+
+- title: La préécole du numérique
+  url: /preecoledunumerique/
 
 - title: Profils
-  url: /trombines/ 
+  url: /trombines/
 
 - title: Projets
-  url: /projets/  
+  url: /projets/
 
 - title: Rejoindre
-  url: /nousrejoindre/	
+  url: /nousrejoindre/
