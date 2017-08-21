@@ -21,7 +21,7 @@ Nous faisons découvrir le code aux participants et les invitons à continuer à
 
 ## Programme :
 
-Atelier Découverte de la programmation web ( 3h) - 3 séances par mois
+Atelier Découverte de la programmation web ( 3h) - 3 séances par an
 
 -    Les métiers de l’informatique et des différents centres de formations
 -    Quels sont les langages et technologies utilisées
