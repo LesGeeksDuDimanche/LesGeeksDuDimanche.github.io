@@ -4,6 +4,7 @@ title: Les Bricodeurs
 locale: fr_FR
 description: "Le numérique, ludique et citoyen"
 logo: lesbricodeurs.png
+small-logo: lesbricodeurs-200px.png
 url: https://lesbricodeurs.fr
 default_locale: "fr"
 
@@ -41,19 +42,19 @@ owner:
   github: LesGeeksDuDimanche
   stackexchange:
   linkedin:
-  instagram: 
+  instagram:
   flickr:
   tumblr:
-  meetup: fr/Design-et-technologie-pour-projets-citoyens 
+  meetup: fr/Design-et-technologie-pour-projets-citoyens
   pinterest:
   weibo:
   google:
-    plus: 
+    plus:
     analytics: UA-64227504-1
-    verify: 
-    ad-client: 
-    ad-slot: 
-  bing-verify: 
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
 
 compress_html:
   clippings: all

@@ -4,6 +4,7 @@ title: Les Bricodeurs
 locale: fr_FR
 description: "Le numérique, ludique et citoyen"
 logo: lesbricodeurs.png
+small-logo: lesbricodeurs-200px.png
 url: //localhost:4000/
 
 # Jekyll configuration
@@ -23,7 +24,7 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..2
   enable_coderay: false
- 
+
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
@@ -41,19 +42,19 @@ owner:
   github: LesGeeksDuDimanche
   stackexchange:
   linkedin:
-  instagram: 
+  instagram:
   flickr:
   tumblr:
-  meetup: fr/Design-et-technologie-pour-projets-citoyens 
+  meetup: fr/Design-et-technologie-pour-projets-citoyens
   pinterest:
   weibo:
   google:
-    plus: 
-    analytics: 
-    verify: 
-    ad-client: 
-    ad-slot: 
-  bing-verify: 
+    plus:
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
 
 compress_html:
   clippings: all
