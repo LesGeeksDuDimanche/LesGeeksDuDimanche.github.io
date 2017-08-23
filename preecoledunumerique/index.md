@@ -4,7 +4,8 @@ title: La Préécole du Numérique
 excerpt: "Cursus de découverte de la programmation web"
 modified: 2016-08-8T19:44:38.564948-04:00
 image:
-  feature:
+  feature: banners/preecoledunumerique.jpeg
+  nologo: true
   credit:
   creditlink:
 ---
