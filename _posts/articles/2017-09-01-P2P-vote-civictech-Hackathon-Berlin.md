@@ -26,6 +26,8 @@ Un jury de professionnels, chercheurs et politiques triés sur le volet attend l
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="fr" dir="ltr">La demoCatification du monde est en cours <a href="https://twitter.com/hashtag/DemocracyIsEverything?src=hash">#DemocracyIsEverything</a> <a href="https://t.co/EfC4XXZXhy">pic.twitter.com/EfC4XXZXhy</a></p>&mdash; Les Bricodeurs (@LesBricodeurs) <a href="https://twitter.com/LesBricodeurs/status/901121294468558850">August 25, 2017</a></blockquote>
 
+P2P Vote, c'est une application de vote décentralisée utilisant les web-RTC. Il faut dans un premier temps s'authentifier, puis aucun lien ne peut etre fait avec le votant. Comme dans un bulletin papier chacun participe, via son navigateur au décompte des votes. ( par ici pour le [github](https://github.com/LesGeeksDuDimanche/p2p-vote/)) 
+
 L’équipe P2PVote qui s’échinera ce weekend est constitué de :
 
 * Robert Riemann, à l’origine de l’idée, il réalise d’ailleurs sa thèse sur ce sujet à l'INRIA
@@ -44,7 +46,9 @@ Finalement les projets gagnants ce hackathon seront :
 
 Enfin bref, on est ravi, et on sera ravi de participer à nouveau dans ce superbe écosystème !
 
-<blockquote class="twitter-tweet" data-lang="fr"><p lang="en" dir="ltr">We’re incredibly sad our Hackathon is over, but you can relive the inspirational 24hrs here :v: <a href="https://t.co/wDZ1UVFRKK">https://t.co/wDZ1UVFRKK</a> <a href="https://twitter.com/hashtag/DemocracyIsEverything?src=hash">#DemocracyIsEverything</a></p>&mdash; Factory (@FactoryBerlin) <a href="https://twitter.com/FactoryBerlin/status/902812407797604352">30 août 2017</a></blockquote>
+
+<iframe src="https://player.vimeo.com/video/231565924" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 _Intéréssé par ces sujets ? Ca tombe bien, on organise un hackathon international [La Nuit du code citoyen](https://codecitoyen.github.io/)_ 
