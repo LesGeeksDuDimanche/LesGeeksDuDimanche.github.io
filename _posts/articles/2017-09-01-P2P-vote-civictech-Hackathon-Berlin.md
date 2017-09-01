@@ -5,13 +5,13 @@ categories: articles
 excerpt: P2P vote
 tags: [NCC, CivicTech, Hackaton]
 image:
-  feature:
+  feature: 
 date: 2017-09-01T12:00:40+02:00
 author: antoine
 comments: true
 share: true
 published: true
-thumbnail: //raw.githubusercontent.com/LesGeeksDuDimanche/p2p-vote/master/src/assets/heroslide_left.png
+thumbnail: //raw.githubusercontent.com/LesGeeksDuDimanche/p2p-vote/master/src/assets/landing-page.png
 ---
 Vendredi et samedi dernier, nous étions chez les allemands. The Factory, la communauté d'innovateurs berlinoise, accueillait sur 2 jours le hackathon civictech [#DemocracyIsEverything](https://twitter.com/search?src=typd&q=%23democracyiseverything).
 
@@ -24,13 +24,13 @@ Après un accueil musclé le vendredi à 15h, et quelques litres de Fritz-Cola e
 
 Un jury de professionnels, chercheurs et politiques triés sur le volet attend les pitchs le lendemain, malgré tout, pas de pression particulière dans l’assemblée. Le lieu se prête parfaitement à l’installation des groupes. Et c’est après un rapide tour du propriétaire que l’équipe réunis sous l’étendard des bricodeurs, s’installe dans son aquarium pour la nuit. Au programme de l’équipe, révolutionner la vote numérique en créant une application de vote décentralisé s’appuyant sur des principes de peer-to-peer.
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="fr" dir="ltr">La demoCatification du monde est en cours <a href="https://twitter.com/hashtag/DemocracyIsEverything?src=hash">#DemocracyIsEverything</a> <a href="https://t.co/EfC4XXZXhy">pic.twitter.com/EfC4XXZXhy</a></p>&mdash; Les Bricodeurs (@LesBricodeurs) <a href="https://twitter.com/LesBricodeurs/status/901121294468558850">August 25, 2017</a></blockquote>
+
 L’équipe P2PVote qui s’échinera ce weekend est constitué de :
 
 * Robert Riemann, à l’origine de l’idée, il réalise d’ailleurs sa thèse sur ce sujet à l'INRIA
-* Claire Swierkowski et Antoine Gouy au design. Claire participe à distance à l’évènement et réalise de superbes illustrations au prix d'une nuit très courte. ![illustration](//raw.githubusercontent.com/LesGeeksDuDimanche/p2p-vote/master/src/assets/easytohandle_illu.png){: .pull-right}
 * Xavier Lavayssière et Chad Carbert, duo de chocs au développement d’un prototype frontend fonctionnel #VueJS.
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="fr" dir="ltr">La demoCatification du monde est en cours <a href="https://twitter.com/hashtag/DemocracyIsEverything?src=hash">#DemocracyIsEverything</a> <a href="https://t.co/EfC4XXZXhy">pic.twitter.com/EfC4XXZXhy</a></p>&mdash; Les Bricodeurs (@LesBricodeurs) <a href="https://twitter.com/LesBricodeurs/status/901121294468558850">August 25, 2017</a></blockquote>
+* Claire Swierkowski et Antoine Gouy au design. Claire participe à distance à l’évènement et réalise de superbes illustrations au prix d'une nuit très courte. ![illustration](//raw.githubusercontent.com/LesGeeksDuDimanche/p2p-vote/master/src/assets/easytohandle_illu.png)
 
 Après une longue nuit créative et une journée booster par le panel des coachs de The Factory que l’équipe est en capacité de pitcher P2PVote : une application qui permet à des communautés d’organiser leur propre sondage en assurant un processus démocratique. C’est Xavier qui se colle à l’exercice au milieu de 18 projets.
 
@@ -46,3 +46,7 @@ Enfin bref, on est ravi, et on sera ravi de participer à nouveau dans ce superb
 
 <blockquote class="twitter-tweet" data-lang="fr"><p lang="en" dir="ltr">We’re incredibly sad our Hackathon is over, but you can relive the inspirational 24hrs here :v: <a href="https://t.co/wDZ1UVFRKK">https://t.co/wDZ1UVFRKK</a> <a href="https://twitter.com/hashtag/DemocracyIsEverything?src=hash">#DemocracyIsEverything</a></p>&mdash; Factory (@FactoryBerlin) <a href="https://twitter.com/FactoryBerlin/status/902812407797604352">30 août 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+_Intéréssé par ces sujets ? Ca tombe bien, on organise un hackathon international [La Nuit du code citoyen](https://codecitoyen.github.io/)_ 
+
+![democracy](//raw.githubusercontent.com/LesGeeksDuDimanche/p2p-vote/master/src/assets/heroslide_left.png)
