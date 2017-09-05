@@ -73,7 +73,7 @@ Les commandes suivantes sont définies dans le package.json, le nom peut varier:
 
 ## Quelques paquets sympas
 
-* yarn est un gestionnaire de paquet un peu plus éfficace qu'npm
+* yarn est un gestionnaire de paquet un peu plus efficace qu'npm
 * gulp est un outil pour assembler une page 
 * yo (yeoman) est un outil pour préparer le dossier pour un nouveau projet
 
@@ -82,4 +82,4 @@ Les commandes suivantes sont définies dans le package.json, le nom peut varier:
 
 _Note : npm i -D == npm install --save-dev_
 
-Voilà. Si vous avez des questions, écrivez vous [@LesBricodeurs](https://twitter.com/lesbricodeurs)
+Voilà. Si vous avez des questions, écrivez-nous ! [@LesBricodeurs](https://twitter.com/lesbricodeurs)
