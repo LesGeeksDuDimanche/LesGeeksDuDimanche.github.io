@@ -3,7 +3,7 @@ layout: post
 title: Comment installer npm proprement  
 modified: null
 categories: articles
-excerpt: Please god save us from NPM 
+excerpt: Please God save us from NPM 
 tags:
   - Editeur
   - developpement
@@ -35,6 +35,11 @@ Alternativement, sur les distributions debian et ubuntu
 
 `sudo apt install nodejs`
 
+Comme on nous à [signalé](https://twitter.com/le_mulot/status/905102883431088128) pour faire encore mieux, vous pouvez utiliser nvm. nvm est un gestionnaire de version de node.js. Vous trouverez plus d'informations par [ici](https://github.com/creationix/nvm/blob/master/README.md)
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="fr" dir="ltr">installer node avec apt 🤢</p>&mdash; Pierrick P (@le_mulot) <a href="https://twitter.com/le_mulot/status/905097794523979776">September 5, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Installer le global localement
 Quand vous installez des paquets via npm, si vous ne précisez rien, ils seront installés dans le dossier actuel, généralement du projet en cours. Certains paquets, notamment les outils doivent s'installer globalement avec l'option **-g**. Pour éviter que ceux si s'installent dans un dossier système et exigent l'accès root, vous pouvez:
 
@@ -52,14 +57,17 @@ Quand vous installez des paquets via npm, si vous ne précisez rien, ils seront 
 #### Installer un paquet
 Globalement vous avez deux trois façon d'installer un paquet via npm : 
 
-* **npm install -g XXX** Vous permet d'installer une nouvelle commande. Meteor, yarn, yoman
-* **npm install XXX** Vous permet d'ajouter un paquet au projet en cours. Il est automatiquement ajouté au fichier package.json dans le dossier en cours
-* **npm install --save-dev XXX** Vous permet d'ajouter un paquet au projet en cours qui servira uniquement pendant le developpement du projet
+* **npm install -g XYZ** Vous permet d'installer une nouvelle commande. Meteor, yarn, yoman
+* **npm install XYZ** Vous permet d'ajouter un paquet au projet en cours. Il est automatiquement ajouté au fichier package.json dans le dossier en cours
+* **npm install --save-dev XYZ** Vous permet d'ajouter un paquet au projet en cours qui servira uniquement pendant le developpement du projet
 
 #### Lancer un projet
 Quand vous récupérez un projet, généralement vous devrez lancer les commandes suivantes:
+
 * **npm install** Installe toutes les dépendances du fichier package.json
-Les commandes suivantes sont définies dans le package.json, le nom peut varier: 
+
+Les commandes suivantes sont définies dans le package.json, le nom peut varier:
+
 * **npm dev** Pour lancer le projet en version développement
 * **npm build** Pour lancer la construction du site.
 
@@ -69,7 +77,7 @@ Les commandes suivantes sont définies dans le package.json, le nom peut varier:
 * gulp est un outil pour assembler une page 
 * yo (yeoman) est un outil pour préparer le dossier pour un nouveau projet
 
-`npm install -g yarn @angular/cli yo`
+`npm install -g yarn yo`
 `npm i -D gulp gulp-util gulp-plumber gulp-WHATEVER`
 
 _Note : npm i -D == npm install --save-dev_
