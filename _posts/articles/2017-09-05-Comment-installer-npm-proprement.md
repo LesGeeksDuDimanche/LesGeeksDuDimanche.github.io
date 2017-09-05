@@ -35,10 +35,7 @@ Alternativement, sur les distributions debian et ubuntu
 
 `sudo apt install nodejs`
 
-Comme on nous à [signalé](https://twitter.com/le_mulot/status/905102883431088128) pour faire encore mieux, vous pouvez utiliser nvm. nvm est un gestionnaire de version de node.js. Vous trouverez plus d'informations par [ici](https://github.com/creationix/nvm/blob/master/README.md)
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="fr" dir="ltr">installer node avec apt 🤢</p>&mdash; Pierrick P (@le_mulot) <a href="https://twitter.com/le_mulot/status/905097794523979776">September 5, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+Comme on nous l'a signalé [sur twitter](https://twitter.com/le_mulot/status/905102883431088128), pour faire encore mieux, vous pouvez utiliser nvm. Nvm est un gestionnaire de version de node.js. Vous trouverez plus d'informations par [ici](https://github.com/creationix/nvm/blob/master/README.md)
 
 ## Installer le global localement
 Quand vous installez des paquets via npm, si vous ne précisez rien, ils seront installés dans le dossier actuel, généralement du projet en cours. Certains paquets, notamment les outils doivent s'installer globalement avec l'option **-g**. Pour éviter que ceux si s'installent dans un dossier système et exigent l'accès root, vous pouvez:
