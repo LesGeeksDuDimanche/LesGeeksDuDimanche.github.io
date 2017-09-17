@@ -1,6 +1,6 @@
 # Les Bricodeurs
 
-Les Bricodeurs est au départ un groupe informel de geeks qui se réunit le dimanche pour développer ensemble et débattre des enjeux technologiques. \#ClashEnBash
+Les Bricodeurs est au départ un groupe informel de geeks qui se réunit le dimanche pour développer ensemble et débattre des enjeux technologiques depuis 2014. \#ClashEnBash
 
 Depuis l'association évolue sur les champs de l'éducation au numérique, de l'accompagnement de projet civictech et du développement communautés techniques.
 
