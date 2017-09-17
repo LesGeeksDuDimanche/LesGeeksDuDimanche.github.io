@@ -8,27 +8,19 @@ image:
   credit:
   creditlink:
 ---
+Les Bricodeurs est une communauté d'une centaine de professionnels et passionnés du numérique de diverses fillières ( Blockchain, développement web, Arts numérique, Design ... ) et profils ( Indépendants, Chercheurs, Entrepreneurs ... ) avec deux actions, l'accompagnement de projets numérique citoyens et la diffusion de la culture numérique. 
 
-Les Bricodeurs regroupe les professionnels du numérique (développeurs, doctorants, designers, CTO, entrepreneurs, ...) avec pour objectifs de mettre leur expertise au service de la diffusion de la culture numérique et l'accompagnement de projets numériques citoyens, car nous pensons que le numérique est surtout un enjeu culturel et sociétal.
-
-<div><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Flesbricodeurs%2Fvideos%2F290466934626200%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden;display:block;margin:0 auto" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe></div>
+# Numérique citoyen
+* [La nuit du code citoyen](https://codecitoyen.github.io/), hackathon international et programme d'accélération de projets numériques citoyens
+* Conférences CivicTech pour échanger sur des sujets de technologie et société autour d'une brioche : Histoire de la collecte de données, Modèles économiques Open Source ...
 
 # Éducation au numérique
-* [Ateliers d'Ada]({{site.url}}/AteliersdAda/), ateliers d'initiation pour enfants et adolescents au code et à la robotique.
-* [Ateliers d'apprentissage collaboratif](https://www.meetup.com/fr-FR/Lyon-Beginners-Apprendre-a-coder-ensemble/), communauté d'apprenants et de développeurs qui découvrent ou se perféctionnent dans la programmation
-* [La préécole du numérique]({{site.url}}/preecoledunumerique/), cursus pour découvrir la programmation web, les formations et les métiers du numériques
+* Ateliers créatifs de découverte du code et de la robotique pour jeunes [Ateliers d'Ada]({{site.url}}/AteliersdAda/)
+* Formations collaborative à la programmation , notamment via [La préécole du numérique]({{site.url}}/preecoledunumerique/)
 
-# Le numérique citoyen
-* [Accompagnement de projets](https://codecitoyen.github.io/), accélération interne et soutien de startups et projets citoyens
-* [Conférences CivicTech](https://www.facebook.com/events/469923249869192/) pour échanger sur des sujets de technologie et société autour d'une brioche : Histoire de la collecte de données, Modèles économiques Open Source ...
+<div><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Flesbricodeurs%2Fvideos%2F290466934626200%2F&show_text=0&width=590" width="590" height="325" style="border:none;overflow:hidden;display:block;margin:0 auto" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe></div>	
 
-# Une communauté active
-* Le cœur des bricodeurs, ce sont des passionnés qui se retrouvent régulièrement sur les thématiques techniques : "Des Nouvelles Du Frontend" en partenariat avec la Tour du web, "Aperobot" en partenariat avec l'association Caliban, "L'art et la Bidouille" ...
-* La coorganisation d’événements majeurs : Le BlockFest, Act In Space, Open Bidouille Camp ...
-
-
-Basés à Lyon avec des activité à Toulouse, Grenoble et Paris. Nous recrutons activement des responsables de communautés, contactez nous: <salut@lesbricodeurs.fr>
-
+Basés à Lyon, Lille et Paris avec des activité à Toulouse et Grenoble. Nous recrutons activement des responsables de communautés, contactez nous: <salut@lesbricodeurs.fr>
 
 Rejoignez nous sur  {% if site.owner.facebook %}<a href="http://facebook.com/{{ site.owner.facebook }}" title="{{ site.owner.name}} on Facebook" target="_blank"><i class="fa fa-facebook-square fa-2x"></i></a>{% endif %}
 	ou
@@ -40,3 +32,23 @@ Rejoignez nous sur  {% if site.owner.facebook %}<a href="http://facebook.com/{{ 
 
 ![geeks a lunettes]({{ site.url }}/images/baby.jpg)
 {: .rond}
+
+
+
+
+# Les valeurs
+
+Comme aurait dit Clémenceau, "L'informatique est trop grave pour être confiée à des informaticiens". Nous pensons d'une part que le numérique est surtout un enjeu culturel et sociétal. Engagés dans une démarge d'ouverture, nous travaillons à l'interdisciplinarité, la parité et l'inclusion sur ces thématiques.
+
+Pour autant le débat public manque souvent de compétences. Nous travaillons ainsi auprès des collectivités, des acteurs de l'Economie Sociale et Solidaire, et des incubateurs pour apporter cette expertise.
+
+# Les partenaires 
+
+L'essentiel de nos actions est porté par l'énergie de ses adhérents, on vous aime.
+
+Nous remercions la Fondation de France et la Métropole de Lyon pour leur soutien. Ainsi que tous ceux qui nous sollicitent pour organiser des ateliers, des conférences et des hackathons.
+
+Les Bricodeurs sont de fiers cofondateurs de la Mednum, coopérative des acteurs de la médiation numérique.
+
+
+

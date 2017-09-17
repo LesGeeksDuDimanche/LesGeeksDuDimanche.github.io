@@ -38,7 +38,7 @@ Alternativement, sur les distributions debian et ubuntu
 Comme on nous l'a signalé [sur twitter](https://twitter.com/le_mulot/status/905102883431088128), pour faire encore mieux, vous pouvez utiliser nvm. Nvm est un gestionnaire de version de node.js. Vous trouverez plus d'informations par [ici](https://github.com/creationix/nvm/blob/master/README.md)
 
 ## Installer le global localement
-Quand vous installez des paquets via npm, si vous ne précisez rien, ils seront installés dans le dossier actuel, généralement du projet en cours. Certains paquets, notamment les outils doivent s'installer globalement avec l'option **-g**. Pour éviter que ceux si s'installent dans un dossier système et exigent l'accès root, vous pouvez:
+Quand vous installez des paquets via npm, si vous ne précisez rien, ils seront installés dans le dossier actuel, généralement du projet en cours. Certains paquets, notamment les outils doivent s'installer globalement avec l'option **-g**. Pour éviter que ceux-ci s'installent dans un dossier système et exigent l'accès root, vous pouvez:
 
 * créer un dossier dédié 
 `mkdir ~/.npm-global`
@@ -52,9 +52,9 @@ Quand vous installez des paquets via npm, si vous ne précisez rien, ils seront 
 ## Utilisation
 
 #### Installer un paquet
-Globalement vous avez deux trois façon d'installer un paquet via npm : 
+Globalement vous avez trois façon d'installer un paquet via npm : 
 
-* **npm install -g XYZ** Vous permet d'installer une nouvelle commande. Meteor, yarn, yoman
+* **npm install -g XYZ** Vous permet d'installer une nouvelle commande. Meteor, yarn, yeoman par exemple.
 * **npm install XYZ** Vous permet d'ajouter un paquet au projet en cours. Il est automatiquement ajouté au fichier package.json dans le dossier en cours
 * **npm install --save-dev XYZ** Vous permet d'ajouter un paquet au projet en cours qui servira uniquement pendant le developpement du projet
 
