@@ -18,7 +18,7 @@ Vous pouvez venir à une des sceances d'initiation, trois fois par ans, puis rej
 Prochaine date : 3 octobre 2017 à Lyon
 Dates suivantes : 6 février et 3 avril 2018 (à Lyon et dans les autres villes partenaires)
 
-L'idée est aussi de suivre la progression avec un outil en cours de développement ![bricoschool]({{ site.url }}/images/bricoschool.png){: .pull-right}
+L'idée est aussi de suivre la progression avec un outil en cours de développement ![bricoschool]({{ site.url }}/images/bricoschool.png)
 
 ## Programme :
 
@@ -40,7 +40,7 @@ L'animation des ateliers est entièrement réalisé par des bénévoles, notamme
 
 Grace au soutient de la Fondation de France, Les bricodeurs assurent la coordination du programme .
 
-[fondation de france ](https://www.fondationdefrance.org/sites/all/themes/custom/fdf_website_theme/dist/images/logo.png)
+![fondation de france ](https://www.fondationdefrance.org/sites/all/themes/custom/fdf_website_theme/dist/images/logo.png){: .pull-right}
 
 ## Intéressé ?
 
