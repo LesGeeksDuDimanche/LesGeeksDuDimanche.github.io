@@ -14,7 +14,7 @@ published: true
 thumbnail: images/taupe.jpg
 ---
 
-La [Nuit du Code Citoyen](https://codecitoyen.github.io/) est un programme d'accompagnement associant thématiques citoyennes et technologies qui s'est déroulé en 2017. Organisé de façon décentralisé sur 9 villes, il a permis d'accompagner plus d'une vingtaine de projets numériques citoyens.
+La [Nuit du Code Citoyen](https://codecitoyen.github.io/) est un programme d'accompagnement associant thématiques citoyennes et technologies qui s'est déroulé en 2017. Organisé de façon décentralisée sur 9 villes, il a permis d'accompagner plus d'une vingtaine de projets numériques citoyens.
 
 ## Contexte
 
@@ -43,7 +43,7 @@ La qualité des participants est à noter avec des profils variés et une forte 
 
 ![C6FvplrWcAML67v.jpg-large](https://lh4.googleusercontent.com/qPNt21w6XfbEZ-5XqTf7D6CnySl2t8hEW3RAF-a84QWQ6ScKVL0Cm7edbd1JY5Xvyx9VZrXHmI9uLnMNrD1LTc4PbXAy4SN2FyrVF8kEeNxID5YzblH9Ct-Sj205Nh-owrq78VXY)  
 
-Un des objectifs était d’établir des ponts entre les villes. Un chat dédié à été préparé. Les rendez-vous vidéo à trois reprises dans le weekend, ont été des temps forts pour présenter les projets, les équipes, et poursuivre les échanges.
+Un des objectifs était d’établir des ponts entre les villes. Un chat dédié a été préparé. Les rendez-vous vidéo à trois reprises dans le weekend, ont été des temps forts pour présenter les projets, les équipes, et poursuivre les échanges.
   
 ![C6AexzTWcAAblgL.jpg](https://lh4.googleusercontent.com/MwJdimMN90qBzBxLMWIw9R-2CexINyL3RKqtePeIshqd75xg9ClRPnym2YzqippHEkmeNfUI0CxELO2mFwhmO-kveQxX-74vYGWEqXs4JkJBrn6BUq80_8sU1g-H_h3JxkT5o80E)  
 
@@ -144,7 +144,7 @@ _Affiche de présentation de la Nuit du Code Citoyen à l'occasion de Super Dema
 
 Encore bravo à Kerry,Walid, Mohamed, Houssem, Adnen, Houssem, Ayoub, Thibault, Myriam, Xavier, Sophie, Théo, Olivier, Matthieu, Claudia, Anys, Anne-claire, Samuel, David, Thibaut, Tiphaine, Julien, Nicolas, Amaury, Noté, Valentin, Caroline, Paul, Virgile, Pierre-Louis, Julien,	Nicolas et à tous les participants pour cette énergie déployée de ouf.
 
-Depuis, on est très heureux des liens renforcés qui se sont construit, et on a hate de porter ça encore plus haut.
+Depuis, on est très heureux des liens renforcés qui se sont construits, et on a hate de porter ça encore plus haut.
 
 _Vous portez un projet? Vous voulez organiser une Nuit du Code Citoyen dans votre ville? vous voulez participer? Vous voulez être partenaires? Nous préparons déjà l'édition 2018 [salut@lesbricodeurs.fr](salut@lesbricodeurs.fr)_
 
