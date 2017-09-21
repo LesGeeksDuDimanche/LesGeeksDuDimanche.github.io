@@ -121,7 +121,7 @@ En amont de l’événement, les organisateurs locaux ont adapté les éléments
 En aval, au travers des mini-nuits du code citoyen et d’événements partenaires les résultats de la Nuit du Code Citoyen ont pu être présentés
 
   
-![Image](https://lh6.googleusercontent.com/6oepMdRG43FCegf_-83GLuYS1gfvRi1DWj0gfr0wJSSub3Y2c7rZziD9oHuSeAC4uZxigUbqxzyn4GJ619P-7FRH6VUR513hsyq6rFMVkhIls6StYogs3ynzdaoIefFXyDr2jMFL)  
+![affiche]({{site.url}}/images/NCC/affiche.jpg)
 _Affiche de présentation de la Nuit du Code Citoyen à l'occasion de Super Demain_
 
   
