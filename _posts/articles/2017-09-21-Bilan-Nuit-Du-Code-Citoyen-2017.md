@@ -2,7 +2,7 @@
 layout: post
 title: Bilan de la Nuit du Code Citoyen
 categories: articles
-excerpt: NCC#2
+excerpt: Comment ça t'étais pas là?
 tags: [NCC, CivicTech, Hackaton]
 image:
   feature:
