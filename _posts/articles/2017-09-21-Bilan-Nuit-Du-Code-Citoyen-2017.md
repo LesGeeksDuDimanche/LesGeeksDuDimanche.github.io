@@ -47,8 +47,10 @@ Un des objectifs était d’établir des ponts entre les villes. Un chat dédié
   
 ![C6AexzTWcAAblgL.jpg](https://lh4.googleusercontent.com/MwJdimMN90qBzBxLMWIw9R-2CexINyL3RKqtePeIshqd75xg9ClRPnym2YzqippHEkmeNfUI0CxELO2mFwhmO-kveQxX-74vYGWEqXs4JkJBrn6BUq80_8sU1g-H_h3JxkT5o80E)  
 
-Une attention à été portée sur une alimentation responsable.  qualité de la nourriture a été aussi un acteur de réussite et d’ambiance, avec par exemple  “discosoupe” à Rennes ( repas collectif et festifà partir de fruits et légumes récupérés) et des petits plats bios à Lyon d’un entrepreneur local en phase de lancement.
 ![Image](https://lh5.googleusercontent.com/76tO_CH6hM29mWV6Zr9D1cQhXie-KGXRyDwtU2Ioz9i8HXOU2Uyx-9A_WLom4dmx1jGrvOQ9qFQCta5Q5TPPiYncyKh1nPazLgYW2HszCnx6TWiH9mDqWNzkB4EWrPxLItCM3IVg){: .pull-right}
+Une attention à été portée sur une alimentation responsable.  qualité de la nourriture a été aussi un acteur de réussite et d’ambiance, avec par exemple  “discosoupe” à Rennes ( repas collectif et festifà partir de fruits et légumes récupérés) et des petits plats bios à Lyon d’un entrepreneur local en phase de lancement.
+
+Pour un retour à chaud sur l'édition Lyonnaise : [NCC, premiers retours](https://lesbricodeurs.fr/articles/Nuit-Du-Code-Citoyen-premiers-retours/)
 
 ## Projets participants
 
