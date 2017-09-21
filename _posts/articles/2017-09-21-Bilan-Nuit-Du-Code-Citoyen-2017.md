@@ -33,7 +33,7 @@ La Nuit du Code Citoyen s’est tenue dans neuf villes : Tunis, Montpellier, Lil
 ![equipe initiale]({{site.url}}/images/NCC/villes.jpg)
 _Equipe initiale_
 
-Les équipes locales étaient généralement associées à des organisations expérimentées dans ce type d’événement ce qui a permis la montée en charge. On compte notamment Le Biome, OpenDemocracyNow, Game Campus, Simplon, Artilect et El Space. En soutien, un second niveau de partenaires, identifié au niveau local, a fourni les ressources logistiques et communautés pour assurer la qualité de l’événement. Enfin, en partie autofinancé, le soutien financier de la Métropole de Lyon via l’appel à projets internationaux a été décisif dans la capacité à assurer le suivi.
+Les équipes locales étaient généralement associées à des organisations expérimentées dans ce type d’événement ce qui a permis la montée en charge. On compte notamment Le Biome, OpenDemocracyNow, Game Campus, Simplon, Artilect et El Space. En soutien, un second niveau de partenaires, identifié au niveau local, a fourni les ressources logistiques et communautés pour assurer la qualité de l’événement. Ainsi, la Maison de la Consommation et de l'Environnement à Rennes, Epitech Lyon et son réseau d'écoles, le Square à Paris, Insalan, Discosoupe, Ticket For Change, L'Odyssée Médiathèque à Lomme et Code Academie ont participé. Enfin, en partie autofinancé, le soutien financier de la Métropole de Lyon via l’appel à projets internationaux a été décisif dans la capacité à assurer le suivi.
 
 ## Déroulé de l’événement
 
@@ -47,7 +47,8 @@ Un des objectifs était d’établir des ponts entre les villes. Un chat dédié
   
 ![C6AexzTWcAAblgL.jpg](https://lh4.googleusercontent.com/MwJdimMN90qBzBxLMWIw9R-2CexINyL3RKqtePeIshqd75xg9ClRPnym2YzqippHEkmeNfUI0CxELO2mFwhmO-kveQxX-74vYGWEqXs4JkJBrn6BUq80_8sU1g-H_h3JxkT5o80E)  
 
-Une attention à été portée sur une alimentation responsable.  qualité de la nourriture a été aussi un acteur de réussite et d’ambiance, avec par exemple  “discosoupe” à Rennes ( repas collectif et festifà partir de fruits et légumes récupérés) et des petits plats bios à Lyon d’un entrepreneur local en phase de lancement.![Image](https://lh5.googleusercontent.com/76tO_CH6hM29mWV6Zr9D1cQhXie-KGXRyDwtU2Ioz9i8HXOU2Uyx-9A_WLom4dmx1jGrvOQ9qFQCta5Q5TPPiYncyKh1nPazLgYW2HszCnx6TWiH9mDqWNzkB4EWrPxLItCM3IVg)
+Une attention à été portée sur une alimentation responsable.  qualité de la nourriture a été aussi un acteur de réussite et d’ambiance, avec par exemple  “discosoupe” à Rennes ( repas collectif et festifà partir de fruits et légumes récupérés) et des petits plats bios à Lyon d’un entrepreneur local en phase de lancement.
+![Image](https://lh5.googleusercontent.com/76tO_CH6hM29mWV6Zr9D1cQhXie-KGXRyDwtU2Ioz9i8HXOU2Uyx-9A_WLom4dmx1jGrvOQ9qFQCta5Q5TPPiYncyKh1nPazLgYW2HszCnx6TWiH9mDqWNzkB4EWrPxLItCM3IVg){: .pull-right}
 
 ## Projets participants
 
@@ -78,7 +79,7 @@ Les projets peuvent être retrouvés sur la plateforme de suivi, en cours délab
 
 Au cours des mois qui ont suivi, la Nuit du Code Citoyen a donné lieu à une série d’événements de suivi et prolongation des projets.
 
-A Lyon, un de ces événements à eu lieu au Centsept, association d’accompagnement de projets de l’entrepreneuriat social dans Lyon 7eme arrondissement. Cinq projets ont été travaillés dont Démocratie et Langoustines, un système d’imprimante partagée et une plateforme de suivi des projets. 
+A Lyon, un de ces événements a eu lieu au Centsept, association d’accompagnement de projets de l’entrepreneuriat social dans Lyon 7eme arrondissement. Cinq projets ont été travaillés dont Démocratie et Langoustines, un système d’imprimante partagée et une plateforme de suivi des projets. 
 
 
 Article complet : [https://lesbricodeurs.fr/articles/Mini-Nuit-Du-Code-Citoyen-à-Lyon/](https://lesbricodeurs.fr/articles/Mini-Nuit-Du-Code-Citoyen-%C3%A0-Lyon/)
@@ -137,6 +138,13 @@ _Affiche de présentation de la Nuit du Code Citoyen à l'occasion de Super Dema
   
 ![Image](https://lh6.googleusercontent.com/XH5x7HA-nWdnKyoPFDzUmMxPXZauxtNwysoQyqTG9ffDupOKRNU9TZzzCme8sk7qHHxAiEjEr1hAqgTTg1vcUanQzZiFlJhCzp5f4lkrfRvZYXz6BWQczvPiKtaYXeN3yDqd4Rzi)![Image](https://lh3.googleusercontent.com/ncKSueB6WJQKeywp18Os1dRRvkMQSV2vK0Sn-qGv1GWjPSozck-TdD4OBfcHwA6nvV32eliDsKgKYQD6-p43sCUH0l61qF1Xz0Yk3AbXzoryBxOuX8P0v-toV6gINaZoplG1fKgn)![Image](https://lh4.googleusercontent.com/xDeld2Wi419uFYqOmbekQe_B-VN2zthiKPJhe5r5bFBNjbw6viVmGTy7gCFFhm-EQiyLFcNsJrEzTEKWEhAyFFsNwL28Yu4ZG9G4cxtJloVtJVQAu6pc5pgtRARYSfFNPhtZrHDf)
 
+
+
+## Conclusion
+
+Encore bravo à Kerry,Walid, Mohamed, Houssem, Adnen, Houssem, Ayoub, Thibault, Myriam, Xavier, Sophie, Théo, Olivier, Matthieu, Claudia, Anys, Anne-claire, Samuel, David, Thibaut, Tiphaine, Julien, Nicolas, Amaury, Noté, Valentin, Caroline, Paul, Virgile, Pierre-Louis, Julien,	Nicolas et à tous les participants pour cette énergie déployée de ouf.
+
+Depuis, on est très heureux des liens renforcés qui se sont construit, et on a hate de porter ça encore plus haut.
 
 _Vous portez un projet? Vous voulez organiser une Nuit du Code Citoyen dans votre ville? vous voulez participer? Vous voulez être partenaires? Nous préparons déjà l'édition 2018 [salut@lesbricodeurs.fr](salut@lesbricodeurs.fr)_
 
