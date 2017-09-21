@@ -113,6 +113,8 @@ Liens complémentaires
 - [https://storify.com/XavierCoadic/rennes-histoire-d-une-nuit-du-code-citoyen](https://storify.com/XavierCoadic/rennes-histoire-d-une-nuit-du-code-citoyen) 
 - [https://storify.com/OpenDemNow/getting-started](https://storify.com/OpenDemNow/getting-started) 
 
+Pour un excellent résumé de l'édition Rennoise : [Recette frugale d'hackathon citoyen open source](http://movilab.org/index.php?title=Recette_frugale_d%27hackathon_citoyen_open_source:_en_32_jours_et_sans_budget)
+
 #### Supports
 
 En amont de l’événement, les organisateurs locaux ont adapté les éléments de communication au contexte et particularités. 
