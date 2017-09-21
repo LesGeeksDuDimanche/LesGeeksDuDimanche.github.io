@@ -14,7 +14,7 @@ published: true
 thumbnail: images/taupe.jpg
 ---
 
-La [Nuit du Code Citoyen](https://codecitoyen.github.io/) est un programme d'accompagnement associant thématiques citoyennes et technologies qui s'est déroulé en 2017 sur 9 villes. 
+La [Nuit du Code Citoyen](https://codecitoyen.github.io/) est un programme d'accompagnement associant thématiques citoyennes et technologies qui s'est déroulé en 2017. Organisé de façon décentralisé sur 9 villes, il a permis d'accompagner plus d'une vingtaine de projets numériques citoyens.
 
 ## Contexte
 
