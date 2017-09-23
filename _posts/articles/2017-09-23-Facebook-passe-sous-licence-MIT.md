@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Facebook passe sous licence MIT
+title: React passe sous licence MIT
 categories: articles
 excerpt: Open Source a gagné, mais quel Open Source ?
 tags: [OpenSource, Licence, ReactGate]
