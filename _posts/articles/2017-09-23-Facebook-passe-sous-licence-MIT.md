@@ -20,7 +20,7 @@ Facebook vient de passer les librairies React, Jest, Flow, et Immutable.js sous 
 
 React est une librairie javascript particulièrement utilisée aujourd'hui pour la construction d'interfaces web ( développement *Frontend*). Publiée par Facebook en mars 2013, elle a changé l'approche en proposant une librairie avec un nombre limité de concepts, centrée autour de l'idée de construire des *components*, des bouts d'interface indépendants mis à jour rapidement. L'exemple canonique est AirBnb, qui l'utilise pour construire les différents éléments de son interface.
 
-# La viralité des licenses ouvertes
+# La viralité des licences ouvertes
 
 Le débat de la viralité des licences ouvertes est ancien. Comment une licence qui impose que le code soit ouvert et que les modifications de ce code soient ouvertes contamine des projets plus importants qui incluent cet élément de code. Deux grand courants se sont distingués, d'une part le logiciel *libre*, plus protecteur de l'ouverture du code comme les licences GPL ou Apache et l'*open source* plus soucieux d'équilibrer les enjeux industriels. C'est dans ce deuxième courant que les licences MIT et BSD se situent.
 
