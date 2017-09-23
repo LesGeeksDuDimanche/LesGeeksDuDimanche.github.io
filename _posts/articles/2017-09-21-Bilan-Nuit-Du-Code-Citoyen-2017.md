@@ -148,11 +148,4 @@ Encore bravo à Kerry,Walid, Mohamed, Houssem, Adnen, Houssem, Ayoub, Thibault, 
 
 Depuis, on est très heureux des liens renforcés qui se sont construits, et on a hate de porter ça encore plus haut.
 
-_Vous portez un projet? Vous voulez organiser une Nuit du Code Citoyen dans votre ville? vous voulez participer? Vous voulez être partenaires? Nous préparons déjà l'édition 2018 [salut@lesbricodeurs.fr](salut@lesbricodeurs.fr)_
-
-<a title="Organisateur" class="btn-accent" href="https://codecitoyen.github.io/participer/organisateur.html">
-Organisateur
-</a> <a title="projet" class="btn-complement" href="https://codecitoyen.github.io/participer/proposer-un-projet.html">
-Porteur de projet
-</a> <a title="participant" class="btn" href="https://codecitoyen.github.io/participer/participant.html">
-Participant</a> 
+{% include footerArticlesNCC.html %}

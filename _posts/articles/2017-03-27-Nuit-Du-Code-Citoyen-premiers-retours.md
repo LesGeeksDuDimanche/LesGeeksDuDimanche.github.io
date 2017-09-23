@@ -38,5 +38,5 @@ La Nuit du Code Citoyen, ce fut donc événement collaboratif, citoyen et connec
 
 A Lyon, ce sera le [mardi 4 avril à l’espace Altnet](https://www.facebook.com/events/1675097642787150/). Que vous ayez participé à la Nuit du Code Citoyen ou vous vouliez découvrir, nous vous attendons pour continuer d’échanger et construire. 
 
-Pour plus d’informations, contactez-nous directement : [salut@lesbricodeurs.fr](mailto:salut@lesbricodeurs.fr)
+{% include footerArticlesNCC.html %}
 
