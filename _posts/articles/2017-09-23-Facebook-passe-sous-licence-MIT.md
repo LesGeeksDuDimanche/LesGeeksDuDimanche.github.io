@@ -32,4 +32,4 @@ Les dangers de cette clause additionnelle pour les projets *open source* utilisa
 
 C'est ce qui a amené finalement Facebook a utiliser une [licence MIT](https://code.facebook.com/posts/300798627056246/relicensing-react-jest-flow-and-immutable-js/) simple pour ses projets majeurs.
 
-*Pour approfondir la conversation sur facebook : * 
+*Pour approfondir la [conversation](https://www.facebook.com/lesbricodeurs/photos/a.130937770579118.1073741828.130913190581576/521840714822153/)* 
