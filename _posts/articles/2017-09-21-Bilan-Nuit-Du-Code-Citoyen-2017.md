@@ -14,13 +14,13 @@ published: true
 thumbnail: images/taupe.jpg
 ---
 
-La [Nuit du Code Citoyen](https://codecitoyen.github.io/) est un programme d'accompagnement associant thématiques citoyennes et technologies qui s'est déroulé en 2017. Organisé de façon décentralisée sur 9 villes, il a permis d'accompagner plus d'une vingtaine de projets numériques citoyens.
+La [Nuit du Code Citoyen](https://codecitoyen.github.io/) est un programme d'accompagnement associant thématiques citoyennes et technologies qui s'est déroulé en 2017. Organisé de façon décentralisée sur 9 villes, la Nuit du Code Citoyen et ses suites ont permis d'accompagner plus d'une vingtaine de projets numériques citoyens.
 
 ## Contexte
 
-Nous sommes partis du constat d’un désir de renouveau démocratique, en particulier à l’aune d’une culture facilitée par le numérique de partage, d’ouverture et de décentralisation. Si de nombreuses initiatives existent, il reste à développer les passerelles entre acteurs engagés et acteurs du numérique citoyen, à contribuer à leur mise en réseau locale et assurer le suivi des projets dans le temps pour assurer leur succès.
+Nous sommes partis du constat d’un désir de renouveau démocratique, à l’aune d’une culture de partage, d’ouverture et de décentralisation facilités par le numérique. Si de nombreuses initiatives existent, il reste à développer les passerelles entre acteurs engagés sur le terrain et les acteurs du numérique citoyen, à contribuer à leur mise en réseau et accompagner les projets dans le temps pour en assurer le succès.
 
-Ainsi les objectifs de la Nuit du Code Citoyen étaient d’organiser un hackathon international du numérique citoyen pour accélérer des projets et de contribuer à la mise en réseau, puis de suivre ces projets dans le temps par un programme d’accompagnement de projet.
+Ainsi les objectifs de la Nuit du Code Citoyen étaient d’organiser un hackathon international du numérique citoyen pour accélérer des projets ayant déjà une certaine maturité et présentant des défis sociaux et techniques, au travers de l'événement de contribuer à la mise en réseau des ressources et acteurs et enfin de suivre ces projets par un programme d’accompagnement de projet.
 
   
 ![Image](https://lh5.googleusercontent.com/SgMOgZmGbjMAlUsacp-90YFb8VrkBxRLWSsQ24rQ9A05IYSV8Q9Kh5DettuqNKCSN838l2wsEAoh36dHV-ZD7fHDIbrnONPIkCVYU8GjUtGwkLY2XpDYlrmvPfwORl3sfteHCQG8)  
@@ -28,12 +28,12 @@ Ainsi les objectifs de la Nuit du Code Citoyen étaient d’organiser un hackath
   
 ## Organisation 
 
-La Nuit du Code Citoyen s’est tenue dans neuf villes : Tunis, Montpellier, Lille, Rennes, Lyon, Paris, Narbonne, Toulouse et Aubervilliers avec environ 250 participants. Le succès de l’événement est lié au dynamisme des équipes dans chaque ville. Avec quelques réunions de préparation pour valider les choix collectifs, la priorité a été donnée à la plus grande autonomie et à l’adaptation du concept aux contextes et ressources.
+La Nuit du Code Citoyen s’est tenue dans neuf villes : Tunis, Montpellier, Lille, Rennes, Lyon, Paris, Narbonne, Toulouse et Aubervilliers avec environ 250 participants. Le succès de l’événement est lié au dynamisme des équipes dans chaque ville. Avec quelques réunions de préparation pour valider des choix collectifs, la priorité a été donnée à la plus grande autonomie et à l’adaptation du concept aux contextes et ressources.
 
 ![equipe initiale]({{site.url}}/images/NCC/villes.jpg)
 _Equipe initiale_
 
-Les équipes locales étaient généralement associées à des organisations expérimentées dans ce type d’événement ce qui a permis la montée en charge. On compte notamment Le Biome, OpenDemocracyNow, Game Campus, Simplon, Artilect et El Space. En soutien, un second niveau de partenaires, identifié au niveau local, a fourni les ressources logistiques et communautés pour assurer la qualité de l’événement. Ainsi, la Maison de la Consommation et de l'Environnement à Rennes, Epitech Lyon et son réseau d'écoles, le Square à Paris, Insalan, Discosoupe, Ticket For Change, L'Odyssée Médiathèque à Lomme et Code Academie ont participé. Enfin, en partie autofinancé, le soutien financier de la Métropole de Lyon via l’appel à projets internationaux a été décisif dans la capacité à assurer le suivi.
+Les équipes locales étaient généralement associées à des organisations expérimentées dans ce type d’événement ce qui a permis la montée en charge. On compte notamment Le Biome, OpenDemocracyNow, Game Campus, Simplon, Artilect et El Space. En soutien, un second niveau de partenaires, identifié au niveau local, a fourni les ressources logistiques et communautaires pour assurer la qualité de l’événement. Ainsi, la Maison de la Consommation et de l'Environnement à Rennes, Epitech Lyon et son réseau d'écoles, le Square à Paris, Insalan, Discosoupe, Ticket For Change, L'Odyssée Médiathèque à Lomme et Code Academie ont participé. Enfin, en partie autofinancé, le soutien financier de la Métropole de Lyon via l’appel à projets internationaux a été décisif dans la capacité à assurer le suivi.
 
 ## Déroulé de l’événement
 
@@ -48,9 +48,12 @@ Un des objectifs était d’établir des ponts entre les villes. Un chat dédié
 ![C6AexzTWcAAblgL.jpg](https://lh4.googleusercontent.com/MwJdimMN90qBzBxLMWIw9R-2CexINyL3RKqtePeIshqd75xg9ClRPnym2YzqippHEkmeNfUI0CxELO2mFwhmO-kveQxX-74vYGWEqXs4JkJBrn6BUq80_8sU1g-H_h3JxkT5o80E)  
 
 ![Image](https://lh5.googleusercontent.com/76tO_CH6hM29mWV6Zr9D1cQhXie-KGXRyDwtU2Ioz9i8HXOU2Uyx-9A_WLom4dmx1jGrvOQ9qFQCta5Q5TPPiYncyKh1nPazLgYW2HszCnx6TWiH9mDqWNzkB4EWrPxLItCM3IVg){: .pull-right}
-Une attention à été portée sur une alimentation responsable.  qualité de la nourriture a été aussi un acteur de réussite et d’ambiance, avec par exemple  “discosoupe” à Rennes ( repas collectif et festifà partir de fruits et légumes récupérés) et des petits plats bios à Lyon d’un entrepreneur local en phase de lancement.
 
-Pour un retour à chaud sur l'édition Lyonnaise : [NCC, premiers retours](https://lesbricodeurs.fr/articles/Nuit-Du-Code-Citoyen-premiers-retours/)
+Une attention à été portée sur une alimentation responsable. La qualité de la nourriture a été aussi un acteur de réussite et d’ambiance, avec par exemple  “discosoupe” à Rennes ( repas collectif et festifà partir de fruits et légumes récupérés) et des petits plats bios à Lyon d’un entrepreneur local en phase de lancement.
+
+Pour un excellent résumé de l'édition Rennaise : [Recette frugale d'hackathon citoyen open source](http://movilab.org/index.php?title=Recette_frugale_d%27hackathon_citoyen_open_source:_en_32_jours_et_sans_budget)
+
+Pour un retour à chaud sur l'édition Lyonnaise : [Nuit du Code Citoyen, premiers retours](https://lesbricodeurs.fr/articles/Nuit-Du-Code-Citoyen-premiers-retours/)
 
 ## Projets participants
 
@@ -67,9 +70,9 @@ A Montpellier, Welcome to Écotopia, un jeu-vidéo de création et de gestion d'
 
 A Paris, Agora TV a organisé un débat live sur Facebook le samedi après midi, Sensike pour améliorer les données à partir du PLU, OGP Toolbox a pu enrichir sa base… 
 
-Narbonne, et Lille, un travail sur la sécurité des données en ligne.
+A Narbonne et Lille, un travail sur la sécurité des données en ligne.
 
-A Rennes Oceanis  Open, un capteur marin en science citoyenne pour la mesure de l'évolution des océans, OpenBioblitz, permettre par le numérique la contribution et la compréhension des citoyens pour le rassemblement des données de biodiversité et Ambassad'air et capteur citoyen, mesurer la qualité de l'air à l'aide de capteurs citoyens individuels, un enjeu majeur de santé publique.
+A Rennes Oceanis Open, un capteur marin en science citoyenne pour la mesure de l'évolution des océans, OpenBioblitz, permettre par le numérique la contribution et la compréhension des citoyens pour le rassemblement des données de biodiversité et Ambassad'air et capteur citoyen, mesurer la qualité de l'air à l'aide de capteurs citoyens individuels, un enjeu majeur de santé publique.
 
 A Toulouse, OpenFeeder sur la collecte des données des oiseaux et Signotheque sur la constitution d’une bibliothèque de signes pour malentendants.
 
@@ -116,14 +119,12 @@ Liens complémentaires
 - [https://storify.com/XavierCoadic/rennes-histoire-d-une-nuit-du-code-citoyen](https://storify.com/XavierCoadic/rennes-histoire-d-une-nuit-du-code-citoyen) 
 - [https://storify.com/OpenDemNow/getting-started](https://storify.com/OpenDemNow/getting-started) 
 
-Pour un excellent résumé de l'édition Rennaise : [Recette frugale d'hackathon citoyen open source](http://movilab.org/index.php?title=Recette_frugale_d%27hackathon_citoyen_open_source:_en_32_jours_et_sans_budget)
-
 #### Supports
 
 En amont de l’événement, les organisateurs locaux ont adapté les éléments de communication au contexte et particularités. 
 ![affiches]({{site.url}}/images/NCC/affiches.png)
 
-En aval, au travers des mini-nuits du code citoyen et d’événements partenaires les résultats de la Nuit du Code Citoyen ont pu être présentés
+En aval, au travers des mini-nuits du code citoyen et d’événements partenaires les résultats de la Nuit du Code Citoyen ont pu être présentés.
 
   
 ![affiche]({{site.url}}/images/NCC/affiche.jpg)
