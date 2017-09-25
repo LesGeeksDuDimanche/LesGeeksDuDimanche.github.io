@@ -21,11 +21,11 @@ Les Bricodeurs est un réseau national de professionnels, indépendants et entre
 * L’éducation au numérique avec des ateliers pour les jeunes (les ateliers d’Ada) et des ateliers d'apprentissage collaboratif pour les adultes.
 * L'accompagnement de projets numériques citoyens avec la Nuit du Code Citoyen.
 
-En deux ans, l’association Les Bricodeurs s’est considérablement développée. L’association est ainsi maintenant organisée en trois pôles, éducation, réseau professionnel et code citoyen.
+En deux ans, l’association Les Bricodeurs s’est considérablement développée avec une approche de startup associative. L’association est ainsi maintenant organisée en trois pôles, éducation, réseau professionnel et code citoyen.
 
 # Missions
 
-Le poste de Directrice ou directeur du pôle Education a pour objectif de structurer et développer l’association sur les activités d’animation et découverte de la programmation auprès de [jeunes](https://lesbricodeurs.fr/AteliersdAda/) et d’[adultes](https://lesbricodeurs.fr/preecoledunumerique/) en dialogue avec le Comité Exécutif.
+Le poste de Directrice ou directeur du pôle Education a pour objectif de structurer et développer l’association sur les activités d’animation et découverte de la programmation auprès de [jeunes](https://lesbricodeurs.fr/AteliersdAda/) et d’[adultes](https://lesbricodeurs.fr/preecoledunumerique/) en dialogue avec le Comité Exécutif. Premier salarié de l'association, la future directrice ou le future directeur disposera d'autonomie mais aussi de responsabilité dans un environnement de développement.
 
 **1. Organisation des ateliers**
 * Gestion des animateurs 
