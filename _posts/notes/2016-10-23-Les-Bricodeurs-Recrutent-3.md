@@ -53,7 +53,7 @@ Le poste de responsable du pôle Éducation a pour objectif de structurer et dé
 
 # Les plus des bricodeurs
 
-* Une bonnne connaissance de l’écosystème numérique national et international
+* Bac + 3 à 5 en gestion, administration publique, vie associative et/ou culturelle (IEP, Écoles de commerce, IAE ...)
 * Un réseau d’animateurs et de partenaires bien implanté dans la région lyonnaise sur les questions d’éducation et du numérique
 * La possibilité d’apporter votre contribution à l’élaboration d’une structure en plein essor !
 * Le développement de votre réseau professionnel
