@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Directrice/Directeur du pôle éducation au numérique
+title: Responsable du pôle éducation au numérique
 modified:
 categories: notes
 excerpt: On vous attend!
@@ -25,7 +25,7 @@ En deux ans, l’association Les Bricodeurs s’est considérablement développ�
 
 # Missions
 
-Le poste de Directrice ou directeur du pôle Éducation a pour objectif de structurer et développer l’association sur les activités d’animation et découverte de la programmation auprès de [jeunes](https://lesbricodeurs.fr/AteliersdAda/) et d’[adultes](https://lesbricodeurs.fr/preecoledunumerique/) en dialogue avec le Comité Exécutif. Premier salarié de l'association, la future directrice ou le future directeur disposera d'autonomie mais aussi de responsabilité dans un environnement de développement.
+Le poste de responsable du pôle Éducation a pour objectif de structurer et développer l’association sur les activités d’animation et découverte de la programmation auprès de [jeunes](https://lesbricodeurs.fr/AteliersdAda/) et d’[adultes](https://lesbricodeurs.fr/preecoledunumerique/) en dialogue avec le Comité Exécutif. Premier salarié de l'association, la ou le future responsable disposera d'autonomie mais aussi de responsabilité dans un environnement de développement.
 
 **1. Organisation des ateliers**
 * Gestion des animateurs 
@@ -45,7 +45,7 @@ Le poste de Directrice ou directeur du pôle Éducation a pour objectif de struc
 
 # Profil
 
-* Bac + 3 à 5 en gestion, administration publique, vie associative et/ou culturelle (IEP, Écoles de commerce, IAE ...)
+* Expérience en administration publique, vie associative et/ou culturelle 
 * Rigueur, autonomie, dynamisme et sens de l’organisation
 * Intérêt pour les questions pédagogiques et numériques
 * Expérience associative
