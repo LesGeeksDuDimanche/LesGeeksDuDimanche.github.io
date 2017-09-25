@@ -25,7 +25,7 @@ En deux ans, l’association Les Bricodeurs s’est considérablement développ�
 
 # Missions
 
-Le poste de responsable du pôle Éducation a pour objectif de structurer et développer l’association sur les activités d’animation et découverte de la programmation auprès de [jeunes](https://lesbricodeurs.fr/AteliersdAda/) et d’[adultes](https://lesbricodeurs.fr/preecoledunumerique/) en dialogue avec le Comité Exécutif. Premier salarié de l'association, la ou le future responsable disposera d'autonomie mais aussi de responsabilité dans un environnement de développement.
+Le poste de responsable du pôle Éducation a pour objectif de structurer et développer l’association sur les activités d’animation et découverte de la programmation auprès de [jeunes](https://lesbricodeurs.fr/AteliersdAda/) et [d’adultes](https://lesbricodeurs.fr/preecoledunumerique/) en dialogue avec le Comité Exécutif. Premier salarié de l'association, la ou le future responsable disposera d'autonomie mais aussi de responsabilité dans un environnement de développement.
 
 **1. Organisation des ateliers**
 * Gestion des animateurs 
