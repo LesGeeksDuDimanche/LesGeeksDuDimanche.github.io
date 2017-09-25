@@ -33,15 +33,16 @@ Le poste de responsable du pôle Éducation a pour objectif de structurer et dé
 * Gestion et suivi des inscriptions (En vrai, on automatise au maximum ) 
 * Relation avec les parents
 
-**2. Développement de l’association**
+**2. Coordination pédagogique**
+* Conception et suivi du projet pédagogique en relation avec les animateurs
+* Conception et organisation de formations d’animateurs
+* Elaboration du suivi des apprenants en vue d’une plateforme
+
+**3. Développement de l’association**
 * Suivi et développement des partenariats 
 * Recherche de financements
 * Gestion administrative courante
 
-**3. Coordination pédagogique**
-* Conception et suivi du projet pédagogique en relation avec les animateurs
-* Conception et organisation de formations d’animateurs
-* Elaboration du suivi des apprenants en vue d’une plateforme
 
 # Profil
 
@@ -61,7 +62,9 @@ Le poste de responsable du pôle Éducation a pour objectif de structurer et dé
 # Modalités
 
 Recrutement dès que possible. Candidatures jusqu’au 15 octobre 2017
+
 Lieu : Espace de coworking à Part-dieu ou Debourg
+
 Modalités : CDD à mi-temps adaptable en fonction de votre profil ( Possibilité de travailler en indépendant et objectif de pérenniser ) 
 
 # Pour postuler
