@@ -59,6 +59,14 @@ Utiliser les twitter et facebook cards
 Il peut etre nessaire d'installer sitemap
 	
 	sudo gem install jekyll-sitemap --pre
+	
+### Pour modifier du js
+
+
+	npm install -g grunt-cli
+	npm install
+	grunt
+
 
 ## Licence
 
