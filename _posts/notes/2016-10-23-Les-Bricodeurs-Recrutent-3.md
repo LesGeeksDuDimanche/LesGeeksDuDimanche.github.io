@@ -21,11 +21,12 @@ Les Bricodeurs est un réseau national de professionnels, indépendants et entre
 * L’éducation au numérique avec des ateliers pour les jeunes (les ateliers d’Ada) et des ateliers d'apprentissage collaboratif pour les adultes.
 * L'accompagnement de projets numériques citoyens avec la Nuit du Code Citoyen.
 
-En deux ans, l’association Les Bricodeurs s’est considérablement développée avec une approche de start-up associative. L’association est ainsi maintenant organisée en trois pôles, éducation, réseau professionnel et code citoyen.
+En deux ans, l’association Les Bricodeurs s’est considérablement développée avec une approche de startup associative. L’association est ainsi maintenant organisée en trois pôles, éducation, réseau professionnel et code citoyen.
 
 # Missions
 
-Le poste de responsable du pôle Éducation a pour objectif de structurer et développer l’association sur les activités d’animation et découverte de la programmation auprès de [jeunes](https://lesbricodeurs.fr/AteliersdAda/) et [d’adultes](https://lesbricodeurs.fr/preecoledunumerique/) en dialogue avec le Comité Exécutif. Premier salarié de l'association, la ou le future responsable disposera d'autonomie mais aussi de responsabilité dans un environnement de développement.
+Le poste de responsable du pôle Éducation a pour objectif de structurer et développer l’association sur les activités d’animation et découverte de la programmation auprès de [jeunes](https://lesbricodeurs.fr/AteliersdAda/) et [d’adultes](https://lesbricodeurs.fr/preecoledunumerique/). Premier salarié de l'association, la ou le future responsable disposera d'autonomie mais aussi de responsabilité dans un environnement de développement. Elle ou il rejoindra le Comité Exécutif, composé d'une responsable partenariats, responsable communication, responsable code citoyen, responsable réseau professionnels et du président, tous bénévoles.
+
 
 **1. Organisation des ateliers**
 * Gestion des animateurs 
@@ -36,7 +37,7 @@ Le poste de responsable du pôle Éducation a pour objectif de structurer et dé
 **2. Coordination pédagogique**
 * Conception et suivi du projet pédagogique en relation avec les animateurs
 * Conception et organisation de formations d’animateurs
-* Elaboration du suivi des apprenants en vue d’une plateforme
+* Élaboration du suivi des apprenants en vue d’une plateforme
 
 **3. Développement de l’association**
 * Suivi et développement des partenariats 
@@ -46,14 +47,13 @@ Le poste de responsable du pôle Éducation a pour objectif de structurer et dé
 
 # Profil
 
-* Expérience en administration publique, vie associative et/ou culturelle 
+* Expérience en gestion associative, en entreprise ou en administration publique 
 * Rigueur, autonomie, dynamisme et sens de l’organisation
 * Intérêt pour les questions pédagogiques et numériques
-* Expérience associative
 
 # Les plus des bricodeurs
 
-* Une bonnne connaissance de l’écosystème numérique national et international
+* Une bonne connaissance de l’écosystème numérique national et international
 * Un réseau d’animateurs et de partenaires bien implanté dans la région lyonnaise sur les questions d’éducation et du numérique
 * La possibilité d’apporter votre contribution à l’élaboration d’une structure en plein essor !
 * Le développement de votre réseau professionnel
@@ -61,11 +61,9 @@ Le poste de responsable du pôle Éducation a pour objectif de structurer et dé
 
 # Modalités
 
-Recrutement dès que possible. Candidatures jusqu’au 15 octobre 2017
-
-Lieu : Espace de coworking à Part-dieu ou Debourg
-
-Modalités : CDD à mi-temps adaptable en fonction de votre profil ( Possibilité de travailler en indépendant et objectif de pérenniser ) 
+* Recrutement dès que possible. Candidatures jusqu’au 15 octobre 2017
+* Lieu : Espace de coworking à Part-dieu ou Debourg
+* Modalités : CDD à mi-temps adaptable en fonction de votre profil ( Possibilité de travailler en indépendant et objectif de pérenniser ) 
 
 # Pour postuler
 
