@@ -11,7 +11,7 @@ image:
 ---
 
 <h3 style="text-align: center">Où apprendre intensivement à coder ?</h3>
-<p><i> Recensement non exhaustif, ordre aléatoire </i></p>
+<p style="text-align: center"><i> Recensement non exhaustif, ordre aléatoire </i></p>
 
 
 <div id="schools_container"></div> 
