@@ -29,6 +29,9 @@ Rejoignez nous sur  {% if site.owner.facebook %}<a href="http://facebook.com/{{ 
 {% if site.owner.meetup %}<a href="http://meetup.com/{{ site.owner.meetup }}" title="{{ site.owner.name}} on meetup" target="_blank"><i class="fa fa-calendar fa-2x"></i></a>{% endif %}
 	ou même
 {% if site.owner.twitter %}<a href="http://twitter.com/{{ site.owner.twitter }}" title="{{ site.owner.name}} on Twitter" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a>{% endif %}
+  ou encore
+{% if site.owner.slack %}<a href="https://join.slack.com/t/bricodeurs/shared_invite/{{ site.owner.slack }}" title="{{ site.owner.name}} on Slack" target="_blank"><i class="fa fa-slack fa-2x"></i></a>{% endif %}
+
 
 ![geeks a lunettes]({{ site.url }}/images/baby.jpg)
 {: .rond}
