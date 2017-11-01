@@ -1,8 +1,10 @@
 
 
-Pour nous rejoindre, venez à un évènement ! Soyez au courant de nos activités via {% if site.owner.facebook %}<a href="http://facebook.com/{{ site.owner.facebook }}" title="{{ site.owner.name}} on Facebook" target="_blank"><i class="fa fa-facebook-square "></i></a>{% endif %}
+Pour nous rejoindre, venez à un évènement ! 
+
+Soyez au courant de nos activités via {% if site.owner.facebook %}<a href="http://facebook.com/{{ site.owner.facebook }}" title="{{ site.owner.name}} on Facebook" target="_blank"><i class="fa fa-facebook-square "></i></a>{% endif %}
 	, 
-{% if site.owner.twitter %}<a href="http://twitter.com/{{ site.owner.twitter }}" title="{{ site.owner.name}} on Twitter" target="_blank"><i class="fa fa-twitter-square "></i></a>{% endif %} et en vous abonnant à notre lettre :	
+{% if site.owner.twitter %}<a href="http://twitter.com/{{ site.owner.twitter }}" title="{{ site.owner.name}} on Twitter" target="_blank"><i class="fa fa-twitter-square "></i></a>{% endif %}, échangez avec nous sur {% if site.owner.slack %}<a href="https://join.slack.com/t/bricodeurs/shared_invite/{{ site.owner.slack }}" title="{{ site.owner.name}} on Slack" target="_blank"><i class="fa fa-slack fa-2x"></i></a>{% endif %} ou abonnez-vous à notre lettre :	
 
 
 
