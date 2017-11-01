@@ -10,7 +10,8 @@ image:
   creditlink:
 ---
 
-<h3 style="text-align: center">Recensement des formations au code</h3>
+<h3 style="text-align: center">Où apprendre intensivement à coder ?</h3>
+<p style="text-align: center"><i> Recensement non exhaustif, ordre aléatoire </i></p>
 
 
 <div id="schools_container"></div> 
