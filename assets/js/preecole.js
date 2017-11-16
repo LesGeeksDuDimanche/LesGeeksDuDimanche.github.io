@@ -27,7 +27,13 @@ jQuery(document).ready(function($) {
         for (var i = 0; i < values.length; i++) {
 
           if (!values[i]) {
-            break;
+            continue;
+          }
+
+          console.log("searching", values[i].name.search("Préécole"))
+
+          if (values[i].name.search("Préécole") === -1) {
+            continue;
           }
 
           imgLink = /src\s*=\s*"(.+?)"/g.exec(values[i].description);
@@ -36,8 +42,6 @@ jQuery(document).ready(function($) {
           html_content_top = "";
           html_img = "";
           html_content_bot = "";
-
-          console.log("values[i].local_date.toDateString()", new Date(values[i].local_date).toDateString())
 
           html_content_top +=
             "<div class=\"project_container\" >" +
