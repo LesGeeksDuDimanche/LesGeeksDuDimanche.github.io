@@ -76,7 +76,7 @@ jQuery(document).ready(function($) {
               "<a target=\"_blank\" href=\"https://www.google.com/maps/search/?api=1&query=" + values[i].venue.address_1 + "+" + values[i].venue.city + "\" >" +
                 "<span>" + values[i].venue.name + " </span><i class=\"fa fa-map-marker\" aria-hidden=\"true\"></i>" +
               "</a>"+
-               "<a class=\"btn\" traget=\"_blank\" href=\"" + values[i].link + "\">"+
+               "<a class=\"btn\" target=\"_blank\" href=\"" + values[i].link + "\">"+
                 "<span>Inscription</span>" +
               "</a>"+
               "</div>" +
