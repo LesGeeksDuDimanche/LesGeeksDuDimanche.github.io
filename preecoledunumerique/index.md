@@ -81,7 +81,7 @@ Si vous êtes intéressé pour devenir partenaire, pour soutenir le programme ou
 
 <script type="text/javascript" src="{{ site.url }}/assets/js/preecole.js" ></script>
 
-<hr style="width: 100%">
+<hr style="width: 100%; overflow: auto;">
 
 
 ## Les partenaires 
