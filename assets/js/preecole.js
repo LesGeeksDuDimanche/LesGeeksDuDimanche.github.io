@@ -12,7 +12,6 @@ jQuery(document).ready(function($) {
     $.ajax({
       url: api, // Function to call on success
       success: function (data) {
-        console.log("value", data)
 
         var values = data.data;
 
@@ -29,8 +28,6 @@ jQuery(document).ready(function($) {
           if (!values[i]) {
             continue;
           }
-
-          console.log("searching", values[i].name.search("Préécole"))
 
           if (values[i].name.search("Préécole") === -1) {
             continue;
