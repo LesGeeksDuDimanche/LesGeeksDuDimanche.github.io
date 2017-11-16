@@ -60,7 +60,7 @@ $(document).ready(function() {
 
   $.getJSON(api, function(data) {
 
-    console.log(data);
+
     var values = data.values;
 
     var imgId = 0;

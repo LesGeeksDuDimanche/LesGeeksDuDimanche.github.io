@@ -24,7 +24,7 @@ Installer les "gem" utiles à ce projet, localement
 
 	bundle install
 
-## Utlisation
+## Utilisation
 
 Lancer le serveur en local avec une configuration appropriée
 
