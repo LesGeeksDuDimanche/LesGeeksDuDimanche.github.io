@@ -46,12 +46,10 @@ $prjpd : 2;
 .project_container{
   display: inline-block;
   float: left;
-  width: 50%;
   margin-bottom: 40px;
-  min-height: 450px;
 
   a:visited{
-    color: #bfbebe;
+    color: inherit;
   }
 
   hr{
@@ -62,9 +60,6 @@ $prjpd : 2;
   img{
     max-height: 100px;
     max-width: 150px;
-  }
-
-  .project_container{
   }
 
 
@@ -254,31 +249,44 @@ $prjpd : 2;
   }
 }
 
+#ecolesdunumerique .project_container {
+  width: 50%;
+  min-height: 450px;
+}
+
 
 @media (max-width: 768px) {
-  .project_container{
+  #ecolesdunumerique .project_container{
     width: percentage($pcmob/100);
+  }
+  .project_container{
     padding: percentage($pcmobpd/100);
   }
 }
 
 @media (min-width: 768px) and (max-width: 992px) {
-  .project_container{
+  #ecolesdunumerique .project_container {
     width: percentage($pcsm/100);
+  }
+  .project_container{
     padding: percentage($pcsmpd/100);
   }
 }
 
 @media (min-width: 992px) and (max-width: 1200px){
-  .project_container{
+  #ecolesdunumerique .project_container {
     width: percentage($pcmd/100);
+  }
+  .project_container{
     padding: percentage($pcmdpd/100);
   }
 }
 
 @media (min-width: 1200px) {
-  .project_container{
+  #ecolesdunumerique .project_container {
     width: percentage($pcbg/100);
+  }
+  .project_container{
     padding: percentage($pcbgpd/100);
   }
 }
