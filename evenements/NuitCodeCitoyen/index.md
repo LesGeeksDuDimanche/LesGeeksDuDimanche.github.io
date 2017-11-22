@@ -17,7 +17,7 @@ la durée.         
 <h2> Retrouvez les informations sur le nouveau site :</h2>
 
 <div class="text-center" style="padding: auto;"> <a title="codecitoyen" class="btn btn-lg btn-accent" href="https://codecitoyen.github.io/"> La Nuit du Code Citoyen</a> </div>
-<h4> Et pour Lyon : <a title="lyon" class="btn btn-complement" href="https://codecitoyen.github.io/villes/lyon.html">
+<h4> Et pour Lyon : <a title="lyon" class="btn btn-complement" href="https://codecitoyen.github.io/villes/fr/lyon">
 Lyon</a> </h4>
 
 <br><br>
@@ -38,11 +38,11 @@ Bâti sur l’expérience de l'organisation de grands évènements d'innovation 
 
 # Rejoignez nous !
 
-<a title="Organisateur" class="btn-accent" href="{{ site.url }}/evenements/NuitCodeCitoyen/organisateur">
+<a title="Organisateur" class="btn-accent" href="https://codecitoyen.github.io/participer/fr/organisateur">
 Organisateur
-</a> <a title="projet" class="btn-complement" href="{{ site.url }}/evenements/NuitCodeCitoyen/projet">
+</a> <a title="projet" class="btn-complement" href="https://codecitoyen.github.io/participer/fr/proposer-un-projet">
 Porteur de projet
-</a> <a title="participant" class="btn" href="{{ site.url }}/evenements/NuitCodeCitoyen/participant">
+</a> <a title="participant" class="btn" href="https://codecitoyen.github.io/participer/fr/participant">
 Participant</a> 
 
 
