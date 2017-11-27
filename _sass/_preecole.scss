@@ -20,6 +20,7 @@ $width : 60%;
       }
     }
     .project_text{
+      height: auto;
       img{
         float: right;
         padding: 0.5rem;
@@ -27,7 +28,9 @@ $width : 60%;
       a{
         display: block;
         //padding: 1em;
-        margin-left: 72px;
+        @media screen and (min-width: 800px) {
+            margin-left: 72px;
+        }
         margin-top: 14px;
       }
       .btn{
