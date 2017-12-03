@@ -112,9 +112,12 @@ L’événement a été largement relayé sur les réseaux sociaux par les parti
 ![Image](https://lh4.googleusercontent.com/SaRw9bivHO2AUno4IK8XV6tuzFUg7E0TcFw1yd3U-qn0pmZ8nn2YQJN4JTOJJ9KSUn7szkzYiuLe45XpYG6aurDVfFXMPyLdQ5cjNcuJk4MolaYXYACTyZ77dxdnbSgBtLTTKksZ)
 
 _Répartition des tweets sur le mot clé #NuitCodeCitoyen du 3 au 15 mars 2017_
-![Image](https://lh4.googleusercontent.com/BveC_vYw9E2EcDtoWKrFnhOSkAAoK_xcsI_WGNAs2Z6D9KDQJoEqf4rCs8zQl3Fij6TRlcXS3em4mp3hMFnKfzVPH7GQhFsxW1SYlpll5Z88i2uV8y5JZv835qixS2oljzCRJP3K)
+<!-- ![Image](https://lh4.googleusercontent.com/BveC_vYw9E2EcDtoWKrFnhOSkAAoK_xcsI_WGNAs2Z6D9KDQJoEqf4rCs8zQl3Fij6TRlcXS3em4mp3hMFnKfzVPH7GQhFsxW1SYlpll5Z88i2uV8y5JZv835qixS2oljzCRJP3K) -->
 
-Liens complémentaires
+<blockquote class="twitter-tweet" data-lang="en"><p lang="fr" dir="ltr">Cap des 100 000 visites atteint sur Wikidébats pendant la <a href="https://twitter.com/hashtag/NuitCodeCitoyen?src=hash">#NuitCodeCitoyen</a>. Merci <a href="https://twitter.com/OpenSourcePol">@OpenSourcePol</a> et <a href="https://twitter.com/LesBricodeurs">@LesBricodeurs</a> <a href="https://t.co/Sebu5XiP1b">pic.twitter.com/Sebu5XiP1b</a></p>&mdash; Wikidébats (@WikiDebats) <a href="https://twitter.com/WikiDebats/status/838475036734406656">March 5, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+**Liens complémentaires**
 
 - [https://storify.com/XavierCoadic/rennes-histoire-d-une-nuit-du-code-citoyen](https://storify.com/XavierCoadic/rennes-histoire-d-une-nuit-du-code-citoyen) 
 - [https://storify.com/OpenDemNow/getting-started](https://storify.com/OpenDemNow/getting-started) 
