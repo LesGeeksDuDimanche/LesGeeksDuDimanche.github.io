@@ -88,7 +88,9 @@ jQuery(document).ready(function($) {
         }
 
         $("#events_container").html(html_content);
-        $("#prochaines-dates").show();
+        if (values.length > 0) {
+          $("#prochaines-dates").show();
+        }
 
         $(".cal a").click(function (e) {
           e.preventDefault();
