@@ -17,15 +17,17 @@ Les ateliers d'Ada permettent aux enfants de découvrir la robotique et la progr
 
 Au cours des différentes semaines vous pourrez concevoir votre robot avec les LEGO Mindstorm, programmer des jeux simples avec des interfaces comme Scratch et pour les plus avancés plonger dans la création avec Arduino et Processing. _[En savoir plus]({{site.url}}/AteliersdAda/outils/)_
 
-
+<!--
 ![jeuxvideo]({{site.url}}/images/AdaJeux.jpg){: .pull-right}
+-->
 
 <!-- Begin MailChimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+<link href="https://cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
   #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-  /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-     We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+  <!-- Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+     We recommend moving this block and the preceding CSS link to the HEAD of your HTML file.
+  -->
 </style>
 <div id="mc_embed_signup">
 <form action="//lesbricodeurs.us12.list-manage.com/subscribe/post?u=bbbb42e1640719973809dfb8c&amp;id=466cb87d37" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
@@ -99,17 +101,12 @@ Elle a également entrevu et décrit certaines possibilités offertes par les ca
 
 Une remarque? [N'hésitez pas >]({{site.url}}/AteliersdAda/idees/)
 
+
 # Informations pratiques
-Durant l'année 2015-2016 Les ateliers ont lieu tous les samedis dans le 1er arrondissement de Lyon.
+
+Durant l'année 2015-2016, les ateliers ont lieu tous les samedis dans le 1er arrondissement de Lyon.
 
 * A 14h, l'atelier d'initiation pour les enfants de 6 à 12 ans
 * A 16h, l'atelier avancé à partir de 10 ans
 
-Pour l'année 2016-2017 nous privilégions les partenariats avec des structures éducatives et scientifiques en attendant de pouvoir organiser des ateliers plus fréquemment.
-
-
-## Tarifs
-
-
-* 14€ une séance
-* 50€ les 4 séances
+**Pour l'année 2016-2017 nous privilégions les partenariats avec des structures éducatives et scientifiques en attendant de pouvoir organiser des ateliers plus fréquemment.**
