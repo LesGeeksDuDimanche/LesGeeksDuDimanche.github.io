@@ -22,6 +22,7 @@ jQuery(document).ready(function($) {
         var html_content_top = "";
         var html_content_bot = "";
 
+        var preecoleEvent = false;
 
         for (var i = 0; i < values.length; i++) {
 
@@ -32,6 +33,8 @@ jQuery(document).ready(function($) {
           if (values[i].name.search("Préécole") === -1) {
             continue;
           }
+          
+          preecoleEvent = true;
 
           imgLink = /src\s*=\s*"(.+?)"/g.exec(values[i].description);
 
@@ -88,7 +91,8 @@ jQuery(document).ready(function($) {
         }
 
         $("#events_container").html(html_content);
-        if (values.length > 0) {
+        if (preecoleEvent) {
+          console.log("WTF, ", values)
           $("#prochaines-dates").show();
         }
 

@@ -16,18 +16,24 @@ L’objectif de la préécole du numérique est d’être  la porte d’entrée 
 
 Vous pouvez venir à une des sceances d'initiation, trois fois par an, puis rejoindre les groupes d'approfondissement.
 
-* Première date d'initiation : [3 octobre 2017 à Lyon](https://www.facebook.com/events/1890520474601478/)
-* Dates suivantes : 6 février et 3 avril 2018 (à Lyon et dans les autres villes partenaires)
+* 3 Cycle par an qui commencent les : 3 octobre, 6 février et 3 avril (à Lyon et dans les autres villes partenaires)
+
+<div class="center">
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSfTAa_pMTflXoRCvvUjSVJnQx3cTwk5vh4Oc2yWfm_UVDsilA/viewform" class="btn">
+      Je m'inscris à l'avance
+  </a>
+</div>
+
 
 ## Programme
 
 **Atelier découverte de la programmation web ( 3H)**
 
-- S’orienter vers les  métiers de l’informatique (1h ) 
+- S’orienter vers les  métiers de l’informatique (1h )
 - Quels sont les langages et technologies prometteurs ? ( 15min )
-- Quels sont les ressources pédagogiques et les centres de formations dans la région ? 
+- Quels sont les ressources pédagogiques et les centres de formations dans la région ?
 - Les choix de carrière  : Travailler en agence, indépendant ou chez un l’éditeur
-- Commencer la découverte des langages HTML et CSS  - en groupes 
+- Commencer la découverte des langages HTML et CSS  - en groupes
 
 
 **Cycle faire une page web ( 2 x 3h )**
@@ -84,7 +90,7 @@ Si vous êtes intéressé pour devenir partenaire, pour soutenir le programme ou
 <hr style="width: 100%; overflow: auto;">
 
 
-## Les partenaires 
+## Les partenaires
 
 <div style="display:flex; justify-content: space-around;" >
   <a href="https://www.info-jeunes.fr/">
@@ -99,4 +105,4 @@ Si vous êtes intéressé pour devenir partenaire, pour soutenir le programme ou
   <a href="http://lyon.simplon.co/">
       <img style="max-height: 68px;" src="https://drive.google.com/uc?export=view&id=0B1PuRRJn6XEfWnVIaENpNlNKWjQ" >
   </a>
-</div> 
+</div>
