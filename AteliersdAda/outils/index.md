@@ -4,7 +4,7 @@ title: Les Ateliers d'Ada
 excerpt: "Découvrir la robotique et la programmation par le jeu"
 modified: 2016-02-24T19:44:38.564948-04:00
 image:
-  feature: Bandeau.jpg
+  feature: Bandeau4.jpg
   credit:
   creditlink:
 ---
@@ -34,7 +34,7 @@ Les Mindstorms sont des robot édités par LEGO. Compatibles avec les LEGO tradi
 
 ## Thymio
 
-Les Thymio sont des robots développés par l'EPFL à Lausanne, avec l'usage éducatif en tête. Cela se ressent, ils ont pratiques et jolis. De plus, ils fournissent un logiciel utilisable sous linux, windows et mac, plutôt simple une fois que l'on a compris la logique événementielle. 
+Les Thymio sont des robots développés par l'EPFL à Lausanne, avec l'usage éducatif en tête. Cela se ressent, ils ont pratiques et jolis. De plus, ils fournissent un logiciel utilisable sous linux, windows et mac, plutôt simple une fois que l'on a compris la logique événementielle.
 
 <a href="https://t.co/D53co0uvXl"><img src="https://pbs.twimg.com/media/C5bMwsNXMAAoSYs.jpg"></a>
 
@@ -45,6 +45,6 @@ Et oui, l'ensemble du web repose sur du simple texte et un peu d'astuces. Voici 
 
 
 
-Nous organisons régulièrement des ateliers et stages pour les jeunes, et nous sommes à disposition des structures éducatives pour organiser des sessions de formation. N'hésitez pas à nous contacter: - [salut@lesbricodeurs.fr](mailto:salut@lesbricodeurs.fr) - Marie : 06 43 71 84 33 
+Nous organisons régulièrement des ateliers et stages pour les jeunes, et nous sommes à disposition des structures éducatives pour organiser des sessions de formation. N'hésitez pas à nous contacter: - [salut@lesbricodeurs.fr](mailto:salut@lesbricodeurs.fr) 
 
 [Page Facebook des ateliers](https://www.facebook.com/Les-Ateliers-dAda-1010068332420661/) - [Les Bricodeurs](https://www.facebook.com/lesbricodeurs/)
