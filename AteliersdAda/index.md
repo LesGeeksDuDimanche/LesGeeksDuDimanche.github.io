@@ -4,7 +4,7 @@ title: Les Ateliers d'Ada
 excerpt: "Découvrir la robotique et la programmation par le jeu"
 modified: 2016-02-24T19:44:38.564948-04:00
 image:
-  feature: Bandeau.jpg
+  feature: Bandeau4.jpg
   credit:
   creditlink:
 thumbnail : images/ada.png
@@ -111,5 +111,5 @@ Pour l'année 2016-2017 nous privilégions les partenariats avec des structures 
 ## Tarifs
 
 
-* 14€ une séance 
+* 14€ une séance
 * 50€ les 4 séances
