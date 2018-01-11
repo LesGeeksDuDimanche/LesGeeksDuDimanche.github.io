@@ -16,7 +16,7 @@ L’objectif de la préécole du numérique est d’être  la porte d’entrée 
 
 Vous pouvez venir à une des sceances d'initiation, trois fois par an, puis rejoindre les groupes d'approfondissement.
 
-* 3 Cycle par an qui commencent les : 3 octobre, 6 février et 3 avril (à Lyon et dans les autres villes partenaires)
+* 3 Cycle par an qui commencent les : 3 octobre, 6 février et 17 avril (à Lyon et dans les autres villes partenaires)
 
 <div class="center">
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSfTAa_pMTflXoRCvvUjSVJnQx3cTwk5vh4Oc2yWfm_UVDsilA/viewform" class="btn">
