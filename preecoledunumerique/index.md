@@ -36,12 +36,12 @@ Vous pouvez venir à une des sceances d'initiation, trois fois par an, puis rejo
 - Commencer la découverte des langages HTML et CSS  - en groupes
 
 
-**Cycle faire une page web ( 2 x 3h )**
+**Cycle faire une page web ( 2 Sessions )**
 
 - Faire le tour de HTML et CSS en petit groupes
 - Approfondissement de HTML et CSS et découverte de la librairie  Bootstrap 4 pour les plus avancés
 
-**Cycle la programmation côté serveur ( 2 x 3h )**
+**Cycle la programmation côté serveur ( 2 Sessions )**
 
 - Atelier-découverte de Ruby : un vrai langage de programmation
 - Atelier-approfondissement de Ruby : utiliser une api
