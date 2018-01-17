@@ -16,7 +16,7 @@ L’objectif de la préécole du numérique est d’être  la porte d’entrée 
 
 Vous pouvez venir à une des sceances d'initiation, trois fois par an, puis rejoindre les groupes d'approfondissement.
 
-* 3 Cycle par an qui commencent les : 3 octobre, 6 février et 3 avril (à Lyon et dans les autres villes partenaires)
+* 3 Cycle par an qui commencent les : 3 octobre, 6 février et 17 avril (à Lyon et dans les autres villes partenaires)
 
 <div class="center">
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSfTAa_pMTflXoRCvvUjSVJnQx3cTwk5vh4Oc2yWfm_UVDsilA/viewform" class="btn">
@@ -36,12 +36,12 @@ Vous pouvez venir à une des sceances d'initiation, trois fois par an, puis rejo
 - Commencer la découverte des langages HTML et CSS  - en groupes
 
 
-**Cycle faire une page web ( 2 x 3h )**
+**Cycle faire une page web ( 2 Sessions )**
 
 - Faire le tour de HTML et CSS en petit groupes
 - Approfondissement de HTML et CSS et découverte de la librairie  Bootstrap 4 pour les plus avancés
 
-**Cycle la programmation côté serveur ( 2 x 3h )**
+**Cycle la programmation côté serveur ( 2 Sessions )**
 
 - Atelier-découverte de Ruby : un vrai langage de programmation
 - Atelier-approfondissement de Ruby : utiliser une api
