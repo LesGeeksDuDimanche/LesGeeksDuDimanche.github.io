@@ -1,0 +1,18 @@
+
+@font-face {
+    font-family: 'Nunito';
+    src: url(../fonts/Nunito-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'PoiretOne';
+    src: url(../fonts/PoiretOne-Regular.ttf);
+}
+
+body{
+  margin: 0;
+  font-family: Nunito;
+  /*background-color: rgba(0, 113, 178, 0.5);*/
+  overflow: hidden;
+}
+
