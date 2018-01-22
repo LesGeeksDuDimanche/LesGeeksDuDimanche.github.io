@@ -132,6 +132,7 @@ make -f makefile.unix
             </section>
             <section>
                 <h2>PORT P2P</h2>
+                <p>#/home/USER/BricoCoin/src/</p>
                 <p>On remplace les ports de litecoin 9333/9332 par 2333/2332 (aléatoire)</p>
                 <pre><code data-trim data-noescape class="shell hljs livecodeserver">
 find . -type f -print0 | xargs -0 sed -i 's/9333/2333/g'
@@ -149,12 +150,13 @@ PUBKEY_ADDRESS_TEST = <mark>85</mark>,
             </section>
             <section>
                 <h2>Création des clefs publics / privées</h2>
+                <p>#/home/USER/BricoCoin/</p>
                 <p>A placer hors du dossier, en local</p>
                 <pre><code data-trim data-noescape class="shell hljs livecodeserver">
 openssl ecparam -genkey -name secp256k1 -out alertkey.pem
 openssl ec -in alertkey.pem -text > alertkey.hex
-openssl ecparam -genkey -name secp256k1 -out testnetalert.pem
-openssl ec -in testnetalert.pem -text > testnetalert.hex
+<!--openssl ecparam -genkey -name secp256k1 -out testnetalert.pem-->
+<!--openssl ec -in testnetalert.pem -text > testnetalert.hex-->
 openssl ecparam -genkey -name secp256k1 -out genesiscoinbase.pem
 openssl ec -in testnetalert.pem -text > genesiscoinbase.hex
                 </code></pre>
@@ -162,13 +164,13 @@ openssl ec -in testnetalert.pem -text > genesiscoinbase.hex
 
             </section>
             <section>
-                <h2>Placer la clef public de testnetalert dans alert.cpp</h2>
+                <h2>Placer la clef public de alert.HEX dans alert.cpp</h2>
                 <p>En supprimant les ":"</p>
                 <pre><code data-trim data-noescape class="shell hljs livecodeserver">
 static const char* pszTestKey = "<mark>04d67f78ca51075ba965efe950ce4fac72a4a2f2109c0fd0f493418e7a877b8b1b51355fe1660ead9c05d9a7ff0dceba0d287b906ff78d059a7dd9f075a1283ef9</mark>";
                 </code></pre>
-
             </section>
+
             <section>
                 <h2>Placer la clef public de genesiscoinbase dans main.cpp</h2>
                 <p>ligne 2788</p>
@@ -177,38 +179,39 @@ txNew.vout[0].scriptPubKey = CScript() << ParseHex("<mark>04d67f78ca51075ba965ef
                 </code></pre>
             </section>
             <section>
-                <h2>PeerMagic (test net)</h2>
-                <p>ligne 2745 de main.cpp</p>
-                <p>(Choix aléatoires)</p>
-                <pre><code data-trim data-noescape class="shell hljs livecodeserver">
-if (fTestNet)
-    {
-        pchMessageStart[0] = 0xf<mark>2</mark>;
-        pchMessageStart[1] = 0xc<mark>3</mark>;
-        pchMessageStart[2] = 0xb<mark>7</mark>;
-        pchMessageStart[3] = 0xd<mark>4</mark>;
-
-                </code></pre>
-                <p>PeerMagic: "identifiant" qui permet d'annoncer que le message qu'on envoie concerne telle blockchain</p>
-                <p>Plus d'info : <a href="https://en.bitcoin.it/wiki/Satoshi_Client_Node_Discovery">lien 1</a> <a href="https://coinlogic.wordpress.com/2014/03/09/the-bitcoin-protocol-4-network-messages-1-version/">lien 2</a> <a href="https://en.bitcoin.it/wiki/Protocol_specification#Message_structure">lien 3</a></p>
+              <h2>PeerMagic (main)</h2>
+              <p>ligne 3082 de main.cpp</p>
+              <p>(Choix aléatoires)</p>
+              <pre><code data-trim data-noescape class="shell hljs livecodeserver">
+  unsigned char pchMessageStart[4] = { 0xf<mark>a</mark>, 0xc<mark>2</mark> , 0xb<mark>1</mark>, 0xd<mark>b</mark> }; // BricoCoin: increase each by adding 2 to bitcoin's value.
+                  </code></pre>
+              <p>PeerMagic: "identifiant" qui permet d'annoncer que le message qu'on envoie concerne telle blockchain</p>
+              <p>Plus d'info : <a href="https://en.bitcoin.it/wiki/Satoshi_Client_Node_Discovery">lien 1</a> <a href="https://coinlogic.wordpress.com/2014/03/09/the-bitcoin-protocol-4-network-messages-1-version/">lien 2</a> <a href="https://en.bitcoin.it/wiki/Protocol_specification#Message_structure">lien 3</a></p>
 
             </section>
+            <!--<section>-->
+                <!--<h2>PeerMagic (test net)</h2>-->
+                <!--<p>ligne 2745 de main.cpp</p>-->
+                <!--<p>(Choix aléatoires)</p>-->
+                <!--<pre><code data-trim data-noescape class="shell hljs livecodeserver">-->
+<!--if (fTestNet)-->
+    <!--{-->
+        <!--pchMessageStart[0] = 0xf<mark>2</mark>;-->
+        <!--pchMessageStart[1] = 0xc<mark>3</mark>;-->
+        <!--pchMessageStart[2] = 0xb<mark>7</mark>;-->
+        <!--pchMessageStart[3] = 0xd<mark>4</mark>;-->
+
+                <!--</code></pre>-->
+                <!--<p>PeerMagic: "identifiant" qui permet d'annoncer que le message qu'on envoie concerne telle blockchain</p>-->
+                <!--<p>Plus d'info : <a href="https://en.bitcoin.it/wiki/Satoshi_Client_Node_Discovery">lien 1</a> <a href="https://coinlogic.wordpress.com/2014/03/09/the-bitcoin-protocol-4-network-messages-1-version/">lien 2</a> <a href="https://en.bitcoin.it/wiki/Protocol_specification#Message_structure">lien 3</a></p>-->
+
+            <!--</section>-->
+
+
             <section>
-                <h2>PeerMagic (main)</h2>
-                <p>ligne 2745 de main.cpp</p>
-                <p>(Choix aléatoires)</p>
-                <pre><code data-trim data-noescape class="shell hljs livecodeserver">
-unsigned char pchMessageStart[4] = { 0xf<mark>a</mark>, 0xc<mark>2</mark> , 0xb<mark>1</mark>, 0xd<mark>b</mark> }; // BricoCoin: increase each by adding 2 to bitcoin's value.
-                </code></pre>
-
-
-            </section>
-
-
-            <section>
-                <h2>Suppression des DNSs hardcodés</h2>
+                <h2>Suppression des DNS hardcodés</h2>
                 <p>
-                    ligne 1176 de test.cpp
+                    ligne 1176 de net.cpp
                 </p>
                 <pre><code data-trim data-noescape class="shell hljs livecodeserver">
 static const char *strMainNetDNSSeed[][2] = {
@@ -223,7 +226,7 @@ static const char *strTestNetDNSSeed[][2] = {
             <section>
                 <h2>Suppression des IPs hardcodés</h2>
                 <p>
-                    lign 1226 de test.cpp
+                    lign 1226 de net.cpp
                 </p>
                 <p>
                     laisser "0x0" pour éviter une erreur de compilation
@@ -286,22 +289,22 @@ txNew.vout[0].nValue = <mark>10</mark> * COIN;
             <section>
                 <h2>Nombre max de BricoCoin dans une transaction</h2>
                 <p>main.h ligne 55</p>
-                <p> On choisit :  10 * 10 + 10 * 5 = 150 </p>
+                <p> On choisit :  10 * 10 + 10 * 10/2 + 10 * 10/4 + 10 * 10/6 + ... ~= 200 </p>
                 <pre><code data-trim data-noescape class="shell hljs livecodeserver">
-static const int64 MAX_MONEY = <mark>150</mark> * COIN;
+static const int64 MAX_MONEY = <mark>200</mark> * COIN;
 
-static const int COINBASE_MATURITY = <mark>1</mark>;
                 </code></pre>
 
             </section>
             <section>
-
                 <h2>Nombre de blocks avant Maturité</h2>
+                <p>main.h ligne 58</p>
+                <pre><code data-trim data-noescape class="shell hljs livecodeserver">
+static const int COINBASE_MATURITY = <mark>1</mark>;
+                </code></pre>
                 <p>
-                    Correction
                     main.cpp ligne 948
                 </p>
-
                 <pre><code data-trim data-noescape class="shell hljs livecodeserver">
 int CMerkleTx::GetBlocksToMaturity() const
 {
@@ -331,6 +334,7 @@ return dPriority > COIN * <mark>5</mark> / 250;
             </section>
             <section>
                 <h2>timeStamp</h2>
+                <p>main.cpp 2782</p>
                 <pre><code data-trim data-noescape class="shell hljs livecodeserver">
 const char* pszTimestamp = "25/01/2018 Débat autour des cryptomonnaies et les monnaies locales complémentaires!";
                 </code></pre>
@@ -368,6 +372,7 @@ make -f makefile.unix
             </section>
             <section>
                 <h2>Racine de l'arbre de Merkle</h2>
+                <p>main.cpp ligne 2809</p>
               <pre><code data-trim data-noescape class="shell hljs livecodeserver">
 assert(block.hashMerkleRoot == uint256("0x<mark>7z5cd2bc0f49e58a5587734366a558f78cecec6f9489fdafed3660dad53a3864</mark>"));
                </code></pre>
@@ -383,8 +388,7 @@ assert(block.hashMerkleRoot == uint256("0x<mark>7z5cd2bc0f49e58a5587734366a558f7
             <h2>Genesis Block</h2>
             <p>Code nécessaire pour générer le 1er block</p>
             <pre><code data-trim data-noescape class="shell hljs livecodeserver">
-
-if (True && block.GetHash() != hashGenesisBlock)
+if (true && block.GetHash() != hashGenesisBlock)
 {
   printf("Searching for genesis block...\n");
   // This will figure out a valid hash and Nonce if you're
@@ -485,7 +489,7 @@ uint256 hashGenesisBlock("0x<mark>03454bf05bd73a9dcddcdc43a2d81afb2481e3fbd1c3d4
 static MapCheckpoints mapCheckpoints =
     boost::assign::map_list_of
     (  0, uint256(" 0x<mark>03454bf05bd73a9dcddcdc43a2d81afb2481e3fbd1c3d43f70e6ecc8dc7ae46c</mark> "))
-              <mark>Supprimer le reste</mark>
+              <mark>Supprimez le reste</mark>
     ;
 static const CCheckpointData data = {
     &mapCheckpoints,
@@ -499,6 +503,7 @@ static const CCheckpointData data = {
           <section>
 
             <p>Annulez le hack pour générez le block génésis</p>
+            <p>main.cpp ligne 2809</p>
             <pre><code data-trim data-noescape class="shell hljs livecodeserver">
             if ( <mark>false </mark> && block.GetHash() != hashGenesisBlock)
             {
@@ -517,10 +522,7 @@ static const CCheckpointData data = {
             <h2>Compilation finale !</h2>
             <pre><code data-trim data-noescape class="shell hljs livecodeserver">
 make -f makefile.unix
-                </code></pre>
-            <pre><code data-trim data-noescape class="shell hljs livecodeserver">
-./bricocoind
-                </code></pre>
+            </code></pre>
           </section>
 
         </section>
@@ -577,7 +579,7 @@ addnode=192.168.1.13
 
           </section>
           <section>
-            <h2>Pour le peer : recompilez !</h2>
+            <h2>Pour le peer : Compilez !</h2>
             <p>#/home/USER/bricocoin/src</p>
             <pre><code data-trim data-noescape class="shell hljs livecodeserver">
 make -f makefile.unix
@@ -625,6 +627,21 @@ make
             </code></pre>
           </section>
         </section>
+        <section>
+          <section>
+            <h2>Ressources</h2>
+          </section>
+          <section>
+            <p>
+              https://vcoin-project.github.io/cloning-litecoin/
+              http://bitcoinfees.com/
+            </p>
+          </section>
+          <section>
+        <h2>définitions</h2>
+            <iframe frameborder="0" scrolling="no" style="border:0px" src="https://books.google.fr/books?id=X49aCAAAQBAJ&lpg=PT52&ots=fb1JTyF9l7&dq=AllowFree%20bitcoin&hl=fr&pg=PT55&output=embed" width=500 height=500></iframe>
+          </section>
+        </section>
 
 
     </div>
@@ -632,7 +649,7 @@ make
 
 <!--// ressources-->
 
-<!--https://vcoin-project.github.io/cloning-litecoin/-->
+
 
 
 
