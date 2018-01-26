@@ -46,8 +46,7 @@ On est ouvert à tous les profils. On vise idéalement des indépendants du num�
 # Rémunération
 
 * De 15€ (débutant en CDD d'usage) à 45€ (expérimenté en indépendant)
-* Contrats aidés et services civiques envisageables
-* Nous recrutons aussi pour des [fonctions de gestionnaire](lesbricodeurs.fr/notes/Les-Bricodeurs-Recrutent-3/) et vous êtes bienvenus pour les coups de mains [bénévoles](http://lesbricodeurs.fr/notes/Les-Bricodeurs-Recrutent-1/)
+* Nous recrutons aussi une ou un [responsable de la gestion des ateliers](lesbricodeurs.fr/notes/Les-Bricodeurs-Recrutent-3/), des [services civiques](http://www.service-civique.gouv.fr/missions/contribuer-a-leducation-au-numerique-par-la-decouverte-du-code-et-de-la-robotique-des-enfants-et-adultes) et vous êtes bienvenus pour les coups de mains [bénévoles](http://lesbricodeurs.fr/notes/Les-Bricodeurs-Recrutent-1/)
 * Si vous êtes un professionnel expérimenté ou une organisation, n'hésitez pas à nous contacter pour discuter d'un partenariat
 
 Pour nous contacter, c'est très simple [salut@lesbricodeurs.fr](mailto:salut@lesbricodeurs.fr)
@@ -57,7 +56,7 @@ Pour nous contacter, c'est très simple [salut@lesbricodeurs.fr](mailto:salut@le
 
 # Les Bricodeurs
 
-Les Bricodeurs, c’est un collectif de passionnés du numérique et de son impact. Dans une ambiance détendue et ouverte, nous organisons :
+Les Bricodeurs, c’est un collectif de professionnels engagés dans le numérique et son impact. Dans une ambiance détendue et ouverte, nous organisons :
 
 * Des ateliers d’éducation au numérique pour les jeunes et les publics en reconversion
 * Le rassemblement de communautés thématiques en robotique, web, IoT, blockchain…
