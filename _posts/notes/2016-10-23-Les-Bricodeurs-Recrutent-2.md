@@ -45,11 +45,10 @@ On est ouvert à tous les profils. On vise idéalement des indépendants du num�
 
 # Rémunération
 
-* 20€ de l'heure débutant
-* 40€ expérimenté ( idéalement en prestataire )
+* De 15€ (débutant en CDD d'usage) à 45€ (expérimenté en indépendant)
 * Contrats aidés et services civiques envisageables
-* Les coups de mains bénévoles ponctuels et pour les [fonctions de direction](http://lesbricodeurs.fr/notes/Les-Bricodeurs-Recrutent-1/) sont bienvenus
-* Si vous êtes un professionnel expérimenté, n'hésitez pas à nous contacter pour discuter d'un partenariat
+* Nous recrutons aussi pour des [fonctions de gestionnaire](lesbricodeurs.fr/notes/Les-Bricodeurs-Recrutent-3/) et vous êtes bienvenus pour les coups de mains [bénévoles](http://lesbricodeurs.fr/notes/Les-Bricodeurs-Recrutent-1/)
+* Si vous êtes un professionnel expérimenté ou une organisation, n'hésitez pas à nous contacter pour discuter d'un partenariat
 
 Pour nous contacter, c'est très simple [salut@lesbricodeurs.fr](mailto:salut@lesbricodeurs.fr)
 	
