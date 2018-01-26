@@ -158,7 +158,7 @@ openssl ec -in alertkey.pem -text > alertkey.hex
 <!--openssl ecparam -genkey -name secp256k1 -out testnetalert.pem-->
 <!--openssl ec -in testnetalert.pem -text > testnetalert.hex-->
 openssl ecparam -genkey -name secp256k1 -out genesiscoinbase.pem
-openssl ec -in testnetalert.pem -text > genesiscoinbase.hex
+openssl ec -in genesiscoinbase.pem -text > genesiscoinbase.hex
                 </code></pre>
                 <p>* <a href="https://en.bitcoin.it/wiki/Secp256k1">secp245k1</a></p>
 
@@ -387,6 +387,7 @@ assert(block.hashMerkleRoot == uint256("0x<mark>7z5cd2bc0f49e58a5587734366a558f7
           <section>
             <h2>Genesis Block</h2>
             <p>Code nécessaire pour générer le 1er block</p>
+            <p>Copiez le !</p>
             <pre><code data-trim data-noescape class="shell hljs livecodeserver">
 if (true && block.GetHash() != hashGenesisBlock)
 {
@@ -444,7 +445,7 @@ if (true && block.GetHash() != hashGenesisBlock)
               block.nNonce   = 387357830;
               }
 
-            <mark>Copiez ici</mark>
+            <mark>Collez ici</mark>
 
             </code></pre>
 
@@ -626,7 +627,7 @@ make
             <p>
               <a href="https://github.com/LesGeeksDuDimanche/bricocoin">https://github.com/LesGeeksDuDimanche/bricocoin</a>
             </p>
-           
+
           </section>
         </section>
         <section>
