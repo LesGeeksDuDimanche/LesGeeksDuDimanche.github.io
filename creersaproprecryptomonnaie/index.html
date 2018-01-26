@@ -56,17 +56,11 @@
                 <h2>Dépendances</h2>
                 <pre><code data-trim data-noescape class="shell hljs livecodeserver">
 sudo apt-get install git
-sudo apt-get install build-essential libtool autotools-dev automake pkg-config libssl-dev libevent-dev bsdmainutils
+sudo apt-get install build-essential libtool autotools-dev automake pkg-config libssl-dev libevent-dev bsdmainutils libboost-all-dev software-properties-common
 sudo apt-get install libboost-system-dev libboost-filesystem-dev libboost-chrono-dev libboost-program-options-dev libboost-test-dev libboost-thread-dev
-sudo apt-get install libboost-all-dev
-sudo apt-get install software-properties-common
 sudo add-apt-repository ppa:bitcoin/bitcoin
 sudo apt-get update
-sudo apt-get install libdb4.8-dev libdb4.8++-dev
-sudo apt-get install libminiupnpc-dev
-sudo apt-get install libzmq3-dev
-sudo apt-get install libqt5gui5 libqt5core5a libqt5dbus5 qttools5-dev qttools5-dev-tools libprotobuf-dev protobuf-compiler
-sudo apt-get install libqt4-dev libprotobuf-dev protobuf-compiler
+sudo apt-get install libdb4.8-dev libdb4.8++-dev libminiupnpc-dev libzmq3-dev libqt5gui5 libqt5core5a libqt5dbus5 qttools5-dev qttools5-dev-tools libprotobuf-dev protobuf-compiler libqt4-dev libprotobuf-dev protobuf-compiler
             </code></pre>
 
             </section>
@@ -77,7 +71,6 @@ sudo apt-get install libqt4-dev libprotobuf-dev protobuf-compiler
                 <pre><code data-trim data-noescape  class="shell hljs livecodeserver">
 git clone -b 0.8 https://github.com/litecoin-project/litecoin.git
             </code></pre>
-
             </section>
             <section>
                 <h2>corrections problème vieux paquet</h2>
@@ -105,6 +98,7 @@ find . -type f -print0 | xargs -0 sed -i 's/LiteCoin/BricoCoin/g'
 find . -type f -print0 | xargs -0 sed -i 's/LITECOIN/BRICOCOIN/g'
 find . -type f -print0 | xargs -0 sed -i 's/LTC/BRC/g'
             </code></pre>
+            <p>A lancer depuis le répertoir src/. Vous pouvez remplacer BriCoin par le nom de votre choix.</p>
 
             </section>
 
@@ -266,12 +260,12 @@ int64 static GetBlockValue(int nHeight, int64 nFees)
     return nSubsidy + nFees;
 }
 
-static const int64 nTargetTimespan = <mark>0.007</mark> * 24 * 60 * 60; // BricoCoin: 10 minutes
-static const int64 nTargetSpacing = <mark>2</mark> * 60; // BricoCoin: 2 minutes
+static const int64 nTargetTimespan = <mark>0.007</mark> * 24 * 60 * 60; // BricoCoin : 10 minutes between difficulty adjustments
+static const int64 nTargetSpacing = <mark>2</mark> * 60; // BricoCoin: 2 minutes between blocks
 
 
                     </code></pre>
-            <span class="moreinfo">BitCoin : remise en question de la difficulté toutes les 2 semaines, avec pour objectif 1 block toutes les 10 minutes ( 14 * 24 * 60 / 10 ) =  2016 blocks.  <a href="https://en.bitcoin.it/wiki/Difficulty#What_network_hash_rate_results_in_a_given_difficulty.3F"> voir ici </a></span>
+            <span class="moreinfo">Sur Bitcoin : remise en question de la difficulté toutes les 2 semaines, avec pour objectif 1 block toutes les 10 minutes ( 14 * 24 * 60 / 10 =  2016 blocks ).  <a href="https://en.bitcoin.it/wiki/Difficulty#What_network_hash_rate_results_in_a_given_difficulty.3F"> voir ici </a></span>
 
 
             </section>
@@ -289,7 +283,7 @@ txNew.vout[0].nValue = <mark>10</mark> * COIN;
             <section>
                 <h2>Nombre max de BricoCoin dans une transaction</h2>
                 <p>main.h ligne 55</p>
-                <p> On choisit :  10 * 10 + 10 * 10/2 + 10 * 10/4 + 10 * 10/6 + ... ~= 200 </p>
+                <p> On choisit le nombre maximal de BricoCoins, calculé à partir de la somme des "subsidy"  10 * 10 + 10 * 10/2 + 10 * 10/4 + 10 * 10/6 + ... ~= 200 </p>
                 <pre><code data-trim data-noescape class="shell hljs livecodeserver">
 static const int64 MAX_MONEY = <mark>200</mark> * COIN;
 
@@ -352,7 +346,7 @@ block.nTime = 1515165286;
             </section>
             <section>
                 <h2>Racine de l'arbre de Merkle</h2>
-                <p>Fusion des noeuds de même niveau en un seul Hash (J'en sais pas plus)</p>
+                <p>Fusion des noeuds de même niveau en un seul Hash</p>
                 <pre><code data-trim data-noescape class="shell hljs livecodeserver">
 make -f makefile.unix
                 </code></pre>
@@ -634,12 +628,14 @@ make
             <h2>Ressources</h2>
           </section>
           <section>
-            Autre TUTO
             <p>
+            Autre tuto : <br>
               <a href="https://vcoin-project.github.io/cloning-litecoin/">https://vcoin-project.github.io/cloning-litecoin/</a>
             </p>
-            Taxes sur les transactions
-            <p>
+            <p>Livre complet de référence : <br>
+                <a href="https://bitcoinbook.info/translations/fr/book.pdf">https://bitcoinbook.info/translations/fr/book.pdf</a>
+            </p>
+            <p>Pourboires des transactions du réseau bitcoin : <br>
               <a href="http://bitcoinfees.com/">http://bitcoinfees.com/</a>
             </p>
 
@@ -673,7 +669,7 @@ make
         e=o.createElement(i);r=o.getElementsByTagName(i)[0];
         e.src='//www.google-analytics.com/analytics.js';
         r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
-    ga('create','UA-XXXXX-X','auto');ga('send','pageview');
+    ga('create','UA-64227504-1','auto');ga('send','pageview');
 </script>
 </body>
 </html>
