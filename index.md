@@ -8,7 +8,7 @@ image:
   credit:
   creditlink:
 ---
-Les Bricodeurs est une communauté d'une centaine de professionnels et passionnés du numérique de diverses fillières ( Blockchain, développement web, Arts numérique, Design ... ) et profils ( Indépendants, Chercheurs, Entrepreneurs ... ) avec deux actions, l'accompagnement de projets numérique citoyens et la diffusion de la culture numérique. 
+Les Bricodeurs est une communauté d'une centaine de professionnels et passionnés du numérique de diverses filières ( Blockchain, développement web, Arts numérique, Design ... ) et profils ( Indépendants, Chercheurs, Entrepreneurs ... ) avec deux actions, l'accompagnement de projets numérique citoyens et la diffusion de la culture numérique. 
 
 # Numérique citoyen
 * [La nuit du code citoyen](https://codecitoyen.github.io/), hackathon international et programme d'accélération de projets numériques citoyens
