@@ -82,11 +82,13 @@ jQuery(document).ready(function($) {
                 "</a>"+
                  "<a class=\"btn\" target=\"_blank\" href=\"" + values[i].link + "\">"+
                   "<span>Inscription</span>" +
-                "</a>"+
-                "</div>" +
-                "</div>" +
-              "</div>";
+                "</a>";
           }
+
+          html_content_bot += "</div>" +
+                            "</div>" +
+                          "</div>";
+
 
 
           html_content += html_content_top + html_img + html_content_bot;
@@ -94,7 +96,6 @@ jQuery(document).ready(function($) {
 
         $("#events_container").html(html_content);
         if (preecoleEvent) {
-          console.log("WTF, ", values)
           $("#prochaines-dates").show();
         }
 
