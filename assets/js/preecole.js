@@ -47,11 +47,11 @@ jQuery(document).ready(function($) {
             "<div class=\"project_container\" >" +
             "<span>" + new Date(values[i].local_date).toDateString() + " - " + values[i].local_time + "</span>"+
               "<div class=\"project\">" +
-              "<div class=\"project_text\" >"+
-                  "<div class=\"title\">" +
-                    "<h5>" + values[i].name + "</h5>" +
-                  "</div>" +
-                  "<hr>" ;
+                "<div class=\"project_text\" >"+
+                    "<div class=\"title\">" +
+                      "<h5>" + values[i].name + "</h5>" +
+                    "</div>" +
+                    "<hr>" ;
                   //     "<div title=\"Ajouter au calendrier\" style=\"padding-left:15px\" class=\"addeventatc\">"+
                   //       "<span>" + values[i].local_date + " - " + values[i].local_time + "</span> <i class=\"fa fa-calendar\" aria-hidden=\"true\"></i>"+
                   //       "<span class=\"start\">11/29/2017 08:00 AM</span>"+
@@ -79,15 +79,16 @@ jQuery(document).ready(function($) {
             html_content_bot +=
                 "<a target=\"_blank\" href=\"https://www.google.com/maps/search/?api=1&query=" + values[i].venue.address_1 + "+" + values[i].venue.city + "\" >" +
                   "<span>" + values[i].venue.name + " </span><i class=\"fa fa-map-marker\" aria-hidden=\"true\"></i>" +
-                "</a>"+
-                 "<a class=\"btn\" target=\"_blank\" href=\"" + values[i].link + "\">"+
-                  "<span>Inscription</span>" +
                 "</a>";
           }
 
-          html_content_bot += "</div>" +
-                            "</div>" +
-                          "</div>";
+          html_content_bot +=
+                "<a class=\"btn\" target=\"_blank\" href=\"" + values[i].link + "\">"+
+                  "<span>Inscription</span>" +
+                "</a>"+
+              "</div>" +
+            "</div>" +
+          "</div>";
 
 
 
