@@ -33,7 +33,7 @@ jQuery(document).ready(function($) {
           if (values[i].name.search("Préécole") === -1) {
             continue;
           }
-          
+
           preecoleEvent = true;
 
           imgLink = /src\s*=\s*"(.+?)"/g.exec(values[i].description);
@@ -75,16 +75,18 @@ jQuery(document).ready(function($) {
           }
 
 
-          html_content_bot +=
-              "<a target=\"_blank\" href=\"https://www.google.com/maps/search/?api=1&query=" + values[i].venue.address_1 + "+" + values[i].venue.city + "\" >" +
-                "<span>" + values[i].venue.name + " </span><i class=\"fa fa-map-marker\" aria-hidden=\"true\"></i>" +
-              "</a>"+
-               "<a class=\"btn\" target=\"_blank\" href=\"" + values[i].link + "\">"+
-                "<span>Inscription</span>" +
-              "</a>"+
-              "</div>" +
-              "</div>" +
-            "</div>";
+          if (values[i].venue) {
+            html_content_bot +=
+                "<a target=\"_blank\" href=\"https://www.google.com/maps/search/?api=1&query=" + values[i].venue.address_1 + "+" + values[i].venue.city + "\" >" +
+                  "<span>" + values[i].venue.name + " </span><i class=\"fa fa-map-marker\" aria-hidden=\"true\"></i>" +
+                "</a>"+
+                 "<a class=\"btn\" target=\"_blank\" href=\"" + values[i].link + "\">"+
+                  "<span>Inscription</span>" +
+                "</a>"+
+                "</div>" +
+                "</div>" +
+              "</div>";
+          }
 
 
           html_content += html_content_top + html_img + html_content_bot;
