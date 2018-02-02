@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: embed
 title:
 excerpt: "Les Bricodeurs, c'est comme à la maison"
 modified: 2015-07-24T19:44:38.564948-04:00
@@ -42,4 +42,6 @@ image:
 
 -->
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrR83j1HovmwK7H9?backgroundColor=blue&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="2000" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<h3 style="text-align: center">Profils</h3>
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrR83j1HovmwK7H9?backgroundColor=blue&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="600" style="background: transparent; border: 1px solid #ccc;"></iframe>
