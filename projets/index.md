@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Les Projets
+title: Ressources
 excerpt: "Du code, de l'Open Source, du Design, posay"
 modified: 2015-07-24T19:44:38.564948-04:00
 image:
