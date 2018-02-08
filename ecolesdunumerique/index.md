@@ -11,7 +11,7 @@ image:
 ---
 
 <h3 style="text-align: center">Où apprendre intensivement à coder ?</h3>
-<p style="text-align: center"><i> Recensement non exhaustif, ordre aléatoire </i></p>
+<p style="text-align: center"><i> Recensement non exhaustif, ordre alphabétique </i></p>
 
 
 <!--
@@ -23,8 +23,8 @@ image:
 -->
 
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrVRDtG3sS9JuA7F?backgroundColor=green&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrVRDtG3sS9JuA7F?backgroundColor=green&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="720" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 <p style="text-align: center; padding: 5%;">
-Une information est incomplète, votre organisme de formation n'est pas présent sur la liste ? <br> Contactez-nous, en 5 mins nous pouvons ajouter vos informations. :)
+Une information est incomplète, votre organisme de formation n'est pas présent sur la liste ? <br> Contactez-nous :)
 </p>
