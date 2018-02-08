@@ -89,6 +89,8 @@ Si vous êtes intéressé pour devenir partenaire, pour soutenir le programme ou
 
 <hr style="width: 100%; overflow: auto;">
 
+<iframe width="100%" height="185px" frameBorder="0" src="http://umap.openstreetmap.fr/fr/map/preecole-du-numerique_197064?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false"></iframe>
+
 
 ## Les partenaires
 
