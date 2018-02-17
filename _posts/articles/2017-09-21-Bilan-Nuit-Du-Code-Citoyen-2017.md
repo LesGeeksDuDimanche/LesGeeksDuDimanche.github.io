@@ -14,7 +14,7 @@ published: true
 thumbnail: images/taupe.jpg
 ---
 
-La [Nuit du Code Citoyen](https://codecitoyen.github.io/) est un programme d'accompagnement associant thématiques citoyennes et technologies qui s'est déroulé en 2017. Organisé de façon décentralisée sur 9 villes, la Nuit du Code Citoyen et ses suites ont permis d'accompagner plus d'une vingtaine de projets numériques citoyens.
+La [Nuit du Code Citoyen](https://nuitcodecitoyen.org/) est un programme d'accompagnement associant thématiques citoyennes et technologies qui s'est déroulé en 2017. Organisé de façon décentralisée sur 9 villes, la Nuit du Code Citoyen et ses suites ont permis d'accompagner plus d'une vingtaine de projets numériques citoyens.
 
 ## Contexte
 
@@ -61,7 +61,7 @@ Parmis les projets, on a retrouvé quelques grands acteurs de la "Civic Tech" et
 
 A Tunis, un outil pour suivre les files d’attente du ferry à Djerba, un waze pour les transports publics à Tunis, un scanner 3D open source.![Image](https://lh5.googleusercontent.com/KSGojas-qmqqRKjFdSUctzvjwLbSIVQtl7dOJ2E-LsE3SzH4tkULIaAy3oJMQR29Zuu4dt8_e79iltiSvn9TO_ankCbBv702OQxV5fDWK-WcfjaztXZGRoOnDOH2RGHxr6Krn92a)
   
-A Lyon, une application de prise de décision et un[ jeu pédagogique](https://codecitoyen.github.io/Demoscampi/#/) sur les modes de scrutin.
+A Lyon, une application de prise de décision et un[ jeu pédagogique](https://nuitcodecitoyen.org/Demoscampi/#/) sur les modes de scrutin.
 
 
 A Montpellier, Welcome to Écotopia, un jeu-vidéo de création et de gestion d'un écovillage.
@@ -76,7 +76,7 @@ A Rennes Oceanis Open, un capteur marin en science citoyenne pour la mesure de l
 
 A Toulouse, OpenFeeder sur la collecte des données des oiseaux et Signotheque sur la constitution d’une bibliothèque de signes pour malentendants.
 
-Les projets peuvent être retrouvés sur la plateforme de suivi, en cours délaboration [https://codecitoyen.github.io/fr/projects](https://codecitoyen.github.io/fr/projects)
+Les projets peuvent être retrouvés sur la plateforme de suivi, en cours délaboration [https://nuitcodecitoyen.org/fr/projects](https://nuitcodecitoyen.org/fr/projects)
 
 ## Suivi des projets
 

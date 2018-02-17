@@ -17,7 +17,7 @@ thumbnail: images/taupe.jpg
 
 Mercredi dernier, c'était la deuxième Mini-Nuit du Code Citoyen à Lyon.
 
-La [Nuit du Code Citoyen](https://codecitoyen.github.io/) est un programme d'accompagnement associant thématiques citoyennes et technologies. Depuis le premier grand événement en mars 2017 qui s’est déroulé dans 9 villes de France et en Tunisie, des rencontres régulières permettent de poursuivre les projets et d’accueillir de nouveaux.
+La [Nuit du Code Citoyen](https://nuitcodecitoyen.org/) est un programme d'accompagnement associant thématiques citoyennes et technologies. Depuis le premier grand événement en mars 2017 qui s’est déroulé dans 9 villes de France et en Tunisie, des rencontres régulières permettent de poursuivre les projets et d’accueillir de nouveaux.
 
 
 La soirée s'est déroulée au [CentSept](http://www.lecentsept.fr/), association située dans le 7ème arrondissement qui accompagne des projets de l'ESS ( Entrepreunariat Social et Solidaire ) notamment en les mettant en lien avec des grands groupes.
@@ -29,7 +29,7 @@ Débutant à 19h, les participants sont arrivés petit à petit pour se rencontr
 
 Au programme de la soirée, plusieurs idées de projets et un projet à terminer. Après une courte présentation de l'événement, les porteurs de projets démarraient leurs présentations.
 
-- [Démocratie et Langoustines](https://codecitoyen.github.io/Demoscampi/#/), projet initié 3 mois plus tôt pendant la Nuit Du Code Citoyen de mois de mars est un jeu mono-joueur éducatif pour découvrir de manière ludique les différents systèmes de votes.
+- [Démocratie et Langoustines](https://nuitcodecitoyen.org/Demoscampi/#/), projet initié 3 mois plus tôt pendant la Nuit Du Code Citoyen de mois de mars est un jeu mono-joueur éducatif pour découvrir de manière ludique les différents systèmes de votes.
 
 - Imprimante partagée, projet de mettre à disposition une imprimante partagée par quartier ou par immeuble. ( à l'inverse d'en avoir une par appartement )
 
