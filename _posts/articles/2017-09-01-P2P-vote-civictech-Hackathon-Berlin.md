@@ -51,6 +51,6 @@ Enfin bref, on est ravi, et on sera ravi de participer à nouveau dans ce superb
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-_Intéréssé par ces sujets ? Ca tombe bien, on organise un hackathon international [La Nuit du code citoyen](https://codecitoyen.github.io/)_ 
+_Intéréssé par ces sujets ? Ca tombe bien, on organise un hackathon international [La Nuit du code citoyen](https://nuitcodecitoyen.org/)_ 
 
 ![democracy](//raw.githubusercontent.com/LesGeeksDuDimanche/p2p-vote/master/src/assets/heroslide_left.png)
