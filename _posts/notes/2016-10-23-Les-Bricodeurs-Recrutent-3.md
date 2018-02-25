@@ -15,7 +15,7 @@ published: true
 thumbnail: 
 ---
 
-Merci de vous intéresser à ce poste, nous avons déjà trouvé une personne correspondant à nos attente. 
+Merci de vous intéresser à ce poste, nous avons déjà trouvé une personne correspondant à nos attentes. 
 
 Toutefois, n'hésitez pas à nous contacter pour toute idée, suggestion... :)
 
