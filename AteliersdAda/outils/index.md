@@ -8,7 +8,7 @@ image:
   credit:
   creditlink:
 ---
-Voici les outils que nous utilisons dans nos ateliers. Nous privilégions les outils accessibles, avec une documentation abondante et [ouverts](/articles/LicencesOuvertes/).
+Voici les outils que nous utilisons dans nos ateliers. Nous privilégions les outils accessibles, avec une documentation abondante et ouverts.
 
 ## Scratch
 ![Scratch]({{site.url}}/images/scratch.jpg){: .pull-right}
@@ -45,6 +45,6 @@ Et oui, l'ensemble du web repose sur du simple texte et un peu d'astuces. Voici 
 
 
 
-Nous organisons régulièrement des ateliers et stages pour les jeunes, et nous sommes à disposition des structures éducatives pour organiser des sessions de formation. N'hésitez pas à nous contacter: - [salut@lesbricodeurs.fr](mailto:salut@lesbricodeurs.fr) 
+Nous organisons régulièrement des ateliers et stages pour les jeunes, et nous sommes à disposition des structures éducatives pour organiser des sessions de formation. N'hésitez pas à nous contacter: - [salut@lesbricodeurs.fr](mailto:salut@lesbricodeurs.fr)
 
 [Page Facebook des ateliers](https://www.facebook.com/Les-Ateliers-dAda-1010068332420661/) - [Les Bricodeurs](https://www.facebook.com/lesbricodeurs/)
