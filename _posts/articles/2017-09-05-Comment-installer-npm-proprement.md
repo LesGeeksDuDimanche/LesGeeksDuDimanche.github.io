@@ -25,17 +25,19 @@ Aujourd'hui node et npm sont aussi utilisés par les développeurs webs comme su
 
 # Installation
 
-Pour installer node et npm sur un systeme unix, il suffit de taper la commande suivante. Si vous êtes sous windows, vous pouvez installer Cygwin, une virtualbox avec linux ou utiliser "Linux Subsystem". 
+Pour installer node et npm, il suffit de taper une des commande suivante. Si vous êtes sous windows, vous pouvez installer Cygwin, une virtualbox avec linux ou utiliser "Linux Subsystem". 
 
-`curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -`
+Pour les systèmes Debian et Ubuntu 
+`curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -`
 
-Alternativement, sur les distributions debian et ubuntu
+`sudo apt install -y nodejs`
 
-`sudo apt update && sudo apt upgrade `
+Pour les systèmes à base de RPM
+`curl -sL https://rpm.nodesource.com/setup_10.x | bash -`
 
-`sudo apt install nodejs`
+Sous mac vous pouvez le télecharger [ici](https://nodejs.org/dist/v8.11.1/node-v8.11.1.pkg)
 
-Comme on nous l'a signalé [sur twitter](https://twitter.com/le_mulot/status/905102883431088128), pour faire encore mieux, vous pouvez utiliser nvm. Nvm est un gestionnaire de version de node.js. Vous trouverez plus d'informations par [ici](https://github.com/creationix/nvm/blob/master/README.md)
+Comme on nous l'a signalé [sur twitter](https://twitter.com/le_mulot/status/905102883431088128), vous pouvez aussi utiliser nvm. Nvm est un gestionnaire de version de node.js. Vous trouverez plus d'informations par [ici](https://github.com/creationix/nvm/blob/master/README.md)
 
 ## Installer le global localement
 Quand vous installez des paquets via npm, si vous ne précisez rien, ils seront installés dans le dossier actuel, généralement du projet en cours. Certains paquets, notamment les outils doivent s'installer globalement avec l'option **-g**. Pour éviter que ceux-ci s'installent dans un dossier système et exigent l'accès root, vous pouvez:
