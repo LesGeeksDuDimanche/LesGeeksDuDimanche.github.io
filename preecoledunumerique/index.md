@@ -14,9 +14,9 @@ L’objectif de la préécole du numérique est d’être  la porte d’entrée 
 
 ## En pratique
 
-Vous pouvez venir à une des sceances d'initiation, trois fois par an, puis rejoindre les groupes d'approfondissement.
+Vous pouvez venir à une des sceances d'initiation puis rejoindre les groupes d'approfondissement.
 
-* 3 Cycle par an qui commencent les : 3 octobre, 6 février et 17 avril (à Lyon et dans les autres villes partenaires)
+* 3 Cycles par an qui commencent en Octobre, Février et Mai (à Lyon et dans les autres villes partenaires)
 
 <div class="center">
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSfTAa_pMTflXoRCvvUjSVJnQx3cTwk5vh4Oc2yWfm_UVDsilA/viewform" class="btn">
@@ -107,4 +107,10 @@ Si vous êtes intéressé pour devenir partenaire, pour soutenir le programme ou
   <a href="http://lyon.simplon.co/">
       <img style="max-height: 68px;" src="https://drive.google.com/uc?export=view&id=0B1PuRRJn6XEfWnVIaENpNlNKWjQ" >
   </a>
+  <a href="https://wildcodeschool.fr/">
+      <img style="max-height: 68px;" src="https://drive.google.com/uc?export=view&id=14gLTP9rEeBYhV4PGKX2GgEYqfILy9fLg" >
+  </a>
+  <a href="https://www.ynov.com/">
+        <img style="max-height: 68px;" src="https://drive.google.com/uc?export=view&id=1ThIEZmJZcIWpi0Wrhzl99K4UsGLOfBY6" >
+    </a>
 </div>
