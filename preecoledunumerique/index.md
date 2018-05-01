@@ -49,7 +49,6 @@ Vous pouvez venir à une des sceances de découverte puis rejoindre les groupes 
 - Atelier-découverte de Javascript
 
 <br>
-<br>
 
 <hr style="width: 100%; overflow: auto;">
 
