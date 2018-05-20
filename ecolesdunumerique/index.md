@@ -1,13 +1,13 @@
 ---
-layout: embed
 title: Les écoles du numérique
-excerpt: "Comment s'y retrouver parmis tout ces choix !"
-modified: 2017-06-8T19:44:38.564948-04:00
+layout: embed
+excerpt: Comment s'y retrouver parmis tout ces choix !
+modified: 2017-06-08 23:44:38.564000000 Z
 image:
-  feature:
+  feature: 
   nologo: true
-  credit:
-  creditlink:
+  credit: 
+  creditlink: 
 ---
 
 <h3 style="text-align: center">Où apprendre intensivement à coder ?</h3>

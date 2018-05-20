@@ -1,13 +1,17 @@
 ---
-layout: post
 title: Raccourcis Sous Ubuntu
-modified:
-categories: articles
+date: 2015-06-17 16:06:01 Z
+categories:
+- articles
+tags:
+- Ubuntu
+- OpenSource
+- Configuration
+layout: post
+modified: 
 excerpt: Ca peut toujours servir
-tags: [Ubuntu, OpenSource, Configuration]
 image:
-  feature:
-date: 2015-06-17T18:06:01+02:00
+  feature: 
 comments: true
 share: true
 ---

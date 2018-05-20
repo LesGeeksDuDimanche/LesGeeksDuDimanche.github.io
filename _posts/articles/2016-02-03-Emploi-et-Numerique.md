@@ -1,16 +1,19 @@
 ---
-layout: post
 title: Emploi et numérique
-modified:
-categories: articles
+date: 2016-02-03 09:06:54 Z
+categories:
+- articles
+tags:
+- Emploi
+- génération XYZ
+- Société
+layout: post
+modified: 
 excerpt: Quand les grands groupes parlent d'indépendance
-tags: [Emploi, génération XYZ, Société]
 image:
-  feature:
-date: 2016-02-03T11:06:54+02:00
+  feature: 
 comments: true
 share: true
-published: true
 author: xavier
 ---
 

@@ -1,15 +1,14 @@
 ---
-layout: embed
 title: AdaWeek
+layout: embed
 excerpt: Le numérique est l'affaire de tous
-modified: 2016-05-10T19:44:38.564948-04:00
+modified: 2016-05-10 23:44:38.564000000 Z
 image:
-  feature:
-  credit:
-  creditlink:
-couleur : 
+  feature: 
+  credit: 
+  creditlink: 
+couleur: 
 ---
-
 
 <!-- Change the width and height values to suit you best -->
 <div class="typeform-widget" data-url="https://xalava.typeform.com/to/vW1HNj" data-text="engager communauté" style="width:100%;height:80vh;"></div>

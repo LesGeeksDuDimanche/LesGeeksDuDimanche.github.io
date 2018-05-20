@@ -1,20 +1,20 @@
 ---
-layout: post
 title: Veille de la semaine 2016 16
-modified: null
-categories: notes
+date: 2016-04-23 09:06:54 Z
+categories:
+- notes
+tags:
+- web
+- development
+- innovation
+layout: post
+modified: 
 excerpt: Semaine 16
-tags: 
-  - web
-  - development
-  - innovation
-image: 
-  feature: null
-  credit: null
-date: 2016-04-23T09:06:54.000Z
+image:
+  feature: 
+  credit: 
 comments: true
 share: true
-published: true
 author: cyril
 thumbnail: images/Computer-Cat.jpg
 ---

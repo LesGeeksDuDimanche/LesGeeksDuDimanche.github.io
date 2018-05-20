@@ -1,9 +1,14 @@
 ---
+title: Les Licences Ouvertes
+date: 2015-06-06 00:00:00 Z
+categories:
+- articles
+tags:
+- Droit
+- OpenSource
+- Libre
 layout: post
-title: "Les Licences Ouvertes"
-excerpt: "Pour s'ouvrir l'esprit"
-categories: articles
-tags: [Droit, OpenSource, Libre]
+excerpt: Pour s'ouvrir l'esprit
 comments: true
 share: true
 author: xavier

@@ -1,17 +1,20 @@
 ---
-layout: post
 title: La lettre des Bricodeurs 2
-modified:
-categories: notes
+date: 2016-04-18 09:06:54 Z
+categories:
+- notes
+tags:
+- education
+- numérique
+- innovation
+layout: post
+modified: 
 excerpt: la deuxième
-tags: [education, numérique, innovation]
-image: 
+image:
   feature: 
   credit: 
-date: 2016-04-18T11:06:54+02:00
 comments: true
 share: true
-published: true
 author: xavier
 thumbnail: images/robotique/robot2.jpg
 ---

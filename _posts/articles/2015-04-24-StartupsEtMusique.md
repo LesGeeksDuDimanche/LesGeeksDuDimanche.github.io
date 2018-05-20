@@ -1,9 +1,13 @@
 ---
+title: Startups et musique
+date: 2015-04-24 00:00:00 Z
+categories:
+- articles
+tags:
+- Startup
+- Musique
 layout: post
-title: "Startups et musique"
-excerpt: "Ca fait du bruit"
-categories: articles
-tags: [Startup, Musique]
+excerpt: Ca fait du bruit
 comments: true
 share: true
 ---

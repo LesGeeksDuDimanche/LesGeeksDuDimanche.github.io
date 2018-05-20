@@ -1,14 +1,16 @@
 ---
-layout: post
 title: Mercredi, jour des enfants terribles
-modified:
-categories: articles
+date: 2015-07-01 09:22:20 Z
+categories:
+- articles
+tags:
+- ecosysteme
+- Innovation
+layout: post
+modified: 
 excerpt: Une semaine dans l’écosystème d'innovation de Lyon - Mercredi
-tags: [ecosysteme, Innovation]
 image:
-  feature:
-date: 2015-07-01T11:22:20+02:00
-published: true
+  feature: 
 author: xavier
 share: true
 ---

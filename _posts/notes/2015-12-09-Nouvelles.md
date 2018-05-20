@@ -1,17 +1,19 @@
 ---
-layout: post
 title: Nouvelles et calendrier
-modified:
-categories: notes
+date: 2015-12-09 18:06:54 Z
+categories:
+- notes
+tags:
+- Association
+- Organisation
+- goûters
+layout: post
+modified: 
 excerpt: Bobby
-tags: [Association, Organisation, goûters]
 image:
-  feature:
-date: 2015-12-09T20:06:54+02:00
+  feature: 
 comments: true
 share: true
-published: true
-
 ---
 
 ## Ces dernières semaines

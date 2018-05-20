@@ -1,22 +1,24 @@
 ---
-published: true
-layout: post
-categories: notes
-excerpt: Semaine 24
+title: Veille Bricodeurs 2016 24
+date: 2016-06-18 09:06:54 Z
+categories:
+- notes
 tags:
-  - web
-  - development
-  - innovation
-  - cannabis
+- web
+- development
+- innovation
+- cannabis
+layout: post
+excerpt: Semaine 24
 image:
-  feature: null
-  credit: null
-date: 2016-06-18T09:06:54.000Z
+  feature: 
+  credit: 
 comments: true
 share: true
 author: cyril
 thumbnail: images/Computer-Cat.jpg
 ---
+
 ## Maker et robotique
 
 ### Une grande maison a été construite avec une imprimante 3D

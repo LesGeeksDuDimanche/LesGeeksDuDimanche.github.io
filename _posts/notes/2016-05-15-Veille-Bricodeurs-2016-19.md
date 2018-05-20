@@ -1,22 +1,24 @@
 ---
-published: true
+title: Veille Bricodeurs 2016 19
+date: 2016-05-15 08:55:54 Z
+categories:
+- notes
+tags:
+- web
+- development
+- innovation
+- blockchain
 layout: post
-categories: notes
 excerpt: Semaine 19
-tags: 
-  - web
-  - development
-  - innovation
-  - blockchain
-image: 
-  feature: null
-  credit: null
-date: 2016-05-15T10:55:54+02:00
+image:
+  feature: 
+  credit: 
 comments: true
 share: true
 author: cyril
-thumbnail: "images/Computer-Cat.jpg"
+thumbnail: images/Computer-Cat.jpg
 ---
+
 ## Maker et robotique
 
 ### Le top 50 des gadgets les plus influents du Time

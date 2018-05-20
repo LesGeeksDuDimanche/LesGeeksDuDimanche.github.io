@@ -1,21 +1,23 @@
 ---
-published: true
+title: Veille Bricodeurs 2016 18
+date: 2016-05-07 09:06:54 Z
+categories:
+- notes
+tags:
+- web
+- Raspberry
+- blockchain
 layout: post
-categories: notes
 excerpt: Semaine 18
-tags: 
-  - web
-  - Raspberry
-  - blockchain
-image: 
-  feature: null
-  credit: null
-date: 2016-05-7T09:06:54.000Z
+image:
+  feature: 
+  credit: 
 comments: true
 share: true
 author: cyril
-thumbnail: "images/Computer-Cat.jpg"
+thumbnail: images/Computer-Cat.jpg
 ---
+
 ## Maker et robotique
 
 ### Test du piTop le portable à base de Raspberry Pi

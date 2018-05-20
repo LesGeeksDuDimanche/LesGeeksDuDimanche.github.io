@@ -1,13 +1,13 @@
 ---
-layout: page
 title: La Nuit Du Code Citoyen
+layout: page
 excerpt: Technologie, Citoyenneté & Fun
-modified: 2016-05-10T19:44:38.564948-04:00
+modified: 2016-05-10 23:44:38.564000000 Z
 image:
   feature: NCC/banner.jpg
-  credit:
-  creditlink:
-couleur : 
+  credit: 
+  creditlink: 
+couleur: 
 ---
 
 La Nuit du Code Citoyen est un marathon d'innovation les 9 et 10 mars 2018 associant **thématiques citoyennes et technologie** en simultané dans plusieurs villes de pays francophones. L’évènement est suivi d’un programme d’accompagnement sur

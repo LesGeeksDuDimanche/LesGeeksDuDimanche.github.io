@@ -1,21 +1,22 @@
 ---
-layout: post
-title: Comment installer npm proprement  
-modified: null
-categories: articles
-excerpt: Please God save us from NPM 
+title: Comment installer npm proprement
+date: 2017-09-05 11:57:12 Z
+categories:
+- articles
 tags:
-  - Editeur
-  - developpement
-  - installation
+- Editeur
+- developpement
+- installation
+layout: post
+modified: 
+excerpt: Please God save us from NPM
 image:
   feature: 
 comments: true
 share: true
-date: 2017-09-05T13:57:12+02:00
 author: xavier
-published: true 
 ---
+
 ![npm]({{ site.url }}/images/npm2.png){: .pull-right}
 
 # Mais qu'est que npm? 

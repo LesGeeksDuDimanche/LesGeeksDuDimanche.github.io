@@ -1,22 +1,24 @@
 ---
-published: true
-layout: post
-categories: notes
-excerpt: Semaine 23
+title: Veille Bricodeurs 2016 23
+date: 2016-06-11 12:06:54 Z
+categories:
+- notes
 tags:
-  - web
-  - development
-  - innovation
-  - jardinage
+- web
+- development
+- innovation
+- jardinage
+layout: post
+excerpt: Semaine 23
 image:
-  feature: null
-  credit: null
-date: 2016-06-11T12:06:54.000Z
+  feature: 
+  credit: 
 comments: true
 share: true
 author: cyril
 thumbnail: images/Computer-Cat.jpg
 ---
+
 ## Maker et robotique
 
 ### Création de robots qui ressentent la douleur

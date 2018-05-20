@@ -1,13 +1,17 @@
 ---
-layout: post
 title: Documentation juridique pour startup
-modified:
-categories: articles
-excerpt: "The Family d'avocats"
-tags: [OpenSource,droit,startup]
+date: 2015-06-16 12:57:12 Z
+categories:
+- articles
+tags:
+- OpenSource
+- droit
+- startup
+layout: post
+modified: 
+excerpt: The Family d'avocats
 image:
   feature: avocat.jpeg
-date: 2015-06-16T14:57:12+02:00
 comments: true
 share: true
 author: xavier

@@ -1,17 +1,21 @@
 ---
-layout: post
 title: Notes BDD - 19 juillet
-modified:
-categories: notes
-excerpt: .
-tags: [Big data, devweb, python]
+date: 2015-07-19 18:06:54 Z
+categories:
+- notes
+tags:
+- Big data
+- devweb
+- python
+layout: post
+modified: 
+excerpt: "."
 image:
-  feature:
-date: 2015-07-19T20:06:54+02:00
+  feature: 
 comments: true
 share: true
-published: true
 ---
+
 Quelques neurones, des litres de menthe à l'eau et un gateau au pavot plus tard:
 
 ## Se mettre au développement web

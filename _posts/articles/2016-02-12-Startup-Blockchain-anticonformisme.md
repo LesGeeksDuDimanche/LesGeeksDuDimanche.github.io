@@ -1,16 +1,19 @@
 ---
+title: Au royaume de la blockchain, les anticonformistes sont rois
+date: 2016-02-12 09:06:54 Z
+categories:
+- articles
+tags:
+- blockchain
+- innovation
+- lift16
 layout: post
-title: Au royaume de la blockchain, les anticonformistes sont rois 
-modified:
-categories: articles
+modified: 
 excerpt: Lifting in Geneva
-tags: [blockchain, innovation, lift16]
 image:
-  feature:
-date: 2016-02-12T11:06:54+02:00
+  feature: 
 comments: true
 share: true
-published: true
 author: xavier
 ---
 

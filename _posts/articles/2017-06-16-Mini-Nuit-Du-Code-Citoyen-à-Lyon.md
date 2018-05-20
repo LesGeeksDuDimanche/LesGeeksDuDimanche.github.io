@@ -1,19 +1,21 @@
 ---
-layout: post
 title: Deuxième Mini-Nuit à Lyon
-categories: articles
+date: 2017-06-16 10:00:40 Z
+categories:
+- articles
+tags:
+- NCC
+- CivicTech
+- Hackaton
+layout: post
 excerpt: NCC#2
-tags: [NCC, CivicTech, Hackaton]
 image:
-  feature:
-date: 2017-06-16T12:00:40+02:00
+  feature: 
 author: samuel
 comments: true
 share: true
-published: true
 thumbnail: images/taupe.jpg
 ---
-
 
 Mercredi dernier, c'était la deuxième Mini-Nuit du Code Citoyen à Lyon.
 

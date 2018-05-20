@@ -1,15 +1,20 @@
 ---
-layout: post
 title: Notes BDD - 12 juillet
-modified:
-categories: notes
-excerpt: .
-tags: [formations, distribution, linux, web]
+date: 2015-07-13 21:06:54 Z
+categories:
+- notes
+tags:
+- formations
+- distribution
+- linux
+- web
+layout: post
+modified: 
+excerpt: "."
 image:
-  feature:
-date: 2015-07-13T23:06:54+02:00
+  feature: 
 comments: true
 share: true
-published: true
 ---
+
 <script src="https://lesgeeksdudimanche.hackpad.com/SjfjAB8tJAJ.js?format=html-notitle"></script><noscript><div>View <a href="https://lesgeeksdudimanche.hackpad.com/SjfjAB8tJAJ">Les Bricodeurs - 12 Juillet</a> on Hackpad.</div></noscript>

@@ -1,17 +1,19 @@
 ---
-layout: post
 title: Les Bricodeurs recrutent des responsables de pôles!
-modified:
-categories: notes
+date: 2016-10-23 10:42:40 Z
+categories:
+- notes
+tags:
+- association
+- recrutement
+layout: post
+modified: 
 excerpt: On vous attend!
-tags: [association, recrutement]
 image:
-  feature:
-date: 2016-10-23T12:42:40+02:00
+  feature: 
 author: 
 comments: true
 share: true
-published: true
 thumbnail: 
 ---
 

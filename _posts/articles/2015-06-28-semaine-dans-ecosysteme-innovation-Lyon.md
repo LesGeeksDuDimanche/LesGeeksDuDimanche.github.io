@@ -1,14 +1,16 @@
 ---
-layout: post
 title: J'ai deux passions, les startups et les brunchs.
-modified:
-categories: articles
+date: 2015-06-28 09:22:20 Z
+categories:
+- articles
+tags:
+- ecosysteme
+- Innovation
+layout: post
+modified: 
 excerpt: Une semaine dans l'ecosystème d'innovation de Lyon
-tags: [ecosysteme, Innovation]
 image:
-  feature:
-date: 2015-06-28T11:22:20+02:00
-published: true
+  feature: 
 author: xavier
 share: true
 ---

@@ -1,17 +1,20 @@
 ---
-layout: post
 title: La lettre des Bricodeurs 3
-modified:
-categories: notes
+date: 2016-05-13 03:55:54 Z
+categories:
+- notes
+tags:
+- événements
+- numérique
+- éducation
+layout: post
+modified: 
 excerpt: troiz'
-tags: [événements, numérique, éducation]
-image: 
+image:
   feature: 
   credit: 
-date: 2016-05-13T05:55:54+02:00
 comments: true
 share: true
-published: true
 author: xavier
 thumbnail: images/robotique/robot2.jpg
 ---

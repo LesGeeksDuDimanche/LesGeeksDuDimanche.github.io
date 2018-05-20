@@ -1,20 +1,21 @@
 ---
-layout: post
 title: Les Modèles économiques ouverts
-modified:
-categories: articles
+date: 2016-04-04 09:06:54 Z
+categories:
+- articles
+tags:
+- opensource
+- innovation
+- collaboratif
+layout: post
+modified: 
 excerpt: Les Journées du Logiciel Libre 2016
-tags: [opensource, innovation, collaboratif]
-image: 
-  feature:
-date: 2016-04-4T11:06:54+02:00
+image:
+  feature: 
 comments: true
 share: true
-published: true
 author: zoe
 ---
-
-
 
 _Développer un projet open source peut être un choix éthique ou pragmatique. Mais l'accessibilité du code impose de trouver des modèles économiques innovants. En ces 17èmes Journées du Logiciel Libre, les Bricodeurs ont réuni quatre acteurs de l'économie ouverte pour échanger sur ces multiples modèles._
 

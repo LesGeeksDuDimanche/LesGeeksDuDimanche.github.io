@@ -1,20 +1,20 @@
 ---
-layout: post
 title: Sublime Text vs Atom
-modified: null
-categories: articles
-excerpt: Vim vs Emacs pour les humains (han)
+date: 2015-07-06 12:57:12 Z
+categories:
+- articles
 tags:
-  - Editeur
-  - developpement
-  - installation
+- Editeur
+- developpement
+- installation
+layout: post
+modified: 
+excerpt: Vim vs Emacs pour les humains (han)
 image:
-  feature:
+  feature: 
 comments: true
 share: true
-date: 2015-07-06T14:57:12+02:00
 author: xavier
-published: true
 ---
 
 Je me souviens encore de ce moment où un ami me partageait son enthousiasme pour Sublime Text. Il devait remporter mon adhésion instantanément avec l'édition multiligne :

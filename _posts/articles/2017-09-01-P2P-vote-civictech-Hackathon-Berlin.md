@@ -1,18 +1,22 @@
 ---
-layout: post
 title: P2P-vote au Democracy CivicTech Hackathon à Berlin
-categories: articles
+date: 2017-09-01 10:00:40 Z
+categories:
+- articles
+tags:
+- NCC
+- CivicTech
+- Hackaton
+layout: post
 excerpt: P2P vote
-tags: [NCC, CivicTech, Hackaton]
 image:
   feature: 
-date: 2017-09-01T12:00:40+02:00
 author: antoine
 comments: true
 share: true
-published: true
-thumbnail: //raw.githubusercontent.com/LesGeeksDuDimanche/p2p-vote/master/src/assets/landing-page.png
+thumbnail: "//raw.githubusercontent.com/LesGeeksDuDimanche/p2p-vote/master/src/assets/landing-page.png"
 ---
+
 Vendredi et samedi dernier, nous étions chez les allemands. The Factory, la communauté d'innovateurs berlinoise, accueillait sur 2 jours le hackathon civictech [#DemocracyIsEverything](https://twitter.com/search?src=typd&q=%23democracyiseverything).
 
 Le but du hackathon auquel nous participions ? Hacker la démocratie en mangeant des Würsts !

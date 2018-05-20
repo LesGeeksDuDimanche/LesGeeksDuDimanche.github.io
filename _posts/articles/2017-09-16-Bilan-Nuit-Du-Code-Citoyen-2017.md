@@ -1,16 +1,19 @@
 ---
-layout: post
 title: Bilan de la Nuit du Code Citoyen
-categories: articles
+date: 2017-09-16 10:00:40 Z
+categories:
+- articles
+tags:
+- NCC
+- CivicTech
+- Hackathon
+layout: post
 excerpt: Comment ça t'étais pas là?
-tags: [NCC, CivicTech, Hackathon]
 image:
-  feature:
-date: 2017-09-16T12:00:40+02:00
+  feature: 
 author: xavier
 comments: true
 share: true
-published: true
 thumbnail: images/taupe.jpg
 ---
 

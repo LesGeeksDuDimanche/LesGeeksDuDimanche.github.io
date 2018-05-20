@@ -1,17 +1,20 @@
 ---
-layout: post
 title: Fini la rigolade, vive la marmelade
-modified:
-categories: articles
+date: 2015-06-29 09:22:20 Z
+categories:
+- articles
+tags:
+- ecosysteme
+- Innovation
+layout: post
+modified: 
 excerpt: Une semaine dans l'ecosystème d'innovation de Lyon - Lundi
-tags: [ecosysteme, Innovation]
 image:
-  feature:
-date: 2015-06-29T11:22:20+02:00
-published: true
+  feature: 
 author: xavier
 share: true
 ---
+
 Après un [dimanche](/articles/semaine-dans-ecosysteme-innovation-Lyon/) pas de tout repos, poursuivons notre exploration de l'écosystème d'innovation de Lyon avec un lundi.  
 
 ![L'impropitch]({{ site.url }}/images/impropitch.jpg){: .pull-right}

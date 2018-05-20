@@ -1,13 +1,13 @@
 ---
-layout: embed
 title: Atelier Minecraft
+layout: embed
 excerpt: Les Ateliers d'Ada
-modified: 2016-05-10T19:44:38.564948-04:00
+modified: 2016-05-10 23:44:38.564000000 Z
 image:
-  feature:
-  credit:
-  creditlink:
-couleur : 
+  feature: 
+  credit: 
+  creditlink: 
+couleur: 
 ---
 
 <div class="typeform-widget" data-url="https://xalava.typeform.com/to/Ag9g66" data-text="Atelier Minecraft" style="width:100%;height:90vh;"></div>

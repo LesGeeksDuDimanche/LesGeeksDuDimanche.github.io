@@ -1,14 +1,17 @@
 ---
-layout: post
 title: Libre comme un Hackpad
+date: 2015-08-22 00:22:20 Z
+categories:
+- articles
+tags:
+- OpenSource
+- Hackpad
+- code
+layout: post
 modified: 
-categories: articles
 excerpt: Enfin!
-tags: [OpenSource, Hackpad, code]
-image: 
+image:
   feature: 
-date: 2015-08-22T02:22:20+02:00
-published: true
 author: xavier
 share: true
 ---

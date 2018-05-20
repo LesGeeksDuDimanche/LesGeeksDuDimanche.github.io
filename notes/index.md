@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Blog Note
-excerpt: "Historique de nos (d)ébats"
+layout: page
+excerpt: Historique de nos (d)ébats
 search_omit: true
 ---
 

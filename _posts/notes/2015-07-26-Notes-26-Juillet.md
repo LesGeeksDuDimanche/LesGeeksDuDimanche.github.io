@@ -1,17 +1,21 @@
 ---
-layout: post
 title: Notes BDD - 26 juillet
-modified:
-categories: notes
-excerpt: .
-tags: [Arts Numeriques, qualité de vie, python]
+date: 2015-07-26 18:06:54 Z
+categories:
+- notes
+tags:
+- Arts Numeriques
+- qualité de vie
+- python
+layout: post
+modified: 
+excerpt: "."
 image:
-  feature:
-date: 2015-07-26T20:06:54+02:00
+  feature: 
 comments: true
 share: true
-published: true
 ---
+
 ## Développement d'applications
 
 * [Kivy](http://kivy.org/) framework python

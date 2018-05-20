@@ -1,20 +1,20 @@
 ---
+title: Que faire après avoir installé Ubuntu ?
+date: 2015-06-13 12:57:12 Z
+categories:
+- articles
+tags:
+- Ubuntu
+- OpenSource
+- installation
 layout: post
-title: Que faire après avoir installé Ubuntu ? 
-modified: null
-categories: articles
+modified: 
 excerpt: Quand tu croyais avoir fini
-tags: 
-  - Ubuntu
-  - OpenSource 
-  - installation
-image: 
+image:
   feature: ubuntu.jpg
 comments: true
 share: true
-date: 2015-06-13T14:57:12+02:00
 author: xavier
-published: true
 ---
 
 Ubuntu est un système d'exploitation qui convient particulièrement:

@@ -1,14 +1,17 @@
 ---
-layout: post
 title: Office hebdomadaire et Grand Messe
-modified:
-categories: articles
+date: 2015-07-02 09:22:20 Z
+categories:
+- articles
+tags:
+- ecosysteme
+- Innovation
+- Lyon
+layout: post
+modified: 
 excerpt: Une semaine dans l’écosystème d'innovation de Lyon - Jeudi
-tags: [ecosysteme, Innovation, Lyon]
 image:
-  feature:
-date: 2015-07-02T11:22:20+02:00
-published: true
+  feature: 
 author: xavier
 share: true
 ---

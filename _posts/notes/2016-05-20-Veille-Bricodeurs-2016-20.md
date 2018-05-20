@@ -1,22 +1,24 @@
 ---
-published: true
+title: Veille Bricodeurs 2016 20
+date: 2016-05-20 18:06:54 Z
+categories:
+- notes
+tags:
+- web
+- development
+- innovation
+- blockchain
 layout: post
-categories: notes
 excerpt: Semaine 20
-tags: 
-  - web
-  - development
-  - innovation
-  - blockchain
-image: 
-  feature: null
-  credit: null
-date: 2016-05-20T18:06:54.000Z
+image:
+  feature: 
+  credit: 
 comments: true
 share: true
 author: cyril
-thumbnail: "images/Computer-Cat.jpg"
+thumbnail: images/Computer-Cat.jpg
 ---
+
 Petite Veille cette semaine, j’ai fait la feignasse car je prépare mes vacances.
 
 

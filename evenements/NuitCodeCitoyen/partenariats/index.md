@@ -1,14 +1,15 @@
 ---
-layout: embed
 title: La Nuit du Code Citoyen
-excerpt: "Partenariats"
-modified: 2016-02-24T19:44:38.564948-04:00
+layout: embed
+excerpt: Partenariats
+modified: 2016-02-24 23:44:38.564000000 Z
 image:
   feature: 
-  credit:
-  creditlink:
-thumbnail : 
+  credit: 
+  creditlink: 
+thumbnail: 
 ---
+
 <!-- <div style="padding: 0 auto;">
  -->
 <div id="main" role="main">
