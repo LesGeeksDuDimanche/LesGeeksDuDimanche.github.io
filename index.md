@@ -9,23 +9,24 @@ image:
   creditlink:
 ---
 
-Les Bricodeurs est un collectif de professionnels engagés pour que l'expertise numérique soit au service de l'utilité sociale.
+Les Bricodeurs est le collectif des professionnels du numérique engagés pour que l’expertise numérique soit au service de l’utilité sociale.
 
-**Qui sont les bricodeurs ?** Des professionnels et passionnés du numérique de diverses filières (Blockchain, développement web, Arts numérique, Design ...) et différents profils (indépendants, chercheurs, entrepreneurs ...). Nous sommes particulièrement attentifs à la diversité de genre, culturelle et sociale dans nos actions et nos instances.  
+Particulièrement attentifs à l'ouverture et la diversité de genre, culturelle et sociale dans nos actions et nos instance, nous établissons une passerelle entre les écosystèmes techniques, les besoins et le grand public.
 
-**Que font les bricodeurs ?** L'accompagnement de projets numérique citoyens et la diffusion de la culture numérique:  
+### Reseau de professionnels engagés 
 
-### Numérique citoyen
+* L'accompagnement des professionnels par nos événements et notre [réseau interne](https://join.slack.com/t/bricodeurs/shared_invite/enQtMjk4MDg1NTIxMDI4LWU1MjRhMjlmYmYyYmM3MGRhNjg3YjIzMGRiMzk0YjE4OTYyYzUxZWFkMDE1MTZiZTRiOTBhYTA4YTQ5YTA2NTY)
 * [La nuit du code citoyen](https://nuitcodecitoyen.org), hackathon international et programme d'accélération de projets numériques citoyens
-* Conférences CivicTech pour échanger sur des sujets de technologie et société autour d'une brioche : Histoire de la collecte de données, Modèles économiques Open Source ...
+* Conférences, [analyse]({{ site.url }}/articles/) et action [publique](https://twitter.com/lesbricodeurs) sur les questions de protection des données personnelles, de modèles économiques de l'Open Source ... 
 
-### Éducation au numérique
-* Ateliers créatifs de découverte du code et de la robotique pour jeunes [Ateliers d'Ada]({{site.url}}/AteliersdAda/)
-* Formations collaborative à la programmation , notamment via [La préécole du numérique]({{site.url}}/preecoledunumerique/)
-* L'accompagnement des jeunes professionnels, par nos événements et notre [réseau](https://join.slack.com/t/bricodeurs/shared_invite/enQtMjk4MDg1NTIxMDI4LWU1MjRhMjlmYmYyYmM3MGRhNjg3YjIzMGRiMzk0YjE4OTYyYzUxZWFkMDE1MTZiZTRiOTBhYTA4YTQ5YTA2NTY)
+### Formation professionnelle et éducation
+
+* Ateliers créatifs de découverte de la programmation et de la robotique pour jeunes [Ateliers d'Ada]({{site.url}}/AteliersdAda/)
+* Formations collaborative à la programmation notamment via [La préécole du numérique]({{site.url}}/preecoledunumerique/)
 
 <div><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Flesbricodeurs%2Fvideos%2F290466934626200%2F&show_text=0&width=590" width="590" height="325" style="border:none;overflow:hidden;display:block;margin:0 auto" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe></div>	
 
+**Qui sont les bricodeurs ?** Des professionnels et passionnés du numérique de diverses filières (Blockchain, développement web, Arts numérique, Design ...) et différents profils (indépendants, chercheurs, entrepreneurs ...). 
 
 **Comment sont organisés les bricodeurs?** Les bricodeurs sont une slackocracie, avec beaucoup d'échanges en ligne, une antenne active à Lille, Paris et Lyon, et une équipe de quelques salariés à Lyon qui assure les actions d'éducation.
 
@@ -39,15 +40,15 @@ N'hésitez pas à nous contacter <a href="mailto:salut@lesbricodeurs.fr">salut@l
 
 # Les valeurs
 
-Comme aurait dit Clémenceau, "L'informatique est trop grave pour être confiée à des informaticiens". Nous pensons d'une part que le numérique est surtout un enjeu culturel et sociétal. Engagés dans une démarge d'ouverture, nous travaillons à l'interdisciplinarité, la parité et l'inclusion sur ces thématiques.
+Nous pensons d'une part que le numérique est surtout un enjeu culturel et sociétal. Engagés dans une démarge d'ouverture, nous travaillons à l'interdisciplinarité, la parité et l'inclusion sur ces thématiques.
 
-Pour autant le débat public manque souvent de compétences. Nous travaillons ainsi auprès des collectivités, des acteurs de l'Economie Sociale et Solidaire, et des incubateurs pour apporter cette expertise.
+Pour autant le débat public manque souvent de compétences. Nous travaillons ainsi auprès des acteurs publics, des acteurs de l'Economie Sociale et Solidaire, des entreprises et des incubateurs pour apporter ces expertises.
 
 # Les partenaires 
 
 L'essentiel de nos actions est porté par l'énergie de ses adhérents, on vous aime.
 
-Nous remercions la Fondation de France et la Métropole de Lyon pour leur soutien. Ainsi que tous ceux qui nous sollicitent pour organiser des ateliers pour les jeunes, des conférences et des hackathons.
+Nous remercions la Fondation de France, la fondation de France et la Métropole de Lyon pour leur soutien. Ainsi que tous ceux qui nous sollicitent pour organiser des ateliers pour les jeunes, des conférences et des hackathons.
 
 Les Bricodeurs sont de fiers cofondateurs de la Mednum, coopérative des acteurs de la médiation numérique.
 
