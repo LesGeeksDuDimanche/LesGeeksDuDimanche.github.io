@@ -1,13 +1,13 @@
 ---
-layout: slider
 title: Atelier Web Ticket For Change
-excerpt: ""
-modified: 2016-10-24T19:44:38.564948-04:00
+layout: slider
+excerpt: ''
+modified: 2016-10-24 23:44:38.564000000 Z
 image:
   feature: 
-  credit:
-  creditlink:
-thumbnail : 
+  credit: 
+  creditlink: 
+thumbnail: 
 ---
 
 <div id="main" role="main">

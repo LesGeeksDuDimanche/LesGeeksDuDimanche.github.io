@@ -1,17 +1,20 @@
 ---
-layout: post
 title: Le ballet du Code
-modified:
-categories: articles
+date: 2016-11-14 10:42:40 Z
+categories:
+- articles
+tags:
+- jeux
+- robotique
+- ateliers
+layout: post
+modified: 
 excerpt: Casse-noisette et les LEGO
-tags: [jeux, robotique, ateliers]
 image:
-  feature:
-date: 2016-11-14T12:42:40+02:00
+  feature: 
 author: anneclaire
 comments: true
 share: true
-published: true
 thumbnail: images/taupe.jpg
 ---
 

@@ -1,17 +1,21 @@
 ---
-layout: post
 title: Utiliser Git
-modified:
-categories: articles
+date: 2015-06-18 21:42:40 Z
+categories:
+- articles
+tags:
+- OpenSource
+- git
+layout: post
+modified: 
 excerpt: gouvernement du code par Linus pour Linux
-tags: [OpenSource, git]
 image:
-  feature:
-date: 2015-06-18T23:42:40+02:00
+  feature: 
 author: xavier
 comments: true
 share: true
 ---
+
 Apprendre à utiliser *git*, c'est un peu comme apprendre à faire ses lacets. On peut faire sans, mais la vie devient plus simple et moins dangereuse avec.
 
 Dans un répertoire donné *git* vous permet d'enregistrer les modifications de votre travail. Chaque enregistrement est appelé *commit*. L’intérêt est multiple : avoir un historique des modifications et pouvoir revenir en arrière, pouvoir partager ces modifications à plusieurs, gérer les conflits de versions, gagner le respect d'autres développeurs ...

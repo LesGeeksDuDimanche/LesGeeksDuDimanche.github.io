@@ -1,17 +1,19 @@
 ---
-layout: post
 title: Les technos derrière Pokemon Go
-modified:
-categories: articles
+date: 2016-07-27 10:42:40 Z
+categories:
+- articles
+tags:
+- game
+- gps
+layout: post
+modified: 
 excerpt: Pendant que vous cherchez les Pokemon, Pokemon Go vous trouve
-tags: [game, gps]
 image:
-  feature:
-date: 2016-07-27T12:42:40+02:00
+  feature: 
 author: martin
 comments: true
 share: true
-published: true
 thumbnail: images/taupe.jpg
 ---
 

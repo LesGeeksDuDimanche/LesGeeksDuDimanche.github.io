@@ -1,22 +1,23 @@
 ---
-layout: post
 title: Nouvelles Frontend S16E16
-modified: null
-categories: notes
+date: 2016-04-20 09:06:54 Z
+published: false
+categories:
+- notes
+tags:
+- web
+- development
+- innovation
+layout: post
+modified: 
 excerpt: Semaine 16
-tags: 
-  - web
-  - development
-  - innovation
-image: 
-  feature: null
-  credit: null
-date: 2016-04-20T09:06:54.000Z
+image:
+  feature: 
+  credit: 
 comments: true
 share: true
-published: false
 author: cyril
-thumbnail: "images/Computer-Cat.jpg"
+thumbnail: images/Computer-Cat.jpg
 ---
 
 [Interaction entre un middleware PHP PSR-7 et React](https://mwop.net/blog/2016-04-17-react2psr7.html) : 

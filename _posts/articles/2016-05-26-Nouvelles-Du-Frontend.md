@@ -1,17 +1,20 @@
 ---
-layout: post
 title: Nouvelles Du Front(end)
-modified:
-categories: articles
+date: 2016-05-26 09:06:54 Z
+categories:
+- articles
+tags:
+- web
+- frontend
+- debat
+layout: post
+modified: 
 excerpt: Framework JS vs télétravail
-tags: [web, frontend, debat]
-image: 
+image:
   feature: 
   credit: 
-date: 2016-05-26T11:06:54+02:00
 comments: true
 share: true
-published: true
 author: nico
 thumbnail: images/robotique/robot2.jpg
 ---

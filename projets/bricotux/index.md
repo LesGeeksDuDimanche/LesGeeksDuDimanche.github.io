@@ -1,12 +1,12 @@
 ---
-layout: page
 title: Bricotux
-excerpt: "Distribution légère pour l'éducation au numérique"
-modified: 2015-07-24T19:44:38.564948-04:00
+layout: page
+excerpt: Distribution légère pour l'éducation au numérique
+modified: 2015-07-24 23:44:38.564000000 Z
 image:
-  feature:
-  credit:
-  creditlink:
+  feature: 
+  credit: 
+  creditlink: 
 ---
 
 Distribution linux légère fournissant un environnement prêt à l'emploi pour les enseignants, animateurs et formateurs dans le cadre de l’initation au pratiques numériques et au code.

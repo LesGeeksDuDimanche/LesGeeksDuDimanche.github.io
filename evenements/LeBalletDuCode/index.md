@@ -1,13 +1,13 @@
 ---
-layout: page
 title: Le Ballet du Code
-excerpt: "Découvrir la robotique et la programmation par le jeu"
-modified: 2016-09-04T19:44:38.564948-04:00
+layout: page
+excerpt: Découvrir la robotique et la programmation par le jeu
+modified: 2016-09-04 23:44:38.564000000 Z
 image:
   feature: 
-  credit:
-  creditlink:
-thumbnail : images/ada.png
+  credit: 
+  creditlink: 
+thumbnail: images/ada.png
 ---
 
 La Maison des mathématiques et les bricodeurs vous convient à un atelier unique, d’exploration de la programmation et de la robotique autour du thème du ballet.

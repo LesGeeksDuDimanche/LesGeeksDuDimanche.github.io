@@ -1,16 +1,19 @@
 ---
-layout: post
 title: Chirimen, l'IOT de Mozilla
-modified:
-categories: articles
-excerpt: "Hello Real world"
-tags: [IOT, Web, OpenSource]
-image: 
-    feature: chirimenTissu.jpg 
-date: 2016-01-08T13:06:54+02:00
+date: 2016-01-08 11:06:54 Z
+categories:
+- articles
+tags:
+- IOT
+- Web
+- OpenSource
+layout: post
+modified: 
+excerpt: Hello Real world
+image:
+  feature: chirimenTissu.jpg
 comments: true
 share: true
-published: true
 ---
 
 ## Du Mozilla dans ton objet connecté

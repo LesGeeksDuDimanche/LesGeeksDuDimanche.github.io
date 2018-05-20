@@ -1,15 +1,13 @@
 ---
-layout: evenements
 title: Les événements
+layout: evenements
 excerpt: 
-modified: 2015-07-24T19:44:38.564948-04:00
+modified: 2015-07-24 23:44:38.564000000 Z
 image:
-  feature:
-  credit:
-  creditlink:
+  feature: 
+  credit: 
+  creditlink: 
 ---
-
-
 
 <div id='calendar'></div>
 

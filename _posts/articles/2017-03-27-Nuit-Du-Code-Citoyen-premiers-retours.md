@@ -1,17 +1,20 @@
 ---
+title: La nuit du code citoyen
+date: 2017-03-27 10:42:40 Z
+categories:
+- articles
+tags:
+- CivicTech
+- Démocratie
+- société
 layout: post
-title: La nuit du code citoyen 
-modified:
-categories: articles
+modified: 
 excerpt: Crêpes et démocratie
-tags: [CivicTech, Démocratie, société]
 image:
-  feature:
-date: 2017-03-27T12:42:40+02:00
+  feature: 
 author: anneclaire
 comments: true
 share: true
-published: true
 thumbnail: images/taupe.jpg
 ---
 

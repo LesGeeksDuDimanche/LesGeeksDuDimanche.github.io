@@ -1,21 +1,23 @@
 ---
-published: true
-layout: post
-categories: notes
-excerpt: Semaine 22
+title: Veille Bricodeurs 2016 22
+date: 2016-06-04 18:06:54 Z
+categories:
+- notes
 tags:
-  - web
-  - development
-  - innovation
+- web
+- development
+- innovation
+layout: post
+excerpt: Semaine 22
 image:
-  feature: null
-  credit: null
-date: 2016-06-04T18:06:54.000Z
+  feature: 
+  credit: 
 comments: true
 share: true
 author: cyril
 thumbnail: images/Computer-Cat.jpg
 ---
+
 ## Maker et robotique
 
 ### Apple peut le faire, mais pas vous

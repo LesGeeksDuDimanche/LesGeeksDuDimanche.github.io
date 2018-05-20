@@ -1,13 +1,13 @@
 ---
+title: Le Hello World
+date: 2015-06-07 19:39:55 Z
+categories:
+- notes
 layout: post
-title: "Le Hello World"
-modified:
-categories: notes
+modified: 
 excerpt: Aussi inutile que son nom l'indique
-tags: []
 image:
-  feature:
-date: 2015-06-07T15:39:55-04:00
+  feature: 
 comments: true
 share: true
 ---

@@ -1,16 +1,19 @@
 ---
-layout: post
 title: React passe sous licence MIT
-categories: articles
+date: 2017-09-23 10:00:40 Z
+categories:
+- articles
+tags:
+- OpenSource
+- Licence
+- ReactGate
+layout: post
 excerpt: Open Source a gagné, mais quel Open Source ?
-tags: [OpenSource, Licence, ReactGate]
 image:
   feature: react.jpeg
-date: 2017-09-23T12:00:40+02:00
 author: xavier
 comments: true
 share: true
-published: true
 thumbnail: images/taupe.jpg
 ---
 

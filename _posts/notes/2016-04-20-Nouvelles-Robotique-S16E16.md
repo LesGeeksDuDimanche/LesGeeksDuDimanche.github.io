@@ -1,17 +1,21 @@
 ---
-layout: post
 title: Nouvelles Maker & Robotique S16E16
-modified:
-categories: notes
+date: 2016-04-20 09:06:54 Z
+published: false
+categories:
+- notes
+tags:
+- maker
+- robotique
+- innovation
+layout: post
+modified: 
 excerpt: Semaine 16
-tags: [maker, robotique, innovation]
-image: 
+image:
   feature: 
   credit: 
-date: 2016-04-20T11:06:54+02:00
 comments: true
 share: true
-published: false
 author: cyril
 thumbnail: images/Computer-Cat.jpg
 ---

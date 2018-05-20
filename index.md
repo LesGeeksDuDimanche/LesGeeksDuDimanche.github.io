@@ -1,12 +1,11 @@
 ---
 layout: page
-title:
 excerpt: Quelques pensées sur le numérique"
-modified: 2015-06-08T19:44:38.564948-04:00
+modified: 2015-06-08 23:44:38.564000000 Z
 image:
-  feature:
-  credit:
-  creditlink:
+  feature: 
+  credit: 
+  creditlink: 
 ---
 
 Les Bricodeurs est le collectif des professionnels du numérique engagés pour que l’expertise numérique soit au service de l’utilité sociale.

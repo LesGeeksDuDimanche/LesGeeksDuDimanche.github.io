@@ -1,13 +1,14 @@
 ---
-layout: page
 title: Les Ateliers d'Ada
-excerpt: "Découvrir la robotique et la programmation par le jeu"
-modified: 2016-02-24T19:44:38.564948-04:00
+layout: page
+excerpt: Découvrir la robotique et la programmation par le jeu
+modified: 2016-02-24 23:44:38.564000000 Z
 image:
   feature: Bandeau4.jpg
-  credit:
-  creditlink:
+  credit: 
+  creditlink: 
 ---
+
 Voici les outils que nous utilisons dans nos ateliers. Nous privilégions les outils accessibles, avec une documentation abondante et ouverts.
 
 ## Scratch

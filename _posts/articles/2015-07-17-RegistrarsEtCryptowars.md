@@ -1,20 +1,20 @@
 ---
-layout: post
 title: Les pirates s'installent à La Réunion
-modified: null
-categories: articles
-excerpt: Registrars & Cryptowars
+date: 2015-07-17 09:57:12 Z
+categories:
+- articles
 tags:
-  - Cryptographie
-  - Piratage
-  - Registrars
+- Cryptographie
+- Piratage
+- Registrars
+layout: post
+modified: 
+excerpt: Registrars & Cryptowars
 image:
-  feature:
+  feature: 
 comments: true
 share: true
-date: 2015-07-17T11:57:12+02:00
 author: xavier
-published: true 
 ---
 
 _Le populaire logiciel Popcorntime vient de voir le nom de domaine popcorntime.io fermé. Un nouvel épisode du conflit entre liberté et légalité sur internet._

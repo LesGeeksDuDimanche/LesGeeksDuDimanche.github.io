@@ -1,12 +1,12 @@
 ---
-layout: page
 title: Permanence Numérique
+layout: page
 excerpt: SoTech
-modified: 2015-07-24T19:44:38.564948-04:00
+modified: 2015-07-24 23:44:38.564000000 Z
 image:
-  feature:
-  credit:
-  creditlink:
+  feature: 
+  credit: 
+  creditlink: 
 ---
 
 La permanence est ouverte à tous et gratuite. Tenue par des professionnels du numérique, nous sommes là pour vous aider à évaluer vos besoins et vous rediriger vers des solutions simples et peu onéreuses. 

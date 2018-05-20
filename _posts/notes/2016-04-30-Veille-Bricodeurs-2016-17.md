@@ -1,21 +1,23 @@
 ---
-published: true
+title: Veille Bricodeurs 2016 17
+date: 2016-04-30 09:06:54 Z
+categories:
+- notes
+tags:
+- web
+- development
+- innovation
 layout: post
-categories: notes
 excerpt: Semaine 17
-tags: 
-  - web
-  - development
-  - innovation
-image: 
-  feature: null
-  credit: null
-date: 2016-04-30T09:06:54.000Z
+image:
+  feature: 
+  credit: 
 comments: true
 share: true
 author: cyril
-thumbnail: "images/Computer-Cat.jpg"
+thumbnail: images/Computer-Cat.jpg
 ---
+
 ## Maker et robotique
 
 ### Le module caméra officiel du Raspberry pi passe à 8Mpix

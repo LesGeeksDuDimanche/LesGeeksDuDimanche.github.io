@@ -1,17 +1,20 @@
 ---
-layout: post
 title: La robotique chez les Bricodeurs
-modified:
-categories: articles
+date: 2016-04-17 09:06:54 Z
+categories:
+- articles
+tags:
+- robotique
+- rencontres
+- ateliers
+layout: post
+modified: 
 excerpt: Aperobots & Ateliers d'ada
-tags: [robotique, rencontres, ateliers]
-image: 
+image:
   feature: 
   credit: 
-date: 2016-04-17T11:06:54+02:00
 comments: true
 share: true
-published: true
 author: lucile
 thumbnail: images/robotique/robot2.jpg
 ---

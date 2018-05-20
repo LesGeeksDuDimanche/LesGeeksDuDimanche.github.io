@@ -1,21 +1,21 @@
 ---
-layout: post
 title: Avec Alphabet, Google redéploie sa recherche et développement
-modified: null
-categories: articles
-excerpt: Les drones et la vie éternelle, c'est quand même plus fun
+date: 2015-08-11 07:57:12 Z
+categories:
+- articles
 tags:
-  - Google
-  - Alphabet
-  - Recherche
+- Google
+- Alphabet
+- Recherche
+layout: post
+modified: 
+excerpt: Les drones et la vie éternelle, c'est quand même plus fun
 image:
   feature: 
   credit: 
 comments: true
 share: true
-date: 2015-08-11T09:57:12+02:00
 author: xavier
-published: true 
 ---
 
 > « Google n’est pas une entreprise conventionnelle. Nous n’avons pas l’intention d’en devenir une »

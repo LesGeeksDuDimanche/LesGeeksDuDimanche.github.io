@@ -1,12 +1,12 @@
 ---
-layout: colearncalendar
 title: Calendrier de l'Apprentissage Gratuit
-excerpt:
-modified:
+layout: colearncalendar
+excerpt: 
+modified: 
 image:
-  feature:
-  credit:
-  creditlink:
+  feature: 
+  credit: 
+  creditlink: 
 ---
 
   {% for days in site.data.events %}

@@ -1,17 +1,19 @@
 ---
-layout: post
 title: Responsable du pôle éducation au numérique
-modified:
-categories: notes
+date: 2017-09-14 10:42:40 Z
+categories:
+- notes
+tags:
+- association
+- recrutement
+layout: post
+modified: 
 excerpt: On vous attend!
-tags: [association, recrutement]
 image:
-  feature:
-date: 2017-09-14T12:42:40+02:00
+  feature: 
 author: 
 comments: true
 share: true
-published: true
 thumbnail: 
 ---
 

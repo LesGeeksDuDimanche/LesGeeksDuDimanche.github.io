@@ -1,13 +1,16 @@
 ---
-layout: post
 title: Installer Middleman
-modified:
-categories: notes
+date: 2015-06-21 21:06:54 Z
+categories:
+- notes
+tags:
+- Installation
+- ruby
+layout: post
+modified: 
 excerpt: Bienvenue chez Ruby Frontend
-tags: [Installation, ruby]
 image:
-  feature:
-date: 2015-06-21T23:06:54+02:00
+  feature: 
 author: xavier
 comments: true
 share: true

@@ -1,13 +1,13 @@
 ---
-layout: page
 title: La Préécole du Numérique
-excerpt: "Cursus de découverte de la programmation web"
-modified: 2017-06-8T19:44:38.564948-04:00
+layout: page
+excerpt: Cursus de découverte de la programmation web
+modified: 2017-06-08 23:44:38.564000000 Z
 image:
   feature: banners/preecole.png
   nologo: true
-  credit:
-  creditlink:
+  credit: 
+  creditlink: 
 ---
 
 L’objectif de la préécole du numérique est d’être  la porte d’entrée vers les métiers du numérique, en particulier autour de la programmation web, au travers d’une série d’ateliers et d’un suivi personnalisé de la progression de l’apprenant.

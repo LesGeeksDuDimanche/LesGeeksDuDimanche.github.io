@@ -1,21 +1,21 @@
 ---
-layout: post
 title: La politique Facebook anti-pseudonymes est illégale en Allemagne
-modified: null
-categories: articles
-excerpt: Du bist ein Paul Bismuth
+date: 2015-07-29 10:57:12 Z
+categories:
+- articles
 tags:
-  - identité numerique
-  - vie privée
-  - facebook
+- identité numerique
+- vie privée
+- facebook
+layout: post
+modified: 
+excerpt: Du bist ein Paul Bismuth
 image:
   feature: facebookplanet.jpg
-  credit: Planet Facebook or Planet Earth? by Paul Butler 
+  credit: Planet Facebook or Planet Earth? by Paul Butler
 comments: true
 share: true
-date: 2015-07-29T12:57:12+02:00
 author: xavier
-published: true 
 ---
 
 _Le commissaire à la protection des données et la liberté d’information d’Hambourg vient d’enjoindre Facebook à cesser ses pratiques contre l'utilisation de pseudonymes._

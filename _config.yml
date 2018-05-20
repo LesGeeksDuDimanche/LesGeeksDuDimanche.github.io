@@ -1,37 +1,58 @@
-# Site wide configuration
-
+---
 title: Les Bricodeurs
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 locale: fr_FR
-description: "Collectif du numérique citoyen"
+description: Collectif du numérique citoyen
 logo: lesbricodeurs2.png
 small-logo: lesbricodeurs-200px.png
 url: https://lesbricodeurs.fr
-default_locale: "fr"
-
-# Jekyll configuration
-
-permalink:   /:categories/:title/
-markdown:    kramdown
+default_locale: fr
+permalink: "/:categories/:title/"
+markdown: kramdown
 highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
 gems:
-  - jekyll-sitemap
-
+- jekyll-sitemap
 kramdown:
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..2
   enable_coderay: false
-
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
-
+include:
+- ".htaccess"
+exclude:
+- lib
+- config.rb
+- Capfile
+- config
+- log
+- Rakefile
+- Rakefile.rb
+- tmp
+- less
+- "*.sublime-project"
+- "*.sublime-workspace"
+- test
+- spec
+- Gruntfile.js
+- package.json
+- node_modules
+- Gemfile
+- Gemfile.lock
+- LICENSE
+- README.md
+- vendor
 comments: true
-
-# Site owner
 owner:
   name: Les Bricodeurs
   avatar: lesbricodeurs.png
@@ -40,24 +61,25 @@ owner:
   twitter: LesBricodeurs
   facebook: lesbricodeurs
   github: LesGeeksDuDimanche
-  stackexchange:
-  linkedin:
-  instagram:
-  flickr:
-  tumblr:
+  stackexchange: 
+  linkedin: 
+  instagram: 
+  flickr: 
+  tumblr: 
   meetup: fr/Design-et-technologie-pour-projets-citoyens
-  slack: enQtMjk4MDg1NTIxMDI4LWU1MjRhMjlmYmYyYmM3MGRhNjg3YjIzMGRiMzk0YjE4OTYyYzUxZWFkMDE1MTZiZTRiOTBhYTA4YTQ5YTA2NTY #invite not limit
-  pinterest:
-  weibo:
+  slack: enQtMjk4MDg1NTIxMDI4LWU1MjRhMjlmYmYyYmM3MGRhNjg3YjIzMGRiMzk0YjE4OTYyYzUxZWFkMDE1MTZiZTRiOTBhYTA4YTQ5YTA2NTY
+  pinterest: 
+  weibo: 
   google:
-    plus:
+    plus: 
     analytics: UA-64227504-1
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
-
+    verify: 
+    ad-client: 
+    ad-slot: 
+  bing-verify: 
 compress_html:
   clippings: all
-  comments: ["<!-- ", " -->"]
+  comments:
+  - "<!-- "
+  - " -->"
   endings: all

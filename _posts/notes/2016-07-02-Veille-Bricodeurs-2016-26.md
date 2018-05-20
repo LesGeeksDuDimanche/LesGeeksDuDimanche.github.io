@@ -1,22 +1,24 @@
 ---
-published: true
-layout: post
-categories: notes
-excerpt: Semaine 26
+title: Veille Bricodeurs 2016 26
+date: 2016-07-02 09:06:54 Z
+categories:
+- notes
 tags:
-  - web
-  - development
-  - innovation
-  - SMS
+- web
+- development
+- innovation
+- SMS
+layout: post
+excerpt: Semaine 26
 image:
-  feature: null
-  credit: null
-date: 2016-07-02T09:06:54.000Z
+  feature: 
+  credit: 
 comments: true
 share: true
 author: cyril
 thumbnail: images/Computer-Cat.jpg
 ---
+
 ## Innovation
 
 ### La Caisse d’Epargne à la pointe de la technologie SMS

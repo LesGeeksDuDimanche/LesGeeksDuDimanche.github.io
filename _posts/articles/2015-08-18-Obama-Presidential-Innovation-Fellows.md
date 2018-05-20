@@ -1,14 +1,17 @@
 ---
-layout: post
 title: Obama & les Presidential Innovation Fellows
-modified:
-categories: articles
+date: 2015-08-18 09:22:20 Z
+categories:
+- articles
+tags:
+- ecosysteme
+- Innovation
+- secteur public
+layout: post
+modified: 
 excerpt: Quand les clés du pouvoir sont des clés publiques
-tags: [ecosysteme, Innovation, secteur public]
 image:
-  feature:
-date: 2015-08-18T11:22:20+02:00
-published: true
+  feature: 
 author: xavier
 share: true
 ---

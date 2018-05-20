@@ -1,7 +1,7 @@
 ---
+title: Articles
 layout: page
-title:  Articles
-excerpt: "Ce que l'on raconte"
+excerpt: Ce que l'on raconte
 search_omit: true
 ---
 

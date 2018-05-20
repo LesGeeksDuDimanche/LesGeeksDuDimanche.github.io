@@ -1,14 +1,16 @@
 ---
+title: Mardi, c'est spaghetti
+date: 2015-06-30 09:22:20 Z
+categories:
+- articles
+tags:
+- ecosysteme
+- Innovation
 layout: post
-title: Mardi, c'est spaghetti 
-modified:
-categories: articles
+modified: 
 excerpt: Une semaine dans l'ecosystème d'innovation de Lyon - Mardi
-tags: [ecosysteme, Innovation]
 image:
-  feature:
-date: 2015-06-30T11:22:20+02:00
-published: true
+  feature: 
 author: xavier
 share: true
 ---
