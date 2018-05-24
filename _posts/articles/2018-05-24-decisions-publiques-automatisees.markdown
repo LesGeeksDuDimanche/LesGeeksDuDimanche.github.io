@@ -6,6 +6,8 @@ categories:
 - public
 Field name: 
 layout: post
+author: xavier
+share: true
 ---
 
 Les décisions de justice comportent leurs motifs, les lois sont acccompagnées de comptes-rendus des décisions parlementaires, les attributions de marchés publiques sont accompagnées des notes et de leurs critères... 
