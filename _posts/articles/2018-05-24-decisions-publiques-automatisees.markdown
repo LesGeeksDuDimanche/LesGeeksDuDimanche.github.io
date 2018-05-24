@@ -1,5 +1,5 @@
 ---
-title: Les décisions publiques automatisées 
+title: Les décisions publiques automatisées
 date: 2018-05-24 08:34:00 Z
 categories:
 - articles
