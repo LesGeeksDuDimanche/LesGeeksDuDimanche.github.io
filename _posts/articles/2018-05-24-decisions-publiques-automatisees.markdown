@@ -4,7 +4,6 @@ date: 2018-05-24 08:34:00 Z
 categories:
 - open source
 - public
-Field name: 
 layout: post
 author: xavier
 share: true
