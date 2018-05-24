@@ -1,13 +1,13 @@
 ---
-layout: page
 title: Les Ateliers d'Ada
-excerpt: "Découvrir la robotique et la programmation par le jeu"
-modified: 2016-02-24T19:44:38.564948-04:00
+layout: page
+excerpt: Découvrir la robotique et la programmation par le jeu
+modified: 2016-02-24 23:44:38.564000000 Z
 image:
   feature: Bandeau4.jpg
-  credit:
-  creditlink:
-thumbnail : images/ada.png
+  credit: 
+  creditlink: 
+thumbnail: images/ada.png
 ---
 
 Notre méthode repose sur une approche ludique et créative, une méthodologie d’apprentissage en partie en autonomie par groupes, le développement de compétences techniques et de résolution de problèmes, le lien avec des thèmes littéraire et artistiques et une attention particulière à ce que la communication comme le contenu des ateliers soit inclusif.
