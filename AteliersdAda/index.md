@@ -1,34 +1,22 @@
 ---
-title: Les Ateliers d'Ada
 layout: page
-excerpt: Découvrir la robotique et la programmation par le jeu
-modified: 2016-02-24 23:44:38.564000000 Z
+title: Les Ateliers d'Ada
+excerpt: "Découvrir la robotique et la programmation par le jeu"
+modified: 2016-02-24T19:44:38.564948-04:00
 image:
   feature: Bandeau4.jpg
-  credit: 
-  creditlink: 
-thumbnail: images/ada.png
+  credit:
+  creditlink:
+thumbnail : images/ada.png
 ---
 
-<div>
-<p>
-La médiation au numérique, via ces ateliers, permet aux jeunes de comprendre les enjeux et les usages de cette dernière. Le but des Bricodeurs est de développer des compétences et une culture numérique aux plus jeunes afin qu’ils puissent s’intégrer au mieux dans la « société numérique ».
-<br>  
 Notre méthode repose sur une approche ludique et créative, une méthodologie d’apprentissage en partie en autonomie par groupes, le développement de compétences techniques et de résolution de problèmes, le lien avec des thèmes littéraire et artistiques et une attention particulière à ce que la communication comme le contenu des ateliers soit inclusif.
-</p>
-<br>
-<hr>
-<br>
-
-
-<div style="width:195px; float: right; height: 452px; overflow: hidden;" ><iframe  src="https://www.eventbrite.fr/calendar-widget?eid=43879755530" frameborder="0" height="534" width="195" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:195px; text-align:center;" ></div></div>
-</div>
-
 
 # Les prochains ateliers
 
-Les ateliers ont lieu un mercredi sur deux pour les enfants (8-12 ans) le matin et les jeunes (13-15 ans) l'après-midi.
-
+<div style="display:block;width:100%;max-width:970px;margin:0 auto;">
+  <iframe src="https://yurplan.com/orga/Les-Bricodeurs/2368/ticketing/widget" style="display:block;width:100%;height:475px;margin:0;" scrolling="auto" frameborder="0"></iframe>
+</div>                  
 
 # Les activités
 
@@ -37,9 +25,6 @@ Au cours des différentes semaines vous pourrez concevoir votre robot avec les r
  _[En savoir plus]({{site.url}}/AteliersdAda/outils/)_
 
 
-
-
-<br/>
 <br>
 
 <hr>
