@@ -8,7 +8,6 @@ image:
   creditlink: 
 ---
 
-
 Les Bricodeurs est le collectif des professionnels du numérique engagés pour que l’expertise numérique soit au service de l’utilité sociale.
 
 Particulièrement attentifs à l'ouverture et la diversité de genre, culturelle et sociale dans nos actions et nos instances, nous établissons une passerelle entre les expertises techniques, les besoins sociétaux et le grand public.
