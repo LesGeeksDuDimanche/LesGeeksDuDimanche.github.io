@@ -1,6 +1,6 @@
 ---
 layout: page
-excerpt: Quelques pensées sur le numérique"
+excerpt: Design & Tech Tank
 modified: 2015-06-08 23:44:38.564000000 Z
 image:
   feature: 
@@ -11,6 +11,8 @@ image:
 Les Bricodeurs est le collectif des professionnels du numérique engagés pour que l’expertise numérique soit au service de l’utilité sociale.
 
 Particulièrement attentifs à l'ouverture et la diversité de genre, culturelle et sociale dans nos actions et nos instance, nous établissons une passerelle entre les écosystèmes techniques, les besoins et le grand public.
+
+[English version]({{ site.url }}/english/)
 
 ### Reseau de professionnels engagés 
 
@@ -39,7 +41,7 @@ N'hésitez pas à nous contacter <a href="mailto:salut@lesbricodeurs.fr">salut@l
 
 # Les valeurs
 
-Nous pensons d'une part que le numérique est surtout un enjeu culturel et sociétal. Engagés dans une démarge d'ouverture, nous travaillons à l'interdisciplinarité, la parité et l'inclusion sur ces thématiques.
+Nous pensons d'une part que le numérique est surtout un enjeu culturel et sociétal. Engagés dans une démarche d'ouverture, nous travaillons à l'interdisciplinarité, la parité et l'inclusion sur ces thématiques.
 
 Pour autant le débat public manque souvent de compétences. Nous travaillons ainsi auprès des acteurs publics, des acteurs de l'Economie Sociale et Solidaire, des entreprises et des incubateurs pour apporter ces expertises.
 
