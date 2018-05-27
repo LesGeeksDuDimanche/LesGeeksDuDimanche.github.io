@@ -24,7 +24,7 @@ The Bricodeurs is a French speaking collective of digital professionals committe
 
 ### You are a bricodeur too
 
-**Bricodeurs** are people eager to learn, with technical skills and the will to build meaningful projects. Bricodeurs have various bacgrounds, skills and positions and share a common vision where technology is an enabler and not excluding.
+**Bricodeurs** are people eager to learn, with technical skills and the will to build meaningful projects. Bricodeurs have various backgrounds, skills and positions and share a common vision of technology as an enabler and not an instrument of exclusion.
 
 Don't be afraid to reach us :  <a href="mailto:salut@lesbricodeurs.fr">salut@lesbricodeurs.fr</a>
 
