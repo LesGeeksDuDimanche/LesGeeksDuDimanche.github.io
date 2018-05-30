@@ -13,13 +13,15 @@ author: xavier
 share: true
 ---
 
-Les décisions de justice comportent leurs motifs, les lois sont acccompagnées de comptes-rendus des décisions parlementaires, les attributions de marchés publiques sont accompagnées des notes et de leurs critères... 
+Les décisions de justice comportent leurs motifs, les lois sont acccompagnées de comptes-rendus des décisions parlementaires, les attributions de marchés publiques sont accompagnées de leurs critères et des notes... 
 
-Les décisions publiques sont prises au nom du peuple français, il est normal que tous citoyen puisse en juger les fondements. Quand ces décisions sont automatisées il est à fortiori nécéssaire de pouvoir juger des éléments pris en comptes. 
+Les décisions publiques sont prises au nom du peuple français, ou au moins avec leur argent, il est normal que tous citoyen puisse en juger les fondements. Quand ces décisions sont automatisées il est à fortiori nécessaire de pouvoir juger des éléments pris en comptes. 
 
-C'est ce que détaille cet étudiant pour #ParcoursSup
-<blockquote class="twitter-tweet" data-lang="fr"><p lang="fr" dir="ltr">Publier les codes sources est une nécessitée qui permet d&#39;analyser comment les décisions sont prises. Bravo à cet etudiant pour l&#39;approche pédagogique <a href="https://twitter.com/hashtag/publiccode?src=hash&amp;ref_src=twsrc%5Etfw">#publiccode</a> <a href="https://t.co/QFix6Zm6yp">https://t.co/QFix6Zm6yp</a></p>&mdash; Les Bricodeurs (@LesBricodeurs) <a href="https://twitter.com/LesBricodeurs/status/999555234270793728?ref_src=twsrc%5Etfw">24 mai 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Parcoursup est la nouvelle plateforme d'attribution des places dans le supérieur. L'algorithme précédent, APB, était déjà critiqué pas les universitaires spécialistes de ces questions d'algorithme d'attribution. En particulier, au lieu d'encourager les étudiants à choisir selon leurs préférences et d'attribuer  ([Preference Reasoning in Matching Procedures: Application to the Admission Post-Baccalaureat Platform](https://arxiv.org/abs/1707.07298)
+C'est ce que détaille cet étudiant cet étudiant au sujet de Parcoursup. Au passage, on se félicite d
+
+<blockquote class="twitter-tweet" data-lang="fr"><p lang="fr" dir="ltr">Cet étudiant en informatique de 22 ans a étudié le code source de Parcoursup pour savoir ce qui se cache derrière cette nouvelle plateforme d&#39;inscription dans le supérieur. Voici ce qu’il a trouvé… <a href="https://t.co/w8FzGGizCP">pic.twitter.com/w8FzGGizCP</a></p>&mdash; Brut FR (@brutofficiel) <a href="https://twitter.com/brutofficiel/status/999013034931695617?ref_src=twsrc%5Etfw">22 mai 2018</a></blockquote>
+
 
 Comme l'illustre la vidéo, c'est la publication du code qui, en plus de donner un contrôle total sur l'outil, donne la possibilités aux citoyens d'étudier les fondements des décisions. 
 
