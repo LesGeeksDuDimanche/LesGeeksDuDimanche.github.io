@@ -28,7 +28,7 @@ _[English version]({{ site.url }}/english/){: .pull-right}_
 
 <br>
 #### Vous êtes un bricodeur
-Un **Bricodeur** est une personne avec des compétences dans le numérique, désireuse de se perfectionner et de construire des choses utiles avec ses compétences. Les bricodeurs proviennent de diverses filières (Blockchain, développement web, Arts numérique, Design ...) et différents profils (indépendants, chercheurs, entrepreneurs ...). 
+Un **Bricodeur** est une personne qui souhaite résoudre des défis avec ses compétences dans le numérique. Néologisme destiné à traduire en français le mot hacker, bricodeur désigne une culture d'apprentissage où la compétence et la curiosité prime sur les statuts. Les bricodeurs proviennent de diverses filières (Blockchain, développement web, Arts numérique, Design ...) et différents profils (indépendants, chercheurs, entrepreneurs ...). 
 
 Les bricodeurs sont une [slackocracie](https://join.slack.com/t/bricodeurs/shared_invite/{{ site.owner.slack }}) avec beaucoup d'échanges en ligne, des [antennes dans plusieurs villes](https://pro.meetup.com/fr-FR/pro/les-bricodeurs/), et une équipe de salariés à Lyon qui assure les actions d'éducation.
 
