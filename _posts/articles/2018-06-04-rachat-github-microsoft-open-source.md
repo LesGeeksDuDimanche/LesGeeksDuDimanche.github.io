@@ -13,9 +13,9 @@ layout: post
 author: samy
 share: true
 ---
-Ce lundi était annoncé le rachat de Github, la principale plateforme d'hébergement de dépôts de code au monde, par Microsoft. La plateforme avec 27 millions d'utilisateurs est largement utilisé par les projets libres et open source tant indépendants que de grands groupes. 
+Ce lundi était annoncé le rachat de Github, la principale plateforme d'hébergement de dépôts de code au monde, par Microsoft. La plateforme, avec ses 27 millions d'utilisateurs, est largement utilisée par les projets libres et open source (OSS) tant indépendants que de grands groupes. 
 
-Le mouvement vers l'_open source_ enclenché par Microsoft, notamment depuis l'arrivée de Satya Nadella à sa tête, a conduit cet acteur ancienemment vu comme le Satan du logiciel se rachete une conduite. Par exemple, le projet ayant le plus de contributeurs sur Github est justement [Visual Studio Code](https://github.com/Microsoft/vscode) (source : https://octoverse.github.com/).
+Le mouvement vers l'_open source_ enclenché par Microsoft, notamment depuis l'arrivée de Satya Nadella à sa tête, a conduit cet acteur anciennement vu comme le Satan du logiciel à se racheter une conduite. Par exemple, le projet ayant le plus de contributeurs sur Github est justement [Visual Studio Code](https://github.com/Microsoft/vscode) (source : [octoverse](https://octoverse.github.com/)).
 
 Le rachat de Github est donc dans la droite ligne de ce rattrapage de la réputation désastreuse accumulée sous Steve Ballmer. Plusieurs craintes de la communauté OSS sont identifiables:
 * Github va devenir payant ou plus cher qu'actuellement
