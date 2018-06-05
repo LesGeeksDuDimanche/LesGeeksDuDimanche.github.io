@@ -1,5 +1,5 @@
 ---
-title: Pourquoi le rachat de Github n'est pas (nécessairement ) un problème
+title: Pourquoi le rachat de Github n'est pas un problème
 date: 2018-05-24 08:34:00 Z
 categories:
 - articles
@@ -15,7 +15,7 @@ share: true
 thumbnail: images/microsoft-github.png
 ---
 
-Ce lundi était annoncé le rachat de Github, la principale plateforme d'hébergement de dépôts de code au monde, par Microsoft. La plateforme, avec ses 27 millions d'utilisateurs, est largement utilisée par les projets libres et open source (OSS) tant indépendants que de grands groupes.
+Ce lundi était annoncé le rachat de Github, la principale plateforme d'hébergement de dépôts de code au monde, par Microsoft. Avec ses 27 millions d'utilisateurs Github est largement utilisé par les projets libres et open source (OSS), tant indépendants comme [Linux](https://github.com/torvalds/linux) ou [Bitcoin](https://github.com/bitcoin/bitcoin) que de grands groupes, comme [react](https://github.com/facebook/react).
 
 Le mouvement vers l'_open source_ enclenché par Microsoft, notamment depuis l'arrivée de Satya Nadella à sa tête, a conduit cet acteur anciennement vu comme le Satan du logiciel à se racheter une conduite. Par exemple, le projet ayant le plus de contributeurs sur Github est justement [Visual Studio Code](https://github.com/Microsoft/vscode) (source : [octoverse](https://octoverse.github.com/)).
 
