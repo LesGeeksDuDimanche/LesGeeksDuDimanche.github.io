@@ -12,6 +12,7 @@ excerpt: J ai changé
 layout: post
 author: samy
 share: true
+thumbnail: images/microsoft-github.png
 ---
 
 Ce lundi était annoncé le rachat de Github, la principale plateforme d'hébergement de dépôts de code au monde, par Microsoft. La plateforme, avec ses 27 millions d'utilisateurs, est largement utilisée par les projets libres et open source (OSS) tant indépendants que de grands groupes. 
