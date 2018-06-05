@@ -7,7 +7,7 @@ tags:
 - OpenSource
 - github
 image:
-  feature: microsoft-github.jpeg
+  feature: microsoft-github.png
 excerpt: J ai changé
 layout: post
 author: samy
