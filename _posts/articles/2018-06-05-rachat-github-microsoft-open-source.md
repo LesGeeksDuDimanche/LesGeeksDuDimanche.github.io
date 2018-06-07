@@ -1,6 +1,6 @@
 ---
 title: Pourquoi le rachat de Github n'est pas un problème
-date: 2018-05-24 08:34:00 Z
+date: 2018-06-05 08:34:00 Z
 categories:
 - articles
 tags:
