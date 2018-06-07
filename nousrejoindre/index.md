@@ -56,7 +56,7 @@ Soyez au courant de nos activités via {% if site.owner.facebook %}<a href="http
 #mc_embed_signup #mc-embedded-subscribe-form div.mce_inline_error {display:inline-block; margin:2px 0 1em 0; padding:5px 10px; background-color:rgba(255,255,255,0.85); -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; font-size:14px; font-weight:normal; z-index:1; color:#e85c41;}
 #mc_embed_signup #mc-embedded-subscribe-form input.mce_inline_error {border:2px solid #e85c41;}
 
-#mc_embed_signup{background:#fff;  font:14px Helvetica,Arial,sans-serif; }
+#mc_embed_signup{font:14px Helvetica,Arial,sans-serif; }
 </style>
 <div id="mc_embed_signup">
 <form action="//lesbricodeurs.us12.list-manage.com/subscribe/post?u=bbbb42e1640719973809dfb8c&amp;id=020d89bf3c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
