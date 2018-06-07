@@ -24,7 +24,22 @@ _[English version]({{ site.url }}/english/){: .pull-right}_
 
 <br>
 
-<div><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Flesbricodeurs%2Fvideos%2F290466934626200%2F&show_text=0&width=590" width="590" height="325" style="border:none;overflow:hidden;display:block;margin:0 auto" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe></div>	
+
+  <!-- Load Facebook SDK for JavaScript -->
+  <div id="fb-root"></div>
+  <script defer>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
+
+  <!-- Your embedded video player code -->
+  <div class="fb-video" style="border:none;overflow:hidden;display:block;margin:0 auto"
+  data-href="https://www.facebook.com/lesbricodeurs/videos/290466934626200/" data-width="590" data-show-text="false">
+  </div>
+
 
 <br>
 #### Vous êtes un bricodeur
