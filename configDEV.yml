@@ -17,6 +17,7 @@ sass:
   style: compressed
 plugins:
   - jekyll-sitemap
+  - jemoji
 
 kramdown:
   auto_ids: true
