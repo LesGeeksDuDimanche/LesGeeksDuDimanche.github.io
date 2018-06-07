@@ -1,7 +1,7 @@
 ---
 title: Les Ateliers d'Ada
 layout: page
-class : ateliersada
+class: ateliersada
 excerpt: Découvrir la robotique et la programmation par le jeu
 modified: 2016-02-24 23:44:38.564000000 Z
 image:
