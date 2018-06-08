@@ -10,6 +10,8 @@ image:
 
 The Bricodeurs is a French speaking collective of digital professionals committed to ensure that digital expertise serves social utility. Particularly attentive to openness and diversity, we build a bridge between technical expertise, social needs and the general public.
 
+_[:fr: French version]({{ site.url }}){: .pull-right}_
+
 
 ### Our action
 

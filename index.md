@@ -12,7 +12,7 @@ Les Bricodeurs est le collectif des professionnels du numérique engagés pour q
 
 Particulièrement attentifs à l'ouverture et la diversité de genre, culturelle et sociale dans nos actions et nos instances, nous établissons une passerelle entre les expertises techniques, les besoins sociétaux et le grand public.
 
-_[English version]({{ site.url }}/english/){: .pull-right}_
+_[:gb: English version]({{ site.url }}/english/){: .pull-right}_
 
 <br>
 
