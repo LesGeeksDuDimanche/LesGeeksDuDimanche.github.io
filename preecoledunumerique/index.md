@@ -105,7 +105,7 @@ Grâce au soutien de la Fondation de France, Les bricodeurs assurent la coordina
 
 <div id="partenaires" >
   <a href="https://www.info-jeunes.fr/">
-      <img style="max-height: 68px;" src="http://www.missionlocalelyon.fr/wp-content/uploads/2014/04/logo-crij-ra.jpg" >
+      <img style="max-height: 68px;" src="https://drive.google.com/uc?export=view&id=14REyf3efgARkm7FdoEwVRoApcC7oB9VE" >
   </a>
   <a href="http://www.it-akademy.fr/">
       <img style="max-height: 68px;" src="https://drive.google.com/uc?export=view&id=0B1PuRRJn6XEfSFVXQnZLVm9MdkE" >
