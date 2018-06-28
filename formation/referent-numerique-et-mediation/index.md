@@ -55,7 +55,8 @@ L’objectif de la formation référent numérique est de préparer aux métiers
 #### Module 4 : Médiation et transformation numérique
 
 * Animation d’ateliers de créativité numérique
-* Utilisation Réalité virtuelle
+* Utilisation des outils du fab lab 
+* Initiation Réalité virtuelle et augmentée 
 * Objets connectés en entreprise
 * Accompagner un projet de transformation numérique
 
@@ -65,7 +66,7 @@ L’objectif de la formation référent numérique est de préparer aux métiers
 * Les métiers du numérique : panorama  
 * Les possibilités de poursuite de formation
 * Outils de recherche d'emploi
-* Anglais technique
+* Anglais technique par le jeu
 * Bureautique       
 * Culture d’entreprise  
 
