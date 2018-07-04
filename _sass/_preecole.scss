@@ -18,15 +18,27 @@ $width : 60%;
     margin-left: (100% - $width)/2;
     min-height: 150px;
     .title{
-      //height: 3em;
       padding: 1em 5%;
+      background-color: #27c4db;
+      color: #ffffff;
       h5{
         font-size: 1rem;
         padding: 0;
         margin: 0;
       }
     }
+    .project{
+        box-shadow: 0 2px 2px 0 rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.2),0 1px 5px 0 rgba(0,0,0,.12);
+        background-color: #fbfbfb;
+        border: solid 1px #aba8a8;
+        border-radius: 2px;
+        //.website{
+        //  padding: 10px 15px 0px;
+        //}
+
+    }
     .project_text{
+      text-align: center;
       height: auto;
       img{
         float: right;
@@ -36,9 +48,9 @@ $width : 60%;
         display: block;
 
         //padding: 1em;
-        @media screen and (min-width: 800px) {
-            margin-left: 72px;
-        }
+        //@media screen and (min-width: 800px) {
+        //    margin-left: 72px;
+        //}
         margin-top: 14px;
       }
       a.btn-link{
