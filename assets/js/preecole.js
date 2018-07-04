@@ -61,11 +61,11 @@ jQuery(document).ready(function($) {
             "<div class=\"project_container\" >" +
             "<span>" + new Date(values[i].local_date).toDateString() + " - " + values[i].local_time + "</span>" +
             "<div class=\"project\">" +
-            "<div class=\"project_text\" >" +
             "<div class=\"title\">" +
             "<h5>" + values[i].name + "</h5>" +
             "</div>" +
-            "<hr>";
+            "<hr>" +
+            "<div class=\"project_text\" >";
           //     "<div title=\"Ajouter au calendrier\" style=\"padding-left:15px\" class=\"addeventatc\">"+
           //       "<span>" + values[i].local_date + " - " + values[i].local_time + "</span> <i class=\"fa fa-calendar\" aria-hidden=\"true\"></i>"+
           //       "<span class=\"start\">11/29/2017 08:00 AM</span>"+
@@ -77,22 +77,22 @@ jQuery(document).ready(function($) {
           //       "<span class=\"location\">Location of the event</span>"+
           //   "</div>"+
 
-          if (imgLink && imgLink[1]) {
-
-            imgLink[1] = imgLink[1].replace(/ /g, "+");
-
-            html_img +=
-              "<div class=\"center\">" +
-              "<img max-height=\"200\" width=\"100\" src=\"" + imgLink[1] + "\">" +
-              "</div>";
-
-          }
+          // if (imgLink && imgLink[1]) {
+          //
+          //   imgLink[1] = imgLink[1].replace(/ /g, "+");
+          //
+          //   html_img +=
+          //     "<div class=\"center\">" +
+          //     "<img max-height=\"200\" width=\"100\" src=\"" + imgLink[1] + "\">" +
+          //     "</div>";
+          //
+          // }
 
 
           if (values[i].venue) {
             html_content_bot +=
               "<a target=\"_blank\" href=\"https://www.google.com/maps/search/?api=1&query=" + values[i].venue.address_1 + "+" + values[i].venue.city + "\" >" +
-              "<span>" + values[i].venue.name + " </span><i class=\"fa fa-map-marker\" aria-hidden=\"true\"></i>" +
+              values[i].venue.name + "<i class=\"fa fa-map-marker\" aria-hidden=\"true\"></i>" +
               "</a>";
           }
 
