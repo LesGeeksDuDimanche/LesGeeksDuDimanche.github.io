@@ -32,7 +32,8 @@ Au cours des différentes semaines vous pourrez concevoir votre robot avec les r
 
 <hr>
 
-# Envie d'être tenu au courant ? Inscrivez-vous à la newsletter ici !
+# Envie d'être tenu au courant ? 
+# Inscrivez-vous à la newsletter ici !
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
