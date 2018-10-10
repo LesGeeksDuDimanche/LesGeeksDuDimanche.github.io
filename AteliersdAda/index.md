@@ -33,7 +33,8 @@ Au cours des différentes semaines vous pourrez concevoir votre robot avec les r
 <hr>
 
 # Envie d'être tenu au courant ? 
-# Inscrivez-vous à la newsletter ici !
+
+Inscrivez-vous à la newsletter ici !
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -52,12 +53,18 @@ Au cours des différentes semaines vous pourrez concevoir votre robot avec les r
 </label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
-<div class="mc-field-group input-group">
-    <strong>Ateliers </strong>
-    <ul><li><input type="checkbox" value="2" name="group[6177][2]" id="mce-group[6177]-6177-0"><label for="mce-group[6177]-6177-0">Initiation</label></li>
-<li><input type="checkbox" value="4" name="group[6177][4]" id="mce-group[6177]-6177-1"><label for="mce-group[6177]-6177-1">Avancé</label></li>
-</ul>
-</div>
+ <div class="mc-field-group input-group">
+        <strong>Niveau </strong>
+        <ul><li><input type="checkbox" value="1" name="group[6177][1]" id="mce-group[6177]-6177-0"><label for="mce-group[6177]-6177-0">Initiation</label></li>
+          <li><input type="checkbox" value="2" name="group[6177][2]" id="mce-group[6177]-6177-1"><label for="mce-group[6177]-6177-1">Avancé</label></li>
+        </ul>
+      </div>
+      <div class="mc-field-group input-group">
+        <strong>Tranche d'âge </strong>
+        <ul><li><input type="checkbox" value="4" name="group[18061][4]" id="mce-group[18061]-18061-0"><label for="mce-group[18061]-18061-0">8 - 11 ans</label></li>
+          <li><input type="checkbox" value="8" name="group[18061][8]" id="mce-group[18061]-18061-1"><label for="mce-group[18061]-18061-1">12 - 15 ans</label></li>
+        </ul>
+      </div>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
