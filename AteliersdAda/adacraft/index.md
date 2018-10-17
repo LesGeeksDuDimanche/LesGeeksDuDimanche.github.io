@@ -17,7 +17,7 @@ C'est le nom du serveur à rejoindre dans minecraft en mode multi-joueur.
 
 Pour l'instant c'est juste des chiffres, jusqu'à ce qu'on lui donne un nom sympa ! :)
 
-<b>5.196.73.114:25565</b>
+<b>adacraft.lesbricodeurs.fr</b>
 
 
 
@@ -26,7 +26,7 @@ Pour l'instant c'est juste des chiffres, jusqu'à ce qu'on lui donne un nom symp
 
 Pour créer vos fonctions à récupérer dans minecraft :
 
-<a class="btn" href="http://5.196.73.114:5000">Editeur de code</a>
+<a class="btn" href="http://adacraft.lesbricodeurs.fr:5000">Editeur de code</a>
 
 
 ## La carte 
@@ -34,4 +34,4 @@ Pour créer vos fonctions à récupérer dans minecraft :
 
 La carte de vos créations !  
 
-<a class="btn" href="http://5.196.73.114:8123">La Carte</a>
+<a class="btn" href="http://adacraft.lesbricodeurs.fr:8123">La Carte</a>
