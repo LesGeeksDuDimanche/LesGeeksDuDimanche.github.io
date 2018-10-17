@@ -1,10 +1,28 @@
+---
+title: Nous rejoindre
+layout: page
+excerpt: Collectif du numérique citoyen
+modified: 2018-10-10 23:44:38.564000000 Z
+image:
+  feature: 
+  credit: 
+  creditlink: 
+thumbnail: images/adresseBitcoin.jpg
+---
 
 
-Pour nous rejoindre, venez à un évènement ! 
+### Pour adhérer 
+
+Les bricodeurs est un collectif ouvert. La plupart de nos échanges se font sur <a href="https://join.slack.com/t/bricodeurs/shared_invite/{{ site.owner.slack }}" title="{{ site.owner.name}} on Slack" target="_blank"><i class="fa fa-slack"></i> notre messagerie interne.</a>
+
+L'adhésion permet de soutenir l'association et est obligatoire pour participer aux ateliers : 
+<iframe id="haWidget" src="//www.helloasso.com/widgets/adhesion.aspx?beneficiaire=les-bricodeurs&campagne=adhesions-bricodeurs-2016&color=%237092da" style="width:780px;height:600px;border:none;" onload="scroll(0,0);"></iframe>
+
+### Suivre l'activité : 
 
 Soyez au courant de nos activités via {% if site.owner.facebook %}<a href="http://facebook.com/{{ site.owner.facebook }}" title="{{ site.owner.name}} on Facebook" target="_blank"><i class="fa fa-facebook-square "></i></a>{% endif %}
 	et 
-{% if site.owner.twitter %}<a href="http://twitter.com/{{ site.owner.twitter }}" title="{{ site.owner.name}} on Twitter" target="_blank"><i class="fa fa-twitter-square "></i></a>{% endif %}, échangez avec nous sur {% if site.owner.slack %}<a href="https://join.slack.com/t/bricodeurs/shared_invite/{{ site.owner.slack }}" title="{{ site.owner.name}} on Slack" target="_blank"><i class="fa fa-slack"></i></a>{% endif %} ou abonnez-vous à notre lettre :	
+{% if site.owner.twitter %}<a href="http://twitter.com/{{ site.owner.twitter }}" title="{{ site.owner.name}} on Twitter" target="_blank"><i class="fa fa-twitter-square "></i></a>{% endif %}, échangez avec nous sur {% if site.owner.slack %}{% endif %} ou abonnez-vous à notre lettre :	
 
 
 
@@ -118,51 +136,12 @@ $.extend($.validator.messages, {
 });}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
 
+### Faire un don
 
+Les Bricodeurs est une association loi 1901 avec pour objectif que l'expertise numérique soit au service des évolutions sociales. Notre gestion est désintéressée et nos rapports d'activités sont publics.
 
-Vous pouvez aussi nous contacter directement à [salut@lesbricodeurs.fr](mailto:salut@lesbricodeurs.fr)
+Nous acceptons les dons en bitcoin et en [euros](https://www.helloasso.com/associations/les-bricodeurs/formulaires/1)
 
+Addresse segwit : *bc1q4vq30s4cgxa78nugf4v3ej5ygcqtgm5t52g353*
 
-
-<!-- Begin MailChimp Signup Form -->
-<!-- <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-</style>
-<div id="mc_embed_signup">
-<form action="//lesbricodeurs.us12.list-manage.com/subscribe/post?u=bbbb42e1640719973809dfb8c&amp;id=020d89bf3c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-	<h2>Rejoignez notre liste d'amis </h2>
-<div class="mc-field-group">
-	<label for="mce-EMAIL">Adresse email </label>
-	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-</div>
-	<div id="mce-responses" class="clear">
-		<div class="response" id="mce-error-response" style="display:none"></div>
-		<div class="response" id="mce-success-response" style="display:none"></div>
-	</div>   
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_bbbb42e1640719973809dfb8c_020d89bf3c" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
-<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script> -->
-<!--End mc_embed_signup-->
-
-
-### Pour adhérer 
-
-<iframe id="haWidget" src="//www.helloasso.com/widgets/adhesion.aspx?beneficiaire=les-bricodeurs&campagne=adhesions-bricodeurs-2016&color=%237092da" style="width:780px;height:600px;border:none;" onload="scroll(0,0);"></iframe>
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Bitcoin]({{ site.url }}/images/adresseBitcoin.jpg)
