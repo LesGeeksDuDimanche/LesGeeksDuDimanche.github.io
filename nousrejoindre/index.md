@@ -142,6 +142,7 @@ Les Bricodeurs est une association loi 1901 avec pour objectif que l'expertise n
 
 Nous acceptons les dons en bitcoin et en [euros](https://www.helloasso.com/associations/les-bricodeurs/formulaires/1)
 
-Addresse segwit : *bc1q4vq30s4cgxa78nugf4v3ej5ygcqtgm5t52g353*
+Adresse Bitcoin : *1JYM7uKL2fmW7PTvXLiL3CWS5X1tx4SzVi*
+Adresse Ethereum : *0x51daf34b28f9ab2f014d47c53600c73118dcb2fd*
 
-![Bitcoin]({{ site.url }}/images/adresseBitcoin.jpg)
+![Crypto donations]({{ site.url }}/images/crypto-donations.jpg)
