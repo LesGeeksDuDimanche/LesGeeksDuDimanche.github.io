@@ -15,7 +15,7 @@ image:
 
 C'est le nom du serveur à rejoindre dans minecraft en mode multi-joueur. 
 
-Pour l'instant c'est juste des chiffres, jusqu'à ce qu'on lui donne un nom sympa ! :)
+Pour se connecter il faut nous demander un lien en donnant ton nom d'utilisateur
 
 <b>adacraft.lesbricodeurs.fr</b>
 
