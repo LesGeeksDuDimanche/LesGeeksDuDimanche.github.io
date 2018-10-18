@@ -13,7 +13,7 @@ thumbnail: images/adresseBitcoin.jpg
 
 ### Pour adhérer 
 
-Les bricodeurs est un collectif ouvert. La plupart de nos échanges se font sur <a href="https://join.slack.com/t/bricodeurs/shared_invite/{{ site.owner.slack }}" title="{{ site.owner.name}} on Slack" target="_blank"><i class="fa fa-slack"></i> notre messagerie interne.</a>
+Les bricodeurs est un collectif ouvert. La plupart de nos échanges se font sur <a href="https://join.slack.com/t/bricodeurs/shared_invite/{{ site.owner.slack }}" title="{{ site.owner.name}} on Slack" target="_blank"></i> notre messagerie interne <i class="fa fa-slack">.</a>
 
 L'adhésion permet de soutenir l'association et est obligatoire pour participer aux ateliers : 
 <iframe id="haWidget" src="//www.helloasso.com/widgets/adhesion.aspx?beneficiaire=les-bricodeurs&campagne=adhesions-bricodeurs-2016&color=%237092da" style="width:780px;height:600px;border:none;" onload="scroll(0,0);"></iframe>
@@ -22,7 +22,7 @@ L'adhésion permet de soutenir l'association et est obligatoire pour participer 
 
 Soyez au courant de nos activités via {% if site.owner.facebook %}<a href="http://facebook.com/{{ site.owner.facebook }}" title="{{ site.owner.name}} on Facebook" target="_blank"><i class="fa fa-facebook-square "></i></a>{% endif %}
 	et 
-{% if site.owner.twitter %}<a href="http://twitter.com/{{ site.owner.twitter }}" title="{{ site.owner.name}} on Twitter" target="_blank"><i class="fa fa-twitter-square "></i></a>{% endif %}, échangez avec nous sur {% if site.owner.slack %}{% endif %} ou abonnez-vous à notre lettre :	
+{% if site.owner.twitter %}<a href="http://twitter.com/{{ site.owner.twitter }}" title="{{ site.owner.name}} on Twitter" target="_blank"><i class="fa fa-twitter-square "></i></a>{% endif %}, échangez avec nous sur <a href="https://join.slack.com/t/bricodeurs/shared_invite/{{ site.owner.slack }}" title="{{ site.owner.name}} on Slack" target="_blank"></i> <i class="fa fa-slack"> ou abonnez-vous à notre lettre :	
 
 
 
@@ -140,9 +140,10 @@ $.extend($.validator.messages, {
 
 Les Bricodeurs est une association loi 1901 avec pour objectif que l'expertise numérique soit au service des évolutions sociales. Notre gestion est désintéressée et nos rapports d'activités sont publics.
 
-Nous acceptons les dons en bitcoin et en [euros](https://www.helloasso.com/associations/les-bricodeurs/formulaires/1)
+Nous acceptons les dons en bitcoins, en ethers et en [euros](https://www.helloasso.com/associations/les-bricodeurs/formulaires/1)
 
 Adresse Bitcoin : *1JYM7uKL2fmW7PTvXLiL3CWS5X1tx4SzVi*
+
 Adresse Ethereum : *0x51daf34b28f9ab2f014d47c53600c73118dcb2fd*
 
 ![Crypto donations]({{ site.url }}/images/crypto-donations.jpg)
