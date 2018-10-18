@@ -36,4 +36,4 @@ search_omit: true
 {% endfor %}
 </ul>
 
-Vous pouvez aussi consulter nos [notes et comptes rendus](/notes/)
+Vous pouvez aussi consulter nos [notes et comptes rendus](/notes/) ou par [tags](/tags/)

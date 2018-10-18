@@ -17,4 +17,52 @@ comments: true
 share: true
 ---
 
-<script src="https://lesgeeksdudimanche.hackpad.com/SjfjAB8tJAJ.js?format=html-notitle"></script><noscript><div>View <a href="https://lesgeeksdudimanche.hackpad.com/SjfjAB8tJAJ">Les Bricodeurs - 12 Juillet</a> on Hackpad.</div></noscript>
+**Tech Web**
+Docker vs chef
+
+  [https://www.scriptrock.com/articles/docker-chef](https://www.scriptrock.com/articles/docker-chef)
+
+ 
+xclip: copier coller en ligne de commande #grosgeek
+Gulp Browser
+
+     
+
+**Distrib les bricodeurs**
+Sourcer en loggant les appels apt-get install
+/usr/local/bin/apt-get
+
+          script puis executable
+   
+  #!/bin/bash
+  # ^-- using /bin/bash rather than /bin/sh enables printf %q
+   
+  # Shell-quote the command to unambiguously present arguments even if it contains
+  # newlines, spaces, etc.
+  printf -v cmd '%q ' "${0##*/}" "$@"
+   
+  # Trim the trailing space
+  cmd=${cmd%" "}
+   
+  # Log that command
+  printf '%s\n' "$cmd" >> ~/install/paquets.sh
+   
+  # ...and run the real command.
+  exec /usr/bin/apt-get "$@"
+
+ 
+ 
+**Uberisation**
+
+- Mailchimp
+- Kanga
+- BlablaCar des objets
+
+ 
+**Formations**
+
+  Human talk
+  CNAM
+
+ 
+
