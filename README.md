@@ -67,6 +67,9 @@ Il peut etre nessaire d'installer sitemap
 	npm install
 	grunt
 
+### Mettre à jour 
+
+bundle update jekyll
 
 ## Licence
 
