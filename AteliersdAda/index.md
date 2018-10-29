@@ -90,6 +90,19 @@ Elle a également entrevu et décrit certaines possibilités offertes par les ca
 <br>
 <hr>
 
-[Page Facebook](https://www.facebook.com/Les-Ateliers-dAda-1010068332420661/) - [salut@lesbricodeurs.fr](mailto:salut@lesbricodeurs.fr)
+# Contact
 
-[Une remarque? ]({{site.url}}/AteliersdAda/idees/)
+Retrouvez les ateliers d'Ada sur [facebook](https://www.facebook.com/Les-Ateliers-dAda-1010068332420661/) 
+<br>
+N'hésitez pas à nous envoyer un mail à salut@lesbricodeurs.fr
+<br>
+<hr>
+
+# Les Partenaires
+
+<div style="display: flex; align-content: center; ">
+<img src="{{site.url}}/images/blaisepascal.png" style="height: 100px; margin: 10px;">
+<img src="{{site.url}}/images/mmi.jpg" style="height: 100px; margin: 10px;">
+</div>
+
+
