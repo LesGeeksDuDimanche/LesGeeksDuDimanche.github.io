@@ -17,8 +17,9 @@ L’objectif de la formation référent numérique est de préparer aux métiers
 
 ## Modalités
 
-* En présentiel 4 mois ( 560 heures) plus 2 mois (280h) en entreprise
-* Modules indépendants pour les professionnels de la région
+Formation en présentiel 4 mois ( 560 heures) avec en plus 2 mois (280h) en entreprise.
+Elle se tiendra début 2019 à Ambérieu-en-Bugey. La formation mélangera contenus théoriques par des praticiens et exercices pratiques.
+Des odules indépendants peuvent être proposés pour les professionnels de la région.
 
 ## Déroulé
 
@@ -84,5 +85,5 @@ L’objectif de la formation référent numérique est de préparer aux métiers
 
 ## Qui organise ?
 
-La formation est organisé par Lab01, fablab à Ambérieu. Les contenus pédagogiques sont conçus en partenariat avec les bricodeurs.
+La formation est organisé par Lab01, fablab à Ambérieu-en-bugey. Les contenus pédagogiques sont conçus en partenariat avec les bricodeurs.
 
