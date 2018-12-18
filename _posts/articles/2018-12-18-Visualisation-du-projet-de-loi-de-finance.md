@@ -14,9 +14,10 @@ layout: post
 author: xavier
 share: true
 thumbnail: images/bandeau.png
+image:
+  feature: bandeau.png
+  credit: visualisation du budget de l'education sur http://budget.parlement-ouvert.fr/
 ---
-# Visualisation du projet de loi de finance
-
 Puisque le débat public se fascine des images et que les décisions sont dans les chiffres, donnons leur une visualisation. 
 
 Lidée est simple, permettre aux citoyens et aux députés de comprendre ce fatras lignes comptables que constitue le budget de l'État. D'ores et déjà, au moment du vote du projet de loi de finance pour 2019 voici les premiers résultats : 
