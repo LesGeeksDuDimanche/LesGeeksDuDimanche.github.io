@@ -13,7 +13,7 @@ excerpt: Les chiffres et les couleurs
 layout: post
 author: xavier
 share: true
-thumbnail: images/bandeau.png
+thumbnail: images/actionexterieure.png
 image:
   feature: bandeau.png
   credit: visualisation du budget de l'education sur http://budget.parlement-ouvert.fr/
