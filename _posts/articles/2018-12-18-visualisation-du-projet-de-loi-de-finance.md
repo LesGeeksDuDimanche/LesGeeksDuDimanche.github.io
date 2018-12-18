@@ -7,7 +7,7 @@ tags:
 - dataviz
 - budget
 - civictech
-image:
+image:aj ajus
   feature: 
 excerpt: Les chiffres et les couleurs
 layout: post
@@ -20,12 +20,10 @@ image:
 ---
 Puisque le débat public se fascine des images et que les décisions sont dans les chiffres, donnons leur une visualisation. 
 
-Lidée est simple, permettre aux citoyens et aux députés de comprendre ce fatras lignes comptables que constitue le budget de l'État. D'ores et déjà, au moment du vote du projet de loi de finance pour 2019 voici les premiers résultats : 
+Lidée est simple : permettre aux citoyennes, aux citoyens et aux parlementaires de comprendre ce fatras de lignes comptables que constitue le budget de l'État. D'ores et déjà, au moment du vote du projet de loi de finance pour 2019 voici les premiers résultats : 
 ![Action exterieur]({{ site.url }}/images/actionexterieure.png){: .pull-right }
 - Une [visualisation complete](http://budget.parlement-ouvert.fr/) du budget par année, avec les autorisations d'engagement (pour signer des contrats sur plusieurs années) et les crédits de paiement (crédits à dépenser dans l'année)
 - Une [visualisation minimaliste]( https://rainbowviz.github.io/simpleRainbowViz/) qui permet de visualiser le projet pour 2019 et les pourcentages de variation avec le budget 2018
-
-
 
 ### Le point de départ 
 
@@ -56,12 +54,11 @@ Quand au style, c'est à la main et clairement une forme appel à l'aide. Petit 
 ### <a name="conclusion"></a>Les limites et conclusion
 **Cohérence des données** L'open data c'est sympa, mais si les données ne sont pas dans des formats standardisés, tant dans le format technique que dans leur organisation, il est difficile et douloureux de travailler avec. C'est le cas des budgets d'année en année, mais aussi entre les documents issus de diverses administrations. Il me semble que ce travail de préparation devrait être organisé.
 
-**Granularité des données** Le plus petit niveau de granularité qui nous a été disponible sous forme exploitable est la sous-action, c'est-à-dire des budgets de quelques centaines de millions à quelques milliards. Je ne sais pas vous, mais je n'ai aucune idée de ce que l'on fait d'un milliard. En dehors de la défense peut etre, je ne vois pas beaucoup de raison de masquer les détails, qui sont de toute façon nécessaires au controle comptable. Donner du grain à moudre factuel me semble le meilleur moyen de contrer les "fake news". 
+**Granularité des données** Le plus petit niveau de granularité qui nous a été disponible sous forme exploitable est la sous-action, c'est-à-dire des budgets de quelques centaines de millions à quelques milliards. Je ne sais pas vous, mais je n'ai aucune idée de ce que l'on fait d'un milliard. En dehors de la défense peut etre, je ne vois pas beaucoup de raison de masquer les détails. Les données de l'éxécution ne sont guère plus précises, alors qu'elles sont de toute façon nécessaires au controle comptable. Donner du grain à moudre factuel me semble le meilleur moyen de contrer les "fake news". 
 
-**Soutenir la communauté** Au cours des réunions de ce projet au Liberté Living Lab et au Bureau Ouvert, nous avons rencontré un nombre important de passionnés aux compétences techniques ou entrepreneuriale pour mener à bien des projets sur ces questions. Seulement les seules modalités de fonctionnement disponibles semblent être le bénévolat ou le marché public. Le premier a ses limites temporelles, le second est inadapté pour ces projets d'initiative citoyenne. 
+**Soutenir la communauté** Au cours des réunions de ce projet au Liberté Living Lab et au Bureau Ouvert, nous avons rencontré un nombre important de passionnés aux compétences techniques ou entrepreneuriale pour mener à bien des projets sur ces questions. Seulement les seules modalités de fonctionnement disponibles semblent être le bénévolat ou le marché public. Le premier a ses limites temporelles, le second est inadapté pour ces projets d'initiative citoyenne. C'est l'occasion de renouveler les formes d'action et de partenariats.
 
-Le projet est open source et ouvert. Alors n'hésitez pas à nous contacter. 
-
+Le projet est open source et ouvert. Alors n'hésitez pas à nous contacter ou proposer une amélioration du code.  
 
 ![Budget Iris]({{ site.url }}/images/budgetiris.png){: .center-image }
 
