@@ -7,8 +7,6 @@ tags:
 - dataviz
 - budget
 - civictech
-image:aj ajus
-  feature: 
 excerpt: Les chiffres et les couleurs
 layout: post
 author: xavier
@@ -56,7 +54,7 @@ Quand au style, c'est à la main et clairement une forme appel à l'aide. Petit 
 
 **Granularité des données** Le plus petit niveau de granularité qui nous a été disponible sous forme exploitable est la sous-action, c'est-à-dire des budgets de quelques centaines de millions à quelques milliards. Je ne sais pas vous, mais je n'ai aucune idée de ce que l'on fait d'un milliard. En dehors de la défense peut etre, je ne vois pas beaucoup de raison de masquer les détails. Les données de l'éxécution ne sont guère plus précises, alors qu'elles sont de toute façon nécessaires au controle comptable. Donner du grain à moudre factuel me semble le meilleur moyen de contrer les "fake news". 
 
-**Soutenir la communauté** Au cours des réunions de ce projet au Liberté Living Lab et au Bureau Ouvert, nous avons rencontré un nombre important de passionnés aux compétences techniques ou entrepreneuriale pour mener à bien des projets sur ces questions. Seulement les seules modalités de fonctionnement disponibles semblent être le bénévolat ou le marché public. Le premier a ses limites temporelles, le second est inadapté pour ces projets d'initiative citoyenne. C'est l'occasion de renouveler les formes d'action et de partenariats.
+**Soutenir la communauté** Au cours des réunions de ce projet au Liberté Living Lab et au Bureau Ouvert, nous avons rencontré un nombre important de passionnés aux compétences techniques ou entrepreneuriales pour mener à bien des projets sur ces questions. Seulement les seules modalités de fonctionnement disponibles semblent être le bénévolat ou le marché public. Le premier a ses limites temporelles, le second est inadapté pour ces projets d'initiative citoyenne. C'est l'occasion de renouveler les formes d'action et de partenariats.
 
 Le projet est open source et ouvert. Alors n'hésitez pas à nous contacter ou proposer une amélioration du code.  
 
