@@ -29,9 +29,9 @@ Lidée est simple, permettre aux citoyens et aux députés de comprendre ce fatr
 
 ### Le point de départ 
 
-Le projet de visualisation du projet de loi de finance, porté par [Alexis Thual](https://twitter.com/AlexisThual), a démarré il y a plusieurs mois notamment au travers du [Bureau Ouvert](https://parlement-ouvert.fr/) de Paula Forteza et une participation au hackathon [Datafin](https://twitter.com/search?q=%23datafin). 
+Le projet de visualisation du projet de loi de finance, porté par [Alexis Thual](https://twitter.com/AlexisThual), a débuté il y a plusieurs mois notamment grace au soutien du [Bureau Ouvert](https://parlement-ouvert.fr/) de Paula Forteza et une participation au hackathon [Datafin](https://twitter.com/search?q=%23datafin). 
 
-Il y a quelques semaines, à l'occasion du lancement de la 5em promotion de DataForGood, programme d'accompagnement de projets numériques, qui comme son nom l'indique, orienté data et à intérêt social, le projet recrutait une nouvelle équipe de bénévoles. 
+Il y a quelques semaines, à l'occasion de la 5em promotion de DataForGood, programme d'accompagnement de projets numériques orienté data et à intérêt social, le projet recrutait une nouvelle équipe de bénévoles. 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="fr" dir="ltr">Lancement de la 5em saison de <a href="https://twitter.com/hashtag/dataforgood?src=hash&amp;ref_src=twsrc%5Etfw">#dataforgood</a> ! Pour accélérer des projets numériques sur trois mois, avec un espace disponible les mercredis et du mentorat <a href="https://t.co/faHYxs6Egb">pic.twitter.com/faHYxs6Egb</a></p>&mdash; Les Bricodeurs (@LesBricodeurs) <a href="https://twitter.com/LesBricodeurs/status/1053612635386716160?ref_src=twsrc%5Etfw">October 20, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -41,13 +41,13 @@ On entre ensuite dans les questions plus techniques, vous pouvez sauter aux [con
 
 La première étape, et la plus longue, a été d'abord d'aller chercher les bonnes données : Entre celles qui servent à la rédaction des projets de loi de finances, celles issues de l'exécution des dépenses dans les logiciels comptables, celles utilisées lors des controles et analyses de la Cour des Comptes... 
 
-Ensuite, un travail sur la réconciliation des lignes d'une année à l'autre. Les intitulés des actions budgétaires peuvent changer, pour des questions d'organisation, d'affichage ou parfois simplement de tpyos. Un [joli travail ](https://github.com/rainbowViz/nomenclaturePlf) que je vous invite à consulter si vous avez quelques affinités avec python, numpy ou Keras.
+Ensuite, un travail sur la réconciliation des lignes d'une année à l'autre. Les intitulés des actions budgétaires peuvent changer, pour des questions d'organisation, d'affichage ou parfois simplement de tpyos. Un [joli travail ](https://github.com/rainbowViz/nomenclaturePlf) d'Alexis que je vous invite à consulter si vous avez quelques affinités avec python, numpy ou Keras.
 
 ### La visualisation et frontend
 
-Le choix de la principale librairie de visualisation s'est naturellement porté sur D3.js. La librairie offre divers outils comme les échelles de couleurs et une grande souplesse dans l'affichage. Selon un procédé approximatif, j'ai utilisé [rawgraphs.io](http://app.rawgraphs.io/) pour tester différentes visualisations: Bubble, Sankey, Suburst...
+Le choix de la principale librairie de visualisation s'est naturellement porté sur D3.js. La librairie offre divers outils comme les échelles de couleurs et une grande souplesse dans l'affichage. Selon un procédé approximatif, on a testé différentes visualisations : Bubble, Sankey, Suburst..., notamment au moyen de [rawgraphs.io](http://app.rawgraphs.io/).
 
-Pour le frontend, React a été retenu accompagné de Redux. Il s'agit du [framework le plus populaire en 2018](https://2018.stateofjs.com/front-end-frameworks/overview/), pour autant il faut reconnaitre que la fragmentation des dévelopeurs entre différents frameworks ne facilite pas les contributions pour ces petites projets. Ma petite contribution est restée en [vanilla](http://vanilla-js.com/), par incompétence ou choix idéologique.
+Pour le frontend, React a été retenu accompagné de Redux. Il s'agit du [framework le plus populaire en 2018](https://2018.stateofjs.com/front-end-frameworks/overview/), pour autant il faut reconnaitre que la fragmentation des dévelopeurs entre différents frameworks ne facilite pas les contributions pour ces petites projets. Ma petite contribution est restée en [vanilla js](http://vanilla-js.com/), par incompétence ou choix idéologique, je n'ai pas encore tranché.
 
 ![Frameworks]({{ site.url }}/images/frameworks.jpg){: .center-image }
 
