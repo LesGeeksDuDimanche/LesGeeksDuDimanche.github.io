@@ -39,8 +39,6 @@ Inscrivez-vous à la newsletter ici !
 <style type="text/css">
 	#mc_embed_signup{clear:left; font:14px Helvetica,Arial,sans-serif; }
 	#mc_embed_signup .mc-field-group input { max-width: 200px; }
-	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
 <div id="mc_embed_signup">
 <form action="https://lesbricodeurs.us12.list-manage.com/subscribe/post?u=bbbb42e1640719973809dfb8c&amp;id=d2048e10ec" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
@@ -77,6 +75,7 @@ Inscrivez-vous à la newsletter ici !
     </div>
 </form>
 </div>
+
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email'; /*
  * Translated default messages for the $ validation plugin.
  * Locale: FR

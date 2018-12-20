@@ -123,3 +123,5 @@ Grâce au soutien de la Fondation de France, Les bricodeurs assurent la coordina
         <img style="max-height: 68px;" src="https://drive.google.com/uc?export=view&id=1ThIEZmJZcIWpi0Wrhzl99K4UsGLOfBY6" >
     </a>
 </div>
+
+<script src="./preecole.js"></script>
