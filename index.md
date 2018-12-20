@@ -22,10 +22,11 @@ _[:gb: English version]({{ site.url }}/english/){: .pull-right}_
 | [Réseau professionnel](https://join.slack.com/t/bricodeurs/shared_invite/enQtMjk4MDg1NTIxMDI4LWU1MjRhMjlmYmYyYmM3MGRhNjg3YjIzMGRiMzk0YjE4OTYyYzUxZWFkMDE1MTZiZTRiOTBhYTA4YTQ5YTA2NTY) et accompagnement des parcours 	| | [Formations collaboratives]({{site.url}}/preecoledunumerique/) de préparation aux métiers du numérique |
 |[Analyse and plaidoyer]({{ site.url }}/articles/) sur les questions technologie et société (protection des données, open source ...) 	| |  [Meetups](https://pro.meetup.com/fr-FR/pro/les-bricodeurs/) et événements grand public	|
 
+<div>
 <video playsinline autoplay muted loop poster="images/Computer-Cat.jpg" width="600" id="welcome-video" style="margin: 1rem auto;" >
   <source src="images/lesbricodeursintro.mp4" type="video/mp4">
 </video>
-
+</div>
 #### Vous êtes un bricodeur
 Un **Bricodeur** est une personne qui souhaite résoudre des défis avec ses compétences dans le numérique. Néologisme destiné à traduire en français le mot hacker, bricodeur désigne une culture d'apprentissage où la compétence et la curiosité prime sur les statuts. Les bricodeurs proviennent de diverses filières (Blockchain, développement web, Arts numérique, Design ...) et différents profils (indépendants, chercheurs, entrepreneurs ...). 
 
