@@ -212,3 +212,9 @@ pre {
 b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a, .highlight {
 	@include transition(all .2s ease);
 }
+
+@media screen and (max-width: 650px) {
+  #welcome-video {
+  display: none;
+  }
+}
