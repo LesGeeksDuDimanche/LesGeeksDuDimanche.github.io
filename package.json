@@ -1,0 +1,29 @@
+{
+  "name": "lesbricodeurs",
+  "version": "1.0.0",
+  "description": "Les Bricodeurs est au départ un groupe informel de geeks qui se réunit le dimanche pour développer ensemble et débattre des enjeux technologiques depuis 2014. \\#ClashEnBash",
+  "main": "Gruntfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-clean": "^2.0.0",
+    "grunt-contrib-imagemin": "^3.1.0",
+    "grunt-contrib-jshint": "^2.0.0",
+    "grunt-contrib-uglify": "^4.0.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-svgmin": "^5.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LesGeeksDuDimanche/LesGeeksDuDimanche.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LesGeeksDuDimanche/LesGeeksDuDimanche.github.io/issues"
+  },
+  "homepage": "https://github.com/LesGeeksDuDimanche/LesGeeksDuDimanche.github.io#readme"
+}
