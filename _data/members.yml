@@ -97,11 +97,13 @@ xavier:
   google:
     plus:
 
-
-
-
-
-
+blac:
+  name: Baptiste Lac
+  web: http://www.linkedin.com/in/baptiste-lac
+  email: baptiste.lac0@gmail.com
+  bio: "Info & Biolgie"
+  role: "Volontaire en Service Civique"
+  avatar: bio/blac.jpg
 
 zoe:
   name: Zoé Thivet
