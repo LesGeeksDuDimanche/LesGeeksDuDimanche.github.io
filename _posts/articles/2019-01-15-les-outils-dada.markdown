@@ -12,6 +12,8 @@ tags:
 - Robotique
 layout: post
 share: true
+image:
+  feature: outils_ada/banniere.png
 
 ---
 <style type="text/css">
@@ -39,9 +41,9 @@ p{
 
 </style>
 
-<img class="c_img" src="{{ site.url }}/images/outils_ada/banniere.png">
-
 Dans cette série d'articles nous vous présentons les outils pédagogiques que **Les Bricodeurs** utilisent pendant les ateliers d'Ada. Ce premier article est dédié au logiciel de programmation Scratch.
+
+<img class="c_img" src="{{ site.url }}/images/outils_ada/outils.png">
 
 # Scratch
 
