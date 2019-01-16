@@ -13,7 +13,8 @@ tags:
 layout: post
 share: true
 image:
-  feature: outils_ada/banniere.png
+  feature: outils_ada/banniere.png/
+  credit: ""
 
 ---
 <style type="text/css">
@@ -47,7 +48,7 @@ Dans cette série d'articles nous vous présentons les outils pédagogiques que 
 
 # Scratch
 
-Scratch est un outil de **programmation visuelle**, c’est à dire qu’il permet d’écrire du code informatique en assemblant des briques de couleurs. L’atout de la programmation visuelle est de permettre d’éviter les erreurs de syntaxes tout proposant un langage de programmation complet et puissant. Scratch est accessible via son **interface en ligne**, celle-ci permet à la fois d’écrire et d’exécuter le code, et d’en voir le déroulement en direct !
+Scratch est un outil de **programmation visuelle**, c’est à dire qu’il permet d’écrire du code informatique en assemblant des briques de couleurs. L’atout de la programmation visuelle est de permettre d’éviter les erreurs de syntaxes tout en proposant un langage de programmation complet et puissant. Scratch est accessible via son **interface en ligne**, celle-ci permet à la fois d’écrire et d’exécuter le code, et d’en voir le déroulement en direct !
 
 <img class="c_img" src="{{ site.url }}/images/outils_ada/scr_blocks.png">
 
