@@ -74,7 +74,7 @@ Des odules indépendants peuvent être proposés pour les professionnels de la r
 
 
 <div class="center">
-  <a href="https://goo.gl/forms/nB8A9Lrn5Bi9msFr2" class="btn-link">
+  <a href="https://airtable.com/shrdshgSj0JmLDXBZ" class="btn-link">
       Je m'inscris à l'avance
   </a>
 </div>
@@ -87,3 +87,9 @@ Des odules indépendants peuvent être proposés pour les professionnels de la r
 
 La formation est organisé par Lab01, fablab à Ambérieu-en-bugey. Les contenus pédagogiques sont conçus en partenariat avec les bricodeurs.
 
+
+Lieu : 48 rue Gustave Noblemaire, 01500 Ambérieu en Bugey
+
+<!-- <div class="center"> -->
+![Grande Ecole du Numerique]({{ site.url}}/images/LABEL_GEN.png){: .align-center}
+<!-- </div> -->
