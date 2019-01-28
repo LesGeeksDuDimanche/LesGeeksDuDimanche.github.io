@@ -14,8 +14,6 @@ layout: post
 share: true
 image:
   feature: outils_ada/banniere.png/
-  credit: ""
-
 ---
 <style type="text/css">
 

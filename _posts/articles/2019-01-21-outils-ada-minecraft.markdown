@@ -15,8 +15,6 @@ layout: post
 share: true
 image:
   feature: outils_ada/banniere.png/
-  credit: ""
-
 ---
 
 <style type="text/css">
@@ -49,6 +47,10 @@ iframe{
 
 </style>
 
+Dans cette série d'articles nous vous présentons les outils pédagogiques que **Les Bricodeurs** utilisent pendant les ateliers d'Ada. Cet article, le second de la série, est dédié à la programmation sur Minecraft.
+
+<img class="c_img" src="{{ site.url }}/images/outils_ada/outils.png">
+
 Minecraft est un jeu vidéo de construction et d’aventure, le joueur évolue dans un monde composé de « briques » en 3-dimensions représentant différents matériaux. Le joueur peut ainsi récupérer, combiner et placer ces différentes briques dans un monde virtuel et donc créer comme avec des **Légos** les constructions de ses rêves !
 
 <img class="c_img" src="{{ site.url }}/images/outils_ada/mft_pres.png">
@@ -63,7 +65,7 @@ et une générer une maison est à peine plus compliqué :
 
 Nous proposons avec les ateliers « Adacraft » de découvrir la programmation visuelle tout en proposant une activité ludique et créative en nous basant sur un jeu connu de la plupart des enfants. Notre serveur en ligne, où se déroulent les ateliers, permet de conserver les constructions des participants et donc de susciter leur curiosité lorsqu’ils le découvrent. Un petit apercu de ce qui vous attend :
 
-
+<p></p>
 
 <iframe src="http://188.165.206.136:8123/?worldname=construction&mapname=surface&zoom=3&x=1388&y=64&z=846" width="100%" height="400px"></iframe> 
 
