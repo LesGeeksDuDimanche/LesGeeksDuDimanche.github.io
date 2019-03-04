@@ -13,7 +13,8 @@ tags:
 layout: post
 share: true
 image:
-  feature: outils_ada/banniere.png/
+  feature: banniere.png
+  credit: blac
 ---
 <style type="text/css">
 
