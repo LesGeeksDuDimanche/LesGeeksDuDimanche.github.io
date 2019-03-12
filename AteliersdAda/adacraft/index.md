@@ -21,7 +21,7 @@ Minecraft est un jeu de construction qui offre la possibilité aux joueur de se 
 Une fois le jeu Minecraft démarré il faut aller dans le menu `multijoueur` et ajouter un nouveau serveur en spécifiant les informations suivantes :
 
 - Nom du serveur : `Adacraft`
-- Adresse du serveur : `adacraft.mcillimity.com`
+- Adresse du serveur : `play.lesbricodeurs.fr`
 
 Le serveur devrait ensuite apparaître dans la liste des serveurs, et vous pourrez vous y connecter.
 
@@ -49,4 +49,4 @@ Il faudra remplacer « nom_joueur » par le nom de votre compte Minecraft (visib
 
 Une carte globale du serveur est mise à jour régulièrement, elle est disponible ici :
 
-<a class="btn" href="http://map.lesbricodeurs.fr:8123/?worldname=construction&mapname=surface&zoom=2&x=1491&y=64&z=948">La Carte</a>
+<a class="btn" href="http://map.lesbricodeurs.fr/?worldname=construction&mapname=surface&zoom=2&x=1491&y=64&z=948">La Carte</a>
