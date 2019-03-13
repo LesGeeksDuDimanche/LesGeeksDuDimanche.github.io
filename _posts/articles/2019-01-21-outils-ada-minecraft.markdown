@@ -64,8 +64,4 @@ et une générer une maison est à peine plus compliqué :
 
 <img class="c_img" src="{{ site.url }}/images/outils_ada/mft_maison.gif">
 
-Nous proposons avec les ateliers « Adacraft » de découvrir la programmation visuelle tout en proposant une activité ludique et créative en nous basant sur un jeu connu de la plupart des enfants. Notre serveur en ligne, où se déroulent les ateliers, permet de conserver les constructions des participants et donc de susciter leur curiosité lorsqu’ils le découvrent. Un petit apercu de ce qui vous attend :
-
-<p></p>
-
-<iframe src="http://map.lesbricodeurs.fr/?worldname=construction&mapname=surface&zoom=3&x=1388&y=64&z=846" width="100%" height="400px"></iframe>
+Nous proposons avec les ateliers « Adacraft » de découvrir la programmation visuelle tout en proposant une activité ludique et créative en nous basant sur un jeu connu de la plupart des enfants. Notre serveur en ligne, où se déroulent les ateliers, permet de conserver les constructions des participants et donc de susciter leur curiosité lorsqu’ils le découvrent, vous pouvez même vous y connecter en dehors des ateliers ! Pour cela, rendez-vous sur <a href="http://lesbricodeurs.fr/AteliersdAda/adacraft">ce lien</a> et suivez les instructions !
