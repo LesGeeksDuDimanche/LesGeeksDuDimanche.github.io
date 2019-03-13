@@ -68,5 +68,5 @@ Nous proposons avec les ateliers « Adacraft » de découvrir la programmation v
 
 <p></p>
 
-<iframe src="http://188.165.206.136:8123/?worldname=construction&mapname=surface&zoom=3&x=1388&y=64&z=846" width="100%" height="400px"></iframe> 
+<iframe src="http://map.lesbricodeurs.fr/?worldname=construction&mapname=surface&zoom=3&x=1388&y=64&z=846" width="100%" height="400px"></iframe> 
 
