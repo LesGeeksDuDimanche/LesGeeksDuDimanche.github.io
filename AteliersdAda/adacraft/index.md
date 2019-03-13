@@ -84,10 +84,6 @@ Une fois le code écrit et sauvegardé, il faut retourner sur Minecraft pour l'e
 
 ## La carte !
 
-Une carte globale du serveur est mise à jour régulièrement, elle est disponible ici :
-
-<iframe src="http://188.165.206.136:8123/?worldname=construction&mapname=surface&zoom=3&x=1388&y=64&z=846" width="100%" height="400px"></iframe> 
+Au fil du temps, les participants aux ateliers d'Ada ont rempli le serveur **Adacraft** de leur jolies constructions ! En voici un apercu :
 
 <iframe src="http://map.lesbricodeurs.fr/?worldname=construction&mapname=surface&zoom=3&x=1388&y=64&z=846" width="100%" height="400px"></iframe>
-
-<a class="btn" href="http://map.lesbricodeurs.fr/?worldname=construction&mapname=surface&zoom=2&x=1491&y=64&z=948">La Carte</a>
