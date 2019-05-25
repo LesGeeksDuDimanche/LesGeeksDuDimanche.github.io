@@ -1,12 +1,11 @@
 ---
-title: "Les algorithmes Youtube et le Président"
+title: "Les algorithmes de Youtube et le Président"
 date: 2019-05-24T12:57:10+00:00
-excerpt: "Comment utiliser les algorithmes des réseaux sociaux pour détourner les règles électorales?"
+excerpt: "Peut on utiliser les algorithmes pour contourner les règles électorales?"
 author: xavier
 categories:
 - articles
 tags:
-- reseauxsociaux
 - Algorithmes
 - Youtube
 - Elections
@@ -19,9 +18,9 @@ image:
 Avant la clôture de la campagne des élections européennes, Emmanuel Macron a participé à une interview en direct sur la chaine du youtubeur HugoDécrypte. En s’appuyant sur le fonctionnement de l’algorithme de Youtube avec ce format, le Président de la République s’est assuré d’être omniprésent auprès des 17 millions d’utilisateurs quotidiens pendant le weekend des élections. 
 
 <img class="center-image" src="{{ site.url }}/images/meme-et-president.png">
-*Dès le samedi matin la vidéo était en tête des tendances sur Youtube @Xavier Lavayssière*
+<small><i>Dès le samedi matin la vidéo était en tête des tendances sur Youtube @Xavier Lavayssière</i></small>
 
-En effet, la visibilité sur Youtube est principalement déterminée par les mécanismes de recommandation. L’objectif de Youtube est de maximiser le temps de visionnage des utilisateurs. Plus les utilisateurs regardent des vidéos pendant longtemps, meilleures seront les recettes publicitaires associées. Pour ce faire, ,la plateforme a recours à une combinaison d’algorithmes (comme des méthodes d'intelligence artificielle [[1]](#ref1)) dont le détail est tenu secret. 70% des visionnages de vidéos sur Youtube ont ainsi été proposés par un algorithme[[2]](#ref2).
+En effet, la visibilité sur Youtube est principalement déterminée par les mécanismes de recommandation. L’objectif de Youtube est de maximiser le temps de visionnage des utilisateurs. Plus les utilisateurs regardent des vidéos pendant longtemps, meilleures seront les recettes publicitaires associées. Pour ce faire, la plateforme a recours à une combinaison d’algorithmes dont certains éléments sont connus (comme le recours à des méthodes d'intelligence artificielle [[1]](#ref1)) mais le détail est tenu secret. 70% des visionnages de vidéos sur Youtube ont ainsi été proposés par un algorithme[[2]](#ref2).
 
 Pour déterminer si un contenu doit être promu, un paramètre pris en compte est la durée de visionnage. Plus une vidéo est vue, en nombre de minutes totales, plus la vidéo sera recommandée à d’autres utilisateurs. Ici le contenu est idéal avec un format long d’interview d’une durée de 51 minutes. Le premier public, les abonnés les plus assidus de la chaîne et ceux qui s’intéressent de près à l’élection vont en regarder l’intégralité et entraîner ainsi par les recommandations ceux qui parcourent le site. 
 
@@ -35,6 +34,6 @@ La vidéo, déjà en tête des tendances samedi matin va donc être proposée to
 
 <p id="ref1">[1]&nbsp;Covington, Paul, Jay Adams, and Emre Sargin. &quot;Deep neural networks for youtube recommendations.&quot; Proceedings of the 10th ACM conference on recommender systems. ACM, 2016.</p>
 <p id="ref2">[2]&nbsp;Neal Mohan, responsable produit de Youtube https://www.cnet.com/news/youtube-ces-2018-neal-mohan</p>
-<p id="ref2">[3]&nbsp;32 vid&eacute;os sur la p&eacute;riode 25 avril 2019 - 24 mai 2019</span></p>
+<p id="ref2">[3]&nbsp;32 vid&eacute;os sur la p&eacute;riode 25 avril 2019 - 24 mai 2019</p>
 <p if="ref4">[4]&nbsp; D&eacute;cret n&deg; 2019-188 du 13 mars 2019 portant convocation des &eacute;lecteurs pour l&#39;&eacute;lection des repr&eacute;sentants au Parlement europ&eacute;en </p>
 <p id="ref5">[5]&nbsp;https://www.blogdumoderateur.com/chiffres-youtube/</p>
