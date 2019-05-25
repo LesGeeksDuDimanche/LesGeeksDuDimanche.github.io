@@ -1,7 +1,7 @@
 ---
-title: "L'algorithme et le candidat"
+title: "Les algorithmes Youtube et le Président"
 date: 2019-05-24T12:57:10+00:00
-excerpt: "Comment utiliser les algorithmes de Youtube pour détourner les règles électorales?"
+excerpt: "Comment utiliser les algorithmes des réseaux sociaux pour détourner les règles électorales?"
 author: xavier
 categories:
 - articles
