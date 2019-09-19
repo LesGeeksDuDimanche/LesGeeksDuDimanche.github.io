@@ -23,13 +23,17 @@ Pour cette nouvelle saison, les Ateliers d'Ada pour les 8/14 ans débuteront le 
 <br>
 (espace AltNet, 7, place Louis Chazette 69001 Lyon)
 <br>
+<br>
 Les horaires d'ateliers : tous les mercredi (hors vacances scolaire) de 14h à 16h.
+<br>
 <br>
 Date d'inscription : mercredi 9 octobre entre 14h et 18h à l'Espace AltNet (attention, seulement 8 places).
 <br>
 Aucune réservation par mail.
 <br>
+<br>
 Prix : 375€ pour l'année scolaire (jusqu'au 10 juin 2020)
+<br>
 <br>
 Règlement par chèque lors de l'inscription.
 <br>
