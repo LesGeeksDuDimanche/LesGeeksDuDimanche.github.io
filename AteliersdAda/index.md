@@ -19,9 +19,9 @@ Notre méthode repose sur une approche ludique et créative, une méthodologie d
 # Saison 2019 / 2020 !
 
 <p style="text-align: justify;">
-Pour cette nouvelle saison, les ateliers débuteront le mercredi 16 octobre à 14h 
+Pour cette nouvelle saison, les Ateliers d'Ada pour les 8/14 ans débuteront le mercredi 16 octobre à 14h.
 <br>
-(espace AltNet, 7, place Louis Chazette 69001 Lyon).
+(espace AltNet, 7, place Louis Chazette 69001 Lyon)
 
 Les horaires d'ateliers : tous les mercredi (hors vacances scolaire) de 14h à 16h.
 
@@ -34,14 +34,11 @@ Prix : 375€ pour l'année scolaire (jusqu'au 10 juin 2020)
 Règlement par chèque lors de l'inscription.
 <br>
 Possibilité de paiement en 1, 2 ou 3 fois.
-<br>
-<hr>
 
 # Les stages à la MMI
 
 Dates de stages et inscriptions sur le site de la MMI : https://mmi-lyon.fr/activites/clubs/
-<br>
-<hr>
+
 
 # Envie d'être tenu au courant ? 
 
