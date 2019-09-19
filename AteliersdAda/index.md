@@ -15,22 +15,30 @@ thumbnail: images/ada.png
 Notre méthode repose sur une approche ludique et créative, une méthodologie d’apprentissage en partie en autonomie par groupes, le développement de compétences techniques et de résolution de problèmes, le lien avec des thèmes littéraires et artistiques et une attention particulière à ce que la communication comme le contenu des ateliers soit inclusif.
 </p>
 
-# Les prochains ateliers !
+# Saison 2019 / 2020 !
 
-<div style="display:block;width:100%;max-width:970px;margin:0 auto;">
-  <iframe src="https://yurplan.com/orga/Les-Bricodeurs/2368/ticketing/widget" style="display:block;width:100%;height:475px;margin:0;" scrolling="auto" frameborder="0"></iframe>
-</div>                  
+<p style="text-align: justify;">
+Pour cette nouvelle saison, les ateliers débuteront le mercredi 16 octobre à 14h 
+<br>
+(espace AltNet, 7, place Louis Chazette 69001 Lyon).
 
-<hr>
+Les horaires d'ateliers : tous les mercredi (hors vacances scolaire) de 14h à 16h.
 
-# Les activités
+Date d'inscription : mercredi 9 octobre entre 14h et 18h à l'Espace AltNet (attention, seulement 8 places).
+<br>
+Aucune réservation par mail.
 
-Au cours des différentes semaines vous pourrez concevoir votre robot avec les robots thymios, programmer des jeux simples avec des interfaces comme Scratch et pour les plus avancés plonger dans la création avec Javascript, Arduino et Processing.
+Prix : 375€ pour l'année scolaire (jusqu'au 10 juin 2020)
+<br>
+Règlement par chèque lors de l'inscription.
+<br>
+Possibilité de paiement en 1, 2 ou 3 fois.
+<br>
 
- _[En savoir plus]({{site.url}}/AteliersdAda/outils/)_
+# Les stages à la MMI
 
-
-<hr>
+Dates de stages et inscriptions sur le site de la MMI : https://mmi-lyon.fr/activites/clubs/
+<br>
 
 # Envie d'être tenu au courant ? 
 
