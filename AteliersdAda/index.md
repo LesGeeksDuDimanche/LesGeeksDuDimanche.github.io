@@ -34,10 +34,11 @@ Prix : 375€ pour l'année scolaire (jusqu'au 10 juin 2020)
 Règlement par chèque lors de l'inscription.
 <br>
 Possibilité de paiement en 1, 2 ou 3 fois.
+</p>
 
 # Les stages à la MMI
 
-Dates de stages et inscriptions sur le site de la MMI : https://mmi-lyon.fr/activites/clubs/
+Dates de stages et inscriptions sur le site de la MMI : [https://mmi-lyon.fr/activites/clubs/](https://mmi-lyon.fr/activites/clubs/)
 
 
 # Envie d'être tenu au courant ? 
