@@ -15,6 +15,7 @@ thumbnail: images/ada.png
 Notre méthode repose sur une approche ludique et créative, une méthodologie d’apprentissage en partie en autonomie par groupes, le développement de compétences techniques et de résolution de problèmes, le lien avec des thèmes littéraires et artistiques et une attention particulière à ce que la communication comme le contenu des ateliers soit inclusif.
 </p>
 
+<hr>
 # Saison 2019 / 2020 !
 
 <p style="text-align: justify;">
@@ -34,11 +35,13 @@ Règlement par chèque lors de l'inscription.
 <br>
 Possibilité de paiement en 1, 2 ou 3 fois.
 <br>
+<hr>
 
 # Les stages à la MMI
 
 Dates de stages et inscriptions sur le site de la MMI : https://mmi-lyon.fr/activites/clubs/
 <br>
+<hr>
 
 # Envie d'être tenu au courant ? 
 
