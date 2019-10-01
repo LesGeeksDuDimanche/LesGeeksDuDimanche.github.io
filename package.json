@@ -4,7 +4,8 @@
   "description": "Les Bricodeurs est au départ un groupe informel de geeks qui se réunit le dimanche pour développer ensemble et débattre des enjeux technologiques depuis 2014. \\#ClashEnBash",
   "main": "Gruntfile.js",
   "dependencies": {
-    "js-yaml": ">=3.13.1"
+    "js-yaml": ">=3.13.1",
+    "set-value": "^3.0.1"
   },
   "devDependencies": {
     "grunt": "^1.0.4",
