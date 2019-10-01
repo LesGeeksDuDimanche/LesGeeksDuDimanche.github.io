@@ -3,9 +3,11 @@
   "version": "1.0.0",
   "description": "Les Bricodeurs est au départ un groupe informel de geeks qui se réunit le dimanche pour développer ensemble et débattre des enjeux technologiques depuis 2014. \\#ClashEnBash",
   "main": "Gruntfile.js",
-  "dependencies": {},
+  "dependencies": {
+    "js-yaml": ">=3.13.1"
+  },
   "devDependencies": {
-    "grunt": "^1.0.3",
+    "grunt": "^1.0.4",
     "grunt-contrib-clean": "^2.0.0",
     "grunt-contrib-imagemin": "^3.1.0",
     "grunt-contrib-jshint": "^2.0.0",
