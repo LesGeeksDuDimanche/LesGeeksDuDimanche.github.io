@@ -14,7 +14,7 @@ L’objectif de la préécole du numérique est d’être la porte d’entrée v
 
 <br><br>
 
-**Le programme pour la 3ème année de la Préécole du Numérique est en construction. 🏗️ **
+<b>Le programme pour la 3ème année de la Préécole du Numérique est en construction. 🏗️ </b>
 
 <br><br>
 
