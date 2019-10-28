@@ -26,17 +26,25 @@ Aujourd'hui node et npm sont aussi utilisés par les développeurs webs comme su
 
 # Installation
 
-Pour installer node et npm, il suffit de taper une des commande suivante. Si vous êtes sous windows, vous pouvez installer Cygwin, une virtualbox avec linux ou utiliser "Linux Subsystem". 
+Pour installer node et npm, il suffit de taper une des commande suivante. 
 
-Pour les systèmes Debian et Ubuntu 
+Pour les systèmes Linux Debian et Ubuntu 
 `curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -`
 
 `sudo apt install -y nodejs`
 
-Pour les systèmes à base de RPM
+Pour les systèmes Linux à base de RPM
 `curl -sL https://rpm.nodesource.com/setup_10.x | bash -`
 
-Sous mac vous pouvez le télecharger [ici](https://nodejs.org/dist/v8.11.1/node-v8.11.1.pkg)
+Sous macOS
+`curl "https://nodejs.org/dist/latest/node-${VERSION:-$(wget -qO- https://nodejs.org/dist/latest/ | sed -nE 's|.*>node-(.*)\.pkg</a>.*|\1|p')}.pkg" > "$HOME/Downloads/node-latest.pkg" && sudo installer -store -pkg "$HOME/Downloads/node-latest.pkg" -target "/"`
+
+Ou si vous utilisez homebrew sur macOS
+`brew install node`
+
+Si vous êtes sous Windows, vous pouvez utiliser le "[sous-système Windows pour Linux](https://docs.microsoft.com/fr-FR/windows/wsl/install-win10)" qui vous permet d'utiliser l'ensemble des commandes Linux. 
+
+Sinon, et dans tous les autres cas, vous pouvez simplement télécharger le fichier d'installation [ici](https://nodejs.org/en/download/)
 
 Comme on nous l'a signalé [sur twitter](https://twitter.com/le_mulot/status/905102883431088128), vous pouvez aussi utiliser nvm. Nvm est un gestionnaire de version de node.js. Vous trouverez plus d'informations par [ici](https://github.com/creationix/nvm/blob/master/README.md)
 
@@ -67,9 +75,9 @@ Quand vous récupérez un projet, généralement vous devrez lancer les commande
 * **npm install** Installe toutes les dépendances du fichier package.json
 
 Les commandes suivantes sont définies dans le package.json, le nom peut varier:
-
-* **npm dev** Pour lancer le projet en version développement
-* **npm build** Pour lancer la construction du site.
+* **npm start** Généralement le script complet pour compiler et lancer le projet
+* **npm run dev** Pour lancer le projet en version développement
+* **npm run build** Pour lancer la construction du site.
 
 ## Quelques paquets sympas
 
