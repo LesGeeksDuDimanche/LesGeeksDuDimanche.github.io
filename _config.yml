@@ -62,22 +62,22 @@ owner:
   twitter: LesBricodeurs
   facebook: lesbricodeurs
   github: LesGeeksDuDimanche
-  stackexchange: 
-  linkedin: 
-  instagram: 
-  flickr: 
-  tumblr: 
+  stackexchange:
+  linkedin:
+  instagram:
+  flickr:
+  tumblr:
   meetup: fr-FR/pro/les-bricodeurs/
-  slack: enQtMjk4MDg1NTIxMDI4LWU1MjRhMjlmYmYyYmM3MGRhNjg3YjIzMGRiMzk0YjE4OTYyYzUxZWFkMDE1MTZiZTRiOTBhYTA4YTQ5YTA2NTY
-  pinterest: 
-  weibo: 
+  slack: enQtMjk4MDg1NTIxMDI4LTQ2ZmMyN2Y4YjczMjJlMmQ1ZTkwMDk2N2VhYTBhNWQ1ZDQyOTk4NjA5Nzc0MTI1MWY5NThmODVkODZiODlhMDE
+  pinterest:
+  weibo:
   google:
-    plus: 
+    plus:
     analytics: UA-64227504-1
-    verify: 
-    ad-client: 
-    ad-slot: 
-  bing-verify: 
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
 compress_html:
   clippings: all
   comments:
