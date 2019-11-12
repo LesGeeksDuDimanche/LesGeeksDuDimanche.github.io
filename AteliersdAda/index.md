@@ -12,6 +12,6 @@ thumbnail: images/ada.png
 ---
 
 
-Les inscriptions pour la saision 2019 / 2020 se passent ici : http://ateliersdada.lesbricodeurs.fr/.
+Les inscriptions pour la saision 2019 / 2020 se passent ici : [http://ateliersdada.lesbricodeurs.fr/](http://ateliersdada.lesbricodeurs.fr/).
 
 
