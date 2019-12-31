@@ -8,3 +8,4 @@ node_modules
 .jekyll-metadata
 .bundle
 vendor
+.idea
