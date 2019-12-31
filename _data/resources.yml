@@ -1,0 +1,32 @@
+# Apprendre à coder ensemble Resources
+- date: 2019
+  resources:
+    - title: "Améliorer son UI sans Designer"
+      label: "Améliorer son UI sans Designer"
+      href: 'https://drive.google.com/open?id=1LaFWldOSNLL-BOoJ9IOBPCzq8ydSJQq3'
+      date: '18/12/19'
+    - title: "RGPD, ce qu'il faut savoir !"
+      label: "RGPD, ce qu'il faut savoir !"
+      href: 'https://drive.google.com/open?id=15qhDJMXVR4-osTd9B0sLbEN5CuXZX2sW'
+      date: '20/11/19'
+    - title: 'Apprendre les secrets du référencement payant !'
+      label: 'Apprendre les secrets du référencement payant !'
+      href: 'https://drive.google.com/open?id=1XIKXrCfU5wPz0QIwNBACZljCXOX4iMOr'
+      date: '06/11/19'
+    - title: 'Apprendre les secrets du Reférencement !'
+      label: 'Apprendre les secrets du Reférencement !'
+      href: 'https://drive.google.com/open?id=1CRcDwgdF-EXfhBunY-cj8nFmea-a1Kyo'
+      date: '23/10/19'
+    - title: 'L’UX ou l’art de faire les choses simples'
+      label: 'L’UX ou l’art de faire les choses simples'
+      href: 'https://drive.google.com/open?id=1Tn1ZF-y6mISVYBjoXBsjwHGpxtBEuqdv'
+      date: '09/10/19'
+    - title: 'Initiation à Git !'
+      label: 'Initiation à Git !'
+      href: 'https://drive.google.com/open?id=1DV1ZIys047u67X-fs34fCW3MIvVLvyKt'
+      date: '25/09/19'
+    - title: 'Découverte de Wordpress !'
+      label: 'Découverte de Wordpress !'
+      href: 'https://drive.google.com/open?id=1jazX9WRPJVw9p8OIqkp8PbBYywAhGy2H'
+      date: '11/09/19'
+
