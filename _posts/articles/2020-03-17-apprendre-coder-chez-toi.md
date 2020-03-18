@@ -6,13 +6,12 @@ categories:
 tags:
 - programmation
 - e-learning
+- coderenligne
 layout: post
 excerpt: Profite d'être à la maison pour apprendre à coder!
 comments: true
 share: true
 ---
-
-# 3 ressources pour apprendre à coder de chez toi
 
 Tu es coincé.e chez toi en raison d'une épidémie internationale? Tu as toujours rêvé d'apprendre à programmer mais tu ne sais pas par où commencer? Chez Les Bricodeurs, nous sommes convaincus des vertus de l'auto-apprentissage. Dans cet article, des bricodeur.euse.s te guident vers les ressources qui leur ont permis d'apprendre la programmation, de zéro ou à partir de bases universitaires. L'offre est suffisamment étoffée aujourd'hui pour que chacun y trouve son compte.
 
