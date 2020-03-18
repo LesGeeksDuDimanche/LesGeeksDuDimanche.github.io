@@ -11,15 +11,23 @@ thumbnail: images/cafe-portable-leger.jpg
 
 Étant donné la situation actuelle 🤷, Les Bricodeurs proposent de vous aider à en profiter pour découvrir ou renforcer vos compétences en programmation.
 
-En premier lieu, nous préparons une série d'articles pour vous guider parmi les plateformes en ligne d'apprentissage. Le premier évoque Khan Academy,
-Exercism et Codingame, et sera publié mardi 17.
+En premier lieu, nous préparons une série d'articles pour vous guider parmi les plateformes en ligne d'apprentissage. Le premier évoque Khan Academy, Exercism et Codingame.
+<ul class="">
+{% for post in site.categories.articles %} 
+{% if post.tags contains "coderenligne" %}
+  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} </a></article></li>
+{% endif %}
+{% endfor %}
+</ul>
+
 
 Ensuite, [rejoignez](https://www.helloasso.com/associations/les-bricodeurs/adhesions/adhesions-bricodeurs-2016) notre [messagerie interne](https://join.slack.com/t/bricodeurs/shared_invite/zt-3sxsf81w-Rvwn~LcyLi1ekAln6qCl1Q) pour être tenu informé, partager des questions ou vos connaissances.
 
-Enfin tous les jeudi soirs à 18h, un atelier en ligne pour découvrir une technologie:
-- Faire un site static de photos javascript
-- Analyser le réseau et communiquer en Python
-- ...
+Enfin tous les [jeudi soirs à 18h](https://www.facebook.com/events/2876113685783817/), un atelier en ligne pour découvrir une technologie:
+1. Comprendre le Web et créer sa page en HTML
+2. Un premier jeu en Python
+3. Animer une page en javascript
+4. Python et le Web (API, scraping...)
 
 Agenda ouvert à vos besoins et propositions d'ateliers. Pour participer, voici le formulaire :
 
