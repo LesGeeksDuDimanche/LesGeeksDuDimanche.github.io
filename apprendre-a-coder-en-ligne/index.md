@@ -20,11 +20,10 @@ En premier lieu, nous préparons une série d'articles pour vous guider parmi le
 {% endfor %}
 </ul>
 
-
 Ensuite, [rejoignez](https://www.helloasso.com/associations/les-bricodeurs/adhesions/adhesions-bricodeurs-2016) notre [messagerie interne](https://join.slack.com/t/bricodeurs/shared_invite/zt-3sxsf81w-Rvwn~LcyLi1ekAln6qCl1Q) pour être tenu informé, partager des questions ou vos connaissances.
 
 Enfin tous les [jeudi soirs à 18h](https://www.facebook.com/events/2876113685783817/), un atelier en ligne pour découvrir une technologie:
-1. Comprendre le Web et créer sa page en HTML
+1. Comprendre le Web et créer sa page en HTML ([lien twitch](https://www.twitch.tv/lesbricodeurs/) )
 2. Un premier jeu en Python
 3. Animer une page en javascript
 4. Python et le Web (API, scraping...)
