@@ -18,7 +18,7 @@ Tu es coincé.e chez toi en raison d'une épidémie internationale? Tu as toujou
 ## Khan Academy
 
 - Public cible: Débutants de tout âge
-- Langage: Javascript
+- Langage: Javascript, HTML, CSS, SQL
 - Points forts: Traduit en français, correction automatique immédiate, grande communauté internationale
 
 Lancée en 2005 par Salman "Sal" Khan pour partager les vidéos qu'il réalisait pour enseigner les mathématiques à ses cousins, _Khan Academy_ est aujourd'hui une plateforme d'apprentissage multi-disciplinaire et traduite en de nombreuses langues, dont le français. C'est sur cette plateforme que j'ai écrit mes premières lignes de code grâce à leur leçons extrêmement didactiques et leurs exercices très progressifs. Leurs contenus sont tout à fait adapté à des enfants, adolescents comme à des adultes absolument néophytes.
