@@ -79,6 +79,8 @@ Ma page s'est complexifiée, mais pas de panique, je t'explique tout: nous avons
 - Ces balises sont imbriquées entre les balises `<head>` et `</head>`, qui indiquent au navigateur l'en-tête dont je t'ai parlé, qui est la partie de la page web qui lui est destinée.
 - Ces balises `<head>` sont elles mêmes imbriquées entre les balises `<html>` qui définissent le début et la fin de ma page web.
 
+Ont dit que la balise `<html>` est la **balise parente** de la balise `<head>`, qui est elle même parente de la balise `<title>`. Dans les sens inverse, la balise `<title>` est la **balise enfante** de la balise `<head>` et ainsi de suite.
+
 **Note:** Le format HTML ayant été inventé par des anglophones, tu te rendras vite compte que tous les noms des balises sont en anglais, comme "title" pour le titre, et "head" pour l'en-tête.
 
 
@@ -138,7 +140,7 @@ Dans l'exemple ci-dessus, je veux ajouter un titre pour le chapitre que je suis 
 
 Une présentation du langage HTML ne peut pas se passer sans présentation des **liens hypertextes** (ou hyperliens, HTML signifiant *HyperText Markup Language*)!
 
-En effet, lorsque nous naviguons sur le Web, nous n'entrons pas l'adresse URL de chaque page que nous souhaitons consulter dans la barre d'adresse du navigateur, ce serait fastidieux! A la place, nous cliquons sur des liens hypertextes qui se chargent de nous diriger vers d'autres pages HTML. L'ensemble de toutes les pages interconnectées format une sorte de "toile d'araignée mondiale" (NLDR. traduction de *World Wide Web* en français).
+En effet, lorsque nous naviguons sur le Web, nous n'entrons pas l'adresse URL de chaque page que nous souhaitons consulter dans la barre d'adresse du navigateur, ce serait fastidieux! A la place, nous cliquons sur des liens hypertextes qui se chargent de nous diriger vers d'autres pages HTML. L'ensemble de toutes les pages interconnectées formant une sorte de "toile d'araignée mondiale" (N.D.L.R.: c'est la traduction de *World Wide Web* en français).
 
 ![Les liens hypertextes connectent les pages HTML entre elles](../../images/2020-03-21-creer-premiere-page-web/web-007.png)
 
@@ -154,10 +156,101 @@ Lorsque l'internaute clique sur un lien hypertexte dans son navigateur web, la *
 
 ## Mettre en forme le texte avec du CSS
 
+Jusqu'à maintenant, je t'ai parlé de la manière de structurer l'information que tu veux communiquer à travers ta page HTML. Tu as pu observer que le navigateur affiche différemment les titres des paragraphes à partir du moment que l'on utilise les bonnes balises. Mais tu t'aperçois que les pages HTML que j'ai écrite ne ressemblent pas vraiment à celles que tu as l'habitude de consulter en naviguant sur le Web...
+
+Comme les écrivains séparent le fond de la forme lorsqu'ils écrivent un roman, les développeurs web séparent le **contenu** du **style** d'une page Web. Le contenu, on l'a vu, est structuré dans la page HTML. Le style quant à lui, est défini dans une feuille de style CSS.
+
 ### Utiliser une feuille de style dans une page Web
+
+Pour que le navigateur comprenne quels règle de styles il doit utiliser, il faut lui expliquer où trouver la bonne feuille de style. Cela se fait en ajoutant une balise `<link>` dans l'en-tête de la page HTML. 
+
+```html
+<head>
+	<title>Comment créer sa page HTML?</title>
+	<link rel="stylesheet" href="style.css"/>
+</head>
+```
+
+Cette balise te paraît étrange? En effet, je n'ai pas besoin de la faire suivre d'une balise fermante, elle est **auto-fermante** (on dit aussi qu'il s'agit d'une "balise orpheline"). Ce qui nous intéresse ici ce n'est pas son contenus, mais bien ses deux *attributs*:
+
+- `rel="stylesheet"` explicite au navigateur la nature de la ressource que l'on veut lier à la page HTML. Cela revient à dire: "Attention, je lie une feuille de style à ma page HTML."
+- `href="style.css"` est l'adresse URL à laquelle se trouve la feuille de style en question. Je ne veux pas rentrer ici dans les détails de la résolution d'une adresse URL, mais sache juste que pour que ce code là fonctionne, il faut que la feuille de style s'appelle "style.css" et soit exactement dans le même dossier que la page HTML que je suis en train d'écrire.
 
 ### Anatomie d'une règle CSS
 
-### Le travail de l'intégrateur Web
+Si tu as fait la manipulation de ton côté, tu risques d'être un peu déçu: actuellement cette toute nouvelle feuille de style ne change absolument pas la page HTML dans ton navigateur. C'est toute à fait normal, car la feuille de style est vide! Il faut donc inclure ce que l'on appelle des **règles CSS**.
 
-## Apprendre le Web... sur le Web!
+Si, par exemple, je veux centrer le texte de ma page web, je vais écrire dans ma feuille de style:
+
+```css
+body {
+  text-align: center;
+}
+```
+
+Tout cela diffère radicalement de la manière d'écrire du HTML, ceci dit, tu dois quand même reconnaître un mot: "body". Et oui, cela désigne le *corpus* de notre page HTML. En utilisant le nom de cette balise, je peux appliquer la règle suivante à tout le texte contenu dans la balise `<body>` de ma page web. Mais également à tout le texte contenu dans les *balises imbriquées* dans ma balise `<body>`, ainsi que les balises imbriquées dans ces balises, etc. On dit que les balises **héritent** des règles CSS de leur balises parentes.
+
+Cette première partie, qui désigne l'élément HTML sur lequel appliquer ma règle CSS est appelé le **sélecteur**. La règle se compose de deux autres parties:
+
+La **propriété** `text-align`, désigne ce que je veux modifier lors de l'affichage de ma page web, ici il s'agit de l'alignement du texte.
+
+Après les symbole `:`, j'ai écrit la nouvelle **valeur** que je veux que prenne la propriété que j'ai choisi. Ici je décide d'utiliser `center` pour indiquer au navigateur de centrer le texte.
+
+Les propriétés et les valeurs qu'elles peuvent prendre sont extrêmement nombreuses, et encore une fois, la documentation du Mozilla Developers Network[^3] te sera d'une aide précieuse!
+
+[^3]: [La référence CSS du Mozilla Developers Network](https://developer.mozilla.org/fr/docs/Web/CSS)
+
+**Note:** CSS signifie *Cascading StyleSheets*, ce qui se traduit par "feuilles de style en cascade". La "cascade" désigne ici cette faculté des règles CSS de se propager d'une balise aux balises imbriquées...
+
+**Mini-TP:**
+
+Pour que l'on voit bien mes titres, j'aimerais qu'il soient de couleur rouge. Quelle règle CSS devrais-je écrire dans ma feuille de style?[^14]
+
+[^14]: `h1 { color: red; }`
+
+## Le travail de l'intégrateur.trice Web
+
+Le.la spécialiste des pages web bien structurées et agréable à l'oeil, s'appelle l'*intégrateur.trice web*. Sa connaissance des propriétés CSS et des balises HTML lui permet de coller au pixel prêt à la vision du.de la web designer.
+
+Ce.tte web designer est chargée de produire une **maquette graphique** (souvent sous forme de fichier Photoshop) qu'il.elle donnera à l'intégrateur.trice , chargé.e de l'**implémentation** de cette maquette: transformer ce la.les image.s en page.s web fonctionnelle.s.
+
+Ainsi, si je reçois la maquette suivante, récupérée sur le Blog du Web Design[^4], je commence à l'analyser:
+
+[^4]: [Les maquettes gratuites publiées sur le Blog du Web Design](https://www.blogduwebdesign.com/psd/)
+
+![Inspiration trouvée sur le Blog du Web Design](../../images/2020-03-21-creer-premiere-page-web/bdw-tendance-ux-2020-3.jpg)
+
+- Je m'aperçois qu'il y a trois parties qui sont situées côte à côte. Cela me fait penser à la propriété CSS `display`, qui me permet de choisir l'agencement visuel de mes éléments HTML.
+- Il y a des boutons qui doivent probablement rediriger vers d'autres pages web, j'utiliserais des balises `<a>`.
+- Les textes de ces boutons sont surlignés avec la couleur orange, je vais devoir changer leur propriété `background-color`...
+
+Faire l'intégration complète de cette maquette correspondrait à une matinée de travail pour un.e intégrateur.trice, alors je ne vais pas te la montrer en direct, mais je pense que tu as compris le principe.
+
+## Pour aller plus loin
+
+Le texte de cet article commence à être un peu long, et j'aurais probablement besoin de dizaines d'autres articles si je devais t'expliquer tout ce qu'il y a a savoir sur l'intégration web. Fort heureusement, le web regorge justement de ressources pédagogiques pour apprendre à intégrer, designer et programmer de chez soi, et certains de nos bricodeurs ont décidé de commenter celles qui leur ont personnellement servi dans [un précédent article](https://lesbricodeurs.fr/articles/apprendre-coder-chez-toi/).
+
+Si tu veux t'entraîner de chez toi, je peux te proposer un petit TP, que tu peux réaliser à ton rythme:
+
+Il s'agit de faire la page Web du menu de ce que tu vas manger ce soir (ou de ce que tu as mangé la veille, comme tu préfères). La page devrait comporter:
+
+- Un titre, autant pour le navigateur que pour l'internaute
+- La date du jour
+- Trois parties: entrée, plat et dessert
+- (optionnel) Plusieurs choix pour les entrées, plats et desserts
+- (optionnel) Un lien vers la recette de chaque plat, sur un site comme marmiton
+- (optionnel) Une image pour chaque plat, histoire de mettre l'eau à la bouche de tes convives.
+- (optionnel) Le prix affiché à côté des plats, car c'est en fait la carte d'un restaurant!
+- (optionnel) L'adresse pour venir déguster ce bon repas avec toi.
+
+Tu peux décorer ce menu comme tu le souhaites, mais voici quelques idées:
+
+- Centrer les titres
+- Une texture de papier en fond
+- Une police de caractère classe pour les titres
+- Une bordure autour des images
+- Mettre les choix des plats côte à côte
+
+Alternativement, tu peux aussi réaliser ton CV version HTML/CSS.
+
+Si tu veux partager ta création, tu peux la réaliser à l'aide de l'éditeur de texte en ligne [codepen.io](https://codepen.io/). L'avantage est que ton code sera hébergé sur le web, et donc tu pourras nous demander de te donner des conseils dessus, en rejoignant le [slack](https://join.slack.com/t/bricodeurs/shared_invite/zt-3sxsf81w-Rvwn~LcyLi1ekAln6qCl1Q) des Bricodeurs et te rendant dans le canal #apprendre-a-coder-en-ligne.
