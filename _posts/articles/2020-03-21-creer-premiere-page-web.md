@@ -28,15 +28,129 @@ Puis le serveur retourne une **réponse** au client. Cette réponse se fait gén
 
 ## Comment écrire une page HTML
 
+Une page HTML, c'est simplement un **fichier de texte** comme tu as déjà pu en lire beaucoup. Certains étaient au **format** ".txt", d'autres ".doc", etc. le HTML est un format qui est compris par tous les navigateurs web.
+
 ### Choisir un éditeur de texte
 
+C'est pour qu'il te faudra un logiciel d'**édition de texte**, le bloc-note de Windows ferait parfaitement l'affaire par exemple. Tu ne peux par contre pas utiliser un logiciel de *traitement de texte* comme Microsoft Word ou Libre Office, la différence étant qu'un logiciel te permet de mettre en forme le texte que tu as écrit avec différentes polices, tailles de caractères, couleur et insertions d'images... Tout cela ne serait pas compris par le navigateur car ne correspondant pas aux normes HTML.
+
+Dans ma présentation j'ai utilisé Atom[^1] qui présente toutes les fonctionnalités que les développeur.euse.s apprécient lorsqu'il.elle.s écrivent du code: auto-complétion, coloration syntaxique, indentation automatique... Tu ne comprends peut-être pas ce que ces mots veulent dire pour le moment, mais crois-moi, après y avoir goûté, tu ne pourras plus t'en passer!
+
+[^1]: [Atom, un éditeur de texte multi-plateformes](https://atom.io/)
+ 
 ### HTML: Un langage structuré par des balises
 
-### Communiquer avec les machines, communiquer avec les humains
+Le HTML est un **langage de description de document** qui permet au navigateur de comprendre ce qu'il est en train de lire. Cela se fait en entourant le texte que l'on écrit de **balises**, qui sont composées d'une ou plusieurs lettres, entourée.s de chevrons.
+
+Par exemple, pour que tout le monde soit bien au courant que nous sommes en train d'écrire une page HTML, on commence par ouvrir la balise `<html>`, on écrit la page, puis on referme avec la balise `</html>`, afin que l'on comprenne que la page est terminée.
+
+```html
+<html>
+	Ma page HTML ici
+</html>
+```
+
+**Mini-TP**: 
+
+1. Copie/colle ce bout de code dans un éditeur de texte (par exemple, le bloc-note Windows)
+2. Enregistre ton travail en le nommant par exemple "exemple.html". Tu peux remplacer "exemple" par le mot que tu veux, mais tu dois garder l'*extension* HTML.
+3. Fais un clic droit sur le fichier enregistré, et choisit de l'ouvrir avec ton navigateur web (Google Chrome, Mozilla Firefox, Internet Explroer, Opera, etc.)
+4. Que vois-tu?[^11]
+
+[^11]: Le texte "Ma page HTML ici" est affiché à l'écran, mais les balises sont masquées. 
+
+### Communiquer avec les machines
+
+J'ai dit qu'Internet était un réseau d'ordinateurs communiquant entre eux et que le Web était une sous-partie d'Internet. Cela veut dire que chaque page HTML doit être comprise les ordinateurs qui les reçoivent.
+
+L'**en-tête** est la partie que les navigateurs lisent pour comprendre quelle page le serveur leur a renvoyé. Il est de bon ton de donner un titre à sa page, que l'on intégrera dans la balise `<title>`:
+
+```html
+<html>
+	<head>
+		<title>Comment créer sa page HTML?</title>
+	</head>
+<html>
+```
+
+Ma page s'est complexifiée, mais pas de panique, je t'explique tout: nous avons affaire à des **balises imbriquées**. Cela permet de définir une structure logique pour ma page HTML:
+
+- J'ai écrit le titre de la page entre une balise ouvrante `<title>` et une balisse fermante `</title>` pour que le navigateur comprenne que "Comment créer sa page HTML?" est le titre de ma page HTML.
+- Ces balises sont imbriquées entre les balises `<head>` et `</head>`, qui indiquent au navigateur l'en-tête dont je t'ai parlé, qui est la partie de la page web qui lui est destinée.
+- Ces balises `<head>` sont elles mêmes imbriquées entre les balises `<html>` qui définissent le début et la fin de ma page web.
+
+**Note:** Le format HTML ayant été inventé par des anglophones, tu te rendras vite compte que tous les noms des balises sont en anglais, comme "title" pour le titre, et "head" pour l'en-tête.
+
+
+### Communiquer avec les humains
+
+Au contraire, le **corpus** de ma page est la partie qui est destinée à être lue par les humains:
+
+```html
+<html>
+	<head>
+		<title>Comment créer sa page HTML?</title>
+	</head>
+	<body>
+		<h1>Comment créer sa page HTML?</h1>
+	</body>
+</html>
+```
+
+On voit ici que les balises `<head>` et `<body>` se côtoient. On dit alors qu'elles sont **de même niveau**. C'est à dire qu'elle définissent deux parties de ma page distinctes. Comme je l'ai expliqué un peu plus haut, `<head>` est l'en-tête, destiné aux navigateurs web, tandis que `<body>` est le corpus, destiné aux internautes.
+
+La balise `<h1>` qui est imbriquées entre les balises `<body>` contient le titre de ma page, qui est le même que celui contenu dans ma balise `<title>`. L'un est destiné aux ordinateurs, l'autre aux humains...  
+
+**Mini-TP:**
+
+1. Copie/colle ce bout de page HTML dans ton éditeur de texte
+2. Modifie le contenu de la balise `<title>` ou de la balise `<h1>` afin que les deux soit différents
+3. Enregistre le fichier et ouvre le avec ton navigateur web
+4. Que remarques-tu?[^12]
+
+[^12]: Lorsque tu changes le contenu de la balise `<title>`, le titre dans l'onglet en haut de ton navigateur change. Lorsque tu modifies le contenu de la balise `<h1>`, c'est le texte affiché dans la fenêtre qui est modifié...
 
 ### La sémantique des balises
 
+Les balises, on en a vu quelques unes, mais il en existe énormément. Pourquoi avoir besoin de balises différentes? Comme je l'ai dit, le HTML permet de structurer la page Web. La balise permet de comprendre au navigateur quelle genre d'information est transmise à l'utilisateur, car le navigateur ne comprend pas le langage des humains.
+
+```html
+<body>
+	<h1>Comment créer sa page HTML?</h1>
+	<p>Lorsque l'on écrit des page HTML, il est important de respecter l'imbrication des balises!</p>
+	<p>Les paragraphes peuvent se succéder.</p>
+</body>
+```
+
+Dans l'exemple ci-dessus, le corpus de notre page contient un titre, inclus dans la balise `<h1>`, et un paragraphe, dans la balise `<p>`. C'est ce que l'on appelle la **sémantique** du HTML: à chaque balise son utilisation spécifique. 
+
+Comme il y a énormément de balise, pour beaucoup de cas différents, il est utile de pouvoir se référer à une documentation lorsque l'on ne sait pas quelle balise serait la plus appropriée. La référence ultime dans le domaine est le Mozilla Developers Network[^2], très complet, traduits en français et toujours à la page. Si tu souhaites développer ton site internet, tu t'y référeras souvent.
+
+[^2]: [La référence HTML du Mozilla Developers Network ( alias "La Bible du Web")](https://developer.mozilla.org/fr/docs/Web/HTML/Reference)
+
+**Mini-TP:**
+
+Dans l'exemple ci-dessus, je veux ajouter un titre pour le chapitre que je suis en train d'écrire: "Structure d'une page HTML", après le titre de la page, mais avant les deux paragraphes. Comment faire? (astuce: tu peux t'aider du [Mozilla Developers Network](https://developer.mozilla.org/fr/docs/Apprendre/HTML/Introduction_%C3%A0_HTML/HTML_text_fundamentals)) [^13]
+
+[^13]: Il suffit d'insérer, entre les balises `<h1>` et `<p>`, une balise de titre de niveau 2 `<h2>Structure d'une page HTML</h2>`.
+
 ### Relier les pages entre elles avec des liens hypertextes
+
+Une présentation du langage HTML ne peut pas se passer sans présentation des **liens hypertextes** (ou hyperliens, HTML signifiant *HyperText Markup Language*)!
+
+En effet, lorsque nous naviguons sur le Web, nous n'entrons pas l'adresse URL de chaque page que nous souhaitons consulter dans la barre d'adresse du navigateur, ce serait fastidieux! A la place, nous cliquons sur des liens hypertextes qui se chargent de nous diriger vers d'autres pages HTML. L'ensemble de toutes les pages interconnectées format une sorte de "toile d'araignée mondiale" (NLDR. traduction de *World Wide Web* en français).
+
+![Les liens hypertextes connectent les pages HTML entre elles](../../images/2020-03-21-creer-premiere-page-web/web-007.png)
+
+Un lien hypertexte se compose de deux parties distinctes: son **libellé**, qui permet d'indiquer à l'internaute où ce lien est supposé l'envoyer. Il s'agit d'un texte contenu dans une balise `<a>`:
+
+```html
+<a href="https://lesbricodeurs.fr">Un activitié proposée par Les Bricodeurs.</a>
+```
+
+L'on voit également que la balise `<a>` contient d'autres informations à l'intérieur des chevrons: il s'agit d'un **attribut HTML**, permettant de préciser la **cible** du lien hypertexte, c'est l'adresse URL vers laquelle l'internaute sera dirigé.
+
+Lorsque l'internaute clique sur un lien hypertexte dans son navigateur web, la **valeur** (la partie qui suit le symbole "=" et est entourée de guillemets) de l'attribut `href` est copiée/collée dans la barre d'adresse du navigateur, qui va effectuer une nouvelle requête HTTP à un serveur, qui lui renverra une autre page web...
 
 ## Mettre en forme le texte avec du CSS
 
