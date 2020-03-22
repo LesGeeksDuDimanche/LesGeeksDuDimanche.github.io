@@ -50,10 +50,11 @@ C'est pour ça qu'il te faudra un logiciel d'**édition de texte** : le bloc-not
 Dans ma présentation j'ai utilisé Atom[^1] qui présente toutes les fonctionnalités que les développeur.euse.s apprécient lorsqu'il.elle.s écrivent du code: auto-complétion, coloration syntaxique, indentation automatique, … Tu ne comprends peut-être pas ce que ces mots veulent dire pour le moment, mais crois-moi, après y avoir goûté, tu ne pourras plus t'en passer !
 
 {% capture notice_text_editor %}
-Les différents éditeurs sont organisés et ont des interfaces différences. C'est beaucoup au gout du développeur. Le mieux est d'en tester quelques uns et de choisir son préféré !
+Un bon nombre d'éditeurs de textes existent, malgré des interfaces différences, tu retrouveras beaucoup de similarités dans les fonctionnalités qu'ils proposent. Le mieux est d'en tester quelques uns et de choisir ton préféré !
 
 Editeurs alternatifs :
 * Sublime text : [https://www.sublimetext.com/](https://notepad-plus-plus.org/)
+* Brackets: [http://brackets.io/](http://brackets.io/)
 * NotePad++ : [https://notepad-plus-plus.org/](https://notepad-plus-plus.org/)
 {% endcapture %}
 {% include notice.html content=notice_text_editor %}
@@ -71,18 +72,10 @@ Par exemple, pour que tout le monde soit bien au courant que nous sommes en trai
 ```html
 <!DOCTYPE html>
 <html>
-	<!-- Ma page HTML ici -->
 </html>
 ```
 
-**Mini-TP**: 
-
-1. Copie/colle ce bout de code dans un éditeur de texte (par exemple : le bloc-note Windows)
-2. Enregistre ton travail en le nommant par exemple "exemple.html". Tu peux remplacer "exemple" par le mot que tu veux, mais tu dois garder l'*extension* HTML.
-3. Fais un clic droit sur le fichier enregistré, et choisit de l'ouvrir avec ton navigateur web (Google Chrome, Mozilla Firefox, Internet Explroer, Opera, etc.)
-4. Que vois-tu ?[^11]
-
-[^11]: Le texte "Ma page HTML ici" est affiché à l'écran, mais les balises sont masquées. 
+Bon, on a déclaré que ce fichier est une page HTML, par contre, actuellement elle est vide!
 
 ### Communiquer avec les machines
 
@@ -131,7 +124,7 @@ On voit ici que les balises `<head>` et `<body>` se côtoient. On dit alors qu'e
 La balise `<h1>`, imbriquée entre les balises `<body>`, contient le titre de ma page, identique à celui contenu dans ma balise `<title>`. L'un est destiné aux ordinateurs, l'autre aux humains.
 
 {% capture notice_html_title_level %}
-Les balises h1 jusqu'à h6 permettent de créer des "titres". Et définissent des sections de contenu. Comme sur un document Word.
+"H1" est l'acronyme de *heading 1*, soit un "titre de niveau 1", ce qui sous-entend qu'il existe d'autres niveaux de titres...
 {% endcapture %}
 {% include notice.html content=notice_html_title_level %}
 
@@ -150,11 +143,16 @@ Nous avons pu entrevoir quelques balises, mais il en existe beaucoup plus ! Pour
 
 ```html
 <!DOCTYPE html>
-<body>
-	<h1>Comment créer sa page HTML?</h1>
-	<p>Lorsque l'on écrit des page HTML, il est important de respecter l'imbrication des balises !</p>
-	<p>Les paragraphes peuvent se succéder.</p>
-</body>
+<html>
+	<head>
+		<title>Comment créer sa page HTML?</title>
+	</head>
+	<body>
+		<h1>Comment créer sa page HTML?</h1>
+		<p>Lorsque l'on écrit des page HTML, il est important de respecter l'imbrication des balises !</p>
+		<p>Les paragraphes peuvent se succéder.</p>
+	</body>
+</html>
 ```
 
 Dans l'exemple ci-dessus, le corps de notre page contient un titre, inclus dans la balise `<h1>`, et un paragraphe, dans la balise `<p>`. C'est ce que l'on appelle la **sémantique** du HTML : à chaque balise son utilisation spécifique. 
@@ -164,7 +162,7 @@ Comme il y a énormément de balise, pour beaucoup de cas différents, il est ut
 [^2]: [La référence HTML du Mozilla Developers Network ( alias "La Bible du Web")](https://developer.mozilla.org/fr/docs/Web/HTML/Reference)
 
 {% capture notice_html_title_level %}
-Le language HTML est codifié par un organisme nommé le W3 Consortium.
+Je prend ici les dires de la fondation Mozilla pour argent comptant, mais ce n'est pas elle qui définit les normes du language HTML: c'est le World Wide Web Consortium (W3C). Cependant, je te garantis que la documentation du Mozilla Developers Network est beaucoup plus facile à lire que les documents de spécification du W3C.
 {% endcapture %}
 {% include notice.html content=notice_html_title_level %}
 
@@ -178,48 +176,50 @@ Dans l'exemple ci-dessus, je veux ajouter un titre pour le chapitre que je suis 
 
 Une présentation du langage HTML ne peut pas se passer sans présentation des **liens hypertextes** (ou hyperliens, HTML signifiant *HyperText Markup Language*) !
 
-En effet, lorsque nous naviguons sur le Web, nous n'entrons pas l'adresse URL de chaque page que nous souhaitons consulter dans la barre d'adresse du navigateur, ce serait fastidieux ! A la place, nous cliquons sur des liens hypertextes qui se chargent de nous diriger vers d'autres pages HTML. L'ensemble de toutes les pages interconnectées formant une sorte de "toile d'araignée mondiale" (N.D.L.R.: c'est la traduction de *World Wide Web* en français).
+En effet, lorsque nous naviguons sur le Web, nous n'entrons pas l'adresse de chaque page que nous souhaitons consulter dans la barre d'adresse du navigateur, ce serait fastidieux ! A la place, nous cliquons sur des liens hypertextes qui se chargent de nous diriger vers d'autres pages HTML. L'ensemble de toutes les pages interconnectées formant une sorte de "toile d'araignée mondiale" (N.D.L.R.: c'est la traduction de *World Wide Web* en français).
 
 ![Les liens hypertextes connectent les pages HTML entre elles](../../images/2020-03-21-creer-premiere-page-web/web-007.png)
 
 Un lien hypertexte se compose de deux parties distinctes : 
 * sa **cible** : qui permet d'indiquer à l'internaute où ce lien est supposé l'envoyer
-* son **libellé** : qui permet d'afficher le texte affiché pour l'internaut. Il s'agit du texte contenu dans une balise `<a>`:
+* son **libellé** : qui permet d'afficher le texte affiché pour l'internaute. Il s'agit du texte contenu dans une balise `<a>`:
 
 ```html
 <a href="https://lesbricodeurs.fr">Un activitié proposée par Les Bricodeurs.</a>
 ```
 
-L'on voit également que la balise `<a>` contient d'autres informations à l'intérieur des chevrons : il s'agit d'un **attribut HTML**. L'attribut `href` permet de préciser la **cible** du lien hypertexte. C'est l'adresse URL vers laquelle l'internaute sera redirigé.
+L'on voit également que la balise `<a>` contient d'autres informations à l'intérieur des chevrons : il s'agit d'un **attribut HTML**. L'attribut `href` permet de préciser la **cible** du lien hypertexte. C'est l'adresse vers laquelle l'internaute sera redirigé.
 
-Lorsque l'internaute clique sur un lien hypertexte dans son navigateur web, la **valeur** (la partie qui suit le symbole "=" et est entourée de guillemets) de l'attribut `href` est importé dans la barre d'adresse du navigateur, qui va effectuer une nouvelle requête HTTP à un serveur, qui lui renverra une autre page web.
+Lorsque l'internaute clique sur un lien hypertexte dans son navigateur web, la **valeur** (la partie qui suit le symbole "=" et est entourée de guillemets) de l'attribut `href` est importée dans la barre d'adresse du navigateur, qui va effectuer une nouvelle requête HTTP à un serveur, qui lui renverra une autre page web.
 
 ## Mettre en forme le texte avec du CSS
 
-Jusqu'à maintenant, je t'ai parlé de la manière de structurer l'information que tu veux communiquer à travers ta page HTML. Tu as pu observer que le navigateur affiche différemment les titres des paragraphes à partir du moment que l'on utilise les bonnes balises. Mais tu t'aperçois que les pages HTML que j'ai écrit ne ressemblent pas vraiment à celles que tu as l'habitude de consulter en naviguant sur le Web.
+Jusqu'à maintenant, je t'ai parlé de la manière de structurer l'information que tu veux communiquer à travers ta page HTML. Tu as pu observer que le navigateur affiche différemment les titres des paragraphes à partir du moment que l'on utilise les bonnes balises. Mais tu t'aperçois que la page HTML que j'ai écrite ne ressemble pas vraiment à celles que tu as l'habitude de consulter en naviguant sur le Web.
 
 Comme les écrivains séparent le fond de la forme lorsqu'ils écrivent un roman, les développeurs web séparent le **contenu** du **style** d'une page Web. Le contenu, on l'a vu, est structuré dans la page HTML. Le style quant à lui, est défini dans une feuille de style CSS.
 
 ### Utiliser une feuille de style dans une page Web
 
-Pour que le navigateur comprenne quels règles de style il doit utiliser, il faut lui expliquer où trouver la bonne feuille de style. Cela se fait en ajoutant une balise `<link>` dans l'en-tête de la page HTML. 
+Pour que le navigateur comprenne quelles règles de style il doit utiliser, il faut lui expliquer où trouver la bonne feuille de style. Cela se fait en ajoutant une balise `<link>` dans l'en-tête de la page HTML. 
 
 ```html
 <!DOCTYPE html>
-<head>
-	<title>Comment créer sa page HTML?</title>
-	<link rel="stylesheet" href="style.css"/>
-</head>
+<html>
+	<head>
+		<title>Comment créer sa page HTML?</title>
+		<link rel="stylesheet" href="style.css"/>
+	</head>
+</html>
 ```
 
-Cette balise te paraît étrange ? En effet, je n'ai pas besoin de la faire suivre d'une balise fermante, elle est **auto-fermante** (on dit aussi qu'il s'agit d'une * "balise orpheline"*). Ce qui nous intéresse ici ce n'est pas son contenu, mais bien ses deux attributs:
+Cette balise te paraît étrange ? En effet, je n'ai pas besoin de la faire suivre d'une balise fermante, elle est **auto-fermante** (on dit aussi qu'il s'agit d'une *balise orpheline*). Ce qui nous intéresse ici ce n'est pas son contenu, mais bien ses deux attributs:
 
 - `rel="stylesheet"` explicite au navigateur la nature de la ressource que l'on veut lier à la page HTML. Cela revient à dire: "Attention, je lie une feuille de style à ma page HTML."
-- `href="style.css"` est l'adresse URL à laquelle se trouve la feuille de style en question. Je ne veux pas rentrer ici dans les détails de la résolution d'une adresse URL, mais sache juste que pour que ce code là fonctionne, il faut que la feuille de style s'appelle "style.css" et soit exactement dans le même dossier que la page HTML que je suis en train d'écrire.
+- `href="style.css"` est l'adresse à laquelle se trouve la feuille de style en question. Je ne veux pas rentrer ici dans les détails de la résolution d'une adresse, mais sache juste que pour que ce code là fonctionne, il faut que la feuille de style s'appelle "style.css" et soit exactement dans le même dossier que la page HTML que je suis en train d'écrire.
 
 ### Anatomie d'une règle CSS
 
-Si tu as fait la manipulation de ton côté, tu risques d'être un peu déçu: actuellement cette toute nouvelle feuille de style ne change absolument pas la page HTML dans ton navigateur. C'est toute à fait normal, car la feuille de style est vide ! Il faut donc inclure ce que l'on appelle des **règles CSS**.
+Si tu as fait la manipulation de ton côté, tu risques d'être un peu déçu: actuellement cette toute nouvelle feuille de style ne change absolument pas la page HTML dans ton navigateur. C'est tout à fait normal, car la feuille de style est vide ! Il faut donc inclure ce que l'on appelle des **règles CSS**.
 
 Si, par exemple, je veux centrer le texte de ma page web, je vais écrire dans ma feuille de style:
 
@@ -229,7 +229,7 @@ body {
 }
 ```
 
-Tout cela diffère radicalement de la manière d'écrire du HTML, ceci dit, tu dois quand même reconnaître un mot: "body". Et oui, cela désigne le *corps* de notre page HTML. En utilisant le nom de cette balise, je peux appliquer la règle suivante à tout le texte contenu dans la balise `<body>` de ma page web. Mais également à tout le texte contenu dans les *balises imbriquées* dans ma balise `<body>`, ainsi que les balises imbriquées dans ces balises, etc. On dit que les balises **héritent** des règles CSS de leur balises parentes.
+Tout cela diffère radicalement de la manière d'écrire du HTML, ceci dit, tu dois quand même reconnaître un mot: "body". Et oui, cela désigne le *corps* de notre page HTML. En utilisant le nom de cette balise, je peux appliquer la règle suivante à tout le texte contenu dans la balise `<body>` de ma page web. Mais également à tout le texte contenu dans les *balises imbriquées* dans ma balise `<body>`, ainsi que les balises imbriquées dans ces balises, etc. On dit que les balises **héritent** des règles CSS de leur *balises parentes*.
 
 Cette première partie, qui désigne l'élément HTML sur lequel appliquer ma règle CSS est appelé le **sélecteur**. La règle se compose de deux autres parties:
 
