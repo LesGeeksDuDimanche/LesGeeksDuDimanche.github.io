@@ -25,9 +25,9 @@ Lancée en 2005 par Salman "Sal" Khan pour partager les vidéos qu'il réalisait
 
 ![L'éditeur de code en ligne de Khan Academy](https://i.imgur.com/bbWSEfX.png)
 
-Comme le montre l'image ci-dessus, entre deux leçons en vidéos (elles aussi traduites en français), l'apprenant a accès à des **exercices interactifs** directement dans son navigateur web. Cela lui permet de visualiser en direct les effets des modifications qu'il apporte à son programme, et la validation de l'exercice est éffectuée automatiquement et en temps réel.
+Comme le montre l'image ci-dessus, entre deux leçons en vidéos (elles aussi traduites en français), l'apprenant a accès à des **exercices interactifs** directement dans son navigateur web. Cela lui permet de visualiser en direct les effets des modifications qu'il apporte à son programme, et la validation de l'exercice est effectuée automatiquement et en temps réel.
 
-Le langage de programmation enseigné est le **_Javascript_**, le langage utilisé par tous les sites internet pour créer du contenu interactif, qui a permis la réalisation d'outils populaires tels que _Gmail_, _Facebook_, _Twitter_ et tant d'autres! Egalement, des cours plus théoriques expliquent les principes élémentaires des **algorithmes** et l'apprenant sera amené a réécrire les algorithmes de tri les plus courants en utilisant la langage _Javascript_ encore une fois.
+Le langage de programmation enseigné est le **_Javascript_**, le langage utilisé par tous les sites internet pour créer du contenu interactif, qui a permis la réalisation d'outils populaires tels que _Gmail_, _Facebook_, _Twitter_ et tant d'autres! Également, des cours plus théoriques expliquent les principes élémentaires des **algorithmes** et l'apprenant sera amené a réécrire les algorithmes de tri les plus courants en utilisant la langage _Javascript_ encore une fois.
 
 Le portail de l'informatique sur Khan Academy: https://fr.khanacademy.org/computing
 
@@ -76,6 +76,6 @@ Enfin, une fois la solution soumise à la plateforme, il est possible de demande
 
 ## C'est tout?
 
-Les développeur.euse.s sont généralement des personnes passioné.e.s (et passionant.e.s?) qui aiment à partager leurs expériences techniques. Il est donc très facile de trouver en ligne un bon nombre de ressources traitant de la programmation dans de multiples langages et domaines d'applications: Web, jeux vidéos, objets connectés, etc. Tu trouveras aussi auprès des Bricodeurs une [communauté](https://www.helloasso.com/associations/les-bricodeurs/adhesions/adhesions-bricodeurs-2016) pour échanger. Les sites listés dans cet articles ne représentent qu'une infime partie de ces ressources qui ont été personnellement experimentées par certains bricodeur.euse.s et que nous pouvons par conséquent te conseiller.
+Les développeur.euse.s sont généralement des personnes passionné.e.s (et passionnant.e.s?) qui aiment à partager leurs expériences techniques. Il est donc très facile de trouver en ligne un bon nombre de ressources traitant de la programmation dans de multiples langages et domaines d'applications: Web, jeux vidéos, objets connectés, etc. Tu trouveras aussi auprès des Bricodeurs une [communauté](https://www.helloasso.com/associations/les-bricodeurs/adhesions/adhesions-bricodeurs-2016) pour échanger. Les sites listés dans cet article ne représentent qu'une infime partie de ces ressources qui ont été personnellement experimentées par certains bricodeur.euse.s et que nous pouvons par conséquent te conseiller.
 
 Bon apprentissage!
