@@ -51,7 +51,7 @@ Une page HTML, c'est simplement un **fichier de texte** comme tu as déjà pu en
 
 C'est pour ça qu'il te faudra un logiciel d'**édition de texte** : le bloc-note de Windows ferait parfaitement l'affaire par exemple. Par contre, tu ne peux pas utiliser un logiciel de *traitement de texte* comme Microsoft Word ou Libre Office. Il te permet de mettre en forme le texte que tu as écrit avec différentes polices, tailles de caractères, couleur et insertions d'images mais le format d'enregistrement ne correspondra pas aux normes HTML.
 
-Dans ma présentation j'ai utilisé Atom[^1] qui présente toutes les fonctionnalités que les développeur.euse.s apprécient lorsqu'il.elle.s écrivent du code: auto-complétion, coloration syntaxique, indentation automatique, … Tu ne comprends peut-être pas ce que ces mots veulent dire pour le moment, mais crois-moi, après y avoir goûté, tu ne pourras plus t'en passer !
+Dans ma présentation j'ai utilisé Atom[^1] qui présente toutes les fonctionnalités que les développeur·euse·s apprécient lorsqu'il·elle·s écrivent du code: auto-complétion, coloration syntaxique, indentation automatique, … Tu ne comprends peut-être pas ce que ces mots veulent dire pour le moment, mais crois-moi, après y avoir goûté, tu ne pourras plus t'en passer !
 
 {% capture notice_text_editor %}
 Un bon nombre d'éditeurs de textes existent, malgré des interfaces différences, tu retrouveras beaucoup de similarités dans les fonctionnalités qu'ils proposent. Le mieux est d'en tester quelques uns et de choisir ton préféré !
@@ -67,7 +67,7 @@ Editeurs alternatifs :
  
 ### HTML: Un langage structuré par des balises
 
-Le HTML est un **langage de description de document** qui permet au navigateur de comprendre ce qu'il est en train de lire. Cela se fait en entourant le texte que l'on écrit de **balises**, qui sont composées d'une ou plusieurs lettres, entourée.s de chevrons.
+Le HTML est un **langage de description de document** qui permet au navigateur de comprendre ce qu'il est en train de lire. Cela se fait en entourant le texte que l'on écrit de **balises**, qui sont composées d'une ou plusieurs lettres, entourée·s de chevrons.
 
 Par exemple, pour que tout le monde soit bien au courant que nous sommes en train d'écrire une page HTML, on débute toujours par 2 balises :
  * `<!DOCTYPE html>` : déclarant l'utilisation du format HTML 5
@@ -253,11 +253,11 @@ Pour que l'on voit bien mes titres, j'aimerais qu'il soient de couleur rouge. Qu
 
 [^14]: `h1 { color: red; }`
 
-## Le travail de l'intégrateur.trice Web
+## Le travail de l'intégrateur·trice Web
 
-Le.la spécialiste des pages web bien structurées et agréable à l'oeil, s'appelle l'*intégrateur.trice web*. Sa connaissance des propriétés CSS et des balises HTML lui permet de coller au pixel prêt à la vision du.de la web designer.
+Le·la spécialiste des pages web bien structurées et agréable à l'oeil, s'appelle l'*intégrateur·trice web*. Sa connaissance des propriétés CSS et des balises HTML lui permet de coller au pixel prêt à la vision du·de la web designer.
 
-Ce.tte web designer est chargée de produire une **maquette graphique** (souvent sous forme de fichier Photoshop) qu'il.elle donnera à l'intégrateur.trice , chargé.e de l'**implémentation** de cette maquette: transformer ce la.les image.s en page.s web fonctionnelle.s.
+Ce·tte web designer est chargée de produire une **maquette graphique** (souvent sous forme de fichier Photoshop) qu'il·elle donnera à l'intégrateur·trice , chargé·e de l'**implémentation** de cette maquette: transformer ce la·les image·s en page·s web fonctionnelle·s.
 
 Ainsi, si je reçois la maquette suivante, récupérée sur le Blog du Web Design[^4], je commence à l'analyser:
 
@@ -269,33 +269,14 @@ Ainsi, si je reçois la maquette suivante, récupérée sur le Blog du Web Desig
 - Il y a des boutons qui doivent probablement rediriger vers d'autres pages web, j'utiliserais des balises `<a>`.
 - Les textes de ces boutons sont surlignés avec la couleur orange, je vais devoir changer leur propriété `background-color`…
 
-Faire l'intégration complète de cette maquette correspondrait à une matinée de travail pour un.e intégrateur.trice, alors je ne vais pas te la montrer en direct, mais je pense que tu as compris le principe.
+Faire l'intégration complète de cette maquette correspondrait à une matinée de travail pour un·e intégrateur·trice, alors je ne vais pas te la montrer en direct, mais je pense que tu as compris le principe.
 
 ## Pour aller plus loin
 
-Le texte de cet article commence à être un peu long, et j'aurais probablement besoin de dizaines d'autres articles si je devais t'expliquer tout ce qu'il y a a savoir sur l'intégration web. Fort heureusement, le web regorge justement de ressources pédagogiques pour apprendre à intégrer, designer et programmer de chez soi, et certains de nos bricodeurs ont décidé de commenter celles qui leur ont personnellement servi dans [un précédent article]({% post_url 2020-03-17-apprendre-coder-chez-toi %}). 
+Le texte de cet article commence à être un peu long, et j'aurais probablement besoin de dizaines d'autres articles si je devais t'expliquer tout ce qu'il y a a savoir sur l'intégration web. Fort heureusement, le Web regorge justement de ressources pédagogiques pour apprendre à intégrer, designer et programmer de chez soi, et certains de nos bricodeurs ont décidé de commenter celles qui leur ont personnellement servi dans [un précédent article]({% post_url 2020-03-17-apprendre-coder-chez-toi %}). 
 
-Si tu veux t'entraîner de chez toi, je peux te proposer un petit TP, que tu peux réaliser à ton rythme:
+Tu peux aussi retrouver le code que j'ai écrit en direct [sur CodePen](https://codepen.io/SleuvinS/pen/dyojpyB). CodePen est un éditeur de texte en ligne spécialisé pour l'écriture de HTML, de CSS et de Javascript (un langage de programmation que Les Bricodeurs te présenteront prochainement). L'avantage est que ton code sera hébergé sur le Web, ce qui te permettra de le partager avec d'autres développeur·euse·s afin d'avoir leurs commentaires sur ta manière de coder.  
+  
+Si d'autres sujets d'intégration, de programmation ou qui touche au Web d'une quelconque manière t'intéressent, je t'invite à nous en parler sur le formulaire [Apprendre à coder en ligne](https://lesbricodeurs.fr/apprendre-a-coder-en-ligne/). Tu peux aussi venir nous poser tes questions directement en rejoignant le [slack des Bricodeurs](https://join.slack.com/t/bricodeurs/shared_invite/zt-3sxsf81w-Rvwn~LcyLi1ekAln6qCl1Q).
 
-Il s'agit de faire la page Web du menu de ce que tu vas manger ce soir (ou de ce que tu as mangé la veille, comme tu préfères). La page devrait comporter:
-
-- Un titre, autant pour le navigateur que pour l'internaute
-- La date du jour
-- Trois parties: entrée, plat et dessert
-- (optionnel) Plusieurs choix pour les entrées, plats et desserts
-- (optionnel) Un lien vers la recette de chaque plat, sur un site comme marmiton
-- (optionnel) Une image pour chaque plat, histoire de mettre l'eau à la bouche de tes convives.
-- (optionnel) Le prix affiché à côté des plats, car c'est en fait la carte d'un restaurant !
-- (optionnel) L'adresse pour venir déguster ce bon repas avec toi.
-
-Tu peux décorer ce menu comme tu le souhaites, mais voici quelques idées:
-
-- Centrer les titres
-- Une texture de papier en fond
-- Une police de caractère classe pour les titres
-- Une bordure autour des images
-- Mettre les choix des plats côte à côte
-
-Alternativement, tu peux aussi réaliser ton CV version HTML/CSS.
-
-Si tu veux partager ta création, tu peux la réaliser à l'aide de l'éditeur de texte en ligne [codepen.io](https://codepen.io/). L'avantage est que ton code sera hébergé sur le web, et donc tu pourras nous demander de te donner des conseils dessus, en rejoignant le [slack](https://join.slack.com/t/bricodeurs/shared_invite/zt-3sxsf81w-Rvwn~LcyLi1ekAln6qCl1Q) des Bricodeurs et te rendant dans le canal #apprendre-a-coder-en-ligne.
+A très vite!
