@@ -8,10 +8,14 @@ tags:
 - e-learning
 - coderenligne
 layout: post
-excerpt: Le résumé du premier live des Bricodeurs !
+excerpt: Les Bricodeurs ont présenté en direct comment créer des pages HTML. En voici un résumé.
 comments: true
 share: true
 ---
+
+Ce Jeudi 19 Mars 2020, Flavien et Sylvain ont pu présenté en direct comment fonctionne le Web, et comment écrire les pages HTML qui le constituent. Tu peux voir, ou revoir, cette présentation à l'adresse suivante: [https://www.twitch.tv/lesbricodeurs](https://www.twitch.tv/lesbricodeurs)
+
+Si tu préfères la lecture, l'article suivant en est un résumé:
 
 ## Qu'est ce que le Web ?
 
