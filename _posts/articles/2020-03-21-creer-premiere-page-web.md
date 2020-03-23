@@ -13,7 +13,7 @@ comments: true
 share: true
 ---
 
-Ce Jeudi 19 Mars 2020, Flavien et Sylvain ont pu présenté en direct comment fonctionne le Web, et comment écrire les pages HTML qui le constituent. Tu peux voir, ou revoir, cette présentation à l'adresse suivante: [https://www.twitch.tv/lesbricodeurs](https://www.twitch.tv/lesbricodeurs)
+Ce Jeudi 19 Mars 2020, Flavien et Sylvain ont présenté en direct comment fonctionne le Web, et comment écrire les pages HTML qui le constituent. Tu peux voir, ou revoir, cette présentation à l'adresse suivante: [https://www.twitch.tv/lesbricodeurs](https://www.twitch.tv/lesbricodeurs)
 
 Si tu préfères la lecture, l'article suivant en est un résumé:
 
@@ -49,12 +49,12 @@ Une page HTML, c'est simplement un **fichier de texte** comme tu as déjà pu en
 
 ### Choisir un éditeur de texte
 
-C'est pour ça qu'il te faudra un logiciel d'**édition de texte** : le bloc-note de Windows ferait parfaitement l'affaire par exemple. Par contre, tu ne peux pas utiliser un logiciel de *traitement de texte* comme Microsoft Word ou Libre Office. Il te permet de mettre en forme le texte que tu as écrit avec différentes polices, tailles de caractères, couleur et insertions d'images mais le format d'enregistrement ne correspondra pas aux normes HTML.
+C'est pour ça qu'il te faudra un logiciel d'**édition de texte** : le bloc-note de Windows ferait parfaitement l'affaire par exemple. Par contre, tu ne peux pas utiliser un logiciel de *traitement de texte* comme Microsoft Word ou Libre Office. Ces derniers te permettent de mettre en forme le texte que tu as écrit avec différentes polices, tailles de caractères, couleurs et insertions d'images mais le format d'enregistrement ne correspondra pas aux normes HTML.
 
 Dans ma présentation j'ai utilisé Atom[^1] qui présente toutes les fonctionnalités que les développeur·euse·s apprécient lorsqu'il·elle·s écrivent du code: auto-complétion, coloration syntaxique, indentation automatique, … Tu ne comprends peut-être pas ce que ces mots veulent dire pour le moment, mais crois-moi, après y avoir goûté, tu ne pourras plus t'en passer !
 
 {% capture notice_text_editor %}
-Un bon nombre d'éditeurs de textes existent, malgré des interfaces différences, tu retrouveras beaucoup de similarités dans les fonctionnalités qu'ils proposent. Le mieux est d'en tester quelques uns et de choisir ton préféré !
+Un bon nombre d'éditeurs de textes existent, malgré des interfaces différences, tu retrouveras beaucoup de similarités dans les fonctionnalités qu'ils proposent. Le mieux est d'en tester quelques uns et de choisir ton préféré.
 
 Editeurs alternatifs :
 * Sublime text : [https://www.sublimetext.com/](https://notepad-plus-plus.org/)
@@ -104,7 +104,10 @@ Ma page s'est complexifiée, mais pas de panique, je t'explique tout : nous avon
 
 On dit que la balise `<html>` est la **balise parente** de la balise `<head>`, qui est elle même parente de la balise `<title>`. Dans le sens inverse, la balise `<title>` est la **balise fille** de la balise `<head>` et ainsi de suite.
 
-**Note :** Le format HTML ayant été inventé par des anglophones, tu te rendras vite compte que tous les noms des balises sont en anglais, comme "title" pour le titre, et "head" pour l'en-tête.
+{% capture notice_text_editor %}
+Le format HTML ayant été inventé par des anglophones, tu te rendras vite compte que tous les noms des balises sont en anglais, comme "title" pour le titre, et "head" pour l'en-tête.
+{% endcapture %}
+{% include notice.html content=notice_text_editor %}
 
 
 ### Communiquer avec les humains
@@ -161,7 +164,7 @@ Nous avons pu entrevoir quelques balises, mais il en existe beaucoup plus ! Pour
 
 Dans l'exemple ci-dessus, le corps de notre page contient un titre, inclus dans la balise `<h1>`, et un paragraphe, dans la balise `<p>`. C'est ce que l'on appelle la **sémantique** du HTML : à chaque balise son utilisation spécifique. 
 
-Comme il y a énormément de balise, pour beaucoup de cas différents, il est utile de pouvoir se référer à une documentation lorsque l'on ne sait pas quelle balise serait la plus appropriée. La référence ultime dans le domaine est le Mozilla Developers Network[^2], très complet, traduits en français et toujours à la page. Si tu souhaites développer ton site internet, tu t'y référeras souvent.
+Comme il y a énormément de balises, pour beaucoup de cas différents, il est utile de pouvoir se référer à une documentation lorsque l'on ne sait pas quelle balise serait la plus appropriée. La référence ultime dans le domaine est le Mozilla Developers Network[^2], très complet, traduit en français et toujours à jour. Si tu souhaites développer ton site internet, tu t'y référeras souvent.
 
 [^2]: [La référence HTML du Mozilla Developers Network ( alias "La Bible du Web")](https://developer.mozilla.org/fr/docs/Web/HTML/Reference)
 
@@ -194,13 +197,13 @@ Un lien hypertexte se compose de deux parties distinctes :
 
 L'on voit également que la balise `<a>` contient d'autres informations à l'intérieur des chevrons : il s'agit d'un **attribut HTML**. L'attribut `href` permet de préciser la **cible** du lien hypertexte. C'est l'adresse vers laquelle l'internaute sera redirigé.
 
-Lorsque l'internaute clique sur un lien hypertexte dans son navigateur web, la **valeur** (la partie qui suit le symbole "=" et est entourée de guillemets) de l'attribut `href` est importée dans la barre d'adresse du navigateur, qui va effectuer une nouvelle requête HTTP à un serveur, qui lui renverra une autre page web.
+Lorsque l'internaute clique sur un lien hypertexte dans son navigateur web, la **valeur** de l'attribut `href` (la partie qui suit le symbole "=" et est entourée de guillemets) est importée dans la barre d'adresse du navigateur, qui va effectuer une nouvelle requête HTTP à un serveur, qui lui renverra une autre page web.
 
 ## Mettre en forme le texte avec du CSS
 
 Jusqu'à maintenant, je t'ai parlé de la manière de structurer l'information que tu veux communiquer à travers ta page HTML. Tu as pu observer que le navigateur affiche différemment les titres des paragraphes à partir du moment que l'on utilise les bonnes balises. Mais tu t'aperçois que la page HTML que j'ai écrite ne ressemble pas vraiment à celles que tu as l'habitude de consulter en naviguant sur le Web.
 
-Comme les écrivains séparent le fond de la forme lorsqu'ils écrivent un roman, les développeurs web séparent le **contenu** du **style** d'une page Web. Le contenu, on l'a vu, est structuré dans la page HTML. Le style quant à lui, est défini dans une feuille de style CSS.
+Comme les écrivains séparent le fond de la forme lorsqu'ils écrivent un roman, les développeurs web séparent le **contenu** du **style** d'une page Web. Le contenu, on l'a vu, est structuré dans la page HTML. Le style quant à lui, est défini dans une **feuille de style CSS**.
 
 ### Utiliser une feuille de style dans une page Web
 
@@ -233,15 +236,15 @@ body {
 }
 ```
 
-Tout cela diffère radicalement de la manière d'écrire du HTML, ceci dit, tu dois quand même reconnaître un mot: "body". Et oui, cela désigne le *corps* de notre page HTML. En utilisant le nom de cette balise, je peux appliquer la règle suivante à tout le texte contenu dans la balise `<body>` de ma page web. Mais également à tout le texte contenu dans les *balises imbriquées* dans ma balise `<body>`, ainsi que les balises imbriquées dans ces balises, etc. On dit que les balises **héritent** des règles CSS de leur *balises parentes*.
+Tout cela diffère radicalement de la manière d'écrire du HTML, ceci dit, tu dois quand même reconnaître un mot: "body". Et oui, cela désigne le *corps* de ma page HTML. En utilisant le nom de cette balise, je peux appliquer la règle suivante à tout le texte contenu dans la balise `<body>` de ma page web. Mais également à tout le texte contenu dans les balises imbriquées dans ma balise `<body>`, ainsi que les balises imbriquées dans ces balises, etc. On dit que les balises **héritent** des règles CSS de leur balises parentes.
 
 Cette première partie, qui désigne l'élément HTML sur lequel appliquer ma règle CSS est appelé le **sélecteur**. La règle se compose de deux autres parties:
 
 La **propriété** `text-align`, désigne ce que je veux modifier lors de l'affichage de ma page web, ici il s'agit de l'alignement du texte.
 
-Après les symbole `:`, j'ai écrit la nouvelle **valeur** que je veux que prenne la propriété que j'ai choisi. Ici je décide d'utiliser `center` pour indiquer au navigateur de centrer le texte.
+Après les symbole `:`, j'ai écrit la nouvelle **valeur** pour la propriété que j'ai choisie. Ici je décide d'utiliser `center` pour indiquer au navigateur de centrer le texte.
 
-Les propriétés et les valeurs qu'elles peuvent prendre sont extrêmement nombreuses, et encore une fois, la documentation du Mozilla Developers Network[^3] te sera d'une aide précieuse !
+Les propriétés et leurs valeurs sont extrêmement nombreuses, et encore une fois, la documentation du Mozilla Developers Network[^3] te sera d'une aide précieuse !
 
 [^3]: [La référence CSS du Mozilla Developers Network](https://developer.mozilla.org/fr/docs/Web/CSS)
 
@@ -249,15 +252,15 @@ Les propriétés et les valeurs qu'elles peuvent prendre sont extrêmement nombr
 
 **Mini-TP:**
 
-Pour que l'on voit bien mes titres, j'aimerais qu'il soient de couleur rouge. Quelle règle CSS devrais-je écrire dans ma feuille de style?[^14]
+Pour que l'on voit bien mes titres, j'aimerais qu'ils soient de couleur rouge. Quelle règle CSS devrais-je écrire dans ma feuille de style?[^14]
 
 [^14]: `h1 { color: red; }`
 
 ## Le travail de l'intégrateur·trice Web
 
-Le·la spécialiste des pages web bien structurées et agréable à l'oeil, s'appelle l'*intégrateur·trice web*. Sa connaissance des propriétés CSS et des balises HTML lui permet de coller au pixel prêt à la vision du·de la web designer.
+Le·la spécialiste des pages web bien structurées et agréables à l'oeil, s'appelle l'*intégrateur·trice web*. Sa connaissance des propriétés CSS et des balises HTML lui permet de coller au pixel près à la vision du·de la web designer.
 
-Ce·tte web designer est chargée de produire une **maquette graphique** (souvent sous forme de fichier Photoshop) qu'il·elle donnera à l'intégrateur·trice , chargé·e de l'**implémentation** de cette maquette: transformer ce la·les image·s en page·s web fonctionnelle·s.
+Ce·tte web designer est chargé·e de produire une **maquette graphique** (souvent sous forme d'un fichier Photoshop) qu'il·elle donnera à l'intégrateur·trice , chargé·e de l'**implémentation** de cette maquette: transformer ces images en page·s web fonctionnelle·s.
 
 Ainsi, si je reçois la maquette suivante, récupérée sur le Blog du Web Design[^4], je commence à l'analyser:
 
@@ -277,6 +280,6 @@ Le texte de cet article commence à être un peu long, et j'aurais probablement 
 
 Tu peux aussi retrouver le code que j'ai écrit en direct [sur CodePen](https://codepen.io/SleuvinS/pen/dyojpyB). CodePen est un éditeur de texte en ligne spécialisé pour l'écriture de HTML, de CSS et de Javascript (un langage de programmation que Les Bricodeurs te présenteront prochainement). L'avantage est que ton code sera hébergé sur le Web, ce qui te permettra de le partager avec d'autres développeur·euse·s afin d'avoir leurs commentaires sur ta manière de coder.  
   
-Si d'autres sujets d'intégration, de programmation ou qui touche au Web d'une quelconque manière t'intéressent, je t'invite à nous en parler sur le formulaire [Apprendre à coder en ligne](https://lesbricodeurs.fr/apprendre-a-coder-en-ligne/). Tu peux aussi venir nous poser tes questions directement en rejoignant le [slack des Bricodeurs](https://join.slack.com/t/bricodeurs/shared_invite/zt-3sxsf81w-Rvwn~LcyLi1ekAln6qCl1Q).
+Si d'autres sujets d'intégration, de programmation ou qui touchent au Web d'une quelconque manière t'intéressent, je t'invite à nous en parler sur le formulaire [Apprendre à coder en ligne](https://lesbricodeurs.fr/apprendre-a-coder-en-ligne/). Tu peux aussi venir nous poser tes questions directement en rejoignant le [slack des Bricodeurs](https://join.slack.com/t/bricodeurs/shared_invite/zt-3sxsf81w-Rvwn~LcyLi1ekAln6qCl1Q).
 
 A très vite!
