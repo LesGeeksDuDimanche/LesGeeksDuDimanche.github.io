@@ -11,7 +11,7 @@ thumbnail: images/cafe-portable-leger.jpg
 
 Étant donné la situation actuelle 🤷, Les Bricodeurs proposent de vous aider à en profiter pour découvrir ou renforcer vos compétences en programmation.
 
-En premier lieu, nous préparons une série d'articles pour vous guider parmi les plateformes en ligne d'apprentissage. Le premier évoque Khan Academy, Exercism et Codingame.
+En premier lieu, nous préparons une série d'articles pour vous guider parmi les plateformes en ligne d'apprentissage:
 <ul class="">
 {% for post in site.categories.articles %} 
 {% if post.tags contains "coderenligne" %}
@@ -20,13 +20,13 @@ En premier lieu, nous préparons une série d'articles pour vous guider parmi le
 {% endfor %}
 </ul>
 
-Ensuite, [rejoignez](https://www.helloasso.com/associations/les-bricodeurs/adhesions/adhesions-bricodeurs-2016) notre [messagerie interne](https://join.slack.com/t/bricodeurs/shared_invite/zt-3sxsf81w-Rvwn~LcyLi1ekAln6qCl1Q) pour être tenu informé, partager des questions ou vos connaissances.
-
-Enfin tous les [jeudi soirs à 18h](https://www.facebook.com/events/2876113685783817/), un atelier en ligne pour découvrir une technologie:
-1. Comprendre le Web et créer sa page en HTML ([lien twitch](https://www.twitch.tv/lesbricodeurs/) )
-2. Un premier jeu en Python
-3. Animer une page en javascript
+Tous les [jeudi soirs à 18h](https://www.facebook.com/events/2876113685783817/), un atelier en ligne pour découvrir une technologie:
+1. Comprendre le Web et créer sa page en HTML. [lien video](https://www.youtube.com/watch?v=b3m6CFbikcA)
+2. Un premier jeu en Python [lien livestream](https://youtu.be/-oeEa8yKVSk?t=229)
+3. Animer une page en javascript  [lien livestream](https://www.youtube.com/watch?v=O1eJH2N30UE)
 4. Python et le Web (API, scraping...)
+
+Enfin [rejoignez](https://www.helloasso.com/associations/les-bricodeurs/adhesions/adhesions-bricodeurs-2016) notre [messagerie interne](https://join.slack.com/t/bricodeurs/shared_invite/zt-3sxsf81w-Rvwn~LcyLi1ekAln6qCl1Q) pour être tenu informé, partager des questions ou vos connaissances.
 
 Agenda ouvert à vos besoins et propositions d'ateliers. Pour participer, voici le formulaire :
 
