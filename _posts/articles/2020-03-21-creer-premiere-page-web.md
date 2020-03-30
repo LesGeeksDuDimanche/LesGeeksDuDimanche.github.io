@@ -13,7 +13,7 @@ comments: true
 share: true
 ---
 
-Ce Jeudi 19 Mars 2020, Flavien et Sylvain ont présenté en direct comment fonctionne le Web, et comment écrire les pages HTML qui le constituent. Tu peux voir, ou revoir, cette présentation à l'adresse suivante: [https://www.twitch.tv/lesbricodeurs](https://www.twitch.tv/lesbricodeurs)
+Ce Jeudi 19 Mars 2020, Flavien et Sylvain ont présenté en direct comment fonctionne le Web, et comment écrire les pages HTML qui le constituent. Tu peux voir, ou revoir, cette présentation à l'[adresse suivante](https://www.youtube.com/watch?v=b3m6CFbikcA).
 
 Si tu préfères la lecture, l'article suivant en est un résumé:
 
