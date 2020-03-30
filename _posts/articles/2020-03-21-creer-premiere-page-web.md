@@ -276,7 +276,7 @@ Faire l'intégration complète de cette maquette correspondrait à une matinée 
 
 ## Pour aller plus loin
 
-Le texte de cet article commence à être un peu long, et j'aurais probablement besoin de dizaines d'autres articles si je devais t'expliquer tout ce qu'il y a a savoir sur l'intégration web. Fort heureusement, le Web regorge justement de ressources pédagogiques pour apprendre à intégrer, designer et programmer de chez soi, et certains de nos bricodeurs ont décidé de commenter celles qui leur ont personnellement servi dans [un précédent article]({% post_url 2020-03-17-apprendre-coder-chez-toi %}). 
+Le texte de cet article commence à être un peu long, et j'aurais probablement besoin de dizaines d'autres articles si je devais t'expliquer tout ce qu'il y a a savoir sur l'intégration web. Fort heureusement, le Web regorge justement de ressources pédagogiques pour apprendre à intégrer, designer et programmer de chez soi, et certains de nos bricodeurs ont décidé de commenter celles qui leur ont personnellement servi dans [un précédent article]({% post_url articles/2020-03-17-apprendre-coder-chez-toi %}). 
 
 Tu peux aussi retrouver le code que j'ai écrit en direct [sur CodePen](https://codepen.io/SleuvinS/pen/dyojpyB). CodePen est un éditeur de texte en ligne spécialisé pour l'écriture de HTML, de CSS et de Javascript (un langage de programmation que Les Bricodeurs te présenteront prochainement). L'avantage est que ton code sera hébergé sur le Web, ce qui te permettra de le partager avec d'autres développeur·euse·s afin d'avoir leurs commentaires sur ta manière de coder.  
   
