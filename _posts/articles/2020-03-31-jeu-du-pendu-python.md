@@ -179,7 +179,7 @@ Dans le code, après la ligne où on réduit le nombre de tentatives, on ajoute 
     if tentatives<=6:
         print("==============\n")
 ```
-![Pendaison]({{ site.url }}/images/tutos/pendu.gif
+![Pendaison]({{ site.url }}/images/tutos/pendu.gif)
 
 ### Code complet
 
