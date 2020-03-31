@@ -15,7 +15,7 @@ share: true
 author: xavier
 ---
 
-Python est aujourd’hui un des langages de programmation les plus utilisés au monde. Il permet de réaliser des scripts, des sites web, d’analyser des données et même de construire des intelligences artificielles. À la fin de ce tutoriel, vous connaîtrez les premières notions du langage Python et de la programmation. Ces bases ont étés vues pendant le [livestream](https://youtu.be/-oeEa8yKVSk?t=227). 
+Python est aujourd’hui un des langages de programmation les plus utilisés au monde. Il permet de réaliser des scripts, des sites web, d’analyser des données et même de construire des intelligences artificielles. À la fin de ce tutoriel, vous connaîtrez les premières notions du langage Python et de la programmation. Ces bases ont étés vues pendant la [présentation en direct (livestream)](https://youtu.be/-oeEa8yKVSk?t=227) du 26 mars. 
 
 ## Environnement
 
@@ -23,7 +23,7 @@ Pour débuter, je vous recommande d'utiliser Repl.it. C'est un service en ligne 
     
 Vous voyez à gauche les fichiers. Le principal fichier est main.py (*main* signifie principal en anglais). Au milieu se trouve l'éditeur de texte où nous écrirons le programme. À droite vous avez la console où le programme sera exécuté.
 
-![](https://i.imgur.com/7IEaywM.png)
+![Repl.it pour python]({{ site.url }}/images/tutos/Python-repl.it.jpg)
 
 
 ## Bonjour Python
@@ -32,6 +32,7 @@ Première chose dont nous allons avoir besoin est une fonction pour afficher que
 ```python
 print("Bonjour toi")
 ```
+ ![Bonjour Python]({{ site.url }}/images/tutos/python-2.jpg)
 
 Nous pouvons afficher un texte complet. Pour chaque appel à `print()` l'affichage revient à la ligne.
 
@@ -45,7 +46,7 @@ print("Bienvenue dans ce premier tutoriel Python.")
 Pour pouvoir enregistrer le texte et le réutiliser pendant l'exécution du programme, nous allons utiliser une variable. Une variable est une boîte dans laquelle on peut enregistrer une information. Ici, nous allons enregistrer le texte d'accueil "Bonjour toi". La valeur "Bonjour toi" est **affectée** à la variable `message` que nous venons de créer.
 
     
- ![](https://i.imgur.com/2olQmyl.png)
+ ![Variable]({{ site.url }}/images/tutos/variable.gif)
    
 Dès lors, nous pouvons afficher le contenu de la variable message:
 ```python
@@ -106,7 +107,9 @@ Le symbole `==` compare la variable `prenom` à la chaîne "Xavier". On écrit d
 Rien qu'avec ça, vous pouvez déjà construire votre propre jeu "Choisi ta propre aventure". Vous racontez une histoire avec des print(). Puis quand l'utilisateur doit faire un choix, par exemple porte de droite ou porte de gauche, vous racontez la suite de l'histoire en fonction du choix. Vous pouvez même compter les points de vie avec une variable !
 
 {% capture notice_indentation %}
+<div id="indentation">
 L'espacement sur la gauche s'appelle "l'**indentation**" (on peut utiliser 2 ou 4 espaces, ou la touche "tab"). C'est important pour le langage Python. Dans notre exemple, c'est par ce que l'on indente l'appel à la fonction`print("Ravi de te revoir")`, que l'ordinateur comprendra qu'elle est liée à la condition `if prenom == "Xavier"`. Sinon, l'ordinateur afficherait "Ravi de te revoir" quel que soit le prénom de l'utilisateur !
+</div>
 {% endcapture %}
 
 {% include notice.html content=notice_indentation %}
