@@ -15,7 +15,7 @@ share: true
 author: xavier
 ---
 
-Python est aujourd’hui un des langages de programmation les plus utilisés au monde. Il permet de réaliser des scripts, des sites web, d’analyser des données et même de construire des intelligences artificielles. À la fin de ce tutoriel, vous connaîtrez les premières notions du langage Python et de la programmation. Ces bases ont étés vues pendant la [présentation en direct (livestream)](https://youtu.be/-oeEa8yKVSk?t=227) du 26 mars. 
+Python est aujourd’hui un des langages de programmation les plus utilisés au monde. Il permet de réaliser des scripts, des sites web, d’analyser des données et même de construire des intelligences artificielles. À la fin de ce tutoriel, vous connaîtrez les premières notions du langage Python et de la programmation. Ces bases ont étés vues pendant la [présentation en direct (livestream)](https://youtu.be/-oeEa8yKVSk?t=227) du 26 mars 2020. 
 
 ## Environnement
 
@@ -32,7 +32,7 @@ Première chose dont nous allons avoir besoin est une fonction pour afficher que
 ```python
 print("Bonjour toi")
 ```
- ![Bonjour Python]({{ site.url }}/images/tutos/python-2.jpg)
+![Bonjour Python]({{ site.url }}/images/tutos/python-2.jpg)
 
 Nous pouvons afficher un texte complet. Pour chaque appel à `print()` l'affichage revient à la ligne.
 
@@ -107,9 +107,8 @@ Le symbole `==` compare la variable `prenom` à la chaîne "Xavier". On écrit d
 Rien qu'avec ça, vous pouvez déjà construire votre propre jeu "Choisi ta propre aventure". Vous racontez une histoire avec des print(). Puis quand l'utilisateur doit faire un choix, par exemple porte de droite ou porte de gauche, vous racontez la suite de l'histoire en fonction du choix. Vous pouvez même compter les points de vie avec une variable !
 
 {% capture notice_indentation %}
-<div id="indentation">
+<div id="indentation"></div>
 L'espacement sur la gauche s'appelle "l'**indentation**" (on peut utiliser 2 ou 4 espaces, ou la touche "tab"). C'est important pour le langage Python. Dans notre exemple, c'est par ce que l'on indente l'appel à la fonction`print("Ravi de te revoir")`, que l'ordinateur comprendra qu'elle est liée à la condition `if prenom == "Xavier"`. Sinon, l'ordinateur afficherait "Ravi de te revoir" quel que soit le prénom de l'utilisateur !
-</div>
 {% endcapture %}
 
 {% include notice.html content=notice_indentation %}
@@ -148,8 +147,8 @@ A la fin de l'exécution du programme, les variables contiennent les valeurs sui
 |----------	|------------	|
 | prenom    | "Emilie"   	|
 | message  	| "Bonjour " 	|
-| compteur 	| 2             |
-| x     	| "e"           |
+| compteur 	| 2           |
+| x       	| "e"         |
 
 
 
