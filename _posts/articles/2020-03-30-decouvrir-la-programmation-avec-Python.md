@@ -200,7 +200,7 @@ Notre programme considère les majuscules et les minuscules comme des lettres di
 
 ## Aller plus loin
 
-Dans la suite du livestream et l'article suivant nous verrons comment réaliser un jeu du pendu. Nous utiliserons les notions que nous venons de voir. 
+Dans la suite du livestream et l'article suivant nous verrons comment réaliser un [jeu du pendu](https://lesbricodeurs.fr/articles/jeu-du-pendu-python/). Nous utiliserons les notions que nous venons de voir. 
 
 Ensuite, je vous recommande fortement de vous donner un objectif, par exemple un petit programme qui compte le nombre de répétitions d'une lettre dans un texte... La programmation est beaucoup plus intéressante quand on crée en suivant sa propre créativité.
 

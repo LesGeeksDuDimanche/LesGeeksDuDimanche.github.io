@@ -14,7 +14,7 @@ share: true
 author: xavier
 ---
 
-Après avoir vu les [bases de python](https://lesbricodeurs.fr/articles/decouvrir-la-programmation-avec-Python/) dans notre précédent article, nous allons réutiliser ces notions pour réaliser un jeu du pendu. Vous pouvez revoir la [vidéo correspondante ici](https://youtu.be/-oeEa8yKVSk?t=1697).
+Après avoir vu les [bases de python](https://lesbricodeurs.fr/articles/decouvrir-la-programmation-avec-Python/), nous allons réutiliser ces notions pour réaliser un jeu du pendu. Vous pouvez revoir la [vidéo correspondante ici](https://youtu.be/-oeEa8yKVSk?t=1697).
 
 Le jeu du pendu consiste à deviner un mot. Le joueur propose une lettre. Si elle fait partie du mot le programme dit où se trouve cette lettre dans le mot. Si elle ne fait pas partie du mot, on commence à dessiner un pendu. À la septième erreur le dessin est terminé et le joueur a perdu. 
 
