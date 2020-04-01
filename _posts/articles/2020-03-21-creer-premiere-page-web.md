@@ -22,27 +22,27 @@ Si tu préfères la lecture, l'article suivant en est un résumé:
 
 Le *World Wide Web* est souvent confondu avec *Internet*, c'est tout à fait normal car **le Web fait partie d'Internet**. Mais qu'est-ce donc qu'Internet du coup ? En fait il s'agit d'un **réseau mondial** d'ordinateurs souhaitant communiquer entre eux.
 
-![Deux ordinateurs voulant communiquer.](../../images/2020-03-21-creer-premiere-page-web/web-001.png)
+![Deux ordinateurs voulant communiquer.](../../images/2020-03-21-creer-premiere-page-web/web-001.jpg)
 
 Dans le monde des humains, nous avons établi différents *protocoles de communication* nous permettant de nous comprendre: la parole, la gestuelle, l'écriture, le dessin… Dans le monde des ordinateurs, c'est \*presque\* pareil.
 
-![Il faut que les ordinateurs utilisent le même protocole pour se comprendre.](../../images/2020-03-21-creer-premiere-page-web/web-002.png)
+![Il faut que les ordinateurs utilisent le même protocole pour se comprendre.](../../images/2020-03-21-creer-premiere-page-web/web-002.jpg)
 
 Internet a défini énormément de protocoles différents (pour les mails, pour les transferts de fichiers, pour les vérifications d'identité des ordinateurs, etc). Dans le cas du Web, on utilise le **protocole HTTP** (pour **Hyper Text Transfer Protocol**).
 
-![Un ordinateur peut en appeler un autre s'ils utilisent le même protocole.](../../images/2020-03-21-creer-premiere-page-web/web-003.png)
+![Un ordinateur peut en appeler un autre s'ils utilisent le même protocole.](../../images/2020-03-21-creer-premiere-page-web/web-003.jpg)
 
 Le protocole HTTP défini deux rôles distincts pour les ordinateurs : celui du **client** et celui du **serveur**. Il fonctionne en deux temps :
 
-![Un ordinateur client effectue une requête à un ordinateur serveur.](../../images/2020-03-21-creer-premiere-page-web/web-004.png)
+![Un ordinateur client effectue une requête à un ordinateur serveur.](../../images/2020-03-21-creer-premiere-page-web/web-004.jpg)
 
 Premièrement, le client envoie une **requête** au serveur. Dans notre utilisation quotidienne, il s'agit de l'**adresse d'un site Web** que nous écrivons dans la barre d'adresse de notre **navigateur Web**. L'ordinateur que nous utilisons comprend alors qu'il agit comme client, et transfère la requête au serveur qui correspond à cette adresse.
 
-![Un ordinateur serveur apporte la réponse au client.](../../images/2020-03-21-creer-premiere-page-web/web-005.png)
+![Un ordinateur serveur apporte la réponse au client.](../../images/2020-03-21-creer-premiere-page-web/web-005.jpg)
 
 Puis le serveur retourne une **réponse** au client. Cette réponse se fait généralement sous la forme d'une **page HTML**. Elle est interprétée par le navigateur Web pour afficher la page demandée.
 
-![Le serveur a retourné une page HTML au client.](../../images/2020-03-21-creer-premiere-page-web/web-006.png)
+![Le serveur a retourné une page HTML au client.](../../images/2020-03-21-creer-premiere-page-web/web-006.jpg)
 
 ## Comment écrire une page HTML
 
@@ -186,7 +186,7 @@ Une présentation du langage HTML ne peut pas se passer sans présentation des *
 
 En effet, lorsque nous naviguons sur le Web, nous n'entrons pas l'adresse de chaque page que nous souhaitons consulter dans la barre d'adresse du navigateur, ce serait fastidieux ! A la place, nous cliquons sur des liens hypertextes qui se chargent de nous diriger vers d'autres pages HTML. L'ensemble de toutes les pages interconnectées formant une sorte de "toile d'araignée mondiale" (N.D.L.R.: c'est la traduction de *World Wide Web* en français).
 
-![Les liens hypertextes connectent les pages HTML entre elles](../../images/2020-03-21-creer-premiere-page-web/web-007.png)
+![Les liens hypertextes connectent les pages HTML entre elles](../../images/2020-03-21-creer-premiere-page-web/web-007.jpg)
 
 Un lien hypertexte se compose de deux parties distinctes : 
 * sa **cible** : qui permet d'indiquer à l'internaute où ce lien est supposé l'envoyer
