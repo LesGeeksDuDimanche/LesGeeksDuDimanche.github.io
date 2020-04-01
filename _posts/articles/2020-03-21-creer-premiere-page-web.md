@@ -11,6 +11,7 @@ layout: post
 excerpt: Les Bricodeurs ont présenté en direct comment créer des pages HTML. En voici un résumé.
 comments: true
 share: true
+author: sylvains
 ---
 
 Ce Jeudi 19 Mars 2020, Flavien et Sylvain ont présenté en direct comment fonctionne le Web, et comment écrire les pages HTML qui le constituent. Tu peux voir, ou revoir, cette présentation à l'[adresse suivante](https://www.youtube.com/watch?v=b3m6CFbikcA).
