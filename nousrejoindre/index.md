@@ -55,7 +55,7 @@ Soyez au courant de nos activités via {% if site.owner.facebook %}<a href="http
 		<div class="response" id="mce-success-response" style="display:none"></div>
 	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_bbbb42e1640719973809dfb8c_d2048e10ec" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    <div class="clear"><input type="submit" value="S'inscrire" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
     </div>
 </form>
 </div>
