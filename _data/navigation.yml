@@ -1,22 +1,19 @@
 # Site navigation links
 
-- title: Présentation
-  url:
-
 - title: Articles
   url: /articles/
 
 - title: Ateliers d'Ada
-  url: http://ateliersdada.lesbricodeurs.fr
+  url: https://ateliersdada.lesbricodeurs.fr
 
-- title: La préécole du numérique
-  url: /preecoledunumerique/
+- title: Préécole du Numérique
+  url: https://preecole.lesbricodeurs.fr
 
 - title: Profils
-  url: /trombines/
+  url: /profils/
 
 - title: Ressources
-  url: /projets/
+  url: /ressources/
 
 - title: Rejoindre
   url: /nousrejoindre/

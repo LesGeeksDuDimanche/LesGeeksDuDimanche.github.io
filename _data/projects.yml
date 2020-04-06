@@ -3,10 +3,10 @@
   description: "Distribution linux légère conçue pour l'éducation au numérique"
   url: http://lesbricodeurs.fr/projets/bricotux/
 
-- name: We colearn
+- name: Wecolearn
   avatar: wecolearn.jpg
   description: "Le mouvement du colearning a une app"
-  url: http://wecolearn.meteor.com/
+  url: http://wecolearn.com/
 
 
 - name: Bricoschool
@@ -17,7 +17,7 @@
 - name: Huby
   avatar: huby.jpg
   description: "Le concierge numérique des tiers lieux et espaces de coworking"
-  url: 
+  url:
 
 - name: Tag@T
   avatar: fauteuil.jpg

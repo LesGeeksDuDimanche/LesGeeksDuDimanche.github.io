@@ -1,5 +1,6 @@
 ---
 layout: page
+sitemap: false
 excerpt: Design & Tech tank
 modified: 2015-06-08 23:44:38.564000000 Z
 image:
