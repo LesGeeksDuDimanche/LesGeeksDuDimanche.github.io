@@ -2,6 +2,7 @@
 title: Blog Note
 layout: page
 excerpt: Historique de nos (d)ébats
+sitemap: false
 search_omit: true
 ---
 

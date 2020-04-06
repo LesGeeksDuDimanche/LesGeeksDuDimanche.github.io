@@ -3,6 +3,7 @@ title: Les écoles du numérique
 layout: embed
 excerpt: Comment s'y retrouver parmis tout ces choix !
 modified: 2017-06-08 23:44:38.564000000 Z
+sitemap: false
 image:
   feature: 
   nologo: true
