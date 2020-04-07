@@ -1,22 +1,16 @@
-# Site navigation links
+# Sample site navigation bar links
 
-- title: Présentation
-  url:
-
-- title: Articles
-  url: /articles/
-
-- title: Ateliers d'Ada
-  url: http://ateliersdada.lesbricodeurs.fr
-
-- title: La préécole du numérique
-  url: /preecoledunumerique/
-
-- title: Profils
-  url: /trombines/
-
-- title: Ressources
-  url: /projets/
-
-- title: Rejoindre
-  url: /nousrejoindre/
+- title: Home
+  url: /
+# - title: Posts
+#   url: /posts/
+# - title: Categories
+#   url: /categories/
+# - title: Tags
+#   url: /tags/
+# - title: Recipes
+#   url: /recipes/
+# - title: Search
+#   url: /search/
+# - title: External Page
+#   url: https://the-page.com/you-want-to-link-to.html
