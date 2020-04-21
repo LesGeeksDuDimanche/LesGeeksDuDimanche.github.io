@@ -20,7 +20,7 @@ _[:gb: English version]({{ site.url }}/english/){: .pull-right}_
 |---	|--- |---	|
 |[Nuit du Code Citoyen](https://nuitcodecitoyen.org) hackathon international et accélération de projets numériques citoyens 	| | [Ateliers d'Ada]({{site.url}}/AteliersdAda/) Découverte créative de la programmation et de la robotique pour jeunes |
 | [Réseau professionnel](https://join.slack.com/t/bricodeurs/shared_invite/enQtMjk4MDg1NTIxMDI4LWU1MjRhMjlmYmYyYmM3MGRhNjg3YjIzMGRiMzk0YjE4OTYyYzUxZWFkMDE1MTZiZTRiOTBhYTA4YTQ5YTA2NTY) et accompagnement des parcours 	| | [Formations collaboratives]({{site.url}}/preecoledunumerique/) de préparation aux métiers du numérique |
-|[Analyse and plaidoyer]({{ site.url }}/articles/) sur les questions technologie et société (protection des données, open source ...) 	| |  [Meetups](https://pro.meetup.com/fr-FR/pro/les-bricodeurs/) et événements grand public	|
+|[Analyse and plaidoyer]({{ site.url }}/articles/) sur les questions technologie et société (protection des données, open source ...) 	| |  [Meetups](https://www.meetup.com/fr-FR/Design-et-technologie-pour-projets-citoyens/) et événements grand public	|
 
 <video playsinline autoplay muted loop poster="images/Computer-Cat.jpg" width="600" id="welcome-video" style="margin: 1rem auto; width=600px ; text-align: center; display: block;">
   <source src="images/lesbricodeursintro.mp4" type="video/mp4">
