@@ -1,4 +1,26 @@
 # Apprendre à coder ensemble Resources
+- date: 2020
+  resources:
+  - title: 'Du design à la page web'
+    label: 'Du design à la page web'
+    href: 'https://www.youtube.com/watch?v=mdSJ6_4NCYc'
+    date: '16/04/20'
+  - title: 'Analyser un texte en Python'
+    label: 'Analyser un texte en Python'
+    href: 'https://youtu.be/vezT-4f7gyo'
+    date: '09/04/20'
+  - title: 'Animer une page en javascript'
+    label: 'Animer une page en javascript'
+    href: 'https://www.youtube.com/watch?v=O1eJH2N30UE'
+    date: '02/04/20'
+  - title: 'Un premier jeu en Python'
+    label: 'Un premier jeu en Python'
+    href: 'https://youtu.be/-oeEa8yKVSk?t=229'
+    date: '26/03/20'
+  - title: 'Comprendre le Web et créer sa page en HTML.'
+    label: 'Comprendre le Web et créer sa page en HTML.'
+    href: 'https://www.youtube.com/watch?v=b3m6CFbikcA'
+    date: '19/03/20'
 - date: 2019
   resources:
     - title: "Améliorer son UI sans Designer"
