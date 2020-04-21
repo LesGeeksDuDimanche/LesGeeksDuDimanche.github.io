@@ -3,7 +3,7 @@
 title: Les Bricodeurs
 locale: fr_FR
 description: "Collectif du numérique citoyen"
-logo: lesbricodeurs2.png
+logo: lesbricodeurs.png
 small-logo: lesbricodeurs-200px.png
 url: //localhost:4000/
 
@@ -35,8 +35,8 @@ comments: true
 # Site owner
 owner:
   name: Les Bricodeurs
-  avatar: lesbricodeurs2.png
-  email: xavier+lavayssiere+LesGeeksDuDimanche@gmail.com
+  avatar: lesbricodeurs.png
+  email: salut@lesbricodeurs.fr
   disqus-shortname: LesBricodeurs
   twitter: Lesbricodeurs
   facebook: lesbricodeurs
