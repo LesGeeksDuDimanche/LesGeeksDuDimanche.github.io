@@ -22,9 +22,10 @@ En premier lieu, nous préparons une série d'articles pour vous guider parmi le
 
 Tous les [jeudi soirs à 18h](https://www.facebook.com/events/2876113685783817/), un atelier en ligne pour découvrir une technologie:
 1. Comprendre le Web et créer sa page en HTML. [lien video](https://www.youtube.com/watch?v=b3m6CFbikcA)
-2. Un premier jeu en Python [lien livestream](https://youtu.be/-oeEa8yKVSk?t=229)
-3. Animer une page en javascript  [lien livestream](https://www.youtube.com/watch?v=O1eJH2N30UE)
-4. Python et le Web (API, scraping...)
+2. Un premier jeu en Python [lien vidéo](https://youtu.be/-oeEa8yKVSk?t=229)
+3. Animer une page en javascript  [lien vidéo](https://www.youtube.com/watch?v=O1eJH2N30UE)
+4. Analyser un texte en Python [lien vidéo](https://youtu.be/vezT-4f7gyo)
+5. Du design à la page web [lien livestream](https://www.youtube.com/watch?v=vQ4xx6eMoMg&feature=youtu.be)
 
 Enfin [rejoignez](https://www.helloasso.com/associations/les-bricodeurs/adhesions/adhesions-bricodeurs-2016) notre [messagerie interne](https://join.slack.com/t/bricodeurs/shared_invite/zt-3sxsf81w-Rvwn~LcyLi1ekAln6qCl1Q) pour être tenu informé, partager des questions ou vos connaissances.
 
