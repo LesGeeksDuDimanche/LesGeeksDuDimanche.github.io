@@ -60,7 +60,7 @@ Il peut etre nessaire d'installer sitemap
 	
 	sudo gem install jekyll-sitemap --pre
 	
-### Pour modifier du js
+### Pour modifier du Javascript
 
 
 	npm install -g grunt-cli
