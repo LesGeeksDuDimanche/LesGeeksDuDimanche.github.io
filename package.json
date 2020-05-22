@@ -5,6 +5,8 @@
   "main": "Gruntfile.js",
   "dependencies": {
     "js-yaml": ">=3.13.1",
+    "kind-of": "^6.0.3",
+    "minimist": "^1.2.5",
     "set-value": "^3.0.1"
   },
   "devDependencies": {
