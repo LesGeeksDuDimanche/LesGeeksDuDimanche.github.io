@@ -1,4 +1,19 @@
-
+---
+title: Du design à la page web
+date: 2020-05-30 09:30:00 Z
+categories:
+- articles
+tags:
+- programmation
+- coderenligne
+- web
+- frontend
+layout: post
+excerpt: On intègre une maquette en HTML et CSS
+comments: true
+share: true
+author: sylvains
+---
 
 # Du design à la page web
 
