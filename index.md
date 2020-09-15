@@ -14,20 +14,6 @@ Particulièrement attentifs à l'ouverture et la diversité de genre, culturelle
 
 <!-- _[:gb: English version]({{ site.url }}/english/){: .pull-right}_ -->
 
----
-
-<div style="display: flex; justify-content: space-between; align-content: center;">
-    <h4 style="color: #1b1b99; max-width: 200px; margin: 0;display: flex;align-items: center;">Spécial confinement</h4>
-    <div style="max-width: 600px">   
-        <p style="margin: 0;">Pendant le confinement, retrouvez-nous en ligne sur notre <a title="chaine" href="https://www.youtube.com/channel/UCgqLeeNkfTsrkjkp2ZzQUWg">chaine</a> tous les jeudis à 18h !</p>
-        <br>
-        <br>
-        <a class="btn-complement" style="margin: 0" href="{{site.url}}/apprendre-a-coder-en-ligne">Apprendre à coder en ligne</a>
-    </div>
-</div>
-
----
-
 <br>
 
 <video playsinline autoplay muted loop poster="images/Computer-Cat.jpg" width="600" id="welcome-video" style="margin: 1rem auto; width:100%; max-width: 800px; text-align: center; display: block;">
@@ -60,11 +46,37 @@ N'hésitez pas à nous [rejoindre]({{ site.url }}/nousrejoindre/) et à nous con
 
 #### Les partenaires 
 
-L'essentiel de nos actions est porté par l'énergie de ses adhérents, on vous aime.
+L'essentiel de nos actions est porté par l'énergie de nos adhérents, on vous aime.
 
-Nous remercions la Fondation de France, la fondation Blaise Pascal et la Métropole de Lyon pour leur soutien. Ainsi que tous ceux qui nous sollicitent pour organiser des ateliers pour les jeunes, des conférences et des hackathons.
+Nous remercions la Fondation AFNIC, la DDCS et la FDVA pour leur soutien. Ainsi que tous ceux qui nous sollicitent pour organiser des ateliers pour les jeunes, des conférences et des hackathons.
+
+<style>
+
+    .Partenaires {
+        display: flex;  
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+    .Partenaires-logo {
+        max-height: 107px; 
+        margin: 10px;
+    }
+
+</style>   
+
+<div class="Partenaires">
+    <img class="Partenaires-logo" src="images/partenaires/afnic.png" alt="fondation afnic">
+    <img class="Partenaires-logo" src="images/partenaires/ddcs.jpg" alt="ddcs">
+    <img class="Partenaires-logo" src="images/partenaires/service-civique.jpeg" alt="logo service civique">
+    <img class="Partenaires-logo" src="images/partenaires/mmi.jpg" alt="mmi">
+    <img class="Partenaires-logo" src="images/partenaires/fdva.png" alt="fdva">
+</div> 
 
 Les Bricodeurs sont de fiers cofondateurs de la Mednum, coopérative des acteurs de la médiation numérique.
 
+<div style="display: flex; justify-content: center">
+    <img src="images/partenaires/mednum.png" alt="mednum">
+</div> 
 
 
