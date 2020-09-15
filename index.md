@@ -48,7 +48,7 @@ N'hésitez pas à nous [rejoindre]({{ site.url }}/nousrejoindre/) et à nous con
 
 L'essentiel de nos actions est porté par l'énergie de nos adhérents, on vous aime.
 
-Nous remercions la Fondation AFNIC, la DDCS et la FDVA pour leur soutien. Ainsi que tous ceux qui nous sollicitent pour organiser des ateliers pour les jeunes, des conférences et des hackathons.
+Nous remercions la Fondation AFNIC et la FDVA pour leur soutien. Ainsi que tous ceux qui nous sollicitent pour organiser des ateliers pour les jeunes, des conférences et des hackathons.
 
 <style>
 
@@ -62,15 +62,20 @@ Nous remercions la Fondation AFNIC, la DDCS et la FDVA pour leur soutien. Ainsi 
         max-height: 107px; 
         margin: 10px;
     }
+    
+    .Partenaires-logo-small {
+        max-height: 80px; 
+    }
 
 </style>   
 
 <div class="Partenaires">
     <img class="Partenaires-logo" src="images/partenaires/afnic.png" alt="fondation afnic">
-    <img class="Partenaires-logo" src="images/partenaires/ddcs.jpg" alt="ddcs">
-    <img class="Partenaires-logo" src="images/partenaires/service-civique.jpeg" alt="logo service civique">
-    <img class="Partenaires-logo" src="images/partenaires/mmi.jpg" alt="mmi">
     <img class="Partenaires-logo" src="images/partenaires/fdva.png" alt="fdva">
+    <img class="Partenaires-logo Partenaires-logo-small" src="images/partenaires/grandlyon.png" alt="grand lyon">
+    <img class="Partenaires-logo Partenaires-logo-small" src="images/partenaires/service-civique.jpeg" alt="logo service civique">
+    <img class="Partenaires-logo Partenaires-logo-small" src="images/partenaires/mmi.jpg" alt="mmi">
+    <img class="Partenaires-logo Partenaires-logo-small" src="images/partenaires/missions-locales-rhône.png" alt="missions locales">
 </div> 
 
 Les Bricodeurs sont de fiers cofondateurs de la Mednum, coopérative des acteurs de la médiation numérique.
