@@ -14,7 +14,7 @@ share: true
 author: xavier
 ---
 
-Le 6 janvier 2020, une foule a envahi le siège du parlement américain, le capitole, tandis que se déroulait la certification de l’élection de Joe Biden. Vu comme l’instigateur du mouvement, notamment par son action sur les réseaux sociaux, plusieurs entreprises dont Facebook et Twitter ont décidé de suspendre le compte de Donald Trump suite à des publications appelant au calme tout en soutenant la légitimité du mouvement. 
+Le 6 janvier 2020, une foule a envahi le siège du parlement américain, le Capitole, tandis que se déroulait la certification de l’élection de Joe Biden. Vu comme l'instigateur du mouvement, notamment par son action sur les réseaux sociaux, plusieurs entreprises dont Facebook et Twitter ont décidé de suspendre le compte de Donald Trump suite à des publications appelant au calme tout en soutenant la légitimité du mouvement. 
 
 Cette décision a suscité l'émoi en France, tant elle semble poser des questions de libertés numériques fondamentales. Cette décision individuelle propre au contexte américain invite à travailler sur le problème de fond de la modération algorithmique et éditoriale des réseaux sociaux. 
 
@@ -22,7 +22,7 @@ Cette décision a suscité l'émoi en France, tant elle semble poser des questio
 
 Tous les jours, ces plateformes par leurs algorithmes choisissent les contenus mis en avant. Le critère principal est connu depuis longtemps : l’engagement. Si un contenu suscite une émotion, en particulier la colère, il favorise l’engagement sur la plateforme et donc le temps passé, la collecte d’information et l'affichage de publicités ciblées.
 
-Ces algorithmes ont un rôle actif[^1] et ils ont contribué ces dernières années à diviser l’opinion. Par exemple 64% de ceux qui ont rejoint groupes extrémistes l’on fait sur la base de recommandations de Facebook[^2]. Cette division de l’information a probablement contribué au Brexit et l'élection de Donald Trump, mais surtout à de véritables massacres comme dans le cas des Rohingyas en Birmanie[^3].
+Ces algorithmes ont un rôle actif[^1] et ils ont contribué ces dernières années à diviser l’opinion. Par exemple 64% de ceux qui ont rejoint des groupes extrémistes l'ont fait sur la base de recommandations de Facebook[^2]. Cette division de l'information a probablement contribué au Brexit et à l'élection de Donald Trump, mais surtout à de véritables massacres comme dans le cas des Rohingyas en Birmanie[^3].
 
 Quant aux suspensions de contenu ou de compte, elles peuvent avoir des conséquences sur la liberté d’expression et les entreprises. Amazon, Facebook, Twitter, Instagram sont des plateformes essentielles pour beaucoup d’individus, d’organisations et d’entreprises. Leurs suspensions, souvent sans préavis ni recours effectifs, ont des conséquences[^4]. 
 
@@ -30,15 +30,15 @@ Quant aux suspensions de contenu ou de compte, elles peuvent avoir des conséque
 
 Les plateformes sont protégées des conséquences de leur modération en droit civil par la section 230[^5] issue du Communications Decency Act de 1996. Concrètement, vous ne pouvez pas demander des dommages et intérêts pour les effets de leur modération. Cela leur permet à chaque plateforme de trouver le cadre approprié à son public et usage.  
 
-Facebook et Twitter ont adopté plutôt une approche légère, devenant ainsi effectivement des places publiques à idées. La section 230 retient une limite, les crimes fédéraux. Ainsi par exemple la pornographie infantile et le terrorisme. Ces plateformes ont travaillé par exemple à affaiblir la propagande d’ISIS[^6]. 
+Facebook et Twitter ont adopté plutôt une approche légère, devenant ainsi effectivement des places publiques à idées. La section 230 retient une limite, les crimes fédéraux, comme par exemple la pornographie infantile et le terrorisme. Ces plateformes ont travaillé par exemple à affaiblir la propagande d’ISIS[^6]. 
 
 Dans le cas de Donald Trump, la protection de son usage de la liberté d'expression est renforcée parce qu’il s’agit un homme politique élu. La Cour Européenne des Droits de l’Homme a une approche similaire : « _Précieuse pour chacun, la liberté d'expression l'est tout particulièrement pour un élu du peuple; il représente ses électeurs, signale leurs préoccupations et défend leurs intérêts_ »[^7]. 
 
 # Le cas particulier du 6 janvier
 
-L’élection du président des États-Unis est un processus fédéral encadré par le droit. Chaque État définit ses lois électorales et choisit ses grands électeurs qui votent ensuite pour un président et un vice-président. Le choix des grands électeurs est plus ou moins contraint par le vote de l’État dont il est issu en fonction de la loi de l’État[^8]. Le 6 janvier, le congrès était réuni pour compter les voix des grands électeurs. Plusieurs républicains avaient averti qu’il contesterait la légitimité du vote issu de plusieurs États, donnant lieu à des votes dans les deux chambres. Cette démarche, si elle est prévue, était jusqu'à présent utilisée de façon exceptionnelle[^9]. 
+L’élection du président des États-Unis est un processus fédéral encadré par le droit. Chaque État définit ses lois électorales et choisit ses grands électeurs qui votent ensuite pour un président et un vice-président. Le choix des grands électeurs est plus ou moins contraint par le vote de l’État dont il est issu en fonction de la loi de l'État[^8]. Le 6 janvier, le congrès était réuni pour compter les voix des grands électeurs. Plusieurs républicains avaient averti qu’ils contesteraient la légitimité du vote issu de plusieurs États, donnant lieu à des votes dans les deux chambres. Cette démarche, si elle est prévue, était jusqu'à présent utilisée de façon exceptionnelle[^9]. 
 
-Dans les mois qui ont précédé et suivi l’élection, Donald trump a organisé une campagne, notamment à travers Twitter de délégitimation du vote tout en essayant les voies de contestation légales[^10]. À midi, devant une foule rassemblée, il a annoncé « _nous allons au Capitole [..] donner aux républicains la fierté et  le courage dont ils ont besoin pour reprendre notre pays_[^11]». La foule a alors entouré le capitole, puis pénétré dans le bâtiment alors que les parlementaires et les bulletins de votes des grands électeurs étaient physiquement présents. Il y a eu des morts mais les choses auraient pu encore plus mal tourner.
+Dans les mois qui ont précédé et suivi l’élection, Donald trump a organisé une campagne, notamment à travers Twitter de délégitimation du vote tout en essayant les voies de contestation légales[^10]. À midi, devant une foule rassemblée, il a annoncé « _nous allons au Capitole [..] donner aux républicains la fierté et  le courage dont ils ont besoin pour reprendre notre pays_[^11]». La foule a alors entouré le Capitole, puis pénétré dans le bâtiment alors que les parlementaires et les bulletins de votes des grands électeurs étaient physiquement présents. Il y a eu des morts mais les choses auraient pu encore plus mal tourner.
 
 ![bulletins]({{ site.url }}/images/bulletins.jpg)
 
