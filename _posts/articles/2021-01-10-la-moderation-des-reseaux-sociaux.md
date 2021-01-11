@@ -1,6 +1,6 @@
 ---
 title: Trump et la modération des réseaux sociaux
-date: 2020-05-30 09:30:00 Z
+date: 2021-01-1 09:30:00 Z
 categories:
 - articles
 tags:
@@ -11,6 +11,8 @@ layout: post
 excerpt: Censure quotidienne et sursaut protecteur
 comments: true
 share: true
+image:
+  feature: reseaux-sociaux.jpg
 author: xavier
 ---
 
