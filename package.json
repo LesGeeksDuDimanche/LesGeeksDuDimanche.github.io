@@ -6,7 +6,7 @@
   "dependencies": {
     "js-yaml": ">=3.13.1",
     "kind-of": "^6.0.3",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "set-value": "^4.0.1"
   },
   "devDependencies": {
