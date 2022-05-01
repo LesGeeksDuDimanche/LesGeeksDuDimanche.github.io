@@ -1,6 +1,7 @@
 ---
 title: Comment installer npm proprement
 date: 2017-09-05 11:57:12 Z
+last_modified_at: 2022-05-07 13:16:49 Z
 categories:
 - articles
 tags:
@@ -22,34 +23,43 @@ author: xavier
 # Mais qu'est que npm? 
 
 Npm est le gestionnaire de paquets de Node.js. Node.js est un serveur, basé sur le moteur V8 de chrome qui permet d'interpréter du code javascript coté serveur. Grace à npm vous pouvez installer des paquets et leurs dépendances. 
-Aujourd'hui node et npm sont aussi utilisés par les développeurs webs comme suite d'outils de développement. En effet, beaucoup de dévelopeurs web développent des outils en javascript et les publient sur [npmjs](https://www.npmjs.com/)
+
+Aujourd'hui node et npm sont aussi utilisés par les développeurs webs comme suite d'outils de développement. En effet, beaucoup de dévelopeurs web développent des outils en javascript et les publient sur [npmjs](https://www.npmjs.com/).
 
 # Installation
 
-Pour installer node et npm, il suffit de taper une des commande suivante. 
+Pour installer node et npm, il suffit de taper une des commandes suivantes. 
 
-Pour les systèmes Linux Debian et Ubuntu 
-`curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -`
+### Pour les systèmes Linux 
+Pour Debian et Ubuntu
+```sh
+curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
+sudo apt install -y nodejs
+```
+À noter, "18" est la version stable (LTS) actuelle.
 
-`sudo apt install -y nodejs`
+Pour les autres, consulter [cette page](https://nodejs.org/en/download/package-manager/)
 
-Pour les systèmes Linux à base de RPM
-`curl -sL https://rpm.nodesource.com/setup_10.x | bash -`
+### Sous macOS
+ Si vous utilisez homebrew, un gestionaire de paquets:
+```sh 
+brew install node
+```
+Sinon, dans tous les cas :
+```sh
+curl "https://nodejs.org/dist/latest/node-${VERSION:-$(wget -qO- https://nodejs.org/dist/latest/ | sed -nE 's|.*>node-(.*)\.pkg</a>.*|\1|p')}.pkg" > "$HOME/Downloads/node-latest.pkg" && sudo installer -store -pkg "$HOME/Downloads/node-latest.pkg" -target "/"
+```
 
-Sous macOS
-`curl "https://nodejs.org/dist/latest/node-${VERSION:-$(wget -qO- https://nodejs.org/dist/latest/ | sed -nE 's|.*>node-(.*)\.pkg</a>.*|\1|p')}.pkg" > "$HOME/Downloads/node-latest.pkg" && sudo installer -store -pkg "$HOME/Downloads/node-latest.pkg" -target "/"`
+### Sous Windows
+Depuis Windows 10, vous pouvez utiliser le [sous-système Windows pour Linux (WSL)](https://docs.microsoft.com/fr-FR/windows/wsl/install-win10) qui vous permet d'utiliser l'ensemble des commandes Linux (Ubuntu par défaut).
 
-Ou si vous utilisez homebrew sur macOS
-`brew install node`
+Sinon, et dans tous les autres cas, vous pouvez simplement télécharger le [fichier d'installation](https://nodejs.org/en/download/)
 
-Si vous êtes sous Windows, vous pouvez utiliser le "[sous-système Windows pour Linux](https://docs.microsoft.com/fr-FR/windows/wsl/install-win10)" qui vous permet d'utiliser l'ensemble des commandes Linux. 
-
-Sinon, et dans tous les autres cas, vous pouvez simplement télécharger le fichier d'installation [ici](https://nodejs.org/en/download/)
 
 Comme on nous l'a signalé [sur twitter](https://twitter.com/le_mulot/status/905102883431088128), vous pouvez aussi utiliser nvm. Nvm est un gestionnaire de version de node.js. Vous trouverez plus d'informations par [ici](https://github.com/creationix/nvm/blob/master/README.md)
 
 ## Installer le global localement
-Quand vous installez des paquets via npm, si vous ne précisez rien, ils seront installés dans le dossier actuel, généralement du projet en cours. Certains paquets, notamment les outils doivent s'installer globalement avec l'option **-g**. Pour éviter que ceux-ci s'installent dans un dossier système et exigent l'accès root, vous pouvez:
+Quand vous installez des paquets via npm, si vous ne précisez rien, ils seront installés dans le dossier actuel, généralement du projet en cours. Certains paquets, notamment les outils doivent s'installer globalement avec l'option **-g**. Pour éviter que ceux-ci s'installent dans un dossier système et exigent l'accès administrateur (_"root"_ en anglais), vous pouvez:
 
 * créer un dossier dédié 
 `mkdir ~/.npm-global`
@@ -60,34 +70,45 @@ Quand vous installez des paquets via npm, si vous ne précisez rien, ils seront 
 * Mettre à jour les variables 
 `source ~/.profile`
 
-## Utilisation
+# Utilisation
 
-#### Installer un paquet
+### Installer un paquet
 Globalement vous avez trois façon d'installer un paquet via npm : 
 
 * **npm install -g XYZ** Vous permet d'installer une nouvelle commande. Meteor, yarn, yeoman par exemple.
 * **npm install XYZ** Vous permet d'ajouter un paquet au projet en cours. Il est automatiquement ajouté au fichier package.json dans le dossier en cours
 * **npm install --save-dev XYZ** Vous permet d'ajouter un paquet au projet en cours qui servira uniquement pendant le developpement du projet
 
-#### Lancer un projet
+### Lancer un projet
 Quand vous récupérez un projet, généralement vous devrez lancer les commandes suivantes:
 
-* **npm install** Installe toutes les dépendances du fichier package.json
+* **npm install** Installe toutes les dépendances indiquées dans le fichier package.json
 
-Les commandes suivantes sont définies dans le package.json, le nom peut varier:
+Les commandes suivantes sont souvent définies dans package.json, le nom peut varier:
 * **npm start** Généralement le script complet pour compiler et lancer le projet
 * **npm run dev** Pour lancer le projet en version développement
 * **npm run build** Pour lancer la construction du site.
 
 ## Quelques paquets sympas
 
-* yarn est un gestionnaire de paquet un peu plus efficace qu'npm
-* gulp est un outil pour assembler une page 
-* yo (yeoman) est un outil pour préparer le dossier pour un nouveau projet
-
-`npm install -g yarn yo`
-`npm i -D gulp gulp-util gulp-plumber gulp-WHATEVER`
-
+**tldr** est un utilitaire pour avoir des informations sur les usages le plus courant d'un programme en ligne de commande. Vous pouvez essayer avec :
+```sh
+npm install -g tldr
+tldr npm 
+```
 _Note : npm i -D == npm install --save-dev_
 
+**yarn** et **pnpm** sont des gestionnaires de paquets node.js alternatifs, plus efficaces sur certains aspects.
+
+**speed-test** est un outil en ligne de commande pour tester votre connection internet.
+
+**yo (yeoman)** est un outil pour préparer le dossier pour un nouveau projet.
+
+## Raccourcis
+- npm i == npm install 
+- npm i -D  == npm install --save-dev
+
 Voilà. Si vous avez des questions, écrivez-nous ! [@LesBricodeurs](https://twitter.com/lesbricodeurs)
+
+
+_Article initialement publié en septembre 2017 et mis à jour en mai 2022_
