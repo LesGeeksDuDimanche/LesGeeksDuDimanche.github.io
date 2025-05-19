@@ -1,6 +1,6 @@
 ---
 title: Vers un euro numérique ouvert?
-date: 2022-07-03 09:30:00 Z
+date: 2023-07-03 09:30:00 Z
 categories:
 - articles
 tags:
