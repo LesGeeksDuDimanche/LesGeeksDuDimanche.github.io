@@ -23,20 +23,20 @@ module.exports = function(grunt) {
         }
       }
     },
-    imagemin: {
-      dist: {
-        options: {
-          optimizationLevel: 7,
-          progressive: true
-        },
-        files: [{
-          expand: true,
-          cwd: 'images/',
-          src: '{,*/}*.{png,jpg,jpeg}',
-          dest: 'images/'
-        }]
-      }
-    },
+    // imagemin: {
+      // dist: {
+        // options: {
+          // optimizationLevel: 7,
+          // progressive: true
+        // },
+        // files: [{
+          // expand: true,
+          // cwd: 'images/',
+          // src: '{,*/}*.{png,jpg,jpeg}',
+          // dest: 'images/'
+        // }]
+      // }
+    // },
     svgmin: {
       dist: {
         files: [{
