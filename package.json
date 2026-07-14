@@ -6,7 +6,7 @@
   "dependencies": {
     "cacheable-request": "*.*",
     "http-cache-semantics": "*.*",
-    "js-yaml": "*.*",
+    "js-yaml": "^5.2.1",
     "kind-of": "*.*",
     "minimist": "*.*",
     "set-value": "*.*"
